@@ -1,14 +1,28 @@
 Job description 1 : 
 
-Strong knowledge on Linux and Windows platforms
-Manage a number of java application servers, which can include Tomcat, Jboss and other application servers
-Perform the installation and high performance configuration of: Apache, Tomcat and Java based system
-PostgreSQL, MySQL database servers
-Strong knowledge on DevOps tools Bamboo, Sonar, Jenkins, Ansible,
-Scripting Language Shell, Python, PHP
-Strong knowledge of Tomcat ,Apache, mod rewrite, mod_ssl and mod_jk
-Strong knowledge of scripting in shell.
-Strive for continuous improvement and build continuous integration, continuous development, and constant deployment pipeline (CI/CD Pipeline ).
-Incident management and root cause analysis
-Good understanding of Networking and Infrastructure.
-Understanding of Atlassian Tool set will be preferred
+- Strong knowledge on Linux and Windows platforms
+- Manage a number of java application servers, which can include Tomcat, Jboss and other application servers
+- Perform the installation and high performance configuration of: Apache, Tomcat and Java based system
+- PostgreSQL, MySQL database servers
+- Strong knowledge on DevOps tools Bamboo, Sonar, Jenkins, Ansible,
+- Scripting Language Shell, Python, PHP
+- Strong knowledge of Tomcat ,Apache, mod rewrite, mod_ssl and mod_jk
+- Strong knowledge of scripting in shell.
+- Strive for continuous improvement and build continuous integration, continuous development, and constant deployment pipeline (CI/CD Pipeline).
+- Incident management and root cause analysis
+- Good understanding of Networking and Infrastructure.
+- Understanding of Atlassian Tool set will be preferred
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 2 : 
+
+ - DevOps Engineer will be responsible for build and deployment automation, simplifying self-service and creating transparency around resource utilization.
+ - Responsible for analyzing all build and deployment/infrastructure-related issues across Engineering / Production environments and providing swift resolution.
+ - Automating processes using Google APIs with the help of scripting languages (python and shell).
+ - Implement CI/CD pipelines for development, staging, and production environments.
+ - Creating and optimizing jobs in Jenkins for code builds and pipelines.
+ - Work as a technical liaison with development teams to address build issues and improvements.
+ - Working on ways to automate and improve development and release processes.
+ - Help developers in merging code and troubleshooting issues around Bitbucket and GIT.
+ - Have on call responsibilities in rotation with the engineering team.
