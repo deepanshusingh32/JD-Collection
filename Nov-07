@@ -1,7 +1,7 @@
 
 Excel Sheet for DevOps : https://docs.google.com/spreadsheets/d/15IDNsyCqCXS4mwQlOAlxTU-OV9pdXvb6ehe6t4Hvuc8/edit#gid=0
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 1 : 
 
 - Strong knowledge on Linux and Windows platforms
@@ -17,7 +17,7 @@ Job description 1 :
 - Good understanding of Networking and Infrastructure.
 - Understanding of Atlassian Tool set will be preferred
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 2 : 
 
@@ -31,7 +31,7 @@ Job Description 2 :
  - Help developers in merging code and troubleshooting issues around Bitbucket and GIT.
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 3 :
 
@@ -44,7 +44,7 @@ Job Description 3 :
 - Excellent problem-solving skills and the ability to troubleshoot complex technical issues.
 - Strong communication skills and the ability to work effectively in cross-functional teams.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 4 : 
 
@@ -60,7 +60,7 @@ Job Description 4 :
 - Know how to scale yourself through scripting & automation and ultimately through mentoring & team leadership 
 - Knowledge of spring boot web services, Java is also a plus
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 5 :
 
@@ -84,7 +84,7 @@ Experience : 5 to 8 years of total working experience across below mention skill
 - Good knowledge about cloud platforms mainly AWS like EC2, VPC, Route53, load balancer etc.
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 6 :
 
@@ -107,7 +107,7 @@ Requirements:
 - Strong debugging/troubleshooting skills.
 - Deep working knowledge of Linux servers and networking.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 7 :
 
@@ -121,4 +121,104 @@ Job Description 7 :
 - Awareness of critical concepts in DevOps and Agile principles, especially Lean-Agile framework
 - Familiarity with JIRA or similar tools
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 8 :
+ 
+- AWS: 2 years experience with using a broad range of AWS technologies (e.g. EC2, RDS, ELB, EBD, EKS, ELK, Lambda, S3, VPC, IAM, CloudWatch, KMS) to develop and maintain an Amazon
+- AWS based cloud solution, with an emphasis on best practice cloud security.
+- Solid experience as a DevOps Engineer in a 24x7 uptime Amazon AWS environment, including automation experience with configuration management tools.
+- Hands on experience with Continuous Delivery and related toolsets.
+- Scripting Skills: Strong scripting (e.g. Python) and automation skills.
+- Operating Systems: Windows and Linux system administration.
+- Monitoring Tools: Experience with system monitoring tools (e.g. Nagios).
+- Version Control: Experience administrating version control systems such as SVN.
+- Experience in contributing/releasing open source product/frameworks
+- Experience using DevOps suite of tools such as Jira, Jenkins, and GIT/Stash.
+- Experience in Docker/containerization and Kubernetes
+- Networking: Understanding network topologies and common network protocols and services (DNS, HTTP(S), SSH, FTP, SMTP)
+- Problem Solving: Ability to analyze and resolve complex infrastructure resource and application deployment issues.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 10 :
+
+- Designing, implementing, and maintaining the overall DevOps infrastructure and tooling, ensuring scalability, reliability, and performance.
+- Collaborating with cross-functional teams to understand project requirements, provide technical expertise, and implement efficient CI/CD pipelines.
+- Developing and maintaining automated deployment processes, utilising tools such as Jenkins, Ansible, Docker, and Kubernetes.
+- Managing and optimising cloud-based infrastructure on AWS, ensuring cost-effectiveness and scalability.
+- Overseeing the deployment and management of both monolithic and microservices-based applications.
+- Implementing monitoring and alerting solutions using Grafana, Prometheus, and other relevant tools to ensure high availability and performance of systems.
+- Handling log management and analysis to identify and resolve issues quickly.
+- Leading root cause analysis (RCA) efforts for production incidents and implementing preventive measures.
+- Continuously improving the DevOps processes, identifying bottlenecks, and implementing best practices.
+- Mentoring and providing guidance to junior members of the DevOps team.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 11 :
+
+- Cloud Infrastructure Management: Design, deploy, and manage cloud infrastructure on Azure, AWS, and Google Cloud, ensuring optimal performance and cost-efficiency.
+- Continuous Integration/Continuous Deployment (CI/CD): Implement and maintain CI/CD pipelines to automate software delivery, testing, and deployment processes.
+- Configuration Management: Use configuration management tools (e.g., Ansible, Puppet, or Chef) to ensure consistency and manage server configurations.
+- Containerization: Implement containerization and orchestration technologies like Docker and Kubernetes for application deployment and scaling.
+- Infrastructure as Code (IaC): Develop and maintain infrastructure as code using tools like Terraform or CloudFormation.
+- Monitoring and Logging: Set up monitoring and logging solutions (e.g., Prometheus, ELK stack) to proactively identify and address issues.
+- Security: Implement security best practices to protect infrastructure and data, including network security and access control.
+- Collaboration: Collaborate with development and operations teams to streamline the software development lifecycle and resolve technical issues.
+- Documentation: Maintain clear and up-to-date documentation of infrastructure and deployment processes.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 12 :
+
+- Experience in automating large scale developments with deployment management systems: Puppet, Chef, CFEngine, Capistrano or a similar system
+- Experience carrying out monitoring and performance metrics analysis using one of the following tools: Hyperic, Prometheus, Nagios, Cacti, Munin, Ganglia or a similar program
+- AWS/EC2 experience
+- Must have Linux experience (preferably Ubuntu, Red Hat or CentOS)
+- Apache Tomcat and HTTP Server experience
+- Good understanding of Java deployment
+- Administration and support of public data center solutions provided by AWS
+- Administration and support of Container Orchestration Tools like Docker/ Kubernetes/ Openshift
+- Developing using infrastructure automation solutions using tools like : Ansible/ Puppet/ Chef/ Terraform
+- Administration and support of managing queue solutions: Kafka/Pulsar
+- Administration and support of Gitlab/ Github/ SVN/ Subversion/ Bitbucket
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 13 : 
+
+- Infrastructure Automation: Create and maintain infrastructure as code (IAC) using Terraform
+- Continuous Integration/Continuous Deployment (CI/CD):
+- Develop and maintain CI/CD pipelines using Jenkins
+- Automate application deployments, testing, and rollback procedures.
+- Disaster Recovery and High Availability:
+- Design and implement disaster recovery plans and high availability architectures to minimize downtime and data loss.
+- Collaboration and Documentation: Collaborate with development and operations teams to address infrastructure-related issues and support application deployments.
+- Maintain comprehensive documentation of infrastructure configurations, processes, and best practices.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 14 : 
+
+Experience : 1 - 3 years.
+
+- Working knowledge of Kubernetes, EKS OR ECS.
+- Experience with Lambda, GraphQL, Bitbucket, Docker, CI/CD.
+- Significant technical, automation, and programming experience throughout the full lifecycle enterprise SDLC.
+- A comprehensive understanding of enterprise software development tools and methodologies, including typical enterprise application architectures and the ability to write scripted or compiled application and automation code.
+- Hands-on experience with AWS services ( EC2, VPC, RDS, Route53 and others).
+- Worked with next-gen infrastructure & application monitoring, Service discovery tools (Grafana, Prometheus, Zabbix, New Relic, Consul etc.)
+- Inquisitive nature & Self-starter who can implement with minimal guidance.
+- Experience with DevOps techniques and philosophies.
+- Experience with deploying and maintaining high traffic infrastructure (performance testing is a plus).
+- Extensive hands-on experience with MySQL databases.
+- Familiarity with modern Big Data stack (Spark or Hadoop, Kafka or RabbitMQ, ZooKeeper, Redis, Memcache, Lucene, MongoDB).
+- Expert with scripting languages (high five on python and/or shell).
+- Experience with configuration management at scale of over 100 servers.(Ansible/Puppet/Chef etc.) & Infrastructure as Code (Terraform).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 15 : 
+
+
