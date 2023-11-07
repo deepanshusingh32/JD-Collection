@@ -1,7 +1,7 @@
 
 Excel Sheet for DevOps : https://docs.google.com/spreadsheets/d/15IDNsyCqCXS4mwQlOAlxTU-OV9pdXvb6ehe6t4Hvuc8/edit#gid=0
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 1 : 
 
 - Strong knowledge on Linux and Windows platforms
@@ -17,7 +17,7 @@ Job description 1 :
 - Good understanding of Networking and Infrastructure.
 - Understanding of Atlassian Tool set will be preferred
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 2 : 
 
@@ -29,3 +29,18 @@ Job Description 2 :
  - Work as a technical liaison with development teams to address build issues and improvements.
  - Working on ways to automate and improve development and release processes.
  - Help developers in merging code and troubleshooting issues around Bitbucket and GIT.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 3 :
+
+- Infrastructure Automation: Develop and maintain infrastructure-as-code (IaC) using tools like Terraform or Cloud Formation to automate the provisioning and management of cloud resources. Ensure scalability, reliability, and security of the infrastructure.
+- Deployment and Release Management: Coordinate and execute software releases, ensuring minimal downtime and smooth rollbacks if necessary. Contribute to the establishment of best practices for deployment and release management.
+- Monitoring and Incident Response: Set up and maintain monitoring and alerting systems (e.g., Prometheus, Grafana, Splunk) to ensure high availability and performance of applications. Participate in on-call rotations and assist in incident response and resolution.
+- Security and Compliance: Implement and enforce security best practices throughout the development and deployment lifecycle. 
+- Scripting and Automation: Utilize your expertise in Python programming to develop scripts and automation tools to improve efficiency and streamline processes.
+- Performance Optimization: Identify bottlenecks and performance issues within the infrastructure and applications. 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
