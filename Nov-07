@@ -35,12 +35,31 @@ Job Description 2 :
 
 Job Description 3 :
 
-- Infrastructure Automation: Develop and maintain infrastructure-as-code (IaC) using tools like Terraform or Cloud Formation to automate the provisioning and management of cloud resources. Ensure scalability, reliability, and security of the infrastructure.
-- Deployment and Release Management: Coordinate and execute software releases, ensuring minimal downtime and smooth rollbacks if necessary. Contribute to the establishment of best practices for deployment and release management.
-- Monitoring and Incident Response: Set up and maintain monitoring and alerting systems (e.g., Prometheus, Grafana, Splunk) to ensure high availability and performance of applications. Participate in on-call rotations and assist in incident response and resolution.
-- Security and Compliance: Implement and enforce security best practices throughout the development and deployment lifecycle. 
-- Scripting and Automation: Utilize your expertise in Python programming to develop scripts and automation tools to improve efficiency and streamline processes.
-- Performance Optimization: Identify bottlenecks and performance issues within the infrastructure and applications. 
+- 2-3 years of professional experience in DevOps practices, including CI/CD pipeline development and infrastructure automation.
+- Proficiency in Python programming for scripting and automation tasks.
+- Hands-on experience with cloud platforms such as AWS, Azure, or GCP.
+- Familiarity with containerization and orchestration tools like Docker and Kubernetes.
+- Strong understanding of version control systems (e.g., Git) and collaborative development workflows.
+- Knowledge of monitoring and logging tools for application and infrastructure monitoring.
+- Excellent problem-solving skills and the ability to troubleshoot complex technical issues.
+- Strong communication skills and the ability to work effectively in cross-functional teams.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 4 : 
+
+- 7+ of years’ experience with at least 2 years of operations engineering experience as a lead. 
+- Have experience dealing with competing priorities and setting right expectations with stakeholders 
+- AWS expert with a solid command of abstractions / services such as IAM, VPCs, Route53, and Terraform (CloudFormation) 
+- Have experience with EKS and understand how to leverage it securely 
+- Comfortable working as part of a hands-on team to collaborate on designs, implementation, tuning and support of our systems 
+- Has strong experience as a professional technologist working with a distributed team 
+- Passionately measure system performance and scalability 
+- Are not dogmatic in your technology choices, but have the passion and knowledge to engage in debates about various tooling and technologies 
+- Are interested in building a reliable, fault-tolerant, multi-tenant platform and delivering it to a global user base 
+- Know how to scale yourself through scripting & automation and ultimately through mentoring & team leadership 
+- Knowledge of spring boot web services, Java is also a plus
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
