@@ -1,4 +1,31 @@
 
 Excel Sheet for DevOps : https://docs.google.com/spreadsheets/d/15IDNsyCqCXS4mwQlOAlxTU-OV9pdXvb6ehe6t4Hvuc8/edit#gid=0
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 15 : 
+
+- Container orchestration services, especially Kubernetes.
+- Administering and deploying development CI/CD tools such as GitHub, GitLab, ArgoCD or Jenkins.
+- Other automation/configuration tools (e.g. Ansible, Terraform or similar)
+- Several years of professional experience in the administration of Linux system environments and have a sound knowledge of common Linux distributions (such as RedHat, CentOS, Debian and Ubuntu)
+- Infrastructure scripting solutions such as Go or Python
+- Build independent web-based tools, microservices and open source solutions
+- Knowledge in container technology (Docker/Podman)
+- Knowledge in monitoring solutions (ELK, Grafana, Prometheus or equivalent)
+- Knowledge of Linux web services and application servers (Apache, Nginx, Tomcat, JBoss etc.)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 16 :
+
+- AWS (EC2, EBS, ECS, RDS/Aurora, S3, EFS, SNS, SQS, Elastic ache redis, Opensearch, IAM)
+- Basic Knowledge of cloud infrastructure: AWS, GCP or Azure
+- Basic Knowledge of Linux administration.
+- General knowledge of OS, infrastructure, and TCP/IP networking concepts
+- Familiarity with source control (Git) and SDLC practices.
+- Basic experience working with relational databases or NoSQL.
+- Basic experience using scripting languages: Groovy, Python, etc.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
