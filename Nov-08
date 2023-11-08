@@ -37,19 +37,42 @@ Experience : 5+ years
 - Maintain and Monitor testing environments.
 - Required Technical and Professional Expertise
 - Hands on JAVA and python and Knowledge of Cloud Native CI/CD frameworks
-Knowledge of Git, JIRA
-Agile Methodologies
-Kubernetes knowledge
-Knowledge on Ansible
-CI/CD Tools: Git, GitHub, Travis CI, Jenkins, Artifactory
-Preferred Technical and Professional Expertise
-Maximo Asset Management Manage
-Maximo Application Suite
-Open Shift, and Docker
-Java and Python
-Experience in project/release management
-knowledge on IBM Cloud pak systems/tools.
-
+- Knowledge of Git, JIRA
+- Agile Methodologies, Knowledge on Ansible & Kubernetes.
+- CI/CD Tools: Git, GitHub, Travis CI, Jenkins, Artifactory
+- Maximo Asset Management Manage
+- Maximo Application Suite
+- Open Shift, and Docker
+- Java and Python
+- Experience in project/release management
+- Knowledge on IBM Cloud pak systems/tools.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Job description 19 :
+
+- Proven experience as a DevOps Engineer or in a similar role.
+- Strong expertise in Docker and container orchestration platforms such as Kubernetes or OpenShift.
+- Experience with infrastructure-as-code tools like Terraform or CloudFormation in-depth knowledge of cloud platforms, particularly AWS and GCP.
+- Familiarity with scripting languages for automation and tooling.
+- Understanding of networking, security, and system administration concepts.
+- Experience with monitoring and logging tools like Prometheus, Grafana, ELK stack, or similar.
+- Knowledge of database technologies such as MySQL, PostgreSQL, or MongoDB.
+- Excellent problem-solving abilities and the ability to work collaboratively in a team environment.
+- Effective communication and documentation skills.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 20 :
+
+Experience : 5+ years
+
+- DevOps Culture - You will be a shepherd of our DevOps culture, collaborating closely with our development team leads. 
+- Infrastructure - You will own, maintain, and improve our cloud infrastructure to keep it humming, always looking for optimizations that make our business better.
+- Platform Development - You will contribute to and help shape EventMobi’s architecture and backend API-driven systems utilizing python and clean architecture patterns.
+- Security - Event Planners trust us with critical data and you will help us to continue to earn that trust by securing our infrastructure.
+- Continuous Delivery - Frequent and reliable deploys are critical to our success. Collaborating with our development teams, you’ll keep the flow of new code moving along our continuous delivery pipeline.
+- Extensive experience with DevOps & Cloud (AWS, Terraform, CI/CD, Docker, Linux, Networking, Alerting & Monitoring)
+- Experience with Python and RESTful APIs, RDBMS, ORMs, Caching, Queues
+- Knowledge of Clean Architecture, SOLID Principles, Domain Modelling, and Design Patterns is a benefit
+- Experience with Information Security best practices is a benefit
