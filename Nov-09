@@ -1,5 +1,47 @@
+
 Excel Sheet for DevOps : https://docs.google.com/spreadsheets/d/15IDNsyCqCXS4mwQlOAlxTU-OV9pdXvb6ehe6t4Hvuc8/edit#gid=0
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 44 : 
+
+- Mandatory Skills set - Kubernetes, Docker, Argo CD, helm charts, Jenkins, Bitbucket
+- Should have implemented CICD pipeline setup from the scratch and provide DevOps solutions in the on-premises Kubernetes.
+- Should have expertise on DevOps tools mainly in Jenkins, Git, Bitbucket, Gradle, JFrog and Harbor.
+- Should have experience in writing and deploying helm charts in Kubernetes.
+- Must have worked on containerization apps using Docker, Kubernetes.
+- Should be able to build, deploy and maintain highly available systems on Kubernetes.
+- Should have knowledge or worked on ArgoCD.
+- Experience with monitoring tools like Prometheus, Grafana etc.
+- Should have worked on Docker Registry, Harbor Registry.
+- Should have YAML Understanding.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 45 : 
+
+- Strong background and experience with DevOps tools, practices, and principles. 
+- Experience in the implementation, management, and maintenance of pipelines in Azure DevOps. 
+- Experience in the implementation, management, and maintenance of security and authorization, for pipelines in Azure DevOps for IT compliance. 
+- Knowledge of legacy application patterns deployed on premise on VMs. 
+- Knowledge of .NET application patterns deployed on Azure Cloud. 
+- Experience working as an individual contributor. 
+- Ability to track and report on multiple priorities in a fast changing environment.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 46 : 
+
+Experience: 6-8 years.
+
+- Salesforce DevOps Engineer responsible for implementing scalable solutions including continuous delivery, optimization, monitoring, release management and support the end to end release process.
+- Have min 3+ years experience in Salesforce implementation - Sales Cloud/Service Cloud/Experience Cloud.
+- Have min 2+ years hands-on experience in setting up CI/CD pipelines using any of the DevOps tools - Jenkins/AutoRabit/Azure DevOps.
+- Have hands-on experience in setting up source control (GitHub) and release management.
+- knowledge of 2nd generation managed packages and unlocked packages is a plus.
+- Experience with Salesforce platform sandbox and scratch org deployments working in an agile methodology environment
+- Experience working with overlapping product release cycles.
+- Able to create/maintain release and procedure documents
+- A good team player, ability to learn quickly, excellent written and spoken communication.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
