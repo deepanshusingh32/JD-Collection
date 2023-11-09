@@ -122,10 +122,69 @@ Experience : 5+ years
 - CI/CD tools: Jenkins, GitHub Actions, Helm, Prometheus, Terraform
 - Service Discovery: Consul, Zookeeper, Eureka
 - Experience with building infrastructure in GCP, AWS or other public cloud providers
-- Knowledge of IaaC tools: preferably terraform
+- Knowledge of IaC tools: preferably terraform
 - Knowledge of scripting languages used for automating processes: Python, Bash or similar
 - Experience with CI/CD systems: Jenkins, GitHub Actions or similar
 - Willingness to learn new technologies
 - Good communication skills, ability to work in a team and to share knowledge
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 52 :
+
+Experience : 1+ years
+
+- Review and understand applications architecture, product management and product delivery frameworks
+- Implement and scale AWS environments with IaC and terraform.
+- Review and understand product specific architecture, design, and technology stack, define and setup development, test, release, update, and support processes for DevOps operations
+- Implement best practices across environments and CI process.
+- Configure DevOps tools and monitoring for automation and observability monitoring.
+- Site Reliability Engineering, implement processes for analysis and troubleshooting, monitor environments focusing on performance and availability.
+- Strive for continuous improvement and build continuous integration, continuous development, and constant deployment pipeline
+- Incident, Problem and Change management and root cause analysis
+- Coordination and communication within the team and with product stakeholders
+- Monitoring and measuring user experience and product KPIs
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 53 :
+
+- Implemented major managed services in AWS or Azure or GCP
+- Implemented Python application containerization
+- Implemented Javscript application containerization
+- Implemented CI/CD pipelines at scale
+- Implemented container orchestration
+- Deploy docker containers orchestrated through AWS EKS or Azure AKS or Google GKE
+- Deploy web application on any cloud platform managed service
+- Deploy microservices on any cloud platform managed service
+- Deploy node apps and/or django apps on docker containers
+- Deploy AWS managed databases - relational and no sql
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 54 :
+
+- Key member of the DevOps team that is responsible for deploying and maintaining CI/CD pipelines and tools (e.g., GitHub, Jenkins, Artifactory, Docker) and producing build environments.
+- Experience in administrating Linux and Windows operating system.
+- Experience writing scripts using Python, Bash, PowerShell, and/or Groovy
+- Experience in Github actions a plus.
+- Experience developing and maintaining Cloud CI/CD tools and environments in a large enterprise (e.g. Git, Jenkins, Build automation tools, Bazel, Conan, Docker, Terraform, GitHub Actions)
+- Experience in of merging and branching code using version control tools (git preferred)
+- Experience with embedded OS (QNX, Linux) Excellent communication skills both vertically and horizontally within the organization related to all aspects of technical leadership written and verbal
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 55 :
+
+- Extensive experience with building and supporting Docker and Kubernetes in production
+- Extensive experience with building and supporting AWS ECR, ECS and EKS in production
+- Deep Understanding AWS and be able to jump right into our environment
+- Deep Understanding VPC and Private Network on AWS Lambda, Api Gateway used in conjunction with S3 and CloudTrail
+- CloudFormation (Infrastructure as code)
+- CloudWatch and CloudTrail
+- Version Control (Git)
+- AWS Code build and Code pipeline
+- CICD (Jenkins or similar)
+- Docker Compose or other orchestration tools
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
