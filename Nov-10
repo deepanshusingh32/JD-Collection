@@ -20,3 +20,61 @@ Job description 56 :
 - Ability to ensure smooth software deployment by writing script updates and running diagnostic
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 57 :
+
+- AWS (EC2, EBS, ECS, RDS/Aurora, S3, EFS, SNS, SQS, Elastic ache redis, Opensearch, IAM)
+- Basic Knowledge of cloud infrastructure: AWS, GCP or Azure
+- Basic Knowledge of Linux administration.
+- General knowledge of OS, infrastructure, and TCP/IP networking concepts
+- Familiarity with source control (Git) and SDLC practices.
+- Basic experience working with relational databases or NoSQL .
+- Basic experience using scripting languages: Groovy, Python, etc.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 58 :
+
+- AWS: 2 years experience with using a broad range of AWS technologies (e.g. EC2, RDS, ELB, EBD, EKS, ELK, Lambda, S3, VPC, IAM, CloudWatch, KMS) to develop and maintain an Amazon
+- AWS based cloud solution, with an emphasis on best practice cloud security.
+- Solid experience as a DevOps Engineer in a 24x7 uptime Amazon AWS environment, including automation experience with configuration management tools.
+- Hands on experience with Continuous Delivery and related toolsets.
+- Scripting Skills: Strong scripting (e.g. Python) and automation skills.
+- Operating Systems: Windows and Linux system administration.
+- Monitoring Tools: Experience with system monitoring tools (e.g. Nagios).
+- Version Control: Experience administrating version control systems such as SVN.
+- Exposure to enterprise architecture
+- Experience in contributing/releasing open source product/frameworks
+- Exposure to open source tooling
+- Experience using DevOps suite of tools such as Jira, Jenkins, and GIT/Stash
+- Experience in Docker/containerization and Kubernetes
+- Networking: Understanding network topologies and common network protocols and services (DNS, HTTP(S), SSH, FTP, SMTP)
+- Problem Solving: Ability to analyze and resolve complex infrastructure resource and application deployment issues.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 59 : 
+
+- Collaborate with cross-functional teams (Development, QA, Operations) to understand project requirements and implement effective DevOps solutions.
+- Design, build, and maintain CI/CD pipelines to automate software delivery, testing, and deployment processes.
+- Implement and manage containerization technologies such as Docker and orchestration platforms like Kubernetes to streamline deployment and scalability.
+- Configure and maintain cloud-based infrastructure (e.g., AWS, Azure, Google Cloud) to support development and production environments.
+- Monitor system performance, identify bottlenecks, and optimize system performance to ensure high availability and reliability.
+- Manage configuration management tools like terraform to automate infrastructure provisioning and configuration.
+- Implement security measures and best practices to protect data and systems from potential threats and vulnerabilities.
+- Collaborate with the development team to facilitate the adoption of DevOps best practices, including version control, code reviews, and testing.
+- Troubleshoot issues in the development, testing, and production environments and ensure timely resolution.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 60 :
+
+Experience: 8+ years.
+
+- Experience with CI/CD Pipelines using Tekton/IBM Toolchain based pipelines
+- Experience with Configuration management (Puppet, Chef, Ansible (preferred), other)
+- Experience with Infrastructure as code (Terraform, Cloud formation, other)
+- Experience working in Cloud environments (IBM Cloud, AWS, Azure)
+- Basic Knowledge of Java.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
