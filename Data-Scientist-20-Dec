@@ -556,54 +556,258 @@ Job Description 41 :
 
 Job Description 42 :
 
-
+- 1-2 years of experience in the data science space – preferably with the end to end automated ecosystem including, but not limited to, building data pipelines, developing & deploying scalable models, orchestration, scheduling, automation, ML operations.
+- Ability to translate business questions into analytics techniques (regression classification, NLP, etc.) and interpret outcomes of analytical models into meaningful business insights and actionable recommendations.
+- Expertise in data management, data modeling, data quality, dev ops, data migration & data structure integration.
+- Expertise in advanced AI/ML algorithms & their applications, NLP, deep learning frameworks, computer vision. Ability to build scalable models using Python, R-Studio, R Shiny, PySpark, Keras, Tensorflow
+- Relevant Mastery in Feature Engineering, Feature Selection and Model Validation on Big Data
+- Experience in delivering data science projects leveraging cloud infrastructure. Familiarity with cloud technology such as AWS / Azure and knowledge of AWS tools such as S3, EMR, EC2, Redshift, Glue; viz tools like Tableau and Power BI.
+- Build & train neural network architectures such as CNN, RNN, LSTMs, Transformers.
+- Applications and Digital Automation Solutions, Low Code /No Code and Automation Platforms, designing API's and exposure to DevOps, React/Angular, containers, building visualization layer.
+- Knowledge of self-service analytics platforms such as Dataiku/ KNIME/ Alteryx will be an added advantage. MS Excel knowledge is mandatory. Familiarity with Life Sciences is a plus
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 43 :
 
-
+- You should possess good programming and scripting skills using Python.
+- Strong Basics in Machine learning algorithms.
+- Hands-on experience in using NLP techniques in the data analysis process.
+- Knowledge of topic modelling, clustering, NLP embeddings, Keyword extractions.
+- Worked on deep learning - Sequence models, GRU, RNN, LSTM. Prefer to have knowledge of advanced NLP models like Bert, GPT.
+- Document Classification, Topic Modeling: Strong understanding of text pre-processing and normalization techniques such as: Tokenization, POS tagging and parsing and how they work at a low level.
+- Exposure to PyTorch and/or TensorFlow Deep learning tools and exporting models for inference.
+- Good to have knowledge of model deployment on aws/gcp/server.
+- Good to have knowledge of software development frameworks - Flask.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 44 :
 
-
+- Experience working in time series forecasting, predictive modeling, cluster analysis, machine learning, social network analysis, big data, and other analytical techniques over structured as well as unstructured datasets.
+- Ability to read, understand, and implement the latest research papers from top conferences like NIPS, CVPR, and ICML.
+- Strong programming skills in Python.
+- Ability to quickly prototype solutions and perform critical analysis.
+- Bonus points if you have prior experience with NLP and Big Data.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 45 :
 
-
+- Bachelors/Masters in the fields of Computer Science Engineering. Other related computing fields (e.g., Electronics, Statistics, Data Science, Environmental Engineering) may also be considered.
+- Strong analytical (numeric and logical) skills coupled with ability to make logical decisions.
+- Sound knowledge of information systems and ability to learn and use new software solutions.
+- Experience with quantitative tools such as Python, R, JAVA and SQL is required.
+- Other software such as SAS and ArcGIS/QGIS (nice to have, not required).
+- Experience with modern Web application development (nice to have, not required).
+- Hands on experience with implementing/executing various types of data mining and statistical techniques (Regression, cluster analysis, decision tree, machine learning models) is highly desirable.
+- Ability to communicate effectively with different multidisciplinary staff.
+- Interest in environment and health related research.
+- Strong verbal and written communication skills.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 46 :
 
+Experience : 5+ years.
 
+- A strong knowledge in advanced mathematics, statistics, data mining, SQL and machine learning.
+- Proficient in python and proven experience using popular ML packages (sklearn, PyTorch, TensorFlow etc) hands on into pyspark is added advantage.
+- Be enthusiastic about DS and stay up to date with Machine Learning algorithms and developments.
+- Familiarity with the Spark ecosystem , Distributed Computing, Spark DataFrames and SQL
+- PySpark for data manipulation tasks like filtering, transforming, and aggregating data
+- Proficient with the machine learning library in Spark (Spark MLlib). Candidate should know how to build, train, and evaluate machine learning models using PySpark.
+- Understanding on how to read and write data from/to HDFS/S3 through PySpark
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 47 :
 
-
+- Advanced degree (Master's or Ph.D.) in Computer Science, Statistics, Mathematics, or a related field.
+- Proven experience as a Data Scientist or in a similar role.
+- Proficiency in programming languages such as Python, R, or SQL.
+- Strong knowledge of machine learning techniques, data mining, and statistical analysis.
+- Experience with data visualization tools (e.g., Tableau, Power BI) is advantageous.
+- Excellent problem-solving and critical-thinking abilities.
+- Strong communication skills and ability to convey complex findings to non-technical stakeholders.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 48 :
 
-
+- Analyze customer's raw data and identify metrics and dimensions.
+- Design, code, and maintain parts of the product and drive customer adoption.
+- Work on statistical and machine learning model development, validation, and implementation
+- Work both independently and with team members to develop, refine, implement, and scale data management and analytics procedures and systems.
+- Perform extensive EDA (exploratory data analysis) with proficiency in data visualization and analysis.
+- Identify and tests hypotheses, ensure statistical significance, and build predictive models and data visualization to support business & product requirements.
+- Work on utilizing artificial intelligence and machine learning concepts to solve challenging business problems.
+- Work on using multiple data science methodologies to solve complex business problems.
+- Handle large data sets using SQL and databases in a business environment. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 49 :
 
-
+- Bachelors, Masters or PhD in Engineering, Computer Science, or related field. 
+- Strong programming skills, especially in Python, Scala or Java, or C/C++ with 3+ years of relevant experience in a programming intensive role. 
+- Technical knowledge of Statistics, and Machine Learning. 
+- Advanced expertise in SQL. 
+- Relevant work experience, including experience applying advanced analytics, and data mining techniques. 
+- Hands-on Experience in Big Data tools, i.e. Hadoop, Kafka, Spark, Presto, Airflow, Elastic Search, Docker and Kubernetes. 
+- Proficiency in creation of data pipelines and workflow management tools: Airflow, Docker and Kubernetes. etc. 
+- Experience with data presentation and visualization with tools such as Tableau, or other similar tools. 
+- Excellent communication and presentation skills. 
+- Experience working in an Agile framework is a plus. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 50 :
 
+- 2 to 4 years experience in handling BFSI analytics/implementing models/Big data/Cloud solution architect 
+- Good knowledge of SAS, SQL, Python, R. 
+- Understanding of Retail banking products. 
+- Analytical skill, logical thinking and problem-solving capabilities. 
+- Adaptability to work in project-based engagements across different kinds of banking clients. 
+- Should be a team player. 
+- Analytical skill, logical thinking and problem-solving capabilities. 
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 51 :
+
+Experience : 0+ years
+
+- Specialist in the use of SQL, Excel, Python/R.
+- Strong problem solving, quantitative & analytical abilities.
+- Excellent Analytical skills- ability to understand and interpret data within the context of business.
+- Proficiency in Spoken and Written English
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 52 :
+
+- Proficiency and experience working in the technical area of Intelligent Document Processing.
+- Digitization, OCR/ICR/OMR, Document Classification Methodologies, Intent classification, Context/sematic based classification, Data Extraction Methodologies.
+- Prior knowledge of Deep Learning, Machine Learning, NLP.
+- Quality enhancement of image, document through image processing. Object classification and recognition.
+- Experience in the text processing, intent classification, name entity recognition.
+- Experience in building AI models using libraries such as TensorFlow, Keras, PyTorch.
+- Experience with REST API development, Microservices based architecture, RDBMS design and Optimization.
+- Closely Work with Business Analyst, QA and should be able to prepare technical design document & implement automated deployment.
+- Understanding and Practice of AGILE Methodologies.
+- Proficiency and experience in working as part of the Software Development Lifecycle (SDLC) using Code Management & Release Tools (MS DevOps, Github, Team Foundation Server)
+- Required: Proficiency and experience working with Relational Databases and SQL Scripting (MS SQL Server)
+- Clear understanding of one of the OCR tools such as Abbyy/Kofax.
+- Experience/Proficiency in Python development language.
+- Experience in working as part of a development team but able to progress solo projects.
+- Experience in Cloud Infrastructure (Azure/AWS/GCP).
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 53 :
+
+- Strong problem solving and coding skills.
+- Solid knowledge of and experience with marketplace problems in ride hailing and delivery services.
+- Solid knowledge of AB testing, classic ML and DL
+- Solid understanding of recommendations, learning to rank, uplift modeling and matching problems.
+- Fluency in English along with excellent oral and written communication skills.
+- Proficiency and demonstrated experience in: Python, SQL, Spark, Hive.
+- Demonstrated experience with database technologies (eg Hadoop, BigQuery, Amazon EMR, Hive, Oracle, SAP, DB2, Teradata, MS SQL Server, MySQL).
+- Demonstrated experience with business intelligence and visualization tools (Tableau, MicroStrategy, ChartIO, Qlik) along with geospatial data processing skills is a plus.
+- Knowledge of Agile methodologies.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 54 :
+
+- Ability to write robust codes in Python and familiarity with standard machine learning libraries is a plus
+- Knowledge and experience in deep learning frameworks like Tensor Flow, Python
+- Familiarity in working with Azure, AWS, GCP or similar cloud platforms
+- Understanding of NoSQL databases, such as MongoDB, Cassandra
+- Understanding of containerizing applications using Docker
+- Knowledge of Data Extraction using Machine Learning, Deep Learning
+- Building Flask and deployment
+- Transformation and Loading Data Wrangling and Data Exploration
+- Machine Learning Algorithms
+- Advanced Machine Learning, Deep Learning, Big Data Processing Frameworks
+- Data Visualization
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 55 :
+
+Solid foundation in Computer Science, with a bachelor s or master s degree in computer science or a related field, understanding of data structures and algorithms.
+4+ years of hands-on experience as a data scientist working on end-to-end machine learning projects.
+Proficiency in Python and experience with relevant libraries and frameworks (Pandas, Numpy, Scikit-learn, Tensorflow etc.)
+Solid understanding of supervised and unsupervised machine learning techniques including regression, classification, clustering and anomaly detection.
+Strong communication skills to effectively collaborate with cross functional teams and present complex concepts to technical and non technical stakeholders
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 56 :
+
+- Predictive ordering - Prevent SKUs from going Out of Stock with ML based predictions.
+- Price Simulator - Optimize product range prices so that the client maximizes profits.
+- Promotion Analytics - From a myriad of promotions, figure out the performance of every promotion. Also create a promotions simulator where users can see in advance what kind of results to expect.
+- Hyper-personalization solution - Personalize the experience for customers with tailor made call scripts, customized schemes etc.
+- Asset Performance Assessment - Given client's budget to install coolers for some of the outlets, figure out the selection of outlets which will result in maximum ROI.
+- Customer Segmentation - Segmenting the retailers/POS so that a manufacturer can design proper incentives.
+- Sales/Demand Forecasting Help clients plan their production/inventory by forecasting future demand.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 57 :
+
+- Strong understanding of the core principles of statistical/machine learning
+- Experience working with clinical data
+- Experience with Natural Language Processing tools (e.g. Spacy)
+- Python expertise (4+ years' experience)
+- Proficient understanding of code versioning tools (i.e. git)
+- Familiarity with Jupyter notebooks or other data science tools
+- Strong data visualization skills (Tableau, matplotlib, etc.)
+- Experience with the FHIR standard for medical data
+- Postgres or SQL expertise
+- A hands-on, engaged approach to solving problems
+- Excellent communication skills and experience in collaborative environments
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 58 :
+
+- Strong expertise in programming languages such as Python and proficiency in relevant libraries and frameworks (e.g., TensorFlow, PyTorch, scikit-learn).
+- Proven experience in developing and implementing machine learning models for computer vision tasks, including object detection, image segmentation, and image classification.
+- Deep understanding of NLP techniques, such as natural language understanding, sentiment analysis, named entity recognition, and text classification.
+- Familiarity with generative AI models, such as generative adversarial networks (GANs) and variational autoencoders (VAEs).
+- Solid knowledge of deep learning architectures, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transformers.
+- Experience working with large-scale datasets and data preprocessing techniques.
+- Proficiency in data visualization and exploratory data analysis.
+- Strong analytical and problem-solving skills, with the ability to think critically and creatively to solve complex challenges.
+- Experience with at least one cloud platforms such as AWS, Azure, or Google Cloud, including knowledge of cloud-based machine learning services and infrastructure.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 59 :
+
+- Work with complex data structures that require you to transform and cleanse data using SQL and Python
+- Develop and deliver Machine Learning models predictive analysis
+- Work closely with engineering and QA to deploy models into production environments (using proper dev-ops techniques)
+- Develop test cases and hypothesis-validation frameworks (Feature Importance test, Cross Validation, A/B Tests, etc)
+- Perform statistical analysis like Hypothesis testing, Chi-square, ANOVA, z-test, t-test etc
+- Support existing data science owned projects
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 60 :
+
+- 2-4 years of experience in data science, building hands-on ML models
+- Experience leading the end-to-end design, development, and deployment of predictive modeling solutions.
+- Excellent programming skills in Python. Strong working knowledge of Python s numerical, data analysis, or AI frameworks such as NumPy, Pandas, Scikit-learn, Jupyter, etc.
+- Advanced SQL skills with SQL Server and Spark experience.
+- Knowledge of predictive/prescriptive analytics including Machine Learning algorithms (Supervised and Unsupervised) and deep learning algorithms and Artificial Neural Networks
+- Experience with Natural Language Processing (NLTK) and text analytics for information extraction, parsing and topic modeling.
+- Excellent verbal and written communication. Strong troubleshooting and problem-solving skills. Thrive in a fast-paced, innovative environment
+- Experience with data visualization tools PowerBI, Tableau, R Shiny, etc. preferred
+- Experience with cloud platforms such as Azure, AWS is preferred but not required.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
