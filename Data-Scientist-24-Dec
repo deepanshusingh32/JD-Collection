@@ -93,15 +93,15 @@ Job Description 66 :
 
 Job Description 67 : 
 
-Graduation degree in Data Science, Computer Science, Statistics, or related field.
-Minimum of 6 years of professional experience in data science, predictive modelling, and AI.
-Proficiency in programming languages such as Python or R, with hands-on experience in building and deploying AI models.
-Experience with Java, Tableau, Power BI, Tensor Flow, and Qlik for data analysis and visualization.
-Familiarity with big data analytics concepts and tools.
-Knowledge of AI techniques, including neural networks, deep learning, and natural language processing.
-Proficiency in using Atlassian Tools, including JIRA and Confluence, for project and task management.
-Excellent problem-solving skills and attention to detail.
-Ability to collaborate effectively within cross-functional teams.
+- Graduation degree in Data Science, Computer Science, Statistics, or related field.
+- Minimum of 6 years of professional experience in data science, predictive modelling, and AI.
+- Proficiency in programming languages such as Python or R, with hands-on experience in building and deploying AI models.
+- Experience with Java, Tableau, Power BI, Tensor Flow, and Qlik for data analysis and visualization.
+- Familiarity with big data analytics concepts and tools.
+- Knowledge of AI techniques, including neural networks, deep learning, and natural language processing.
+- Proficiency in using Atlassian Tools, including JIRA and Confluence, for project and task management.
+- Excellent problem-solving skills and attention to detail.
+- Ability to collaborate effectively within cross-functional teams.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -267,52 +267,218 @@ Job Description 77 :
 
 Job Description 78 : 
 
+- Bachelors with 5+years experience/Masters with 3+ years of experience/Ph. D in Comp Science/Statistics/Mathematics with 1+ years of experience
+- Forecasting, Classification, Data/Text Mining, NLP, Decision Trees, Adaptive Decision Algorithms, Random Forest, Search Algorithms, Neural Networks, Deep Learning Algorithms.
+- Predictive Prescriptive Analytics, Web Analytics, Parametric and Non-parametric models, Regression, Time Series, Dynamic/Causal Model, Statistical Learning, Guided Decisions, Topic Modeling
+- Experience with big data analytics - identifying trends, patterns, and outliers in large volumes of data.
+- Ability to write robust code in Python, PySpark and Kubernetes, Docker, Spark.
+- Familiarity with GCP, Real time data ingestion
+- Propose data science solutions, EDA, Model Prototyping, Visualization of the data, Interpretation of the data, results based on the requirement analysis.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 79 : 
+
+- Lead a team of genAI, LLM, Transformers, NLP, NER, and OCR developers, providing technical guidance and mentorship. Architected multiple end to end AI/NLP projects from scratch.
+- Collaborate with the architect to define technical strategies and ensure alignment with project goals.
+- Good to have knowledge of Data Engineering, DataOps, MLOps and AI/ML solutions development.
+- Should have experience in completing lift and shift of in-house application to cloud.
+- Experience of designing and implementing Cloud native solutions for large scale enterprise customers over AWS/Azure platform.
+- Technical experience: Cognitive solutioning, AI Architecture, Python, Pyspark, SQL and No SQL, Data Science, AI, ML, Generative AI (ChatGPT, GPT-4, BARD
+- Leadership skills: Must be able to manage small, high-performing data scientists and solution specialists, with good stakeholder management skills
+- Experience with gitHub, AWS, and CI/CD tools, MLOps culture and Agile and Scrum environments.
+- Good understanding of using Cloud native services for developing AI/ML and data driven solutions
+- Expertise in systems analysis and/or programming required with project management or leadership responsibilities.
+- Should be able to provision and automate cloud native DevOps, DataOps and MLOps pipelines enabling continuous release of cloud native AI/ML capabilities.
+- Should be able to provision GPU Clusters / ML Containers for setting up Foundation Models and perform fine-tuning and Model optimization.
+- Should be able to Build cloud service catalogues, cloud native blueprints, and automated data processing and ML workflows.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 80 : 
 
+- Bachelors with more than 7 years of relevant experience OR Masters with more than 5 years of relevant experience OR PhD with more than 3 years of relevant experience, with degree in Computer Science, Statistics, Mathematics, Econometrics, Machine Learning, or other relevant fields
+- Strong fundamentals in algorithms and data structures, coding, ML system and deployment architecture design
+- Experience in analyzing the complex problems and translate it into data science algorithms
+- Experience in end-to-end implementation / productionization / scaling of Machine Learning algorithms
+- Experience in machine learning, supervised and unsupervised: Forecasting, Classification, Data/Text Mining, NLP, Decision Trees, Adaptive Decision Algorithms, Random Forest, Search Algorithms, Neural Networks, Deep Learning Algorithms
+- Experience in statistical learning: Predictive & Prescriptive Analytics, Web Analytics, Parametric and Non-parametric models, Regression, Time Series, Dynamic/Causal Model, Statistical Learning, Guided Decisions, Topic Modeling
+- Experience with Optimization techniques: linear programming, integer programming, genetic algorithm, constrained optimization
+- Experience with big data analytics - identifying trends, patterns, and outliers in large volumes of data
+- Strong hands-on experience with Python
+- Strong hands-on experience with ML products like Databricks, Azure ML, Alteryx
+- Strong hands-on experience with big data platforms - Hadoop, HDFS, Hive, Pig, HQL, Scala, Spark, Scala
+- Experience with data visualization tools such as R-Shiny, Tableau, PowerBI
+- Experience with Teradata, SQL and relational databases, data warehouse
+- Familiar with at least one of the following scripting languages: Shell, Perl, Bash, or Ruby
+- Having had lead role mentoring multiple junior analysts on approach and results
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 81 : 
+
+- Perform cutting edge research in natural language processing (NLP) technologies.
+- Collaborate with analytics team members to design, implement, and develop enterprise-level NLP capabilities, including data engineering, technology platforms, and algorithms.Evaluate and benchmark the performance of different NLP systems and provide guidance on metrics and best practices.
+- Perform processing on unstructured data and do text analytics.
+- Apply NLP technologies to answer business questions, solve business challenges, and make real-world impact.
+- Experience in the Semantic search, Query expansion, Synonyms, Vocabulary and Graph DB.
+- Stay current with new technology trends in NLP and associated APIs, and System Integration.
+- Knowledge on Elastic Search/Index based search engines and data ingestion.
+- Graduate in Computer Science, Statistics, Computer Engineering, Electrical Engineering, Information Science, Information Engineering, or related field.
+- 5+ years of experience in NLP, Content Search and Text mining.
+- Deep understanding of NLP techniques and Search Engines.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 82 : 
 
+- Strong experience in object-oriented programming using Python, PySaprk
+- Experience developing, training, and evaluating (supervised/unsupervised) machine learning models such as : random forest, SVMs, Naive Bayes, gradient boosting, kNN, Deep learning algorithms like CNN, ANN and Reinforcement learning, Anomaly detection
+- Experience developing, training, and evaluating deep-learning models using deep learning frameworks such as TensorFlow/Keras or Pytorch
+- Experience with Azure - ADLS, ADF, GCP Compute Engine, CloudGPUs, Cloud Storage, OpenCV
+- Experience building models which have been deployed to production, edge deployment preferred
+- Experience in handling streaming IoT sensor data will be preffered
+- Strong ability to solve problems and to structure and simplify complex tasks
+- Willingness to continue personal development in to stay at the cutting edge of data science
+- Ability to build a sense of trust and rapport that creates a comfortable and effective workplace
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 83 : 
+
+- Demonstrated expertise with 8-12 years of hands-on experience in AI/ML, NLP, Python, and cloud platforms such as AWS/Azure/GCP, Docker, and Kubernetes.
+- Provide architectural vision for data science projects, ensuring alignment with overall business objectives.
+- Architect and design scalable solutions for various AI/ML solutions, tailored to specific requirements, spanning NLP, Computer/Machine Vision, Speech Recognition, Clustering, Segmentation, and Deep Learning.
+- Spearhead the conversation with technical and operation teams to facilitate the deployment and orchestration of models, ensuring seamless integration into production systems.
+- Provide architectural guidance to Ops teams to enhance the scalability and efficiency of deployed models.
+- Offer technical leadership and mentorship to the data science, machine learning, and backend engineering teams, emphasizing architectural best practices.
+- Foster a collaborative and innovative team culture, promoting continuous learning and development in architectural design and implementation.
+- Stay abreast of industry trends and emerging technologies in data science and architecture, bringing innovative ideas to enhance the organizations technical capabilities.
+- Effectively communicate complex technical concepts to both technical and non-technical stakeholders, ensuring a shared understanding of architectural decisions and implications.
+- Collaborate with key stakeholders, including business leaders and project managers, to align technical strategies with business goals.
+- Implement robust quality assurance processes to validate the accuracy and reliability of implemented models.
+- Collaborate with data quality teams to ensure high-quality, consistent, and reliable results.
+- Ensure thorough documentation of architectural designs, model implementations, and deployment processes, fostering transparency and knowledge sharing within the team.
+- Drive continuous improvement initiatives in data science architecture, incorporating feedback and lessons learned from model deployments to enhance future projects.
+- Establish and enforce best software engineering practices, accommodating common design patterns and Object-Oriented Programming (OOPs) principles, coding standards, documentation practices, and model version control within the team.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 84 : 
 
+- Bachelor's in Computer Science/ Engineering, Statistics, Math or related quantitative degree or equivalent work experience.
+- Experience with modelling techniques such as clustering, linear & logistic regression, random forest etc.
+- Must have a passion for data, structured or unstructured.
+- 2-6 years of hands-on experience with Python/R and SQL is must.
+- Should have sound experience in data mining and data analysis.
+- Excellent critical thinking, verbal and written communications skills.
+- Ability and desire to work in a proactive, highly engaging, high-pressure, client service environment
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 85 : 
+
+- 6 -10 years of hands-on experience in data science and AI/ML
+- Graduate with Engineering Degree (CS/Electronics/IT) / MCA / MCS + Masters in Statistics/Economics/Business Analytics
+- Ability to interpret complex business requirements and translating them into analytical problems to deliver high value outputs
+- Experience in Data science work bench in Cloud platforms
+- Hands-on experience in Python, NLP, Kafka, Spark/Pyspark, Scala, Airflow, Microservices, REST API. Elastic search, PostgreSQL, Power BI,
+- Strong knowledge on Python, NLP, Google, and Cloud libraries/packages
+- Experience in text, image, video analytics
+- Awareness of Data structures – RDBMS, NoSQL and columnar databases.
+- Experience with configuration management and version control apps (ie: GIT) and experience working within a CI/CD framework is a plus. An even bigger plus if you have experience in Agile, SCRUM and MLOps.
+- Experience with Cloud technologies and architecture is a plus
+- Experience in managing multiple projects and stakeholders with excellent communication and interpersonal skills
+- Ability to develop and organize high-quality documentation
+- Superior analytical skills and a strong sense of ownership in your work
+- Ability to thrive in a fast-paced environment, and to manage multiple, competing priorities simultaneously
+- Experience in Client expectation Management, Project Scoping, Delivery, Project Management, Risk management and Value Tracking
+- Prior Energy & Utilities industry experience is a big plus.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 86 : 
 
+- Experience: 3-5 years of demonstrated experience in Data Science, with a proven track record of delivering impactful data-driven solutions
+- Educational Background: Bachelor s degree in quantitative field: Statistics, Data Science, Applied Math, Computer Science, Physics or equivalent experience
+- Data-Centric Mindset: Be willing to explore the data and have it guide you to the best solution. Able to utilize a diverse range of advanced statistical and analytic techniques to inform development priorities and decision-making processes.
+- Languages and Compute Frameworks: Proficient in Python, SQL, and Spark. Comfortable working with big data.
+- ML Production Experience: Hands-on experience in delivering ML systems, utilizing cloud-managed tools like Snowflake, Databricks, Dataproc, EMR, and similar platforms.
+- ML Frameworks: Experience w/ PyTorch, XGBoost, SparkML, scikit-learn, etc.
+- NLP: Proficiency with libraries and frameworks such as NLTK, spaCy, Hugging Face Transformers, or others preferred
+- ML Theory: Demonstrated ability to understand how machine learning models work under the hood and adept at selecting and evaluating the most appropriate model for any given business problem
+- Communication: Excellent cross-functional and verbal communication skills, enabling seamless coordination across teams and effective communication with business partners and stakeholders. Ability to present complex technical concepts and results to both technical and non-technical audiences in a clear and understandable manner
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 87 : 
+
+- Knowledge in advanced data analytics/datascience
+- Have five years of relevant experience with datascience / optimization / statistical models
+- Bachelors degree in a quantitative discipline(e.g., Statistics, Operations Research, Bioinformatics, Economics,Computational Biology, Computer Science, Mathematics, Physics, ElectricalEngineering, Industrial Engineering) or related field
+- Understand the mathematics/optimization behindmachine learning algorithms
+- Skilled in applying algorithmic models and arewell acquainted with the properties and limits of a diverse set of establishedas well as state-of-the-art models, as well as validating the model resultsagainst the stated business objectives
+- Know-how on Extract, Transform and Load (ETL) ofBig Data in enterprise environments (e.g., SAP, Oracle), cloud infrastructure(e.g., AWS, Azure), as well as familiarity of data architecture requirementsand conceptual approaches for deploying algorithmic solutions in Big Dataproductive environments
+- Comfortable working in programming languageslike SQL, Python and R, as well as with frameworks like Tensorflow and Keras;experience developing solutions in distributed teams using Version Controltools like GIT
+- Experience with cloud technologies: AWSSagemaker, Lambda etc.
+- Stay abreast of new technologies in artificialintelligence and digitalization and seek creative ways of applying emerging andstate-of-the-art algorithmic approaches in real world business applications
+- Outstanding analytical and conceptual skills andan entrepreneurial mindset
+- Experience on collecting business requirementsand traduce it into solution designs
+- Very good communication and presentation skills
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 88 : 
 
+- 5+ years of relevant experience.
+- Programming language: Python, Pyspark, Scala.
+- Query language, Database and Distributed systems: SQL, MySQL, Hive and Hadoop.
+- Machine Learning: Time Series forecasting, Statistical Modelling, Exploratory data analysis, SHAP, NLP techniques, Similarity algorithms, Mining massive datasets, Active learning, FFT, data preprocessing algorithms.
+- Deep learning: RNN, LSTM, 1D CNN, Auto Encoders.
+- Experience in building MLOps.
+- Experience with deployment of ML project in GCP/AWS / Azure environment.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 89 : 
 
+- 10+ years of total experience in data analysis, data science development and 8 years in (AWS) Sagemaker /Python/UDF experience. Insurance analytics knowledge will be plus.
+- 5+ years experience in cloud data engineering experience, with couple of engagements in AWS
+- 5+ years strong experience in SQL, stored procedures, ELT in Snowflake Environement.
+- 1+ years of experience in Python development for Data engineering.
+- Experienced in data science / machine learning lifecycle processes, methods, tools.
+- Medium to strong statistical understanding, ability to understand and infer model reports, feature importance, validation reports and advise domain/business SMEs and help to make right decisions on the modelling
+- Hands on programming experience in R for Data analysis, Statistical inferencing and data science modelling in R.
+- Experience in Hyper parameter tuning, model validation & evaluation frameworks and tools in R , Hyper parameter tuning,
+- Knowledge of other tools for ML, MLOps, Data Prep and languages (Python) will be a plus
+- Strong scripting knowledge in R & SQL
+- Experience cloud/on-prem devops tools for orchestration, scheduling, logging, required for data engineering development.
+- Exposure/experience in Data tools in Snowflake & AWS Eco system and & DataOps tools on AWS
+- Understand the use cases, create specifications. Design the pipelines
+- Build and test ETL/ELT components in Snowflake native, Qlik Replicate / AWS Glue or similar services on AWS.
+- Exposure/experience in Data tools in Snowflake & AWS Eco system and & DataOps tools on AWS
+- Familiar with data engineering Familiar with data science / machine learning lifecycle processes is essential
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------v
 
 Job Description 90 : 
+
+- 1+ years of experience on Data science projects.
+- Exp querying databases and using statistical computer languages: R, Python, SLQ, etc for data analysis and experience in ML driven products.
+- Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis.
+- Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modelling, clustering, decision trees, neural networks.
+- Exp in Data science frameworks Jupyter notebook, AWS Sagemaker etc.
+- Exp in visualizing/presenting data for stakeholders using: AWS Quicksight, Tableau, Periscope, Business Objects, D3, ggplot.
+- Coding knowledge and experience with several languages: C, C, Java, JavaScript, NodeJS.
+- Data and automation technology such as Python.
+- 1+ years of experience in building production grade machine learning solutions end to end.
+- AI specific tools such as TensorFlow, Pytorch, CNTK, Caffee, etc)
+- Big Data (Databricks, Kubernetes, Azure data lake/data factory, etc).
+- Passion for new technologies, learning and adapting quickly, end user quality and customer satisfaction.
+- Excellent coding and debugging skills with deep understanding of ML algorithms and data science problems.
+- Comprehensive experience with predictive and prescriptive modelling / machine learning.
+- Understand stakeholder needs and educate partners on the formulation of research questions and methodologies.
+- Should be flexible to learn new technologies and contribute on fast passed POCs and MVPs.
+- Should have passion to explore and learn new technologies with minimal guidance.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
