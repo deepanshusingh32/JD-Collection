@@ -434,6 +434,285 @@ Job Description 29 :
 
 Job Description 30 :
 
+- You can priorities ML Data Science and Machine Learning product roadmaps for the respective businesses based on OKRs and priorities
+- You have experience leading a team of backend developers and/or ML engineers, coaching best practices and architecting solutions.
+- You have extensive development experience in Python/Java, including development of microservices using e. g. Flask, Django, etc.
+- You have experience in building data solutions, both batch processes and streaming applications.
+- You are familiar with event-driven designs, specifically you have worked with Kafka, Pulsar, , etc. before.
+- You have a high-level understanding with big-data technologies such as Spark, SparkML, Hadoop etc. Strong knowledge of Cloud (AWS or other)
+- You have worked with feature store, ML Observability and automated MLOps systems.
+- You're organised, pragmatic and capable of engaging, guiding and leading cross functional teams or managing large scale enterprise products.
+- You have technical knowledge and experience and have strong empathy for developer audience.
+- You're a self-starter who can work comfortably in a fast-moving company where priorities can change, and processes may need to be created from scratch with minimal guidance.
+- You have significant experience working with varied stakeholders.
+- You have good technical knowledge in SQL, strong in Python programming.
+- You have high development standards, especially for code quality, code reviews, unit testing, continuous integration and deployment.
+- You have a good understanding on how the performance optimization works in the end-to-end data pipeline including ML/DS inferencing.
+- You have excellent leadership skills – you have managed a team of data scientists before and coached them to become better versions of themselves.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 31 :
+
+- Master's degree in Electronics and Communication/Electrical and Electronics/Computer Science
+- 5-10 years of experience in developing and deploying Machine Learning models.
+- Develop SOTA for Deep Learning applications (computer vision), object detection/classification, scene understanding, visual odometry, stereo vision, multi-sensor fusion, etc.
+- Build ML pipelines for data pre-processing and feature engineering for large-scale image datasets.
+- Design and train LSTM, RNN, CNN, and Transformer-based network architectures using TensorFlow and PyTorch.
+- Deploy ML model on Linux-based embedded development environment.
+- Proficient in Python and C++.
+- Working knowledge of camera modules and video pre-processing.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 32 :
+
+- Bachelor's or masters degree in Computer Science, Data Science, Engineering, or a related field.
+- Strong programming skills in languages such as Python, SQL etc.
+- Experience in developing and deploying AI/ML and deep learning solutions with libraries and frameworks, such as TensorFlow, PyTorch, Scikit-learn, OpenCV and/or Keras.
+- Knowledge of math, probability, and statistics.
+- Familiarity with a variety of Machine Learning, NLP, and deep learning algorithms.
+- Must have experience in one of the SQL and No SQL database such as SQL Server/MySQL, and/or MongoDB etc.
+- Good experience in cloud infrastructure such as AWS, Azure or GCP
+- Gen AI, LLM (Large language Model).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 33 :
+
+- Experience with (data) version control (Git, DVC), orchestration/DAGs tools (Airflow, Kubeflow, or equivalent), and MLOps platform (MLFlow, ModelOp, Seldon or equivalent)
+- Experience with cloud service provider ML ecosystem such as AWS SageMaker & Azure ML
+- Experience working with orchestration tools such as Airflow, Prefect, Luigi, etc
+- Experience working with containerization (Docker) and container-orchestration systems such as Kubernetes
+- Experience in working with parallel distributed systems such as Apache Spark, Flink, etc
+- Experience in Object Oriented Programming (Java, Scala, Python), Unix scripting or related programming languages and exposure to some of Pythons ML ecosystem (numpy, panda, sklearn, tensorflow, huggingface, etc.)
+- Experience working with AWS and Azure AI ecosystem such as Textract, Comprehend, Kendra, Cognitive Services, etc
+- Experience working with NLP based algorithms such as BERT, ALBERT and deep learning algorithms such as CNN, RNN, RBM, AutoEncoders, etc
+- Strong experience in programming languages such as Python, Java
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 34 :
+
+- Machine Learning Algorithms: Understanding of machine learning algorithms, especially deep learning models like Transformers, is crucial. This can include various types of neural networks, optimization techniques, and loss functions.
+- Natural Language Processing (NLP): Knowledge of NLP techniques, text representation methods, and language models.
+- Programming Languages: Proficiency in languages commonly used in machine learning such as Python/Java/Node.
+- Library/Framework Proficiency: Familiarity with machine learning libraries like TensorFlow, PyTorch, or JAX.
+- High-Performance Computing: Understanding of parallel computing, GPU acceleration, and distributed systems for training large models.
+- Data Manipulation and Analysis: Skills in data preprocessing, transformation, and analysis are crucial, often involving libraries like Pandas, NumPy, or specialized tools for handling large datasets.
+- DevOps and Infrastructure: Knowing how to set up and maintain machine learning pipelines, from data collection to model training to inference, possibly using cloud platforms like AWS, GCP, or Azure.
+- Optimization: Understanding of both algorithmic and hardware optimization techniques to make training and inference more efficient.
+- Version Control: Proficiency with version control systems like Git to manage codebase changes
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 35 :
+
+- The Ideal candidate should have 5+ years of experience in applying AI to practical and comprehensive technology development solutions.
+- Must be an expert in the development of ML, deep learning, TensorFlow, Python, and NLP.
+- Need hands-on for 3+ years of experience with Python, Streamlit, and FastAPI.
+- Should have skills like program leadership, governance, and change enablement.
+- Must have hands-on experience in ChatGPT, and LLMs.
+- Required knowledge of basic algorithms, object-oriented and functional design principles, and best-practice patterns.
+- Must have hands-on experience using Flask, OOPs concepts, GIT, and basic Unix and Knowledge of reporting tools like Power BI.
+- Experience with cloud computing platforms (e.g., AWS, Azure, Google Cloud Platform) for model deployment.
+- Should be experienced with LLMs, Gen AI, Langchain, transformers.
+- Hands-on experience with vector databases (Milvus, FAISS, Pinecone, Vespa, etc.,).
+- Must have experience in REST API development, NoSQL database design, and RDBMS design and optimizations.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 36 :
+
+- Proven work experience of 2-4 years.
+- Proficient in Training Detection / Classification / Segmentation Models with TensorFlow/PyTorch
+- Good understanding of Dataset Quality for Computer Vision Applications.
+- Strong understanding of Model Training Dynamics. Should be able to find out the error and resolve it based on training/eval metrics.
+- Good Theoretical and Practical Knowledge of the fundamentals of Deep Learning, e.g. CNNs, Regularization Techniques, etc.
+- Familiarity with State-of-the-Art Models like YOLO-series, Efficient Net/EfficientDet etc.
+- Experience with using Docker containers for Computer Vision/Deep Learning.
+- Experience in working with Model Optimization techniques like pruning.
+- Experience in FP16/Mixed Precision and INT8 Optimized Training.
+- Experience with using Nvidia-Docker, Nvidia NGC, and Nvidia TLT containers for Computer Vision/Deep Learning
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 37 :
+
+- Strong programming skills in Python.
+- Hands-on experience on libraries such as OpenCV, Pandas, Numpy, Scipy, Matplotlib, and Scikit-learn, TensorRT, CUDA.
+- Hands-on experience on deep learning frameworks like Tensorflow/Keras, pytorch, etc.
+- Experience on data acquisition process, dataset collection, annotation.
+- knowledge of Machine learning algorithms and hands on experience in Computer vision/Natural Language Processing/Signal Processing.
+- Experience of implementing state-of-the-art deep learning model architectures.
+- Understanding of model training dynamics and hyper-parameter tuning. Should be able to find out the error and resolve it using various standard methods.
+- Experience with traditional as well as modern statistical techniques.
+- Experience of Cloud platforms such as AWS, GCP or Azure.
+- Knowledge of deploying ML/DL pipelines in Cloud platform.
+- Should have Knowledge of git, jira like tools.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 38 :
+
+- Hands-on experience with building automation using instructions from machine learning applications and Generative AI apps.
+- Hands-on experience with Data Visualization Tools like matplotlib
+- Hands-on experience in building automation systems (3 year minimum)
+- Statistics - Good applied statistical skills, including knowledge of statistical tests, distributions, and maximum likelihood estimators.
+- Machine Learning - good knowledge of machine learning methods like ensemble learning, transfer learning.
+- In-depth knowledge and understanding of 3-dimensional Geometry , CAD, AutoCAD, and other CAM software.
+- Experience in building software targeting CAD software API + Machine learning techniques and libraries
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 39 :
+
+- Bachelors or master s degree in Computer Science, or a related field
+- 3+ years of experience working as system architect, or applications architect
+- Minimum one year exposure to the AI and LLMs.
+- Experience in Technical architecture, network management, application development, middleware, database management solution development disciplines.
+- Good knowledge of strategic IT solutions and hands-on experience in services development.
+- Good knowledge in Java, Oracle, SQL, SAP, Salesforce, AWS, Unix, MySQL with cloud computing and SaaS platforms.
+- Good knowledge in Tomcat, JBOSS, Apache Web Server, good knowledge in communication protocols such as TCP/IP and others, proficiency in version control tools.
+- Proficient in Python with Machine Learning libraries such as TensorFlow and PyTorch.
+- Familiar with cloud-based platforms and services, such as AWS, GCP, or Azure.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 40 :
+
+- 2-6 years of experience as AI/ML Engineer.
+- Bachelors or Masters degree in Computer Science, AI, Electronics, or a related field.
+- Proven experience in AI/ML implementation, statistical analysis, and data modeling.
+- Proficiency in Python and experience with popular AI/ML libraries such as TensorFlow, Theano, PyTorch etc
+- Strong UI development skills to create user-friendly interfaces.
+- Understanding of higher level RDBMS concepts.
+- Strong understanding of distributed systems and microservice architecture.
+- Experience in designing and developing microservices.
+- Excellent problem-solving and analytical skills.
+- Strong communication and collaboration abilities.
+- Self-motivated and able to work effectively in a fast-paced environment.
+- Ability to adapt to emerging technologies and stay up-to-date with industry trends.
+- Proven experience using code repositories such as GitHub.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 41 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 42 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 43 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 44 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 45 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 46 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 47 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 48 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 49 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 50 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 51 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 52 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 53 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 54 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 55 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 56 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 57 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 58 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 59 :
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 60 :
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
