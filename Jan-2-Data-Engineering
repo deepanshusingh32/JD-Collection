@@ -1,0 +1,525 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Google Sheet : https://docs.google.com/spreadsheets/d/1CCVhpeMaioC6ZW2hTX973jDj6dRlziQ4wp4CCTq8y0I/edit#gid=0
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 1 :
+
+- Develop & maintain data pipelines for batch & stream processing using informatica power centre or cloud ETL/ELT tools.
+- Liaise with business team and technical leads, gather requirements, identify data sources, identify data quality issues, design target data structures, develop pipelines and data processing routines, perform unit testing and support UAT.
+- Work with data scientist and business analytics team to assist in data ingestion and data-related technical issues.
+- Expertise in Data warehousing/ information Management/ Data Integration/Business Intelligence using ETL tool Informatica PowerCenter
+- Knowledge of Cloud, Power BI, Data migration on cloud skills.
+- Experience in Unix shell scripting and python
+- Experience with relational SQL, Big Data etc
+- Knowledge of MS-Azure Cloud 
+- Experience in Informatica PowerCenter
+- Experience in Unix shell scripting and python
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 2 :
+
+- 3 - 5 years of experience in data warehouse design & development.
+- Proficiency in building data pipelines to integrate business applications (salesforce, Netsuite, Google Analytics etc) with Snowflake
+- Must have proficiency in SQL and data modeling techniques (Dimensional) – able to write structured and efficient queries on large data sets
+- Must have hands-on experience in Python to extract data from APIs, build data pipelines.
+- Strong hands-on experience in ELT Tools like Matillion, Fivetran, Talend, IDMC (Matillion preferred) , data transformational tool – DBT and in using AWS services like EC2, s3, lambda, glue.
+- Solid understanding of CI/CD process, git versioning, & advanced snowflake concepts like warehouse optimizations, SQL tuning/pruning
+- Experience in using data orchestration workflows using open-source tools like Apache Airflow, Prefect
+- Knowledge of data visualization tools such as Tableau, and/or Power BI
+- Must demonstrate good analytical skills, should be detail-oriented, team-player and must have ability to manage multiple projects simultaneously.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 3 :
+
+- Bachelor’s degree in computer science, engineering, or any other STEM field.
+- 2+ years of experience in a data science/data engineering role
+- Experience with data modelling, ETL design, and using cloud data warehouses
+- Strong programming skills in Python and PySpark
+- Software engineering skills for data science (Python, R)
+- Knowledge of Data Engineering and the respective tools and technologies (e.g., Apache Spark, Databricks, Python, SQL DB, Data Lake concepts)
+- Experience working with databases and SQL
+- Understanding of cloud data tools
+- Understanding DevOps, and version control from a Data Engineering perspective.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 4 :
+
+- Azure data engineer with 7+ years of experience in Databricks / Pyspark / ADF / Dataflow/ ETL
+- Design and implement Data Ingestion from multiple sources to Azure Data Storage services.
+- Implement Azure data services and tools to ingest, egress, and transform data from multiple sources.
+- Responsible for creating an ETL pipeline with Azure Ecosystem like Azure Data Bricks, Azure Data Factory.
+- Build simple to complex pipelines, activities, Datasets & data flows
+- Utilize Azure compute services [Databricks, Data Lake Store, Pyspark, Apache Spark, Synapse, Data Factory] to implement transformation logic and stage transformed data.
+- Design data ingestion into data modelling services to create cross domain data models for end user consumption.
+- Implement ETL, related jobs to curate, transform and aggregate data to create source models for end user analytics use cases.
+- Scheduling automation and monitoring instrumentation for data movement jobs.
+- Working experience with Azure monitor and Azure log Analytics.
+- Background work on legacy data warehouses and Big Data will be plus. 
+- Should have fair knowledge of the consumption layer (BI) and the business processes.
+- Implement/Support Azure DBaaS infrastructure and services
+- Experience working in Agile/Scrum/Kanban team environments.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 5 :
+
+- Bachelor’s degree in Computer Engineering, Computer Science or related discipline, Master’s Degree preferred.
+- 3+ years of ETL design, development, and performance tuning using ETL tools such as SSIS/ADF in a multidimensional Data Warehousing environment.
+- 3+ years of experience with setting up and operating data pipelines using Python or SQL.
+- 3+ years of advanced SQL Programming: PL/SQL, T-SQL.
+- 3+ years of strong and extensive hands-on experience in Azure, preferably data heavy/analytics applications leveraging relational and NoSQL databases, Data Warehouse and Big Data.
+- 3+ years of experience with Azure Data Factory, Azure Synapse Analytics, Azure Analysis Services, Azure Databricks, Blob Storage, Databricks/Spark, Azure SQL DW/Synapse, and Azure functions.
+- 3+ years of experience in defining and enabling data quality standards for auditing, and monitoring.
+- Strong analytical abilities and a strong intellectual curiosity.
+- In-depth knowledge of relational database design, data warehousing and dimensional data modeling concepts.
+- Understanding of REST and good API design.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 6 :
+
+- PySpark, Python, and ETL processes.
+- Practical experience with RDBMS and experience with performance tuning.
+- Strong software design skills
+- Experience implementing automated unit testing.
+- Hands-on experience of AWS cloud (Glue, Lambda, S3)
+- Familiarity with Agile working practices
+- Experience using Git, Gitlab, CI/CD pipelines
+- Should have strong analytical and problem-solving skills and hands-on experience with debugging tools.
+- Ability to work both independently and collaboratively in teams across geographies.
+- Effective management of dependencies and timely prioritisation of tasks. 
+- Proactive attitude with the ability to work independently with minimal supervision.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 7 :
+
+- 3-7 years of IT experience range is preferred.
+- Able to effectively use GCP managed services e.g. Dataproc, Dataflow, pub/sub, Cloud functions, Big Query, GCS - At least 4 of these Services.
+- Good to have knowledge on Cloud Composer, Cloud SQL, Big Table, Cloud Function.
+- Strong experience in Big Data technologies – Hadoop, Sqoop, Hive and Spark including DevOPs.
+- Good hands on expertise on either Python or Java programming.
+- Good Understanding of GCP core services like Google cloud storage, Google compute engine, Cloud SQL, Cloud IAM.
+- Good to have knowledge on GCP services like App engine, GKE, Cloud Run, Cloud Built, Anthos. 
+- Ability to drive the deployment of the customers’ workloads into GCP and provide guidance, cloud adoption model, service integrations, appropriate recommendations to overcome blockers and technical road-maps for GCP cloud implementations.
+- Experience with technical solutions based on industry standards using GCP - IaaS, PaaS and SaaS capabilities.
+- Extensive, real-world experience designing technology components for enterprise solutions and defining solution architectures and reference architectures with a focus on cloud technologies.
+- Act as a subject-matter expert OR developer around GCP and become a trusted advisor to multiple teams.
+- Technical ability to become certified in required GCP technical certifications.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 8 :
+
+- Relevant Experience in a Software Engineering role, of which you have experience in Data Engineering
+- Advanced knowledge of Python and SQL
+- Advanced experience with big data technology, likes Spark, Kafka.
+- 4+ years of working experience in the field of Business Intelligence as developer.
+- Strong expertise in MS SQL Server / MS SQL Server Studio / T-SQL / SQL Server BI Stack development and tooling.
+- Advanced level of Tableau skills for developing dashboards and reports.
+- Have worked on Denodo or any data virtualization tool. 
+- Familiarity to Informatica Data Quality. 
+- Hands on scripting experience in C# and Python.
+- Excellent knowledge in data modelling (logical and physical), data warehouse design star/snowflake schema
+- Good knowledge of integration/ETL tools and best practices.
+- Ability to estimate and plan business requirements and be able to produce best in class deliverables.
+- Excellent end-user/business interaction and presentation skills.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 9 :
+
+- 4+ years of experience in Software engineering.
+- Proficiency in a programming language, preferably Python.
+- Proficiency in SQL & data modeling.
+- Strong understanding of SWE methodologies, CI/CD and testing.
+- Strong understanding of ETL processes, data warehousing, and data governance principles.
+- Experience building and managing data intensive applications.
+- Experience with large scale MPP databases.
+- Preferred experience with MLOps, including ML model deployment, monitoring, and lifecycle management. Familiarity with tools and platforms like MLflow, Kubeflow, or sagemaker.
+- Preferred experience with Snowflake, Airflow & DBT.
+- Preferred experience with stream processing frameworks such as Flink.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 10 :
+
+- BS or MS in Computer Science , Engineering
+- 2 to 5 years experience in Data Engineer profile
+- Advanced working SQL knowledge and experience working with relational Databases (Redshift/MySQL/MSSQL etc.,)
+- Experience with AWS services (EC2, RDS, S3, Data pipeline/Glue, Lambda, DynamoDB etc.,) 
+- Good to have experience in HTML, JavaScript but Python is must
+- Experience using data analysis tools like R, Tableau, Power BI or any BI Tools
+- Data analysis skills in Excel 
+- Strong verbal and written communication skills
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 11 :
+
+- 2 - 3 + Yrs. of working experience on ETL tools especially Apache Airflow. 
+- Data Pipeline development experience using Apache Airflow. 
+- Scripting language viz Python, Shell Scripting. 
+- Understanding of different data warehouse schemas and data models. 
+- SQL Skills. 
+- Working knowledge of relational and non-relational databases: PostgreSQL, MySQL, Redshift etc. 
+- Experience with Power BI or other data visualization tools preferred
+- Experience using AWS services such as S3, Redshift, Lambda, RDS
+- Expectation-setting on required effort/duration to reliably deliver work to meet client deadlines. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 12 :
+
+Proficiency with Python is a must.
+Experienced level knowledge - Business Intelligence/reporting tools including Microsoft SQL, SRSS, SSIS, SSAS, Power BI, DAX.
+Adept at designing and implementing effective data models and Extract, Transform, Load (ETL) processes slowly changing dimensions for transforming and loading data into the data warehouse.
+Experience incorporating data from varied relational systems (e.g. MySQL, Postgres etc), flat-file, API, and No-SQL sources.
+Understanding of data governance practices, data lineage, and data quality management to ensure accurate, consistent, and reliable data.
+Prior use of orchestration tools such as Prefect or Dagster would be an advantage.
+Familiarity with cloud base tooling – Snowflake, DBT or Coalesce, Fivetran.
+Containerisation experience such as Docker is also advantageous.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 13 :
+
+- Masters or Bachelor’s Degree in Information Systems, Information Technology or Computer Science
+- 10-12 years of Software Engineering experience.
+- Core oracle developer, having experience in working with complex and/or large volume databases on the OLTP side
+- Experience in data designing and modelling and working on cloud distributed system
+- Good understanding of stored procedures/view/function/triggers etc.
+- Ability to write complex SQL queries with the focus on performance.
+- Hands-on experience in implementation and performance tuning, also having an understanding of various performance and monitoring tools ; Exposure to tools like OEM ( ASH, AWR report analysis skill)
+- Extensive knowledge in design, development, migration, deployment of database objects.
+- Extensive knowledge on database testing and automation.
+- Experience in Agile practices
+- Exposure to AWS services: EC2, RDS, RDS Snapshots, S3, DocumentDB, Dynamodb, Lamdba, Redshift etc
+- Ability to streamline and establish best practices with respect to DB changes
+- Should have lead a team of 2 to 3 members and able to manage as a work leader
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 14 :
+
+- 3+ years of experience designing and building scalable distributed data pipelines and dimensional data models
+- 3+ years of experience in Python and SQL
+- Experience using Databricks
+- Experience in Azure Data Warehousing (Synapse)
+- Extensive experience of Microsoft Azure data services – Data Factory, ADLS gen2, Event Hubs, Azure SQL, Azure Key Vault
+- Ideally experience in the following – Kafka, Delta Lake, PySpark, Pandas, Airflow
+- A demonstrable understanding of Continuous Integration, Continuous Delivery (CI/CD) and Agile practices, unit & integration tests and development practices using Azure DevOps.
+- Fluency in English.
+- Exposure to data science / ML is a plus.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 15 :
+
+- Applications development, enhancement and support for the data lake and warehouse and data extracts sent to Tableau reports 
+- Troubleshoot the problems/issues and providing hot fixes to meet productions SLAs 
+- Proactive monitoring to identify and alert on the problems 
+- Incident & Request Management 
+- Interim support and maintenance to UAT environments 
+- Perform code deployments into Stage and Production 
+- Perform data loads in Stage and Production environments 
+- Maintain and Support the Staging environments to be in sync with the production databases 
+- Follow the change control practices and ensure the changes are deployed in a controlled manner 
+- Strong collaboration with development/engineer teams to share knowledge and hand off code curation and operation 
+- Problem Management – RCA & Corrective actions 
+- Continuous Service Improvements aligned to NTT DATA framework 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 16 :
+
+- 3-6+ years of programming experience particularly in Python, R, Java or C#.
+- 2+ years of experience working with SQL or NoSQL databases.
+- Experience working with Pyspark.
+- University degree in Computer Science, Engineering, Mathematics, or related disciplines.
+- Strong understanding of big data technologies such as Hadoop, Spark, or Kafka.
+- Demonstrated ability to design and implement end-to-end scalable and performant data pipelines.
+- Experience with workflow management platforms like Airflow.
+- Strong analytical and problem-solving skills.
+- Ability to collaborate and communicate effectively with both technical and non-technical stakeholders.
+- Experience building solutions and working in the Agile working environment
+- Experience working with git or other source control tools
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 17 :
+
+- Bachelor’s degree in Information Technology, Computer Science, Mathematics, Statistics or a related field
+- Proficient in using business analysis tools and methodologies.
+- Prior experience of 2-4 years
+- Proficient in data analysis tools and languages (e.g., SQL, Python)
+- Experience with data visualization tools (e.g., Metabase, Tableau, Power BI)
+- Nice to have hands on experience with DBT or Airflow
+- Strong analytical and problem-solving skills
+- Excellent written and verbal communication skills
+- Familiarity with business process modeling and analysis techniques
+- Work both independently & collaboratively in a fast-paced and dynamic work environment
+- Knowledge of project management principles is a plus
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 18 :
+
+- Extensive experience (4+ years) in designing and implementing a fully operational solution on Snowflake Data Warehouse.
+- Strong hands-on experience with Snowflake utilities, SnowSQL, SnowPipe, SnowFlake data share, Streams, tasks, Snowflake stored procedures etc.
+- Extensive experience (4 + years) in SQL is a must.
+- Extensive experience (4 + years) in building frameworks using python.
+- Strong experience in building data pipeline using AWS technology stack. S3, Lambda, Ec2, Steps functions, cloud formation.
+- Strong experience with programming scripting and data science languages such as PowerShell, R, SQL, Javascript etc.
+- Experience in building data models, including conceptual, logical, and physical for enterprise Relational, and dimensional Databases.
+- Strong understanding of Data warehouse and BI concepts.
+- Working knowledge of Big Data concepts in organizing both structured and unstructured data is a big plus.
+- Bachelor’s degree or higher in a technology related field (e.g. Engineering, Computer Science, etc.) required, Master’s degree a plus.
+- AWS – S3, Lambda, Step Functions, Cloud formation, AWS Glue, AWS EC2 etc.
+- Cloud Databases- Snowflake, AWS aurora, AWS RDS.
+- Data Integration/Programming languages - Python, Java, C#, SQL, Stored procedures.
+- ETL/ELT Tools – Fivetran / Matillion and/or Informatica.
+- Orchestration -- Apache Airflow, Autosys, Tidal.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 19 :
+
+- Strong in SQL, Python, Hadoop, Spark
+- Experience with cloud platforms (GCP/Azure/AWS) 
+- Experience working in Agile delivery environment.
+- Experience with orchestration tools like Airflow, ADF.
+- Experience with real-time and streaming technology (i.e. Azure Event Hubs, Azure Functions Kafka, Spark Streaming).
+- Experience building automated data pipelines.
+- Experience performing data analysis and data exploration.
+- Experience working in multi-developer environment, using version control like Git.
+- Strong critical thinking, communication, and problem-solving skills.
+- Understanding DevOps best practice and CI/CD.
+- Understanding of containerization (i.e. Kubernetes, Docker)
+- Healthcare Domain knowledge
+  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 20 :
+
+- At least 5 years of professional experience in a Data Engineer role, who has attained a Graduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field
+- Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+- Experience building and optimizing ‘big data’ data pipelines, architectures and data sets
+- Experience with SQL and NoSQL databases and with ETL transformation tools (Apache Camel, TimeXtender, Data Factory, etc.).
+- Experience with different file formats such as Parquet, JSON, CSV, XML, etc. Experience with languages such as DAX, PowerShell, Python, Java, C++, etc.
+- Experience with Azure data components and Databricks
+- Strong analytic skills related to working with unstructured datasets
+- Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores
+- Strong skills on Agile methodologies combined with the knowledge of Azure DevOps Platform is essential to maintain and further build the solutions for our business.
+- Project management, technical leadership, and organizational skills.
+- Strong communication both written and spoken.
+- ML and AI experience, SAP general knowledge, and data-related Azure certifications is a plus.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 21 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 22 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 23 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 24 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 25 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 26 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 27 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 28 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 29 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 30 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 31 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 32 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 33 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 34 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 35 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 36 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 37 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 38 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 39 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 40 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 41 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 42 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 43 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 44 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 45 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 46 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 47 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 48 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 49 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 50 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 51 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 52 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 53 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 54 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 55 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 56 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 57 :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 58 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 59 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 60 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
