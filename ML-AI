@@ -684,90 +684,210 @@ Job Description 45 :
 
 Job Description 46 :
 
-
+- 5+ years experience developing and deploying machine learning systems into production.
+- Strong experience working with a variety of relational SQL and NoSQL databases.
+- Strong experience working with big data tools: Hadoop, Spark, Kafka, etc.
+- Experience with at least one cloud provider solution (AWS, GCP, Azure).
+- Strong experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
+- Ability to work in a Linux environment.
+- Industry experience building innovative end-to-end Machine Learning systems.
+- Ability to quickly prototype ideas and solve complex problems by adapting creative approaches.
+- Experience working with distributed systems, service-oriented architectures and designing APIs.
+- Strong knowledge of data pipeline and workflow management tools.
+- Expertise in standard software engineering methodology, e.g. unit testing, test automation, continuous integration, code reviews, design documentation.
+- Relevant working experience with Docker and Kubernetes is a big plus.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 47 :
 
-
+- Experience in Machine learning models and techniques like NLP, BERT, Transformers, Deep learning. 
+- Knowledge of Gen AI models like Open AI, Large Language Models like LLAMA 2, Vicuna etc. 
+- Experience working with Python libraries like Pandas, Scikit-Learn, Numpy, NLTK, Spacy and Scipy is required. 
+- Experience building scalable data models and performing complex relational databases queries using SQL (Oracle, MySQL, PostgreSQL). 
+- Knowledge of MLOps Frameworks like Kubeflow, MLFlow, DataRobot, Airflow etc.
+- Excellent organization, multitasking, and prioritization skills. 
+- Must possess a willingness and aptitude to embrace new technologies/ideas and master concepts rapidly. 
+- Intellectual curiosity, passion for technology and keeping up with new trends. 
+- Delivering project work on-time within budget with high quality.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 48 :
 
-
+- Masters in statistics, mathematics, economics, or another quantitative field.
+- Excellent working knowledge of R, Python, or similar (Experience in Azure Databricks is a plus).
+- Ability to work with incomplete and messy data to extract useful information.
+- Understanding of core analytical techniques like Cluster & Factor Analysis, Regression, Logistic Regression, GLMs, CART/CHAID/Decision Trees, Data Mining, Machine Learning Algorithms, Sampling Techniques, Design of Experiments, etc.
+- Excellent verbal and written communication skills; can effectively convey complex concepts to non-analytical people.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 49 :
 
-
+- Bachelors / master’s degree in information or computer science required – B.Tech, MCA, MS Computers.
+- 5+ years of experience in AI/ML implementation, Data and Full Stack Software development area
+- Experience with cloud-based infrastructure such as Microsoft Azure, AWS.
+- Proficiency in Python
+- Must have exposure to software programming, integration, and implementation experience.
+- Experience with some NLP libraries.
+- Knowledge of machine learning algorithms and their implementation.
+- Implementation with visualization tools such as PBI or similar.
+- Familiarity with Metadata Management tools.
+- Experience working with LLMs, such as GPT-3/4, or similar models.
+- Proficiency in integrating APIs.
+- Strong analytical and problem-solving skills.
+- All-round communication skills and ability to work collaboratively.
+- Good to have: Knowledge of Power BI.
+- Familiarity with data science concepts, machine learning algorithms, and frameworks like TensorFlow, PyTorch, scikit-learn, Keras, Pandas.
+- Added advantage – Knowledge on data technologies such Data wrangling, Data Integration/ETL, Data Profiling & Data Quality, Data Discovery.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 50 :
 
-
+- Technology/Skills : Ability to work Hands-on and work as an individual contributor.
+- Overall, 10 years out of 5-8 years of experience in managing machine learning projects end-to-end, with the last 18 months focused on MLOps.
+- Monitoring Build & Production systems using automated monitoring and alarm tools.
+- Knowledge of machine learning frameworks: TensorFlow, PyTorch, Keras, Scikit-Learn.
+- Knowledge on building pipelines using synapse, databricks end to end.
+- Experience in API integration and data feeds with social analytics(Facebook, Instagram, Twitter).
+- Experience with MLOps tools such as ModelDB, Kubeflow, Pachyderm, and Data Version Control (DVC).
+- Experience in supporting model builds and model deployment for IDE-based models and autoML tools, experiment tracking, model management, version tracking & model training (Dataiku, Datarobot, Kubeflow, MLflow, neptune.ai) will be an addon, model hyperparameter optimization, model evaluation, and explainability (SHAP, Tensorboard).
+- Experience in Databricks, Azure DataLake Gen2 and Unity Catalog.
+- Ability to understand tools used by data scientist and experience with software development and test automation.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 51 :
 
-
+- 2+ years of experience with Java or a similar OO language
+- Passion for JavaScript and the Web as a platform, reusability, and componentization
+- Experience with data structures, algorithms, object-oriented design, design patterns, and performance/scale considerations
+- Experience with any of the modern UI frameworks like Angular, React or Vue
+- Analytical and design skills
+- Working knowledge and ability to use tools to assist with daily tasks (IDE, debugger, build tools, source control, ServiceNow instances, profilers, system administration/Unix tools)
+- knowledge of basic AI/ML techniques and algorithms
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 52 :
 
-
+- Very high proficiency in Python programming language, knowledge of other languages such as R, Java would be a plus. 
+- Knowledge of various AI/ML models including deep learning models. 
+- Knowledge of Generative AI stack – Large Language Models / Foundation Models, vector databases, orchestration stack. 
+- Hand on experience in building AI orchestration with frameworks like LangChain. 
+- Knowledge of vector databases e.g., Pinecone, Chroma etc. 
+- Deep understanding of data processing frameworks e.g., Data Bricks, Airflow etc. 
+- Knowledge of API frameworks Django, Flask etc. 
+- Understanding of cloud data & AI stack on AWS / Azure / GCP is preferred.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 53 :
 
-
+- Ph.D. in Computer Science, Artificial Intelligence, or a related field.
+- Proven track record of impactful research and projects in AI, Deep learning and NLP as evidenced by publications and contributions to the field.
+- Strong programming skills, with proficiency in languages such as Python or Java.
+- Set up AI and Gen AI Infrastructure. 
+- Prompt engineering with LLMs
+- Experience with machine learning frameworks (e.g., TensorFlow, PyTorch).
+- Ability to work collaboratively in a team environment and communicate complex ideas effectively.
+- Excellent problem-solving skills and a passion for pushing the boundaries of AI technology.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 54 :
 
-
+- Bachelor’s Degree in Computer Science, Electrical Engineering, or related field. A Master’s degree is a plus. 
+- 6+ years of Machine learning and Deep Learning / or Data science experience
+- Solid mathematical foundation in Deep Learning, Machine Learning, and optimization approaches.
+- Strong experience in Python or C++
+- Experience in the following tools and technologies is a plus. AWS (SageMaker, Lambda, EC2, S3, RDS), CI/CD, Terraform, Docker, and Kubernetes.
+- Prior experience with optimizing and deploying ML models on embedded devices is a strong plus.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 55 :
 
-
+- Master’s degree in a quantitative field (Sciences, Engineering, Operations Research, etc.), PhD is a bonus.
+- 8+ years of demonstrated success in data science and analytics, 2+ years of managing analyst/data science teams.
+- Extensive machine learning experience in NLP and deep learning techniques and libraries in Python.
+- Analytical toolset including an advanced understanding of statistics (time series analysis, cluster analysis, multivariate analysis), discrete simulation, linear and nonlinear optimization.
+- Fluent in writing SQL or NOSQL queries for data manipulation.
+- Strong understanding of statistics and underlying machine learning mathematics.
+- Experience working with ML pipeline products such as AWS Sagemaker, Google ML, or Databricks a plus.
+- Self-motivated; independent, organized and proactive; highly responsive, flexible, and adaptable when working across multiple business units and product teams.
+- Be able to create, evangelize and drive adoption of best ML practices.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 56 :
 
-
+- Strong knowledge of ML and Deep Learning in the context of LLMs, NLPs and chatbots
+- Experience working with AI models using real-life (“industry”) data
+- Expert Python skills (PyTorch/TensorFlow, Pandas, NumPy, Matplotlib, creating functions)
+- Mastery in tool usage (AWS, Jupyter notebook, Streamlit or similar UIs)
+- Expertise in building and fine-tuning LLMs; experience with PEFT methods and alignment with human feedback (RLHF)
+- Expertise in Prompt Engineering using various AI models
+- Understanding of the differences and advantages of Llama, Falcon, and other open source LLMs
+- Experience utilizing structured and unstructured data in LLMs (CSV, Json, TXT, PDF)
+- Mastery in database engineering (Relational and Vector databases/Embeddings)
+- Proficiency in AI frameworks (Langchain, Agents, Transformer Architecture etc.)
+- Experience utilizing both Generative and Discriminative AI models for data querying and representation
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 57 :
 
-
+- 8+ years of hands-on experience building software in a production environment. Startup or early-stage team experience is preferred.
+- Experience coordinating and collaborating with various business stakeholders and company leadership on critical functional decisions and technical roadmap.
+- Excellent software engineering and programming skills, especially Python and SQL.
+- A diverse range of data skills, including experimentation, statistics, and machine learning, and have used these skills to inform business decisions.
+- A deep understanding of using cloud computing infrastructure and data pipelines in production.
+- Self motivation: You teach yourself new skills. You take the initiative to solve problems before they arise. You roll up your sleeves and get stuff done.
+- Team motivation: You listen to others, speak your mind, and ask the right questions. You are a great collaborator and teacher.
+- The drive to make a positive impact on customers' lives.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 58 :
 
-
+- 3+ years of experience in supporting the development of production-ready solutions leveraging AI technologies
+- 3+ years of experience with Machine Learning, NLP, and Deep Learning
+- Experience in applying Deep Learning to NLP
+- Strong hands-on expertise in Python and open source libraries/frameworks/tools such as NumPy, SciPy, scikit-learn, pandas, matplotlib, spaCy, NLTK, jupyter, Transformers, etc.
+- Experience with Deep Learning frameworks such as TensorFlow, Keras, Pytorch
+- Experience with designing, building, and optimizing data and model training pipelines
+- Experience with cloud-based platforms (AWS or Azure) for solution delivery
+- Experience working with agile and Software Development Lifecycle tools (e.g. JIRA, Confluence, Git) and Test-Driven Development (TDD)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 59 :
 
-
+- 3-5 years of experience in machine learning-based data product research and development in addition to a relevant educational background in the field of Computer Science, Mathematics, Engineering, or Machine Learning.
+- Experience with tools/frameworks from theoretical and practical aspects of computer science and ML/DL. This includes calculus, probability, statistics, learning theory, etc.
+- Prior experience and core foundational knowledge on working with statistical modeling techniques and deep learning fundamentals, such as CNN, RNN, Transformers, GANs, etc. including sequence networks eg LSTMs
+- Proficiency in Python or C++, with hands-on experience in using ML frameworks such as Tensorflow/Pytorch, Pytorch Lightning, MxNet, etc
+- Ability to design, develop, and optimize for machine learning/ deep learning models.
+- Knowledge of the application of ML for earth observation data is good to have.
+- Appetite for research and implementing innovative solutions for complex problem 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 60 :
 
-
+- Masters degree in computer science, artificial intelligence, or a related field preferred.
+- Bachelors degree in computer science or a related field required.
+- Proven experience in developing and deploying AIML models for real-world applications.
+- Strong understanding of deep learning and machine learning concepts.
+- Expertise in natural language processing (NLP) techniques.
+- Experience with programming languages such as Python, Java, or C++.
+- Familiarity with statistical modeling and machine learning algorithms.
+- Excellent analytical and problem-solving skills.
+- Strong communication and collaboration skills.
+- Experience with cloud computing platforms (AWS, Azure, etc) a plus.
+- Passion for AI and ML and a desire to learn and grow in the field.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
