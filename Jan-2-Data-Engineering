@@ -7,26 +7,26 @@ Job Description 1 :
 - Develop & maintain data pipelines for batch & stream processing using informatica power centre or cloud ETL/ELT tools.
 - Liaise with business team and technical leads, gather requirements, identify data sources, identify data quality issues, design target data structures, develop pipelines and data processing routines, perform unit testing and support UAT.
 - Work with data scientist and business analytics team to assist in data ingestion and data-related technical issues.
-- Expertise in Data warehousing/ information Management/ Data Integration/Business Intelligence using ETL tool Informatica PowerCenter
-- Knowledge of Cloud, Power BI, Data migration on cloud skills.
-- Experience in Unix shell scripting and python
-- Experience with relational SQL, Big Data etc
-- Knowledge of MS-Azure Cloud 
-- Experience in Informatica PowerCenter
-- Experience in Unix shell scripting and python
+- Expertise in Data warehousing/ information Management/ Data Integration/Business Intelligence using ETL tool Informatica PowerCenter.
+- Knowledge of Cloud, PowerBI, Data migration on cloud skills.
+- Experience in Unix shell scripting and python.
+- Experience with relational SQL, Big Data etc.
+- Knowledge of MS-Azure Cloud. 
+- Experience in Informatica PowerCenter.
+- Experience in Unix shell scripting and python.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 2 :
 
 - 3 - 5 years of experience in data warehouse design & development.
-- Proficiency in building data pipelines to integrate business applications (salesforce, Netsuite, Google Analytics etc) with Snowflake
-- Must have proficiency in SQL and data modeling techniques (Dimensional) – able to write structured and efficient queries on large data sets
+- Proficiency in building data pipelines to integrate business applications (salesforce, Netsuite, Google Analytics etc) with Snowflake.
+- Must have proficiency in SQL and data modeling techniques (Dimensional) – able to write structured and efficient queries on large data sets.
 - Must have hands-on experience in Python to extract data from APIs, build data pipelines.
 - Strong hands-on experience in ELT Tools like Matillion, Fivetran, Talend, IDMC (Matillion preferred) , data transformational tool – DBT and in using AWS services like EC2, s3, lambda, glue.
-- Solid understanding of CI/CD process, git versioning, & advanced snowflake concepts like warehouse optimizations, SQL tuning/pruning
-- Experience in using data orchestration workflows using open-source tools like Apache Airflow, Prefect
-- Knowledge of data visualization tools such as Tableau, and/or Power BI
+- Solid understanding of CI/CD process, git versioning, & advanced snowflake concepts like warehouse optimizations, SQL tuning/pruning.
+- Experience in using data orchestration workflows using open-source tools like Apache Airflow, Prefect.
+- Knowledge of data visualization tools such as Tableau, and/or Power BI.
 - Must demonstrate good analytical skills, should be detail-oriented, team-player and must have ability to manage multiple projects simultaneously.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -34,13 +34,13 @@ Job Description 2 :
 Job Description 3 :
 
 - Bachelor’s degree in computer science, engineering, or any other STEM field.
-- 2+ years of experience in a data science/data engineering role
-- Experience with data modelling, ETL design, and using cloud data warehouses
-- Strong programming skills in Python and PySpark
-- Software engineering skills for data science (Python, R)
-- Knowledge of Data Engineering and the respective tools and technologies (e.g., Apache Spark, Databricks, Python, SQL DB, Data Lake concepts)
-- Experience working with databases and SQL
-- Understanding of cloud data tools
+- 2+ years of experience in a data science/data engineering role.
+- Experience with data modelling, ETL design, and using cloud data warehouses.
+- Strong programming skills in Python and PySpark.
+- Software engineering skills for data science (Python, R).
+- Knowledge of Data Engineering and the respective tools and technologies (e.g., Apache Spark, Databricks, Python, SQL DB, Data Lake concepts).
+- Experience working with databases and SQL.
+- Understanding of cloud data tools.
 - Understanding DevOps, and version control from a Data Engineering perspective.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
