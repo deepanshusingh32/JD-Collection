@@ -490,32 +490,90 @@ Job Description 30 :
 
 Job Description 31 :
 
-
+- Advanced degree in computer science, machine learning, statistical methods, or related field. 
+- 2-5 years of industry experience in data engineering or a related role. 
+- Strong experience building and maintaining data pipelines using AWS services such as S3, Redshift, Glue, EMR, or related technologies. 
+- Proficiency in programming languages such as Python, Java, or Scala. 
+- Experience with data modeling, database design, and SQL. 
+- Familiarity with DevOps practices and tools, including CI/CD pipelines and infrastructure-as-code (e.g., Terraform). 
+- Demonstrated ability to work with large data sources with a focus on data privacy and security. 
+- Background in software development process and tools with a focus on Jira. 
+- Experienced in working in a geographically distributed team environment. 
+- Experience working for leadership located in other countries and cultures as well as large time zone shifts. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 32 :
 
+- 3-5 years of experience in data warehouse design & development.
+- Proficiency in building data pipelines to integrate business applications (salesforce, Netsuite, Google Analytics etc) with Snowflake
+- Must have proficiency in SQL and data modeling techniques (Dimensional) – able to write structured and efficient queries on large data sets
+- Must have hands-on experience in Python to extract data from APIs, build data pipelines.
+- Strong hands-on experience in ELT Tools like Matillion, Fivetran, Talend, IDMC (Matillion preferred) , data transformational tool – DBT and in using AWS services like EC2, s3, lambda, glue.
+- Solid understanding of CI/CD process, git versioning, & advanced snowflake concepts like warehouse optimizations, SQL tuning/pruning
+- Experience in using data orchestration workflows using open-source tools like Apache Airflow, Prefect
+- Knowledge of data visualization tools such as Tableau, and/or Power BI
+- Must demonstrate good analytical skills, should be detail-oriented, team-player and must have ability to manage multiple projects simultaneously.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 33 :
 
+- 3+ years of data analysis and engineering experience 
+- Bachelors's degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field. 
+- Experience with big data tools: Hadoop, Spark, Kafka, Spark & Kafka Streaming, Python, Scala, and Talend 
+- Advanced working SQL experience working with relational databases, query authoring (SQL) and working familiarity with a variety of databases. 
+- Experience building 'big data' data pipelines, architectures and data sets. In-depth knowledge of Model and Design of DB schemas for read and write performance. 
+- Working knowledge of API or Stream-based data extraction processes like Salesforce API and Bulk API is must. Experience performing root cause analysis on all data and processes to answer specific questions and identify opportunities for improvement. 
+- Build processes supporting data transformation, data structures, metadata, dependency and workload management. A successful history of manipulating, processing and extracting value from large disconnected datasets. 
+- Working knowledge of message queuing, stream processing, and scalable 'big data' data stores. 
+- Experience with building data pipeline from several business applications like Salesforce, Marketo, NetSuite, and Workday 
+- Working knowledge of BI Tools like Tableau or Looker
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 34 :
 
+- Bachelor’s degree in computer science, engineering, or any other STEM field.
+- 2+ years of experience in a data science/data engineering role.
+- Experience with data modelling, ETL design, and using cloud data warehouses.
+- Strong programming skills in Python and PySpark.
+- Software engineering skills for data science (Python, R).
+- Knowledge of Data Engineering and the respective tools and technologies (e.g., Apache Spark, Databricks, Python, SQL DB, Data Lake concepts).
+- Experience working with databases and SQL.
+- Understanding of cloud data tools.
+- Understanding DevOps, and version control from a Data Engineering perspective.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 35 :
 
+- 5+ years of experience working as a Data Engineer
+- Proven experience in designing, developing, and maintaining data pipelines using Azure Data Platform services, including Azure Data Factory, Azure Databricks, and Azure Data Lake Storage.
+- Expertise in cloud computing concepts and experience with Azure cloud services, including Azure Compute, Azure Networking, Azure Storage, Azure Cloud Functions, and Azure SQL Database.
+- Azure Cloud Data certification is mandatory
+- Proficient in Azure Data Platform. Able to configure multiple Data services on cloud.
+- Understanding of multiple Azure cloud services related to computing, networking, storage, cloud functions, Datalake, sql and NoSQL databases.
+- Experience in AI/ML solutions will be preferred.
+- Experience with data visualization using Power BI.
+- Excellent problem-solving and analytical skills.
+- Strong communication and collaboration skills.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 36 :
 
+- Good knowledge and experience in data processing tools(ETL), data bases, cloud based data services and platforms. 
+- Good experience in developing ETLs or similar data solutions in the Cloud to be deployed in AWS
+- Knowledge and experience in designing and implementing data solutions. 
+- Strong analytical and problem-solving skills. 
+- Knowledge about distributed computing paradigm. 
+- Knowledge about open-source data processing frameworks and AWS data services. 
+- Understanding about Relational databases, ETL design patterns and development. 
+- Data modelling - Understanding about Dimensional & transactional modelling using RDBMS, NO-SQL and Big Data technologies. 
+- Exposure to cloud Data warehouse like - Snowflake and or AWS Redshift preferred. 
+- Demonstrate strong analytical and problem-solving capability. 
+- Good understanding of the data eco-system, both current and future data trends.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
