@@ -325,113 +325,269 @@ Job Description 20 :
 
 Job Description 21 :
 
+- Python With Django Framework (Rest API), PostgreSQL
+- API Integration (Amadeus Travel Booking Engine, Google Map, Payment Gateway Integration, Twilio)
+- Digital Ocean Hosting Experience(Optional)
+- Must have got multiple payment gateway integration experience
+- Proven experience as a Django Developer with a focus on API integration.
+- Strong proficiency in Python and Django framework.
+- Experience with Amadeus, Google Maps, and Twilio APIs, Payment Gateway
+- Understanding of RESTful APIs and asynchronous programming.
+- Solid understanding of database systems, especially PostgreSQL.
+- Excellent problem-solving and communication skills.
+- Ability to work independently and as part of a collaborative team.
+- Familiarity with Digital Ocean hosting and deployment (Optional).
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 22 :
 
-
+- Should have strong technical background with Java SE/EE, cloud development, React, Sql, microservices.
+- Experience in JavaScript, HTML, CSS, Angular 8 and above
+- Experience in Docker or Kubernetes
+- Experience in Spring Core, Spring MVC,Spring Boot, Spring security, Spring batch, Spring AOP
+- Experience in SQL Server
+- Experience in Gradle, Ant, Maven
+- Understanding in Microservices architecture (MSA), REST, Cloud development, Concurrent design and multithreading, Object Oriented Programming System (OOPS
+- Experience in Jenkins, Ant, Maven, Chef, Puppet, Gulp, Grunt, Ansible
+- Design and develop complex mappings, performance tuning of mappings, Process Flows
+- Define, understand, and analyse non-functional requirements for project.
+- Should be able to compare technologies to find best fit for project requirements.
+- Should be able to troubleshoot complex or unusual bugs.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 23 :
 
+- Degree in Computer Science or related IT discipline
+- 1 to 3 years hands-on experience
+- Skills: Java, Web API, Hibernate, Angular, Salesforce, python, c, c++, Fullstack, php, dot net, SQL, JavaScript, linux
+- Familiar with OOP programing and Design pattern
+- Familiar with HTML5, CSS and Angular
+- Working experience in full-stack development will be an added advantage
+- Working experience in setting up, configuring and administering at least one web server added advantage
+- Working experience in python will be an added advantage
+- Positive and willing to learn new technologies
+- Ability to understand complex systems and think strategically about business, products and technical challenges
+- Team player and passionate in championing the team to continuously refactor and improve to deliver the quality software product
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 24 :
+
+- Basic knowledge or awareness of multiple front-end languages and libraries (e.g. HTML/ CSS,
+- JavaScript, XML, jQuery, Typescript).
+- Basic knowledge or awareness of back-end language (Java), Java frameworks (Spring MVC, Spring Boot) and JavaScript frameworks (Angular, AngularJS).
+- Basic awareness of RDBMS concepts and SQL syntaxes (e.g. PostgreSQL, Oracle), web servers (e.g. Apache) and UI/UX design.
+- Good analytical skills.
+- Good communication skills.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 25 :
+
+- 3+ years of hands-on experience on React and Java is must.
+- Exposure to design and development
+- Java as a back-end language and React as a frontend language for web development.
+- Database working with SQL Server/MySQL/PostgreSQL (Database schema design, Query operation, table relations)
+- Web services, web API, SOA, and REST API
+- Cloud deployment, preferably on Azure or AWS
+- OOPS concept
+- Agile development methodologies and, techniques & tools
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 26 :
+
+- Degree in computer science, soware engineering, or related field.
+- 8+ years of soware experience with ASP.Net, AngularJS, Angular, C#, ASP.Net Core, Ruby on Rails or similar technologies.
+- Background in developing and deploying SaaS applicaons and services into producon using CI/CD tools.
+- Experience in building micro-services, REST based APIs, CI/CD tools, GIT, JENKIN.
+- Proven record of team leadership.
+- Exposure to soware architecture.
+- Experience building scalable web applicaons in a variety of cloud implementaons Azure and AWS.
+- Proven success with MS SQL Server 2017, Oracle DB 18C, MVC Frameworks, HTML5, CSS3, NoSQL databases, in addion to FastAPI.
+- Exposure to networking soluons leveraging HTTP, and WebSockets.
+- Working experience in JavaScript libraries: specically, AngularJS, React, and Node, along with GitHub development tools.
+- Hands on in using Agile process tools like Azure DevOps, JIRA, Conuence.
+- Background in conducng code reviews, providing technical/architectural guidance to team members.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 27 :
+
+- Java 8 and above / Spring MVC / Spring Boot[must]/ Spring Security, JPA, hibernate 
+- WebServices – REST / SOAP 
+- Good working knowledge of Unix / Linux OS basic commands, ssh, putty, etc
+- Good working knowledge of Kafka and Redis
+- Preferable: Exposure / working knowledge of financial system integration/development 
+- Experience with databases (Oracle / SQL / MY SQL). Exposure to Oracle (SQL & PL/SQL) is a desirable 
+- Security & OWASP understanding. 
+- Good working knowledge of GIT, Sonar, Maven, Intllij, eclipse
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 28 :
+
+- Bachelors degree or equivalent practical experience
+- 5+ years of experience in software development
+- 3+ years of experience with software design and architecture
+- Proven experience as a Full Stack Developer or similar role with UI/UX expertise
+- Proficient in front-end languages such as HTML5, CSS3 and JavaScript along with its frameworks (e.g. ReactJS, AngularJS)
+- Strong knowledge of Java/J2EE technologies along with frameworks such as Spring/Spring Boot etc.
+- Familiarity with databases (e.g. Oracle or MySQL), web servers (e.g. Nginx or Apache) and UI/UX Designing tools (Figma)
+- Experience working with data structures, algorithms and software design optimized for robustness and performance
+- Familiarity with server-side CSS preprocessors such as Stylus/Sass/Less
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 29 :
+
+- Proven experience as a Full Stack Developer or similar role.
+- Proficiency in front-end technologies such as HTML, CSS, JavaScript, and front-end frameworks (ReactJS/Angular).
+- Knowledge on React-Admin is a plus.
+- Strong back-end development skills using languages like Python.
+- Experience with database systems (SQL, NoSQL) and ORM frameworks.
+- Familiarity with cloud platforms and deployment processes.
+- Excellent problem-solving and communication skills.
+- Hands-on/Good Experience with exposing and consuming REST API using Python frameworks/libraries (Django & FastAPi).
+- Understanding and hands on experience of PostgreSQL Database.
+- Knowledge on PostgREST is a plus.
+- Knowledge on Azure / AWS: Deployment, Azure Storage account, Azure SVM/(Azure App service + Function App)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 30 :
+
+- 8+ years of strong experience in Spring frameworks like Spring Boot, Spring Batch, Spring Data etc. and Hibernate, JPA.
+- JavaScript, JSP/JSF, Angular
+- Hands on experience in SQL, PL/SQL and should be able to write complex queries.
+- Experience with SOAP Web-Services, REST Web-Services and Java Messaging Service (JMS) API.
+- Hands-on experience in REST-APIs.
+- Strong knowledge of CI/CD pipelines and experience in tools such as JIRA, Splunk, Dynatrace, SONAR etc.
+- Experience developing with application servers Apache Tomcat, JBOSS.
+- Linux environment including scripting skills.
+- Experience on Build Frameworks like Maven, maintain source code using source control, and baseline software versions and build war files for deployments.
+- Strong experience in building and deploying Scalable enterprise level applications.
+- Strong experience in microservices architecture and implementation.
+- Proven track record of managing projects and leading a team.
+- Must have strong analytical and problem-solving abilities.
+- Having exposure to AWS services will be an added advantage.
+- Good experience in JUnit testing and mocking techniques.
+- Experience in SDLC processes (Waterfall/Agile), Docker, Git, SonarQube.
+- Good communication skills, Ability to work as a team player, Ability to work on multiple tasks concurrently.
+- Strong experience in working with onshore offshore models, excellent in enabling teams on high quality standards.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 31 :
+
+- Good skills in Problem Solving, Analytical thinking, Data Structures and Algorithms.
+- Excellent hands-on coding in Java, SpringBoot, microservices, with crisp understanding of the development process using Git and code reviews.
+- Excellent hands on development using Angular.
+- In-depth understanding of Javascript, Typescript, CSS, HTML.
+- Excellent communication skills, both written and verbal.
+- Team Player attitude with willingness to lead wherever necessary.
+- Working knowledge of Cloud (Azure/Google Cloud/AWS).
+- Working knowledge of Databases (SQL/NoSQL), Caches and Event Driven Systems.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 32 :
+
+- Proven experience in fullstack development, specifically with Node.js/Laravel
+- Strong frontend experience in either React.js/Vue.js
+- Experience with database technologies, NoSQL, and related ORMs like SQL
+- Strong understanding of RESTful API design and microservices architecture.
+- Familiarity with cloud platforms like AWS, Azure, or GCP.
+- Knowledge of code versioning tools, such as Git.
+- Proficiency in authentication mechanisms, JWT, OAuth, etc.
+- Knowledge of Cloud deployment concepts preferably AZURE/GCP/AWS.
+- Experience with database technologies such as PostgreSQL or MySQL
+- Hands-on experience in Microservices, DDD or other relevant paradigms
+- Skills in optimizing application performance and scalability.
+- Familiarity with Agile and Scrum methodologies.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 33 :
+
+- Develop REST based microservices, using SpringBoot, SpringCloud, JavaScript, and HTML
+- Strong object-oriented development background Java/J2EE, including Java, HTML, XML, JUNITS
+- Hands on experience with Angular(8 above version)
+- Experience in Spring, RESTFUL/SOAP Web services development
+- Familiarity with GitHub or equivalent source control repositories and Build Tools like GRADLE
+- Experience in cloud components like PCF / AWS / GCP is an added advantage.
+- Experience with API back-end development; JavaScript, client-side frameworks like Angular, React, etc.
+- Experience with Spring Cloud and deploying to cloud platforms, preferably PCF/AWS/Azure /GCP
+- Knowledge working in Agile projects.
+- Should be able to understand engineering processes (reviews, plans and reports) and help to implement the mandates across project areas
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 34 :
+
+- 8+ years in software development
+- 3+ years developing Javascript, using modern front-end development tooling
+- A strong understanding of front-end technologies, including JavaScript, HTML and CSS
+- Experience building JavaScript applications and using external APIs
+- Desire to learn new skills and share knowledge with others
+- Knowledge of server-side programming languages including Net, Java, Ruby and Python
+- Familiarity with DBMS technology, including SQLServer, Oracle, MongoDB and MySQL and caching mechanisms such as Redis, Memcached and Varnish
+- Comfortable with software development tools including using command-line, source control and project tracking
+- Experience working in an Agile environment
+- Strong commitment to testing and TDD practices
+- Experience with React (and even React Native) and state management with Flux architecture
+- A good feel for UX and building UI
+- Experience using CSS preprocessors (SASS, Less, etc.)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 35 :
+
+- Experience designing and architecting high traffic consumer web applications (e.g. SaaS, e-commerce).
+- 5+ years of strong expertise in Node.js application design and development (ES6+ JavaScript & TypeScript).
+- 3+ years of experience in modern responsive UI development using TypeScript, Vue3 and HTML5/CSS3.
+- Strong experience of building RESTful web services.
+- Hands-on experience with MySQL table design, querying, indexing, and debugging.
+- At least 3 years or more of hands on experience and understanding of Microservice architecture based on 12-Factor application development practices.
+- Experience working with GIT versioning and best security and development practices.
+- Experience working with message queues (e.g. RabbitMQ, SQS) and distributed caching (e.g. Memcached, Redis).
+- Experience in building solutions on top of AWS such as ECS, S3, Lambda, API Gateway and others.
+- Strong attention to detail and excellent problem-solving skills.
+- Experience in working with DevOps and Build pipelines (e.g. CI, CD).
+- Hands on experience with agile development process.
+- Experience in Python is preferred.
+- Strong knowledge of containerization (e.g. Docker, Kubernetes).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 36 :
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Job Description 1 :
+Job Description 37 :
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Job Description 1 :
+Job Description 38 :
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Job Description 1 :
+Job Description 39 :
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Job Description 1 :
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job Description 1 :
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job Description 1 :
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job Description 1 :
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job Description 1 :
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job Description 1 :
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job Description 1 :
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job Description 1 :
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job Description 1 :
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job Description 1 :
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job Description 1 :
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job Description 1 :
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job Description 1 :
+Job Description 40 :
 
 
 
