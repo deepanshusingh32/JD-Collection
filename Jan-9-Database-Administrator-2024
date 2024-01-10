@@ -307,60 +307,132 @@ Job Description 20 :
 
 Job Description 21 :
 
-
+- Should have 4+ years working experience in both MySQL (5.6.X and above) & NoSQL Databases.
+- Exposure in databases designed for financial and high traffic websites / applications is a must.
+- Experience working in large database instance environments with size ranging up-to 1TB having Master-Slave replications, group replication, InnoDB Cluster and DB Upgrades.
+- Should have thorough knowledge of MySQL replication topologies.
+- Clear understanding of data base security concepts is a must to have
+- Understand existing Backup and Design and Implement various MYSQL backup/recovery strategies
+- Should have thorough knowledge of shell scripting. Should have worked on complex shell scripts [any of bash/Perl/python/C]
+- Knowledge in docker & kubernetes is a plus
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 22 :
 
-
+- Familiar with Linux and open source technologies.
+- Experience with open-source database technologies, such as MariaDB, MySQL, Postgres.
+- Experience of securing databases, such as hardening to CIS benchmarks, backup and restoration, authentication principles, encryption and secured communications.
+- Experience with extracting, transforming, and loading data into databases. Desirable:
+- Experience with Data Centre infrastructure, such as storage arrays, Fibre Channel and Ethernet switches, and server systems.
+- Scripting in Linux shell, Perl, and/or Python.
+- Experience with open source systems management and development tools, such as: Nagios, Apache, Ansible, git, and the ELK (Elasticsearch, Logstash, Kibana) stack.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 23 :
 
-
+- Working experience as a Database Administrator is required
+- Database standards and end-user applications knowledge
+- Data backup, recovery, security, integrity, and SQL are all skills that you should have
+- Database design, documentation, and coding are all skills that you should have
+- Previous expertise with third-party and DBA case tools
+- API knowledge of programming languages
+- Problem-solving abilities and the ability to think in an algorithmic manner
+- Any relevant certification is required
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 24 :
 
-
+- Proven working experience as a Database administrator
+- Hands-on experience with database standards and end user applications
+- Excellent knowledge of data backup, recovery, security, integrity and SQL
+- Familiarity with database design, documentation and coding
+- Previous experience with DBA case tools (frontendbackend) and third party tools
+- Familiarity with programming languages API
+- Problem solving skills and ability to think algorithmically
+- BS degree in a computer discipline or relevant certification
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 25 :
 
-
+- Experience developing PowerShell or Python scripts to automate DBA tasks
+- Experience with SQL Server Failover Cluster Instances or Always On availability groups
+- Experience with SQL Server Analysis Services
+- Experience with monitoring tools such as Idera or Redgate
+- Experience with Git and automation tools such as Ansible, Puppet, or Chef
+- Experience with aspects of Windows administration such as file sharing, group policy, or Active Directory
+- Experience with data virtualization or business intelligence tools
+- Familiarity with VMware virtualization environments
+- Experience with Amazon Web Services, Microsoft Azure or Google Cloud Platform
+- Knowledge of IT Service Management concepts or experience with JIRA
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 26 :
 
-
+- Oracle 19c ( CDB/PDB )installation, configuration, troubleshooting skills ( Required )
+- MySQL ( Required ) , Postgres, Mongo db
+- Oracle EBS ( Technical )
+- AWS cloud technologies, ( Required )
+- Backup and recovery ( RMAN ) ( Required )
+- Dataguard, RAC, Advance queuing (AQ), partitioning, performance tuning for Oracle 19c databases ( Required )
+- Shell and python scripting ( Required )
+- OEM ( Oracle Enterprise manager configuration, deployment, and scripting ) ( Required )
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 27 :
 
-
+- Minimum of 3+ years hands on experience in database administration and Performance troubleshooting in oracle and PostgreSQL databases.
+- Oracle and PostgreSQL Database Installation, Migration, Upgrade andPatching.
+- Proficient in programming solutions with shell scripting, Python, SQL,PL/SQL, PL/PGSQL, PSQL, Stored Procedures, functions, views, triggers,Performance tuning and DevOps process
+- Good knowledge in Backup Restore strategies: Datapump,Export/import, Hot backup, RMAN, Dataguard, OEM and AWR reports.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 28 :
 
+- Bachelor's degree in computer science, information technology, or a related field.
+- Proven experience as a SQL Server Database Administrator.
+- In-depth knowledge of SQL Server database management and administration.
+- Strong understanding of database design principles, normalization, and optimization.
+- Proficiency in writing and optimizing SQL queries.
+- Familiarity with database security best practices.
+- Experience in performance tuning and troubleshooting.
+- Knowledge of backup and recovery procedures.
+- Excellent problem-solving and communication skills.
+- Relevant certifications (e.g., Microsoft Certified: Azure Database Administrator Associate) are a plus.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 29 :
 
-
+- Have at least 2-4 years of experience running MySQL/PostgreSQL databases in large Environments.
+- Awareness of cloud infrastructure (AWS/GCP).
+- Have knowledge of the internals of MySQL/PostgreSQL.
+- Knowledge of load balancing solutions such as ProxySQL to distribute database traffic efficiently across multiple servers.
+- Knowledge of tools and methods for monitoring database performance.
+- Strong problem-solving skills and ability to work in a fast-paced environment.
+- Excellent communication and collaboration skills to work effectively within cross-functional teams.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 30 :
 
-
+- Excellent communication skills.
+- Strong problem-solving skills
+- Proficiency in Oracle and SQL.
+- Strong SQL, PL/SQL, and performance tuning skills.
+- Minimum 5 years of experience working with Oracle and SQL databases
+- Knowledge of database security principles.
+- Experience with database monitoring tools and configuring alerts.
+- Experience supporting production environment.
+- Experience working with remote teams.
+- Familiarity with PowerShell or Python for tasks automation.
+- Familiarity using tools like Git, Jira.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
