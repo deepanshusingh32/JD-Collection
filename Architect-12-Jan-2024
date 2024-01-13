@@ -466,9 +466,9 @@ Job Description 31 :
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job Description 32 :
 
-- Bachelors or masters degree in architecture from an accredited university
-- At least 5 years of experience in architectural design and project management
-- Strong proficiency in CAD software, such as AutoCAD, Revit, or SketchUp
+- Bachelors or masters degree in architecture from an accredited university.
+- At least 5 years of experience in architectural design and project management.
+- Strong proficiency in CAD software, such as AutoCAD, Revit, or SketchUp.
 - Knowledge of building codes, zoning laws, and other regulatory requirements
 - Strong project management and leadership skills
 - Excellent communication, presentation, and interpersonal skills
@@ -521,5 +521,78 @@ Job Description 35 :
 - Understanding of software quality assurance principles.
 - A technical mindset with great attention to detail.
 - High-quality organizational and leadership skills
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 36 :
+
+- Masters or Doctorate Degree in Computer Science or Electrical Engineering.
+- 15+ years of Experience in the following.
+- Software development: C++ , TCL, Python, Linux, build and revision control systems, spec writing/reviewing.
+- Software design: data structures, algorithms, GUI and Interactive systems, event-driven systems.
+- Domain knowledge: understanding of IC fabrication, CMOS circuit design, EDA flows.
+- EDA tool and flows.
+- Circuit analysis, layout principles, semi-conductor manufacturing.
+- Advanced math, statistics, and machine learning technique.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 37 :
+
+- Architecture, Design and RTL development for storage controller IP's based on NVMe, UFS, and high speed peripheral bus standards such as PCIe and CXL.
+- Technically lead various RTL modules development
+- Interfacing with cross functional teams like Verification, Validation and FW.
+- Ensuring quality of design using Lint and CDC checks.
+- Synthesis, Area and power optimization.
+- Developing the timing constraints ( SDC) and ECO scripts.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 38 :
+
+- Should be able to help customer define the roadmap for enabling business functions in Eightfold
+- Should have thorough understanding on Career Hub module in Eightfold
+- Should have thorough understanding on External Career Site module in Eightfold
+- Should have thorough understanding on Mentoring module in Eightfold
+- TypeScript, React, Redux, Webpack, HTML5, CSS3, Jquery, VanillaJS, Jinja templates (Limited), Python, Machine Learning and Jason
+- Should have thorough understanding on Project Marketplace module in Eightfold
+- Should have thorough understanding on SMS & WhatsApp features in Eightfold
+- Should have thorough understanding on Job Intelligence Engine in Eightfold
+- Should have thorough understanding on Talent Acquisition module in Eightfold
+- Should possess great oral and written communication skills
+- Should possess great understanding on the API’s that connects to HCM solutions like SAP SuccessFactors and Workday HCM
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 39 :
+
+- Should be able to help customer define the roadmap for enabling business functions in Eightfold
+- Should have thorough understanding on Career Hub module in Eightfold
+- Should have thorough understanding on External Career Site module in Eightfold
+- Should have thorough understanding on Mentoring module in Eightfold
+- TypeScript, React, Redux, Webpack, HTML5, CSS3, Jquery, VanillaJS, Jinja templates (Limited), Python, Machine Learning and Jason
+- Should have thorough understanding on Project Marketplace module in Eightfold
+- Should have thorough understanding on SMS & WhatsApp features in Eightfold
+- Should have thorough understanding on Job Intelligence Engine in Eightfold
+- Should have thorough understanding on Talent Acquisition module in Eightfold
+- Should possess great oral and written communication skills
+- Should possess great understanding on the API’s that connects to HCM solutions like SAP SuccessFactors and Workday HCM
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 40 :
+
+- BS degree in Computer Science, Graduate degree preferred.
+- At least 15 years of experience in a variety of hands-on software/technology roles, preferably in Consumer Internet Products & Solutions in the cloud.
+- Hands-on engineer with cloud-native skills, being comfortable with one of the cloud stacks, preferably GCP.
+- At least 6 years of architecting, driving, and implementing multiple features on a Microservices stack at a high scale, performance, and reliability of at least 4 nines.
+- Deep understanding & proven experience in the various dimensions of building and delivering multi-tenanted cloud-native Microservices.
+- Well-versed in challenges of distributed systems, modern cloud-native architectures, distributed data management in a cloud environment.
+- Exceptional written and verbal communication in pursuit of driving the mission forward.
+- Familiar with Golang.
+- Deep knowledge of SQL and NoSQL databases.
+- Experience with Docker and Kubernetes.
+- Demonstrated skills in leading projects across multiple teams.
+- Exposure to Front-end architectures.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
