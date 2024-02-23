@@ -78,61 +78,146 @@ Documentation:
 
 Job Description 6 :
 
-
+- Product migration, version upgrades , applyingfixpacks ,patching and vulnerability remediation
+- WAS cluster (ND) administration
+- Connection pool, Threads configuration andmanagement
+- Administration using WAS console (stop, start,modify configuration)
+- Administer load balancers
+- Configuration and administration of Queues foreach WAS servers.
+- Installation of MQ Client / Server setup ofinstances
+- Creation of local and remote queue managers
+- Implementation of Channels and Queues
+- Creation of channels
+- Administration of Queue managers, channels,queues - local, remote & transmit queues for applications Administrationusing JBOSS console (stop, start, modify configuration)
+- Configuration and administration of Queues foreach JBOSS servers
+- Tomcat / Apache Web-server: -SSL configurationand Configuration with Application Server
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 7 :
 
-
+- Good Experience in AUTOSAR.
+- Experience in BSW/RTE/MCAL.
+- Working experience on Com/Memory/Diagnostic/Bootloader.
+- Working experience Complex driver.
+- Good knowledge of automotive technologies, standards and protocols (e.g. CAN, LIN, AUTOSAR NM, OSEK NM, J1939, ISO 14229 , ISO15765).
+- Experience in Davinci Configuration and integration.
+- C coding is mandatory.
+- Good knowledge of SW development process and related standards (including A-Spice) beneficial.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 8 :
 
-
+- Solid Linux middleware skills (tcp/ip, mutex, threading ….) preferably in embedded systems
+- Strong in C
+- Experience in call handling (SIP, SDP, RTP etc)
+- Experience in encryption and security mechanisms like TLS, DTLS, certifiate management etc.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 9 :
 
-
+- 2 to 12 years of experience in Middleware application development.
+- Having good experience in Embedded development.
+- Hands on experience in C++.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 10 :
 
-
+- Application restart
+- Log purging activity
+- Manage & communication with OEM
+- Application monitoring based on the capabilities of the tools
+- VA open points based on the sop provided by the soc team provided by CUSTOMER
+- Middleware Application Security/Bug Patching
+- Resource Monitoring (Infra) based on the capabilities of the tools
+- DR Activity
+- Application management on DR
+- Middleware Security Patches
+- Middleware Release updates
+- Middleware upgrades based on the sop provided by the OEM and application team
+- Installation and Configuration of Middleware products
+- Deployments of Middleware and Application
+- Management of application downtimes
+- Performance and health check of Middleware services
+- Backups of middleware and application components
+- Server certificate management
+- Non-Prod refreshes
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 11 :
 
-
+- Bachelor's and/or Master’s degree in Computer Science, Information Technology or equivalent education
+- Knowledge and experience in low code development with Power Automate, Logic Apps or UiPath
+- Experience in building and deploying solutions based on Microsoft PowerApps Canvas-Apps
+- Working experience with relational databases MS SQL – setting up and maintain Databases, collect & send Data from App to Database, get Data from Database
+- Ability to communicate fluently in English, both speaking and writing
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 12 :
 
-
+- Requirements 8 to 12 years of experience Skill Set SOA Architecture,Design, build and support of Middleware solutions using Oracle or other Middleware platforms.
+- Knowledge of Service-Oriented Architecture (SOA), its principles, and patterns at enterprise level Experience in Oracle SOA (OIC/On-Prem) or Webmethods(Cloud/On-prem) or other middleware.
+- Experience in API Management/Gateway and API Security.
+- Experience with any of the following platforms: AWS, SoftwareAG Web Methods.IO, Oracle Integration Cloud or Oracle Fusion Middleware and MFT Cloud and MFT.
+- Experience in ASP.NET, Web Services Enhancements (WSE), WebAPI Web Services SOAP / REST, SOAP UI, Spring, SQL, XML, XSLT.
+- Experience in Continuous Integration: JENKINS /GitHub actions, Bamboo, Hudson etc
+- Experience in data modeling techniques and knowledge and applicability of various normal forms.
+- Experience and knowledge of multi-tier and cross-platform architectures driven towards mobility.
+- Experience with architecting enterprise solutions based on REST web services.
+- Experience in developing of IT architecture plans and software development methodologies.
+- Hands-on experience in stateless distributed architectures and designing for scalability and performance.
+- Develop IT architecture plans and software development methodologies Liaise with business to build the optimum SOA for smooth business operations.
+- Knowledge in version controlling (GIT / SVN), technical governance, best coding practices, code quality and standards, application development life cycle, automation, deployment practices.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 13 :
 
-
+- 3-6 years experience in Application Support ,Middleware Support,Devops Engg,Clouds,CI/CD
+- Applications servers WebSphere (Added advantage - JBOSS, Tomcat and IIS).
+- Web servers (Apache, IBM HTTP Server, etc..)
+- Linux / Unix commands.
+- Network applications and TCP/IP protocols.
+- Scripting – Shell, Python (Added Advantage – PowerShell).
+- Automation - CI/CD concepts – Jenkins
+- Windows Servers
+- CI/CD tools – OpenShift, Kubernetes.
+- Knowledge of FIS’ products and services
+- Knowledge of Risk & Compliance in Financial services
+- Knowledge of Cloud Systems (Azure / AWS)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 14 :
 
-
+- More than 1 year of experience in Applications servers administration: JBOSS, Weblogic, WebSphere. 
+- More than 1 year of experience in web servers: apache, IIS, NGINX, Oracle HTTP Server. 
+- More than 1 year of experience in Oracle Database Administration. 
+- Experience in repetitive tasks execution, checks, preventive actions, automatical.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 15 :
 
-
+- Worked on WebLogic upgrades and patching.
+- Knowledge on Performance Tuning of WebLogic server components and supervising aspects of WebLogic.
+- Good communication and customer leadership skills.
+- At least demonstrated ability with Oracle WebLogic Administrator/Consultant/Support Engineer
+- BE/BTech and/or MS in Computer Science or equivalent preferred
+- Oracle WebLogic / SOA / OCI Certification - Preferred
+- Candidates having optional skills of Docker, Kubernetes, and Containers is a Plus!
+- Experience in Oracle Enterprise Manager (OEM) 11g/12c/13c is a plus.
+- Sharp technical troubleshooting skills.
+- Good understanding of support processes.
+- Ability to manage increased technical situations & develop action plans.
+- Ability to spot proactive services that benefit of customer.
+- Ability to facilitate issues with Development and Support.
+- Strong analytical skills.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
