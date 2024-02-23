@@ -241,79 +241,180 @@ Job Description 17 :
 
 Job Description 18 :
 
-
+- Around 2-3 years of experience in supporting Middleware.
+- Excellent knowledge in patch deployment, monitoring and troubleshooting.
+- Hands on experience on UI framework like Angular JS/ HTML5/ CSS3/ JavaScript.
+- Should have experience on JMS/ Messaging and middleware like JBOSS/ Tomcat/Apache.
+- Good knowledge of open source database systems and proficient in writing complex queries.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 19 :
 
-
+- Good Communications Skills and should be able to communicate with Client and On-site team.
+- Must have extensive knowledge of Oracle Fusion Middleware Products like WebLogic, SOA/BPEL, OHS and ADF.
+- Must have extensive knowledge of Oracle RDBMS.
+- Must have extensive knowledge of Oracle Fusion Middleware Products in a LINUX environment.
+- UNIX/LINUX scripting knowledge is required.
+- Thorough knowledge of SQL including PL/SQL.
+- Willing to learn and support other related applications to SOA/BPEL.
+- 6-9 years of overall experience in information systems is required with 3-5 years of Managing Oracle Fusion Middleware Products working as a WebLogic admin.
+- 4-6 Years of experience working in Oracle Fusion Middleware technologies.
+- 3-5 years of work experience in Tomcat/Apache
+- Knowledge of OVF/OVD/Siteminder and IAM.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 20 :
 
-
+- Secure Transport Technologies/Tools.
+- Axway CFT, SFT, Central Governance.
+- Plan/Build/Migration and Maintenance activities L3 support for MQ/IIB/Axway.
+- Installation, configuration and system administration of the IBM WebSphere MQ/IIB and Axway CFT/SFT.
+- Manage and configuring of SSL, Queues, channels, Flows, applications etc.
+- Administration and maintenance of Pre-production and production environments.
+- Migrating the MW Products from Old version to latest versions.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 21 :
 
-
+- At least 3 years of experience in using Web sphere liberty profile
+- Around 3 years of experience and knowledge of Java or web development using Java
+- Knowledge of database engines such as DB2, Mongo DB on Linux/Mongo DB Atlas (Google Cloud)
+- At least 2 plus years of experience in Devops tool such as ansible/Jenkins with continuous integration and deployment
+- Strong experience in Linux Operating System
+- Strong Experience in shell scripting and web sphere deployment scripts
+- Experience in supporting performance tuning of WebSphere on Linux
+- Good knowledge and understanding of Google cloud core fundamentals compute engine, VPC etc.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 22 :
 
-
+- Experience in DevOps Open Source Middleware technologies/tools and automation development
+- Pioneer new technologies in collaboration with Product Development and Enterprise Operational teams in a Development IT organization
+- Lead and plan new Enterprise Technology Deployments
+- Provide technical solution on performance issues escalated from Production / Test environments
+- Develop best practices and standards for Deployments and Operation Desired skills for middleware administrator include:
+- WebLogic, JDK, NGNX, WebSphere Application Server / IBM Http Server / Apache / Tomcat / LDAP & MQ
+- Shell scripting
+- Networking concepts
+- Perl scripting
+- PowerShell
+- SOAP and RestFul Web Services
+- Unix / Linux & Windows operating systems
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 23 :
 
-
+- Install, configure, maintain, Upgrade and support application environments.
+- Support multiple WebLogic Oracle 12c, IIS, Apache tomcat and MQ servers.
+- Upgrade and patch WebLogic and middleware components on regular basis.
+- Debug and resolve issues related to application configuration and technology.
+- Assist in the planning and execution of disaster recovery failover testing.
+- Create and maintain automation scripts for the purposes of limiting repetitive work streams.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 24 :
 
-
+- UNIX / LINUX scripting knowledge is required.
+- Thorough knowledge of SQL including PL / SQL.
+- Willing to learn and support other related applications to SOA / BPEL.
+- Experience : Bachelor s Degree preferred.
+- The suitable experience will substitute.
+- 7 Years of overall experience in information systems is required with 6 - 8 years of Managing Oracle Fusion Middleware Products working as an SOA Admin.
+- 2-4 Years of experience working in Oracle Fusion Middleware technologies.
+- 2-4 Years of experience in DevOps.
+- 2-4 Years of work experience in tomcat / apache.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 25 :
 
-
+- Experience in DevOps Open Source Middleware technologies/tools and automation development
+- Pioneer new technologies in collaboration with Product Development and Enterprise
+- Operational teams in a Development IT organization
+- Lead and plan new Enterprise Technology Deployments
+- Provide technical solution on performance issues escalated from Production / Test environments
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 26 :
 
-
+- Support and maintain the existing messaging infrastructure.
+- Participate in infrastructure initiatives including life cycle upgrades and patches
+- Manage and oversee day-to-day BAU activities and user queries.
+- Participate in root cause analysis for incidents as appropriate.
+- Work experience in Kafka , Active MQ .
+- Tibco messaging tool experience is a preferred add-on.
+- Strong Linux administration and server migration experience is a must.
+- Work experience on AWS integration would be considered as preferred add-on.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 27 :
 
-
+- Maintenance of Tomcat and IIS servers that host EAS applications.
+- Managing a cluster of IIS web servers, Web.config configurations and understanding of authentication SSL certificate handling.
+- Communicate with 3rd party vendors to facilitate patch/version upgrades.
+- Installation and Configuration of new IIS servers, web content deployment and support.
+- Troubleshoot and resolve web application related incidents generated via monitoring and reported by business users.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 28 :
 
-
+- At least 5 + years of experience in Administration of WebLogic 11g, 12c, 14.x, Apache 2.4, Tomcat Servers, OSB.
+- Proficient in Middleware Technologies with experience on Weblogic / Jboss / LDAP.
+- Validated experience in installation, configuration, deployment, SSL, Certificate, Generation and import of certificates.
+- Experience in Development / Configuration / solutions evaluation / Validation and deployment of middleware components.
+- Experience in capturing requirements related to internal / external consulting, documenting, and mapping current business process.
+- Experience in SSL Certificate management.
+- Experience in Developing automation scripts.
+- Middleware components Integrating with HTTP servers.
+- Knowledge on Protocols such as HTTP / HTTP / s, RMI CORBA, SOAP etc.
+- Knowledge on Unix shell scripting.
+- Analytical and Communication skills.
+- Planning and Co - ordination skills.
+- Experience with project management.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 29 :
 
-
+- IBMMQ 4+ experience.
+- Installing configuring IBM MQ Series on various environments like Windows Linux, 9.1. and 8.5.
+- Experience on Up-gr edition Migration 6 to 8 and 7.1 .0.12 to 9.1.0.0.
+- Worked on creating and configuring Local Queue mangers and Remote queue Managers.
+- Implementing Distribution Communication and Clustering Communication over different platforms.
+- Configuring and implemented Client/Server Architecture.
+- Experience in configure and monitor MQ Listeners, Command Servers, Channel initiators, Trigger Monitors, MQ Log files Dead Letter Queues.
+- Good understanding on MQ Authentication Concepts like ACL OAM.
+- Having experience in performing the Backup and Recovery of the MQ Objects.
+- I have worked with the Clusters Workload balancing.
+- Having experience in performing on SSL.
+- IBM MQ Series related troubleshooting and Bug Fixing.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 30 :
 
-
+- Installation and configuration: Install, configure, and maintain middleware software on servers and systems.
+- Performance optimization: Optimize the performance of middleware software by monitoring and fine-tuning system settings.
+- Security management: Ensure that middleware software is secure by implementing security measures such as firewalls, SSL, and user access control.
+- Troubleshooting: Analyze and troubleshoot issues related to middleware software to ensure that applications and systems are running smoothly.
+- Backup and recovery: Implement backup and recovery procedures to ensure that data and applications are protected in case of a system failure.
+- Automation: Develop and implement automation scripts and tools to improve the efficiency and reliability of middleware software.
+- Documentation: Maintain documentation of middleware software configurations, procedures, and troubleshooting guides.Qualifications:
+- Experience with middleware software: Experience with middleware software such as IBM WebSphere, Apache Tomcat, or Oracle WebLogic.
+- Operating system knowledge: Knowledge of operating systems such as Windows, Linux, or Unix.
+- Networking skills: Knowledge of networking protocols and technologies, such as TCP/IP, DNS, and load balancing.
+- Scripting skills: Proficiency in scripting languages such as PowerShell, Perl, or Python.
+- Ability to analyze complex problems and develop effective solutions.
+- Keeping up to date with new technologies and emerging trends in middleware software is crucial to improve the efficiency and effectiveness of middleware systems.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
