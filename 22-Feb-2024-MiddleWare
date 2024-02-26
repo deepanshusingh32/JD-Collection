@@ -567,61 +567,145 @@ Job Description 40 :
 
 Job Description 41 :
 
-
+- Expert level working knowledge on Rabbit MQ, IBM MQ and OMQ.
+- Excellent automation skills. Proven skills in automation for MQ. Eg Rehydrating MQ instances etc.
+- Experience with Ansible automation.
+- Experience in writing automation scripts/playbooks for MQ.
+- Working knowledge on AWS.
+- Drive end to end MQ automations.
+- Creating tools to automate MQ related activities.
+- Jenkins, Git, Python for CICD and pipelines
+- Excellent troubleshooting
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 42 :
 
-
+- Installation and Configurations for Oracle WebLogic, SOA, OSB,Jboss other Oracle middleware products like iPlanet,.
+- Installation and Configurations for Oracle HTTP server, Apache and Tomcat.
+- In-depth knowledge of Oracle SOA Middleware Suite, Oracle Service Bus (OSB).
+- In-depth knowledge of Oracle HTTP server ,Tomcat and Apache.
+- In-depth knowledge of Node manager configurations.
+- Administer SOA/OSB Fusion Middleware environment and custom services deployed.
+- Experience with analyzing JVM thread dumps heap dumps and root cause analysis of crash dumps.
+- Experience with configuration SSL: 1_-way SSL and 2_ way SSL configuration.
+- Experience in configuring weblogic plugins on web servers(OHS,Tomcat and Apache) for the weblogic server.
+- Knowledge of system monitoring tools ( Ex: BTM, BMC, OEM ).
+- Knowledge of Python and WLST scripting.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 43 :
 
-
+- 2-4 years of experience in backend development with a strong focus on Golang.
+- Solid understanding of the syntax of Go and its nuances.
+- Familiarity with code versioning tools, such as Git.
+- Experience with rewriting or architecting systems is highly desirable.
+- A knack for writing clean, readable Go code.
+- Proficient understanding of concurrency patterns in Go.
+- Experience with databases (e. g., MySQL, MongoDB) and their declarative query languages.
+- Understanding of fundamental design principles behind a scalable application
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 44 :
 
-
+- Excellent C programming and troubleshooting skills on embedded Linux environment
+- Thorough understanding and working experience of building Middleware and NBI infrastructure for a networking product.
+- Design and development experience of docker container-based microservice architecture, system core infra libraries used by applications running on the system.
+- Hands on experience of System performance and optimization.
+- GCC, GDB, Redis, ZeroMQ, gRPC, ProtoBufs, Yuma Netconf/Yang stack, Valgrind, ASAN knowledge
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 45 :
 
-
+- Experience with middleware support Tomcat JBOSS IIS Solr SAP Hybris
+- Good knowledge of Linux Unix AIX Windows Operating Systems Database and SQL
+- Performs application and system software installations and upgrades
+- Performs troubleshooting and solving of Middleware application incidents
+- Communicates with application developers for technical support and issue resolution
+- Executes corrective maintenance on Middleware software
+- Ensures support for planned infrastructure and application activities
+- Manages requests to recover log files or other types of files
+- Performs optimization of the application and the system load
+- Participates in implementation of new projects related to Applications Deployment
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 46 :
 
-
+- 4+ years of experience in Messaging & Business Integration Middleware products.
+- Hands-on experience implementing Queue, Topic, Bridge, Route, Adapter, etc.
+- Knowledge of TIBCO security aspects such as SSL, Certs.
+- Strong knowledge of WebServices– SOAP / REST.
+- Good understanding of Core Java and strong SQL skills.
+- Experience with core UNIX commands.
+- Knowledge of management and communication tools for SOA / BPM components.
+- Experience in deployment of TIBCO applications using automated scripts.
+- Knowledge and experience with UML analysis modelling tools.
+- Experience with CI/CD tools such as Bitbucket, Jenkins (Pipelines).
+- Ideally, experience with agile methodologies and using JIRA.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 47 :
 
-
+- Hands on experience Embedded C / C++ 11/14/17
+- Hands on debugging skills using Vector tools like
+- Working experience in any of following areas
+- Yocto Linux, QNX or GHS Operating Systems and Hypervisor
+- Ethernet. Internet Protocols (TCP/UDP/IP, REST, HTTP, etc), SOME/IP, Service Oriented Architecture
+- Linux driver layer and Linux internal architecture
+- Basic Knowledge on Microcontroller basics
+- Basic Knowledge on Embedded systems
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 48 :
 
-
+- Experience in Linux shell scripting and commands.
+- Experience with middleware tools i.e. Websphere, Tomcat.
+- Experience in configure and maintain Linux servers, including monitoring system health and performance.
+- Experience in develop, maintain, update various scripts for servicevs (ex: start, stop, restart, Cron jobs) on Linux environments like RHEL 7.
+- Knowledge in creating, customizing and maintaining CI/CD pipelines using Jenkins.
+- Knowledge in Docker, Kubernetes.
+- Having knowledge in Release Lifecycle Management (RLM) would be helpful.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 49 :
 
-
+- Develop and maintain middleware components of the Android Open Source Project (AOSP) used in automotive applications
+- Collaborate with cross-functional teams to ensure successful integration of middleware components in automotive applications
+- Debug and troubleshoot middleware-related issues in automotive applications
+- Develop and maintain documentation related to middleware development in the automotive industry
+- Stay up to date with the latest trends and developments in middleware development for the Android platform and the automotive industry
+- Conduct code reviews and provide feedback to other team members
+- Participate in architecture and design discussions related to AOSP middleware development
+- Ensure compliance with relevant automotive standards and regulations
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 50 :
 
+- 4+ years of experience in qualifying embedded products and systems with exposure to the entire system architecture
 
+- 3+ years expert experience in areas of Linux/Android OS testing (BSP, MW, Framework etc.)
+
+- 3+ years of experience in scripting languages (ex: python ) with good programming skills having good system understanding
+
+- Good understanding of Test architecture, Hardware, schematics and communication protocols (ISO14443, ISO7816, UART, I2C, SPI SWP)
+
+- Experience in product release cycle of Embedded Products
+
+- Good analytical skills and problem-solving skills with a can-do attitude being a good team player
+
+- Should have strong written and verbal communication skills
+
+- Knowledge of NFC standards and compliance like NFC Forum and GSMA is nice to have.
+
+- Experience in validation of Payment and Electronic ID applications using smart cards, Global Platform and Java cards is an added plus
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
