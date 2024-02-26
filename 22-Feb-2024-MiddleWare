@@ -690,52 +690,85 @@ Job Description 49 :
 Job Description 50 :
 
 - 4+ years of experience in qualifying embedded products and systems with exposure to the entire system architecture
-
 - 3+ years expert experience in areas of Linux/Android OS testing (BSP, MW, Framework etc.)
-
 - 3+ years of experience in scripting languages (ex: python ) with good programming skills having good system understanding
-
 - Good understanding of Test architecture, Hardware, schematics and communication protocols (ISO14443, ISO7816, UART, I2C, SPI SWP)
-
 - Experience in product release cycle of Embedded Products
-
 - Good analytical skills and problem-solving skills with a can-do attitude being a good team player
-
 - Should have strong written and verbal communication skills
-
 - Knowledge of NFC standards and compliance like NFC Forum and GSMA is nice to have.
-
 - Experience in validation of Payment and Electronic ID applications using smart cards, Global Platform and Java cards is an added plus
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 51 :
 
-
+- Confluent Kafka 5.x, 6.x/Apache Kafka 2.x
+- Confluent Connect adapters (JMS/MQ/GCP)
+- Messaging experience
+- Prometheus/Grafana
+- Working knowledge of Linux, Solaris, Windows OS and command line functions
+- Experience working with Confluent Kafka Suite of Products
+- Experience with Kafka Administration for Installation/Configuration/Deployments/Upgrades (etc)
+- Working Knowledge of Virtualization, Docker Container, Prometheus/Grafana.
+- Familiarity with Enterprise Messaging architectures (Tibco/MQ/AMQ or similar)
+- Strong experience with Bash scripting and automation tools (chef/ansible)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 52 :
 
-
+- Experience with middleware support Tomcat JBOSS IIS Solr SAP Hybris.
+- Good knowledge of Linux Unix AIX Windows Operating Systems Database and SQL.
+- Performs application and system software installations and upgrades.
+- Performs troubleshooting and solving of Middleware application incidents.
+- Communicates with application developers for technical support and issue resolution.
+- Executes corrective maintenance on Middleware software.
+- Ensures support for planned infrastructure and application activities.
+- Manages requests to recover log files or other types of files.
+- Performs optimization of the application and the system load.
+- Participates in implementation of new projects related to Applications Deployment.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 53 :
 
-
+- Around 2-3 years of experience in supporting Middleware.
+- Excellent knowledge in patch deployment, monitoring and troubleshooting.
+- Hands on experience on UI framework like Angular JS/ HTML5/ CSS3/ JavaScript.
+- Should have experience on JMS/ Messaging and middleware like JBOSS/ Tomcat/Apache.
+- Good knowledge of open source database systems and proficient in writing complex queries.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 54 :
 
-
+- Install, configure, maintain, Upgrade and support application environments.
+- Support multiple WebLogic Oracle 12c, IIS, Apache tomcat and MQ servers.
+- Upgrade and patch WebLogic and middleware components on regular basis.
+- Debug and resolve issues related to application configuration and technology.
+- Assist in the planning and execution of disaster recovery failover testing.
+- Create and maintain automation scripts for the purposes of limiting repetitive work streams.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 55 :
 
-
+- Good understanding and hands on knowledge of Installation and Configuration of IBM WebSphere 8.x and 9.x on AIX, Linux Platforms.
+- Experience on Configuring profiles and other configurations like JDBC , JMS.
+- Trouble shooting skills by analyzing thread, heap dumps, system out and Error logs.
+- Experience on tuning WebSphere Application Servers to improve performance.
+- Hands on App Dynamic experience.
+- Development background preferred.
+- Experience in log analysis & application troubleshooting.
+- Experience on UNIX & Linux operating systems with knowledge of shell scripting.
+- Basic knowledge of RDBMS databases (Oracle) with experience in writing SQL queries and scripts.
+- Good understanding of UML (Sequence diagrams, component diagram, deployment diagram etc)
+- Good understanding of Core Java and Java EE technologies, such as JDBC, JMS, JNDI
+- Good understanding of REST and SOAP Web services
+- Good understanding of standard markup languages such as XML and JSON.
+- Basic knowledge of Infrastructure components, such as Firewall, Load balancer etc.
+- Basic understanding of networking.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
