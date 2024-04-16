@@ -312,29 +312,55 @@ Job Description 23 :
 
 Job Description 24 : 
 
-
-
+- 3-5 years of experience.
+- Hands-on experience in designing, developing, testing, and deploying large-scale applications
+- Strong in Data structures/ algorithms & oops concepts.
+- Strong in concurrency & multithreading
+- A good understanding of Java and an additional understanding of GoLang / Python will also be appreciated
+- Data modeling experience in both Relational and NoSQL databases
+- Able to design and implement low-latency RESTful services
+- Strong understanding of cloud infrastructure like AWS/GCS.
+- Experience in distributed queue systems like Kafka.
+- Continuously refactor applications and architectures to maintain high-quality levels
+- Passion for learning new things, solving challenging problems
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 25 : 
 
-
-
+- Design, develop, test, and maintain backend services and APIs using Java or Python.
+- Collaborate with cross-functional teams to understand requirements and translate them into technical solutions.
+- Work with databases, including MongoDB and either MySQL or PostgreSQL, for efficient data storage and retrieval.
+- Ensure the performance, scalability, and security of backend systems.
+- Problem-solving and troubleshooting to address software defects and issues.
+- Keep abreast of industry trends and best practices to enhance the software development process.
+- Contribute to the overall software delivery process with a focus on quality and efficiency.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 26 : 
 
-
-
+- In-depth hands on experience programming in Python
+- Thorough understanding of the web and cloud computing systems
+- Experience in developing RESTful web services
+- Knowledge of TDD and unit testing processes
+- Experience working on an AWS environment is an added advantage
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 27 : 
 
-
-
+- Bachelor’s or Master’s degree in CS and having built projects in web development.
+- Hands-on backend web development experience.
+- 1+ Years Experience working on Large scale Applications in backend web development (Node.js).
+- Strong proficiency with JavaScript (ES6 and above).
+- Knowledge of Node.js and frameworks available for it (such as Express etc depending on your technology stack)
+- Proficient knowledge of a backend programming language and an in-depth understanding of web development.
+- Knowledgeable of front-end technologies and platforms, such as JavaScript, HTML5, and CSS3.
+- Good understanding of server-side CSS preprocessors.
+- Proven experience creating user authentication and authorization between multiple systems, servers, and environments.
+- Capability to integrate multiple data sources and databases into one system.
+- Proven experience managing the hosting environment, that includes database administration and scaling an application to support load changes.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -352,12 +378,27 @@ Job Description 28 :
 
 Job Description 29 : 
 
-
+5-10 years of experience in designing and developing scalable enterprise grade solutions
+Extensive hands-on experience with at least two programming languages (Java, Go, Python etc)
+Hands-on with architecture, design, development and deployment of enterprise systems
+Experience in rolling out distributed, large-scale, low latency web applications with REST, Data Caching Services, DB schema design and data access technologies
+Experience crafting and architecting distributed systems, concurrent programming, and coding data structures
+Experience designing ecosystems for Web applications & API Platforms
+Understand security concepts and build reliable and safe distributed applications
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 30 : 
 
-
+Basic understanding of front-end technologies and platforms, such as JavaScript, HTML5, and CSS3
+Good understanding of server-side CSS pre-processors, such as LESS and SASS.
+Understanding accessibility and security compliance (Depending on a specific project)
+Integration of multiple data sources and databases into one system.
+Data migration, transformation, and scripting.
+Creating database schemas that represent and support business processes.
+Preferred experience in implementing functionality through RESTful APIs and GraphQL.
+Proficient knowledge of a back-end programming language such as NodeJS, ExpressJS, PHP etc.
+Proficient knowledge of a Databases such as MongoDB, MySql etc.
+Good problem solving skills.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
