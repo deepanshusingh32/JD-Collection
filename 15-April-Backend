@@ -196,61 +196,152 @@ Job Description 10 :
 
 Job Description 11 : 
 
-
+- Spring Boot and MVC:
+- Proficiency in developing applications using the Spring Boot framework for rapid and efficient Java development.
+- Experience with Spring MVC for building scalable and maintainable web applications.
+- Spring Security Integration with SQL:
+- Integration of Spring Security for authentication and authorization in Java applications.
+= Utilization of SQL databases for secure user authentication and authorization processes.
+- Third-Party API Integration: Knowledge and experience in integrating third-party APIs into Java applications for extended functionality and services.
+- Hibernate JPA: Expertise in Hibernate with Java Persistence API (JPA) for efficient and object-relational database mapping.
+- Apache Tomcat: Deployment and management of Java web applications using the Apache Tomcat server.
+- SQL Database Management: Proficient in SQL database management, including database design, querying, and optimization.
+- Java Programming Latest Language Features and Updates:
+- Stay updated with the latest features and updates in the Java programming language to leverage modern capabilities.
+- Problem-Solving Skills: Strong analytical and problem-solving skills to address challenges in software development effectively.
+- Monitoring Tools (Logback and SLF4J):
+- Utilization of logging frameworks such as Logback and Simple Logging Facade for Java (SLF4J) to monitor and troubleshoot applications effectively.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 12 : 
 
-
+ In depth knowledge of Python Application Development in Core Python and Django/Flask.
+ Minimum 4 years’ hands on experience in creating REST APIs in Django.
+ In depth knowledge of RDBMS, NoSQL and other databases.
+ Experience with source control tools like git, bitbucket etc.
+ Deploy the application in the docker container and container orchestration.
+ Knowledge of user authentication and authorization between multiple systems, servers, and environments.
+ Knowledge of web socket or socket programming
+ Working experience in Azure/AWS or any other cloud framework.
+ Basic understanding of front-end technologies, such as JavaScript, HTML5, CSS3 and React.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 13 : 
 
+Develop and maintain scalable backend services using Python, Django, and Django Rest Framework (DRF).
+Collaborate with cross-functional teams to define, design, and ship new features.
+Ensure the performance, quality, and responsiveness of applications.
+Identify and correct bottlenecks and fix bugs.
+Help maintain code quality, organization, and automation.
+Write and maintain comprehensive documentation for the backend services.
 
+Qualifications
+
+Strong proficiency in Python, Django, and Django Rest Framework (DRF).
+Excellent communication skills and the ability to work well in a team.
+Proven experience working with large code base.
+Ability to adapt to new technologies and learn quickly.
+Demonstrated ability to manage time effectively and handle multiple tasks simultaneously.
+High proficiency in English, both written and spoken, to ensure clear and effective communication within the team and with stakeholders.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 14 : 
 
-
+3-8 years of experience on Java/J2EE based applications design, development and deployment
+Good knowledge of microservices is mandatory
+Very sound on OOPs concepts and Java fundamentals
+Strong on programming fundamentals, best practices
+Knowledge and hands-on experience with various design patterns
+Should have hands-on experience on Spring Boot, Spring Data/JPA
+Knowledge and experience on Log stash, K8s (good to have)
+Well versed with Agile scrum execution using the tools like JIRA
+Exposure to latest tools, trends and technologies
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 15 : 
 
-
+Pursuing a degree in Computer Science, Engineering, or related field
+Solid understanding of core Java concepts and object-oriented programming principles
+Familiarity with backend development frameworks such as Spring boot
+Proficiency in database technologies (e.g., MongoDB, SQL, MySQL,)
+Strong problem-solving skills and attention to detail
+Ability to work well in a team environment and communicate effectively
+Previous experience with web development or software projects (personal or academic) is a plus.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 16 : 
 
-
+Minimum 4+ Years of Back-End Web Development, Software Development, and Programming skills
+Data: SQL Server (familiarity with PostgreSQL/NoSQL databases earns merit)
+DevOps: Docker, containerization best practices
+Essential Bonus: In-depth expertise in one of the following:
+- Elasticsearch
+- MongoDB or other
+- Snowflake, BigQuery or other
+- Kafka or other message queues
+- Python
+- Express.js or other
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 17 : 
 
-
+- 4+ years of medium/large scale server-side software development experience.
+- Excellent verbal and written communication skills.
+- Thorough knowledge of CS fundamentals
+- Knowledge of Unix OS (we develop on Mac OS utilising M1 chipsets). Comfortable using CLI tools for achieving day-to-day tasks.
+- Experience in writing Unit, Functional & Regression tests. Knowledge of generative testing is preferred.
+= Bachelor's Degree in Computer Science (or equivalent).
+Experience in:
+- Java17+
+- Spring framework
+- CI/CD (we use BitBucket pipelines)
+- Postgres DB
+- MongoDB
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 18 : 
 
-
+Experience in Python, Ruby on Rails, Java or any other scripting language
+Exposure to MVC frameworks such as Django, Rails, Spring
+Exposure to Postgres, Mysql (exposure to NoSql database related technologies like MongoDb, Redis etc. is a plus)
+Experience in application performance optimisations, database tuning & designing large & scalable system is a plus
+Familiarity working with AWS or other cloud-based environment
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 19 : 
 
-
+Very strong knowledge or experience in Python, Lambda, SQL, general AWS.
+Clean coding skills around Python or Go and SQL.
+Demonstrable experience around writing testable code, working with git, doing peer-level code review, daily stand-ups, and generally championing software excellence.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 20 : 
 
-
+- 0-2 years of work experience in developing software
+- A solid understanding of core programming fundamentals.
+- Hand on experience in developing micro services using node.js, golang or python (any one)
+- Must be open to lean new programming languages and technologies.
+- Experience using Version Control (GitHub/Gitlab).
+- Strong communication skills across the board, with a passion for finding and sharing best practices and driving greater discipline.
+- Identify, troubleshoot, and document browser/platform compatibility issues and standards.
+- Passionate about code quality, extensibility, and simple architecture design
+- Must be comfortable working in an open, highly collaborative team environment
+- Programming Fundamentals
+- Restful API Development
+- Node.js / Golang / Python
+- Javascript
+- MySQL / SQL
+- Redis
+- Github / Gitlab
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
