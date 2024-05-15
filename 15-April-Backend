@@ -4,31 +4,104 @@ Sheet Link : https://docs.google.com/spreadsheets/d/1i1hcZHUIAGc2hCcPeyKdylwrRq5
 
 Job Description 1 : 
 
-
+● Architect and develop scalable backend solutions using Django, ensuring high performance and reliability.
+● Collaborate with cross-functional teams to design and implement RESTful APIs for seamless frontend-backend communication.
+● Leverage Firebase to integrate real-time data synchronization and user authentication features into our applications.
+● Utilize PostgreSQL for efficient management of relational databases, prioritizing data integrity and security.
+● Deploy, monitor, and optimize applications on cloud platforms such as AWS and GCP to ensure seamless performance and scalability.
+Requirements:
+● 2+ years of experience in backend development, with a focus on Django and Python.
+● Proficiency in Firebase for real-time database and authentication services.
+● Strong understanding of relational database concepts, with practical experience using PostgreSQL.
+● Familiarity with cloud platforms such as AWS and GCP for deployment and management of applications.
+● Solid grasp of software development methodologies and best practices.
+● Excellent problem-solving skills and attention to detail.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 2 : 
 
-
+- Knowledge of Object-Oriented Programming (OOP)
+- Strong problem-solving and analytical skills
+- Excellent communication and collaboration skills
+- Basic understanding of JavaScript: Learn the fundamentals of this versatile programming language to build dynamic web applications.
+- Introduction to ReactJS: Gain proficiency in this popular JavaScript library for building user interfaces, focusing on component-based architecture and state management.
+- Overview of VueJS: Explore this progressive framework for building user interfaces and single-page applications with ease.
+- Familiarity with MongoDB: Understand the basics of this NoSQL database for storing and retrieving data in a flexible, scalable manner.
+- Basics of SQL Server: Learn the foundational concepts of this relational database management system to manage and query structured data.
+- Passion for coding and a desire to learn new technologies
+- Strong problem-solving skills and attention to detail
+- Excellent communication and teamwork abilities
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 3 : 
 
+- 5 to 10 years of relevant experience in design and development of spring-boot based micro services for a web-based analytical product / solution.
+- Has experience working on cloud-based environments and understand integration with managed services. Prior experience in Google Cloud Platform is preferable.
+- Has hands-on experience with relational and No-SQL databases with respect to their consumption for a web-based analytical solution.
+- Experienced with Agile and CI/CD development practices.
 
+Roles and Responsibilities
+
+- Work with the team for design and development of modules.
+- Responsible for design and development of testable modules.
+- Delivery of modules with unit tests with required code coverage.
+- Collaborate with Product manager to clarify requirements.
+- Collaborate with the UI team for design, integration, deployment and production support.
+- Collaborate with the testing team to ensure delivery of modules.
+- Production monitoring and support of specific modules.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 4 : 
 
+- Design and implement efficient REST APIs using Django REST Framework.
+- Develop and maintain robust web applications with Python and Django.
+- Understand database design and writing data models using Django ORM
+- Utilize Celery for asynchronous task management and Redis for caching solutions.
+- Work with Docker to containerize applications, ensuring smooth deployments and scalability.
+- Optimize applications for maximum speed, scalability, and security.
+- Conduct unit tests and debugging to optimize performance.
+- Manage project priorities, deadlines, and deliverables within a team environment.
+- Collaborate with front-end developers and other team members to establish objectives and design more functional, cohesive codes to enhance the user experience.
 
+Requirements:
+
+- Minimum 3 years of experience in backend development.
+- Proficient in Python, with strong experience in the Django framework.
+- Solid experience in building REST APIs with Django REST Framework.
+- Familiarity with PostgreSQL and SQL for database management.
+- Writing clean and efficient code for performance and scalability.
+- Familiarity with Celery for task management and Redis for caching.
+- Experience with Docker and basic principles of containerized environments.
+- Understanding of best practices in web security and data protection.
+- Ability to collaborate in a team and communicate effectively.
+- Bachelor’s degree in Computer Science, Engineering, or related field.
+
+Nice to Have:
+
+- Experience with cloud services (AWS, Azure, Google Cloud).
+- Experience with continuous integration/continuous deployment (CI/CD) pipelines.
+- Knowledge of additional Python frameworks such as Flask or FastAPI.
+- Familiarity with front-end technologies like React, Angular, or Vue.js.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 5 : 
 
-
+Extensive software development experience
+Extensive experience with RESTFul services and APIs design
+Experience with automated testing frameworks
+Extensive experience designing and using deployment systems
+Extensive experience with messaging systems (RMQ, Kafka, Firebase)
+Experience with build and packaging systems (Maven, pip, npm, webpack)
+Experience with distributed caching systems
+Deep understanding of design patterns and as deployed systems using them
+Understands and leverages CI/CD
+Understanding of UNIX based systems
+Understands secure coding best practices
+Drove several multi team architectural improvements or new technology implementations
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
