@@ -5,71 +5,161 @@ RoadMap : https://github.com/ChuckJonas/Salesforce-Developer-Roadmap?tab=readme-
 
 Job Description 1 : 
 
-
-
+- 5+ years of software development experience, with a minimum of one year of recent career break
+- Good in CS fundamentals - data structures, algorithm design, problem-solving, and complexity analysis
+- Deep knowledge of object-oriented programming and other scripting languages: Java, Python, Scala C#, Go, Node.JS and C++.
+- Experience working on large-scale, complex web applications adhering to web standards like responsiveness, web page performance, security, and accessibility.
+- Good in CS fundamentals - data structures, algorithm design, problem-solving, and complexity analysis
+- Proven experience designing and developing distributed systems at scale.
+- A deeper understanding of software development best practices and demonstrate leadership skills.
+- Degree or equivalent relevant experience required. Experience will be evaluated based on the core competencies for the role (e.g. extracurricular leadership roles, military experience, volunteer roles, work experience, etc.)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 2 :
 
-
+2-5 years of professional software development experience
+Extensive programming experience as a Full-stack engineer and a good understanding of the Web application domain. 
+Sound in Designing and Implementation of Scalable features, Knowledge of Design Patterns and Industry best practices. 
+Commitment to software engineering best practices – design, testing, documentation, code reviews etc 
+Good knowledge of Java or similar programming languages. 
+Strong computer science, data structure and database concepts 
+Ability to take a problem, analyze, design, educate team members on it and work with them to solve the problem with high quality and on time.
+Excellent communication and presentation skills. Work closely with cross-functional teams across geographies.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 3 :
 
-
-
+A related technical degree required
+15 years experience in software engineering, quality engineering, usability, or business analysis
+Highly proficient in Javascript and Java
+Experience with automation (UI and Backend)
+Grasp of Object Oriented Programming
+Familiar with industry quality & usability practices
+Proficient in writing functional automation (UI/API)
+Ability to learn quickly and demonstrates problem-solving skills.
+Effectively communicate technical information in a clear and concise manner and ability to coordinate cross-team efforts
+Experience with agile development methodology
+Experience with developer tools like git, Maven and Eclipse IDE
+Good grasp of relational databases and SQL
+Degree or equivalent relevant experience required. Experience will be evaluated based on the core competencies for the role (e.g. extracurricular leadership roles, military experience, volunteer roles, work experience, etc.)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 4 :
 
-
-
+Bachelor's degree in computer science or equivalent experience
+2+ years work experience in engineering / programming / technical support
+Excellent written and verbal communication skills
+Experience with Database concepts, Data management (RDBMS), and SQL
+Understanding of Internet technologies: firewalls, web servers, proxy servers, etc.
+Experience with reading/writing HTML, APEX, JavaScript and CSS
+Experience working with and troubleshooting variety of internet browsers - Google, Safari, etc.
+Demonstrated skill in Customer Support or Customer Service in a customer-facing role
+Ability to effectively prioritize and escalate customer issues, as required
+Ability to multi-task and perform effectively under pressure
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 5 :
 
-
-
+- BTech/BS degree in a technical field preferred with a strong academic record.
+- 2 to 8 years engineering / programming work experience.
+- Lightning Experience - Lighting Web Components & Aura
+ Modern Javascript
+ Apex(Synchronous and Asynchronous)
+ Integration - REST/SOAP/Bulk API
+ Debugging/Troubleshooting Errors
+ Visualforce
+ Sites/Communities/Force.com
+ SOQL/SOSL
+ Deployment- Metadata API/ANT Migration tool/CLI
+ Flows/Process Builder
+ Authentication, SSO/Auth Provider
+ Event driven architecture - Platform Events, Streaming API, Change data capture
+ Field Service Lightning (FSL)
+ Mobile Dev
+ Excellent written and verbal communication skills
+ Solid understanding of Internet technologies: firewalls, web servers, web proxy servers, etc.
+ Understanding of database concepts and data management (RDBMS) and SQL
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 6 :
 
 
+Deep understanding of object-oriented programming and experience in Java and Spring framework.
+ Experience with Agile development methodologies, continuous integration (CI) and continuous deployment (CD)
+ Ability to support / resolve production customer escalations with excellent debugging and problem solving skills
+ Excellent interpersonal and communication skills.
+ Bachelor’s degree in Computer Sciences or equivalent field
 
+Preferred Qualifications
+
+ Experience in Business Intelligence, Data and Analytics domain.
+ Familiarity with Data model design, database technologies (RDBMS & NoSQL).
+ Experience with public cloud services (AWS/ GCP/ Azure) and cloud technologies like terraform, spinnaker, EKS, GKE, etc.
+ Experience with Containers and Container Orchestration systems (such as Kubernetes, Docker Swarm etc)
+ Prior experience working with a global team
+ Master’s degree in Computer Sciences or equivalent field
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 7 :
 
-
+6+ years of development & design experience; design and implementation experience of large infrastructure projects with multiple teams
+Javascript, Go, or Python in a Linux/UNIX data center environment
+AWS, GCP, and/or Azure platforms
+Experience owning and operating multiple instances of a mission-critical serviceAgile development methodology and test-driven Development
+Experience using telemetry and metrics to drive operational excellence
+API development best practices
+Open-source projects like GitHub, Redis, Puppet, Terraform, Swagger, Spinnaker, RabbitMQ, Docker, and Kubernetes
+Experience balancing live site management, feature delivery, and retirement of technical debt
+Experience designing, developing, debugging, and operating resilient distributed systems that run across thousands of compute nodes in multiple data centers.
+Deep understanding of algorithms and data structures
+Expert judgment, analytical and problem-solving skills
+Bachelor's or Master’s degree in computer science, engineering, or a related technical discipline.
+Excellent written and verbal communication skills with outstanding attention to details
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 8 :
 
-
+Experience in large-scale software development projects.
+Knowledge of other testing frameworks like TestNG, Spock, etc.
+Familiarity with cloud platforms (e.g., AWS, Azure, Google Cloud).
+Experience building distributed and scalable systems.
+Experience with Agile development methodology and Test-Driven Development
+Experience owning and operating mission-critical services
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 9 :
 
-
-
+6+ years of professional software development experience
+Deep knowledge of object-oriented programming and experience with at least one object-oriented programming language (Java, Javascript, C++, C#, Ruby, Python).
+Proven understanding of web application development
+Proven experience in Database technologies such as SQL, PL/SQL, and relational database schema design.
+Experience in automated testing including unit and functional testing using Java, JUnit, JUnit, and Selenium.
+Excellent interpersonal skills.
+Degree or equivalent relevant experience required. Experience will be evaluated based on the core competencies for the role (e.g. extracurricular leadership roles, military experience, volunteer roles, work experience, etc.).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 10 :
 
-
-
+Mastery of multiple programming languages and platforms
+3 + years of software development experience
+Deep knowledge of object-oriented programming and other scripting languages: Java, Python, Scala C#, Go, Node.JS and C++.
+Strong SQL skills and experience and experience with relational and non-relational databases e.g. (Postgress/Trino/redshift/Mongo).
+Experience with developing SAAS products over public cloud infrastructure - AWS/Azure/GCP.
+Proven experience designing and developing distributed systems at scale.
+A deeper understanding of software development best practices and demonstrate leadership skills.
+Degree or equivalent relevant experience required. Experience will be evaluated based on the core competencies for the role (e.g. extracurricular leadership roles, military experience, volunteer roles, work experience, etc.)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
