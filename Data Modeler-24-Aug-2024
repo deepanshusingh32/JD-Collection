@@ -3,67 +3,186 @@ Sheet Link : https://docs.google.com/spreadsheets/d/1NsolUvyzlQpSxaqM5HgDS6r3SG2
 
 Job Description 1 : 
 
-
+- Experience: 7 to 10 years
+- Mandatory Skills: Data Model Design, ER-diagram, Data Warehouse, Data Strategy, Hands on experience in Design and Architecture for enterprise data application.
+- Good to have: Python, PySpark, Databricks, Azure Services(ADLS, ADF, ADB)
+- Good communication and Problem-solving skills.
+- Some understanding on CPG domain.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 2 : 
 
+The candidate must demonstrate proficiency in, 
 
+- 10 years of experience in IT, specializing in solution architecting for Data warehouse and Data modeling.
+- Professional experience in ER and Dimensional modeling, data analysis, and design of OLTP and OLAP systems.
+- Proficiency in Normalization/Denormalization techniques for optimal performance in relational and dimensional database environments.
+- Strong experience with Star and Snowflake schemas, Dimensional Data Modeling, Fact and Dimensional tables, and Slowly Changing Dimensions (Type1, Type2, and Type3).
+- Exposure to ETL tools like Informatica and BI tools like Tableau.
+- Proficiency in design tools such as ERWin, Power Designer, ER Studio, and Oracle Data Modeler.
+- Experience with databases including NoSQL (MongoDB), Snowflake, SQL Server, and Postgres.
+- Proficiency in programming languages such as SQL, PL/SQL, Python, R, and Bash.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 3 : 
 
-
+• 8+ years of experience in Information Technology.
+• 6+ years of Data Modeling experience.
+• Experience evaluating data from multiple sources, reconciling conflicts, decomposing high-level data into details as well as take details and bring to higher level for general communication. Experience with data profiling, cleansing and conforming rules.
+• Experience with interpreting business information requirements to create new and update existing Conceptual, Logical, Physical (both dimensional and relational) data models in OLTP, ODS / OLAP (data warehouse) and integration environments.
+• Experience with a host of commercial data modeling tools including Erwin Data Modeler and Oracle SQL Developer Data Modeler.
+• Experience creating SQL queries to perform data profiling and determine cleansing and conforming requirements without tools mandatory.
+• Experience in ETL, Data Warehousing, ODS Data Marts and performance tuning methods.
+• Experience or ability to quickly make use of query tools such as TOAD, Oracle SQL Developer, etc.
+• Knowledge of emerging modeling techniques.
+• Experience in physical data modeling for Oracle.
+• Healthcare domain knowledge or ability to quickly pick up business processes and impacts on information/data.
+• Ability to communicate with others in a diverse business and IT environment from both cultural and experience aspects.
+• Ability to build consensus and understanding across business and IT.
+• Should have good communication and writing skills.
+• Candidates must be willing to work in an energetic, fast paced and team-oriented development environment.
+• Ability to manage multiple priorities effectively is a necessity.
+• Ability to work independently or as part of a team.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 4 : 
 
+Experience :
 
+- Bachelor’s degree in computer science, Information Technology, or equivalent relevant work experience.
+- 3 - 7 years of hands-on experience in Enterprise BI design & development.
+- Strong expertise in working with OBIEE RPD development.
+- Strong expertise in ETL design & development.
+- Effective communication skills and the ability to work collaboratively in a team environment.
+
+Required Skills:
+
+- Dimension Modeling
+- OBIEE/OAC, other Analytical tools
+- Informatica, Other ETL tools
+- Oracle & PL/SQL, other RDBMS
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 5 : 
 
+- Bachelor of Science degree and/or Master’s in software engineering / Computer Science or an equivalent discipline
+- 5+ yrs. of hands-on experience using various development methodologies to deliver robust PaaS and DaaS based analytics solutions on Azure data platform
+- Proven expertise of ERWIN, Azure data platform, CI/CD
+- Strong knowledge of using Snowflake, Hadoop, MPP Data platform, Azure Data Factory, Azure HDI, and Open-source technologies
+- Superior documentation and communications skills
+- Proven ability to lead & coach diverse teams of data modelers located globally
 
+Technology Requirement
+
+- ERWIN/Other Data Modeling Tools: develop, enrich, and maintain logical & physical data models
+- Cloud Database experience in Snowflake and/or HIVE
+- DevOps: GitHub, Azure DevOps
+- ETL/ELT Framework design and implementation
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 6 : 
 
-
+- 12 - 15 years of experience with at least 5+ years of experience in data modeling.
+- Experience in data modeling for complex, large-scale & global data driven implementations.
+- Strong experience in data modeling activities supporting time series, data warehousing & data transformations.
+- Ability to create and maintain conceptual, logical, and physical data models.
+- Ability to comprehend complex data consumption requirements and define semantic models to support them.
+- Ability to understand business & associated data landscape and identify data domains aligned to business capabilities.
+- Ability to collaborate with cross-functional teams to gather and analyse data requirements.
+- Exposure to / understanding of modern data management approaches e.g. data mesh, data on cloud technologies e.g. Snowflake, RDS & data processing platforms e.g. Starburst.
+- Proficiency in any data modeling tool preferably Erwin.
+- Ability to distil complexity, strong analytical and problem-solving skills.
+- Ability to get into the details of query performance issues and address them through efficient database design & data modeling.
+- Excellent communication and documentation skills.
+- Knowledge of industry best practices for data modeling and database design.
+- Experience in Finance domain would be an added advantage.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 7 : 
 
-
+- 8+ experience in metadata management, data modelling, and related tools (Erwin or ER Studio or others).
+- Hands-on relational, dimensional, and/or analytic experience (using RDBMS, dimensional data platform technologies, and ETL and data ingestion).
+- Experience with data warehouse, data lake, and enterprise big data platforms in multi-data-center contexts required.
+- Help team to Implement business and IT data requirements through new data strategies and designs across all data platforms (relational, dimensional) and data tools (reporting, visualization, analytics, and machine learning).
+- Work with business and application/solution teams to implement data strategies develop the conceptual/logical/physical data models
+- Define and govern data modeling and design standards, tools, best practices, and related development for enterprise data models.
+- Hands-on modeling in modelling and mappings between source system data model and Datawarehouse data models.
+- Work proactively and independently to address project requirements and articulate issues/challenges to reduce project delivery risks wrt modelling and mappings.
+- Hands on experience in writing complex SQL queries.
+- Good to have experience in data modelling for NOSQL objects.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 8 : 
 
-
+• Ability to coordinate and explain with business users to get the requirements.
+• Should have very good and clear communication skills.
+• Should have experience working in an Onsite-offshore model.
+• 10+ Years of experience in writing complex DB queries in MS SQL Server, Azure Data Models, Power BI, and Azure Analytics Services.
+• Must have 5+ years of minimum experience in developing conceptual, logical, and physical data models, the implementation of RDBMS, operational data store (ODS), data marts, and data lakes on target platforms.
+• Normalization/Denormalization concepts.
+• Metadata management and data governance.
+• Strong Data Analysis and Physical Data Modeling experience.
+• Deep expertise in data modeling and structuring, and experience in high-volume data environments.
+• Good experience in schema designs and data warehousing ETL/ELT concepts.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 9 : 
 
-
+• 10 years of experience in IT, specializing in solution architecting for Data warehouse and Data modeling.
+• Professional experience in ER and Dimensional modeling, data analysis, and design of OLTP and OLAP systems.
+• Proficiency in Normalization/Denormalization techniques for optimal performance in relational and dimensional database environments.
+• Strong experience with Star and Snowflake schemas, Dimensional Data Modeling, Fact and Dimensional tables, and Slowly Changing Dimensions (Type1, Type2, and Type3).
+• Exposure to ETL tools like Informatica and BI tools like Tableau.
+• Proficiency in design tools such as ERWin, Power Designer, ER Studio, and Oracle Data Modeler.
+• Experience with databases including NoSQL (MongoDB), Snowflake, SQL Server, and Postgres.
+• Proficiency in programming languages such as SQL, PL/SQL, Python, R, and Bash.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 10 : 
 
-
+• Strong Database knowledge and work experience in dealing with multi terabyte and high concurrent work loads
+• 2+ years of experience related to MPP and/or Columnar database platforms like Redshift , Azure , Snowflake etc
+• 4 years of experience with traditional OLTP database platforms like Postgres ,MS SQL server etc
+• Strong theoretical knowledge and practical exposure in creating and troubleshooting various database objects / techniques including but not limited to:
+• Define better indexing strategies
+• Create optimal database triggers
+• Work with stakeholders to come up with innovative UDF’s
+• Stored Procedures ,data partitioning
+• Strong Distribution , clustering key concepts related to MPP platforms etc...
+• Brainstorm Query profiling, break down query plans etc.
+• Come up with optimal storage patterns and designs for LOB data structures.
+• Previous experience in dealing with migration of high volume databases from traditional database platforms to modern columnar (MPP) platforms.
+• Exposure in working with multi tenant platforms.
+• Extensive experience in working with and advising data engineering teams related to high volume data ingestion and transformation pipelines.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 11 : 
 
-
+• Bachelor's degree in Computer Science, Information Systems, or a related field
+• Proven experience as a Data Modeler, Data Architect, or Database Designer
+• Proficiency in data modeling tools such as ER/Studio, ERwin, or SAP PowerDesigner
+• Strong understanding of database management systems and SQL programming
+• Experience with ETL processes and tools
+• Knowledge of data governance and data management principles
+• Familiarity with data warehousing concepts and methodologies
+• Excellent analytical and problem-solving skills
+• Ability to communicate complex technical concepts to non-technical stakeholders
+• Strong attention to detail and data accuracy
+• Ability to work effectively in a collaborative team environment
+• Understanding of industry best practices and emerging trends in data modeling and database design
+• Certification in data management or data modeling is a plus
+• Experience with data analysis and business intelligence tools is a plus
+• Knowledge of NoSQL databases is a plus
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
