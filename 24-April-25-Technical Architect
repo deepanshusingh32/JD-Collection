@@ -3,41 +3,195 @@ Google Sheet Link : https://docs.google.com/spreadsheets/d/15sXmdzzeAWDVT9raJWAT
 
 JD - 1
 
+- BTech degree in computer science, engineering or related field of study or 12+ years of related work experience
+- 7+ years design & implementation experience with large scale data centric distributed applications
+- Professional experience architecting, operating cloud-based solutions with good understanding of core disciplines like compute, networking, storage, security, databases etc.
+- Good understanding of data engineering concepts like storage, governance, cataloging, data quality, data modeling etc.
+- Good understanding about various architecture patterns like data lake, data lake house, data mesh etc.
+- Good understanding of Data Warehousing concepts, hands-on experience working with tools like Hive, Redshift, Snowflake, Teradata etc.
+- Experience migrating or transforming legacy customer solutions to the cloud.
+- Experience working with services like AWS EMR, Glue, DMS, Kinesis, RDS, Redshift, Dynamo DB, Document DB, SNS, SQS, Lambda, EKS, Data Zone etc.
+- Thorough understanding of Big Data ecosystem technologies like Hadoop, Spark, Hive, HBase etc. and other competent tools and technologies
+- Understanding in designing analytical solutions leveraging AWS cognitive services like Textract, Comprehend, Rekognition etc. in combination with Sagemaker is good to have.
+- Experience working with modern development workflows, such as git, continuous integration/continuous deployment pipelines, static code analysis tooling, infrastructure-as-code, and more.
+- Experience with a programming or scripting language – Python/Java/Scala
+- AWS Professional/Specialty certification or relevant cloud expertise
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 2
+
+- Single point of contact with customer for Cloud enablement/assessment  
+- Infrastructure assessment (networking, applications, databases, etc.)  
+- Identify application dependencies.  
+- Based on inventory report, determine end of lifecycle of workloads (OS versions, application versions, database versions, etc.)  
+- Identify high availability and geo-redundancy requirements.  
+- Automation assessments tasks  
+- Networking Design  
+- OCI landing zone templates creation/update  
+- Work with OCI team to build the OCI environment  
+- VM creation, Subnet Creation and routing table creation  
+- End to End application validation with customer (troubleshooting latency, packet loss, burst, etc…)  
+- Knowledge on Regression testing  
+- Experience on Performance testing
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 3
 
+- ● 3+ years developing Drupal applications. Drupal 7/8/9 experience required.  
+- ● 1+ year of Experience in building applications in Drupal8.  
+- ● 6+ years industry experience in software development and/or DevOps projects.  
+- ● Must have strong analytical and technical skills using PHP and MYSQL.  
+- ● Expertise in JavaScript and mainstream JavaScript libraries such as JQuery and working knowledge of Ajax.  
+- ● Good understanding of web technologies, debugging and protocols.  
+- ● Contribution to the open-source community  
+- ● Must have PHP, JavaScript, AJAX, HTML and CSS experience  
+- ● Should be able to code as per Drupal coding standards and best practices.  
+- ● Should be well versed with implementation and configuration of most commonly used modules  
+- ● Experience with CSS Frameworks and tools.  
+- ● Should have a strong understanding about Drupal 8.x, configuring control, security and performance modules.  
+- ● Respond positively to opportunities to be involved in brainstorming and iterative work. Handle times of change in a way that drives innovation and iteration.  
+- ● Strong understanding of Object Oriented Programming.  
+- ● Experience with a Multisite environment would be a plus.  
+- ● Experience on Drupal 9 (Good to have)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 4
+
+- Technical Experience  
+- Experienced with Data modeling in Relational and Multi-dimensional databases  
+- Experienced with Data Integration methods including file-based and API based data Integrations.  
+- Practical understanding of Data Transformation requirements between source to target based on data criteria  
+- Knowledge of scripting languages for data handling will be preferred  
+- Understanding Data Quality requirements and validation of data quality sourced from external sources  
+- Understanding of web-based reporting tools  
+- Experience with setting up public cloud services like GCP, AWS, Azure will be preferred.  
+- Experience in extracting and integrating data from ERP systems such as SAP, Oracle, or Microsoft Dynamics.  
+
+- Ideal Experience  
+- Worked hands on as Data Model developer or Data Integration developer in Analytics Products or Services for at least 2 years  
+- Worked on EPM or Analytics products as modeler / technical consultant for at least 2 years (ex: Hyperion, Anaplan, Jedox, One Stream, or similar)  
+- Have experience with procuring data from ERP systems like SAP/Oracle/MS Dynamics
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 5
 
+- Hands-on experience with SSIS, ETL, Informatica (ETL), or similar  
+- 1 year of experience managing multiple client batch jobs  
+- Timely response and resolution of batch automation disruptions, in order to meet customer SLA’s with accurate and on-time results  
+- Validating, synthesizing, transforming customer data for planning, visibility, collaboration, and analytics using tools like SQL/SSIS/Excel, Apache NiFi, Hadoop, PySpark/Hive SQLs  
+- Review and analyze the data provided by the customer along with its technical/functional intent and interdependencies.  
+- Ensure smooth operations of o9's cloud-based solution  
+- Support continuous integration and continuous delivery processes  
+- Collect, monitor and analyze systems performance data for improved performance  
+- Create automated tasks with shell scripts (bash, PowerShell, python)  
+- Understand the o9 platform’s data model (table structures, linkages, optimal designs) post-go-live for maintaining, debugging, and enhancing various planning use cases.  
+- Participate in the technical design, data requirements gathering, making recommendations in case of inaccurate or missing data.  
+- Fine-tune performance at various levels; automate manual processes; establish checks and balances for sustained value delivery.  
+- Create and execute integration test-cases. Work on bugs/issues and track the progress of resolving issues using support tools.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 6
+
+- Automation Solutions Design: Identify and implement the most suitable technologies to solve QC challenges and improve efficiency.  
+- Requirements Analysis: Collaborate with Product teams to understand business problems and translate them into functional and technical requirements.  
+- Architecture Development: Perform architecture analysis to derive non-functional requirements, ensuring performance, scalability, security, and maintainability.  
+- Framework & Standards: Design and document system architecture, interfaces, and frameworks for automation solutions, ensuring long-term sustainability.  
+- Technical Guidance: Guide Programming Leads and teams in implementing frameworks and adhering to architecture best practices.  
+- Technology Evaluation: Propose and validate technology solutions for automation challenges, including proof-of-concept (POC) development.  
+- Code Quality: Conduct code reviews and promote best practices to ensure high-quality, maintainable code.  
+- Collaboration: Work closely with Programming Leads and Project Managers to define team composition, effort estimates, and execution strategies.  
+- Problem Resolution: Troubleshoot technical issues and provide expert guidance to teams as needed.  
+- Training Plans: Creating a long-term training plan for the Tech. teams for core technical trainings and work closely with L&D Manager to ensure execution.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 7
 
+- Independently analyze, solve, and correct issues in real time, providing problem resolution end-to-end.  
+- Strong experience in development tools, CI/CD pipelines. Extensive experience with Agile.  
+- Good proficiency overlap with technologies like: Java8, Spring, SpringMVC, RESTful web services, Hibernate, Oracle PL/SQL, SpringSecurity, Ansible, Docker, JMeter, Angular.  
+- Strong fundamentals and clarity of REST web services. Person should have exposure to developing REST services which handles large sets  
+- Fintech or lending domain experience is a plus but not necessary.  
+- Deep understanding of cloud technologies on at least one of the cloud platforms AWS, Azure or Google Cloud  
+- Wide knowledge of technology solutions and ability to learn and work with emerging technologies, methodologies, and solutions.  
+- Strong communicator with ability to collaborate cross-functionally, build relationships, and achieve broader organizational goals.  
+- Provide vision leadership for the technology roadmap of our products. Understand product capabilities and strategize technology for its alignment with business objectives and maximizing ROI.  
+- Define technical software architectures and lead development of frameworks.  
+- Engage end to end in product development, starting from business requirements to realization of product and to its deployment in production.  
+- Research, design, and implement the complex features being added to existing products and/or create new applications / components from scratch.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 8
+
+- Strong MERN (Mongo DB + Mongoose, Express, React, Node JS) full stack experience using Typescript.  
+- Experience in leading in code reviews.  
+- Demonstrate understanding of SOLID principles.  
+- Demonstrate understanding of TDD or BDD.  
+- Good knowledge and experience of writing good unit tests.  
+- Strong implementation design using cloud.  
+- Microservices architecture, GraphQL, RESTful Webservices, NoSQL & SQL  
+- Docker & containerization, CI/CD pipeline design & build  
+- Event driven architecture, Kafka.  
+- Use of tools such as JIRA, Git, GitHub  
+- Strong communication skills  
+- Ability to lead discussion and solve problems for the dev team  
+- Ability to manage expectations of Product/Business teams in terms of prioritizing quality, aligning to the strategic vision  
+- Provide guidance on inline technical documentation
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 9
 
+Required Skills & Qualification
+
+- Frontend: React.js / Angular / Vue.js, WebSockets, RESTful APIs.  
+- Backend: GraphQL, Node.js / Python (FastAPI, Flask, Django) / Java / Spring Boot.  
+- AI Integration: Experience integrating AI/ML models via REST/ GraphQL APIs / TensorFlow Serving / ONNX, or custom AI pipelines.  
+- Databases: Neo4j (GraphDB), PostgreSQL / MongoDB / Redis / Firebase.  
+- Cloud & DevOps: AWS / GCP / Azure, Kubernetes, Docker, Terraform, CI/CD (Jenkins, GitHub Actions).  
+- Security: OAuth2, JWT, Role-Based Access Control (RBAC), Secure API design.  
+- Experience with EDA tools, AI-driven design automation and real-time interface systems is a plus.  
+- Master’s or Bachelor’s degree in Computer Science, Engineering, or related field.  
+
+Key Responsibilities
+
+- Define and implement a scalable and modular full-stack architecture integrating UI/UX, backend, and AI engine.  
+- Optimize backend services for low-latency AI inference and large dataset processing.  
+- Define security standards, authentication, and authorization protocols across all layers.  
+- Integration of AI models into the backend via APIs, microservices, or containerized deployments.  
+- Ensure frontend frameworks (React, Angular, Vue) interact seamlessly with backend services.  
+- Implement best DevOps practices for CI/CD pipelines, automated testing, and deployment.  
+- Conduct performance benchmarking, ensure the system supports real-time and batch processing efficiently.  
+- Optimize backend databases (PostgreSQL, NoSQL, GraphDB) for fast AI inference and user interactions.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 10
+
+Here is your content with a hyphen added at the beginning of each line:
+
+- 10-12 years of professional experience in software development, with significant experience in Java.  
+- Strong candidate who has worked on design and development of Backoffice trading operations, ledger funds, RMS application.  
+- Expertise in system architecture, design patterns, and development of scalable, low-latency, and high-availability systems.  
+- Need good skillset for capital market product development Backoffice trading operations experience, ledger funds, RMS application  
+- Integrated OMS and RMS  
+- Strong background in designing and developing Front Office and RMS (Risk Management System) applications, preferably within the financial services industry.  
+- Expertise in system architecture, design patterns, and development of scalable, low-latency, and high-availability systems.  
+- Deep understanding of financial trading systems, including risk management, pricing, order management, and trading lifecycle.  
+- Experience with multi-threading, concurrency, and performance optimization in high-frequency, real-time systems.  
+- Knowledge of financial protocols, messaging systems (e.g., FIX), and market data handling is highly desirable.  
+- Familiarity with Unix/Linux environments and development tools for C++ and Java.  
+- Strong problem-solving skills, with the ability to quickly analyse complex issues and provide effective solutions.  
+- Experience with cloud platforms (e.g., AWS, Azure) and distributed systems.  
+- Familiarity with modern front-end technologies and UI frameworks is a plus.  
+- Knowledge of databases (SQL and NoSQL) and data modeling for large-scale, real-time systems.  
+- Prior experience with Agile methodologies and DevOps practices.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
