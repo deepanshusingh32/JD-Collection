@@ -687,108 +687,168 @@ Responsibilities
 
 JD - 33
 
-
+Required Skills & Qualifications : 
+- Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.
+- 7+ years of experience in full-stack development, with expertise in MERN (MongoDB, Express.js, React.js, Node.js).
+- Strong experience in system architecture, microservices, and API design.
+- Proficiency in JavaScript, TypeScript, and ES6+.
+- Experience with GraphQL, RESTful APIs, and WebSockets.
+- Strong knowledge of database management (MongoDB, PostgreSQL, or MySQL).
+- Familiarity with Docker, Kubernetes, and cloud-based deployments.
+- Experience with state management libraries (Redux, Context API, or Recoil).
+- Understanding of serverless computing and event-driven architectures.
+- Proficiency in performance optimization, caching strategies (Redis, CDN), and load balancing.
+- Preferred Qualifications
+- Experience with Next.js, NestJS, or other modern frameworks.
+- Knowledge of AI/ML integrations in web applications.
+- Understanding of blockchain, Web3, or decentralized applications (optional but a plus).
+- Familiarity with NoSQL and SQL hybrid architectures.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 34
 
-
+Requirements : 
+- BS in Computer Science or Software Engineering
+- 7+ years of experience working as a software engineer
+- Excellent analytical and problem solving skills
+- Good understanding of software development fundamentals
+- Knowledge of data structures, databases, networks and algorithms
+- Good understanding of information security concepts
+- Experience with cloud platforms such as AWS and Openstack
+- Familiar with containerization technologies such as Docker and Kubernetes
+- Experience using Apache Kafka
+- Experience developing web services and network APIs
+- Familiar with SQL and NoSQL database technologies
+- Familiar with Linux operating systems and scripting languages
+- Strong verbal and written communication skills
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 35
 
+Requirements:
 
+1. Expereince with MEAN/MERN Stack, solid understanding of Javascript/Typescript based development.
+2. Sound knowledge of Devops (AWS/Azure/GCP), should be able to set up multiple environments, pipelines for deployment (CI/CD) and automated testing. Should have experience with Docker, Kubernetes, Jenkins etc.
+3. Experience with designing server side applications as per requirements, should be able to assess all factors and build scalable, efficient and secure products.
+4. Knowledge of monolithic, microservices, SOA and serverless architectures. Should be aware of best practises and be able to design RESTful APIs.
+5. Good critical reasoning and analytical skills. Should be able to mutli task and prioritize.
+6. Most importantly, the passion to work in a startup. There is good funding and decent pay now, but it only gets better if the person can sync with the team, take on their responsibilities and give the best output. It's a small team with a flat hierarchy, everyone grows with the company.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 36
 
-
+Requirements:
+- 8+ years of working experience on MEAN/MERN stacks with Nest.js and GraphQL.
+- Must be experienced in building scalable applications.
+- In depth knowledge and hands on experience of NodeJS, Nest.js, Angular or React and AWS.
+- Be highly-capable experts in Javascript and Typescript.
+- Experience in NOSQL data base like MongoDB, Postgre SQL and DynamoDB.
+- Experience in Elastic Search, Redis and Memcached.
+- Architecting and deploying applications for AWS.
+- Designing APIs consumed by many mobile or web applications
+- Good knowledge on authentication, authorization and security technologies.
+- Employing strong TDD and performance optimization strategies
+- AWS certifications.
+- Should be able to manage client requirement and strong communication skills.
+- Strong team leadership skills (helping lead the team's work) and influence the technical direction for the team.
+- Should have experience in hiring and mentoring the tech team.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 37
 
-
+Main skill sets are:
+- Design: Defining the overall software architecture. Create blueprints for software projects, ensuring the design meets the client's needs.
+- Develop: Design and develop software solutions, including the programming, testing, and deployment
+- Document: Document software functionality and components, and create enterprise software documentation
+- Test: Test software for quality assurance and check for errors like unit test
+- Performance: Check the application performance and improve it
+- NodeJS: Have worked on JavaScript with Nodejs framework.
+- Recommend: Recommend appropriate tools, technologies, and processes for development
+- Establish: Establish coding standards, guidelines, and project practices
+- Hands on practice on following technologies like:
+- Node.JS, Node OPC UA
+- React (JavaScript),
+- JavaScript, HTML, CSS,
+- RESTful APIs. Web Socket
+- GIT version control.
+- MongoDB,
+- Continuous integration – Jenkins,
+- JIRA tracker for Requirement analysis
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 38
 
+Responsibilities:
+- Define and design the frontend architecture for web and mobile applications.
+- Lead the selection of frontend frameworks and tools (e.g., React, Angular, Vue.js, Next.js).
+- Collaborate with UX/UI designers to translate designs into high-quality, responsive interfaces.
+- Establish frontend coding standards, best practices, and reusable component libraries.
+- Optimize frontend performance, accessibility, and SEO compliance.
+- Mentor and guide frontend developers, fostering a culture of technical excellence.
+- Work closely with backend architects to ensure seamless API integrations.
+- Stay updated on emerging frontend technologies and recommend adoption strategies.
+- Conduct code reviews and ensure adherence to quality standards.
+- Drive continuous improvement in frontend development processes.
 
+Requirements:
+- Bachelor’s or Master’s degree in Computer Science, Software Engineering, or related field.
+- 8+ years of experience in frontend development and architecture.
+- Expertise in JavaScript, TypeScript, HTML5, CSS3, and ES6+.
+- Proficiency in modern frontend frameworks (React, Angular, Vue.js, or Svelte).
+- Experience with state management libraries (Redux, MobX, Recoil, or Zustand).
+- Strong understanding of RESTful APIs, GraphQL, and WebSockets.
+- Familiarity with build tools (Webpack, Vite, or Rollup) and package managers (npm, Yarn).
+- Experience with testing frameworks (Jest, Cypress, or Playwright).
+- Knowledge of CI/CD pipelines and frontend deployment strategies.
+- Strong problem-solving skills and attention to detail.
+- Excellent communication and leadership skills.
+
+Preferred Qualifications:
+- Experience with Progressive Web Apps (PWAs) and JAMstack architectures.
+- Knowledge of Web3, blockchain, or decentralized application development.
+- Familiarity with cloud platforms (AWS, Azure, or GCP) for frontend hosting.
+- Contributions to open-source frontend projects or communities.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 39
 
+Responsibilities:
+- Design end-to-end architecture for web and mobile applications (frontend and backend).
+- Lead the selection of fullstack technologies (MERN, MEAN, or similar stacks).
+- Architect APIs, microservices, and database systems for scalability.
+- Collaborate with product teams to translate requirements into technical solutions.
+- Optimize application performance across the stack (UI, API, database).
+- Establish coding standards, design patterns, and reusable components.
+- Mentor fullstack developers and conduct code/design reviews.
+- Ensure seamless integration between frontend and backend systems.
+- Drive adoption of modern development practices (TDD, CI/CD, DevOps).
+- Stay updated on fullstack trends and recommend innovative solutions.
 
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-JD - 40
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-JD - 41
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-JD - 42
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-JD - 43
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-JD - 44
+Requirements:
+- Bachelor’s or Master’s degree in Computer Science, Software Engineering, or related field.
+- 8+ years of experience in fullstack development and architecture.
+- Expertise in JavaScript, TypeScript, and frameworks (React, Angular, Node.js).
+- Strong knowledge of databases (MongoDB, PostgreSQL, or MySQL).
+- Experience with RESTful APIs, GraphQL, and WebSockets.
+- Proficiency in cloud platforms (AWS, Azure, or GCP) and containerization (Docker).
+- Familiarity with state management (Redux, Context API) and build tools (Webpack).
+- Understanding of security, authentication, and authorization mechanisms.
+- Strong leadership, communication, and problem-solving skills.
+- Experience with performance optimization and scalability strategies.
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Preferred Qualifications:
 
-JD - 45
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-JD - 46
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-JD - 47
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-JD - 48
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-JD - 49
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-JD - 50
-
-
+- Experience with serverless architectures and event-driven systems.
+- Knowledge of AI/ML integrations in fullstack applications.
+- Familiarity with Web3 or blockchain technologies.
+- Contributions to open-source fullstack projects.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
