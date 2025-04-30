@@ -1,0 +1,406 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Backend Sheet Link : https://docs.google.com/spreadsheets/d/1OPp22YOl3NwrYIxsFpsin2a8VRBhv1D0U1Mkfge9h3Q/edit#gid=67941686
+
+RoadMap 1 : https://www.geeksforgeeks.org/back-end-developer-roadmap/
+RoadMap 2 : https://www.freecodecamp.org/news/back-end-developer/
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 1 : 
+
+- You are currently in the final year of pursuing a degree in Computer Science, Software Engineering, or related field.
+- You have solid understanding of backend development concepts and principles using NodeJS and Typescript.
+- You have familiarity with relational databases, preferably PostgreSQL.
+- You possess Basic knowledge of cloud services, particularly AWS.
+- You have strong problem-solving skills, Excellent communication and teamwork abilities.
+- You pay strong attention to detail and deliver work that is of a high standard
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 2 : 
+
+• Mastery of J2EE, Spring Framework, Hibernate.
+• Basic knowledge of JVM, Java Memory Model and its workarounds
+• Aware of clean coding practices, can write unit tests and implement automated testing platforms
+• Deep understanding of object oriented programming, relational databases.
+• Exposure to open source technologies and tools will be a plus.
+• Understanding of building tools like Ant, Maven, Gradle etc
+• Familiar with code versioning tools e.g GIT
+• Aware of CI/CD processes
+• Familiarity with popular design, architectural patterns and Good Understanding of microservices
+• Strong knowledge of RDBMS systems like MySQL, with basic understanding of NoSQL databases mongo, elasticsearch etc
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 3 : 
+
+● 3- 4 years’ experience as a Django Back-end developer
+● In-depth understanding of the entire web development process (design, development and deployment), Rest API development, OOPS concept
+● Hands on experience with Python, Django Rest Framework, AWS.
+● Understanding of tools Jenkins, GitLab.
+● Familiarity with front-end languages (e.g. HTML, JavaScript and CSS).
+● Excellent analytical and time management skills.
+● Teamwork skills with a problem-solving attitude.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 4 : 
+
+- Minimum 6 years of experience in the web and cloud technology domain
+- 4-year Bachelor’s degree from an accredited institution in engineering, preferably with civil & mechanical specialization
+- Strong .NET skills (C#.net preferred)
+- Experience in Agile Software Development practices and tools (such as Jira. Kanban. etc.)
+- Strong understanding of object-oriented programming and modern backend frameworks
+- Candidates should be robust in Technical and able to contribute towards software and database design and understand/provide architectural recommendations
+- Experience with NodeJS, ASP.net, or similar server technology is helpful
+- Knowledge of software development methodologies such as Waterfall and/or Agile
+- Experience with version control systems/Git and Azure DevOps is preferred
+- Strong Experience with REST API creation
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 5 : 
+
+- Bachelor's degree or equivalent experience 
+- 2+ years experience working with software design and Java, Python and Javascript programming languages 
+- 2+ years experience with software build management tools like Maven or Gradle 
+- 2+ years experience with HTML, CSS and frontend/web development 
+- 2+ years experience with software testing, performance, and quality engineering techniques and strategies 
+- 2+ years experience with Cloud technology: GCP, AWS, or Azure 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 6 : 
+
+- Minimum 5+ years expertise in Node.JS with strong knowledge of Javascript
+- Strong experiences in writing tests and using test frameworks such as mocha, jest etc
+- In-depth knowledge of the Node.js environment.
+- Proficient in Git and GitHub for source control management
+- Proven problem-solving skills to address technical challenges and troubleshoot issues effectively.
+- Excellent communication and decision-making skills, capable of collaborating within a team environment.
+- Proficient in conducting code reviews to ensure code quality
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 7 : 
+
+- Experience creating detailed technical documentation.
+- Articulate written and verbal communication.
+- Deep expertise in Nodejs, Python, or Golang.
+- Expertise and experience working with at least 2 out of REST, GraphQL and gRPC
+- Expertise and experience working with distributed systems & databases, disaster recovery, micro-services and Cloud Infrastructure.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 8 : 
+
+- 2+ experience or more in C++ programming.
+- Understanding of object-oriented programming and writing maintainable code.
+- It’s nice to have an understanding of Windows Programming.
+- It’s nice to have Client-Side Technology (HTML, ReactJS, JavaScript)
+- It’s nice to know Delphi (Even though we are moving away from it, it remains part of the source code).
+- Strong problem-solving and analytical skills.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 9 : 
+
+- Strong Comp Sc. fundamentals esp. communications, algorithms, and data structures
+- Strong understanding of internals and schema design for various types of Data stores (RDBMS, NoSQL)
+- Experience with designing and developing blocking and non-blocking servers is required.
+- Experience with AWS is highly desirable.
+- Experience working on client server (hosted cloud) environment.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 10 : 
+
+- 7+ years of experience in the art of writing code and solving problems on a Large Scale.
+- You will build Robust and scalable web-based applications You will need to think of platforms & reuse
+- Drive problem-solving skills for high-level business and technical problems.
+- Do high-level design with guidance; Functional modeling, break-down of a module
+- Do incremental changes to architecture: impact analysis of the same
+- Do performance tuning and improvements in large scale distributed systems
+- Mentor young minds and foster team spirit, break down execution into phases to bring predictability to overall execution
+- Work closely with Product Manager to derive capability view from features/solutions, Lead execution of medium-sized projects
+- Work with broader stakeholders to track the impact of projects/features and proactively iterate to improve them As a senior software engineer you must have
+- Extensive and expert programming experience in at least one general programming language (e.g. Java, C, C++) & tech stack to write maintainable, scalable, unit-tested code.
+- Experience with multi-threading and concurrency programming
+- Extensive experience in object-oriented design skills, knowledge of design patterns, and huge passion and ability to design intuitive module and class-level interfaces
+- Excellent coding skills – should be able to convert the design into code fluently
+- Knowledge of Test Driven Development
+- Good understanding of databases (e.g. MySQL) and NoSQL (e.g. HBase, Elasticsearch, Aerospike, etc)
+- Strong desire to solving complex and interesting real-world problems
+- Experience with full life cycle development in any programming language on a Linux platform
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 11 : 
+
+- 9+ years of relevant software development experience and Bachelor/Master’s degree. 
+- Knowledge of Algorithms / data collections / design patterns
+- Proficiency in Java 11+ 
+- Experience with Spring Core / Spring Web / Spring Boot
+- Advanced Relational DB and SQL knowledge
+- Hands-on experience with messaging systems (Kafka / RabbitMQ)
+- Hands-on experience with distributed caching systems (Redis)
+- Experience with HTTP clients, OkHttp / Retrofit
+- Hands-on experience in system design, API creation, 
+- Hands-on experience in performance tuning, scalability
+- Hands-on experience with monitoring and metrics (Grafana / Prometheus / Graylog or Kibana)
+- Experience with Integration / Performance testing
+- Experience with CI/CD: Git, Maven or Graddle
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 12 : 
+
+- B.S / B.Tech / B.E or higher in Computer Science or related degree
+- 8+ years' experience in software Backend development
+- Write neat maintainable code in Java / NodeJS related technologies including UI development using react/NextJS. 
+- Assign and track the work for the team. Own the Quality of code. 
+- Review the code submitted by the developers, guide developers to incorporate required changes and conduct Unit testing. 
+- Strong object-oriented design and programming skills.
+- Exceptional coding skills in Java. 
+- Fullstack experience preferred (Able to Lead development, deploy, monitor, maintain, java/typescript applications)
+- Experience with Kubernetes and cloud platforms such as GCP and AWS
+- Experience with relational and/or NoSQL databases such as MongoDB and DynamoDB.
+- Familiarity with Agile Scrum principles
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 13 : 
+
+- 4+ years of full time engineering experience
+- Expert in Javascript
+- Engineering experience in TypeScript, GoLang, Python, PostgreSQL, Kubernetes, React, AWS
+- Experience with back end architectural patterns of large, high-scale web applications
+- Ability to design clean APIs and understanding of performance issues
+- Experienced with software engineering best practices – design patterns, code reviews, unit and integration testing, etc.
+- Ability to communicate technical specifications both verbal and written
+- Solid CS fundamentals – including data structures and algorithms
+- Understanding of security, common attacks and defenses
+- Knowledge of build systems configurations and setup - such as Webpack
+- Experience with infrastructure, distributed systems, and deploying apps into a high-scale environment
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 14 : 
+
+- 5+ years of professional experience and fluency in Ruby and Ruby on Rails.
+- Ability to write efficient algorithms, and clean code.
+- Good knowledge of relational databases such as PostgreSQL and MySQL.
+- Experience working with Sidekiq, RSpec and other common RoR libraries.
+- Working knowledge of Git, Docker.
+- Good knowledge of full stack web development.
+- Familiarity with building high performance and scalable software in an internet scale distributed cloud environment.
+- Interest in creating well thought out infrastructure and APIs.
+- Experience with public clouds (AWS, Azure, GCP) is a plus.
+- A growth mindset and excitement about breaking the status quo by seeking innovative solutions.
+- Great communication skills, both verbal and written, and an interest in working with a diverse set of peers and customers.
+- Alignment with ThoughtSpot's values.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 15 : 
+
+- Bachelor’s or master’s degree in computer science or related field.
+- 5+ years of experience in software development and coding in various languages (Python, Java, Golang, C++)
+- Excellent knowledge of software and application design and architecture.
+- Excellent knowledge of Microservices and server-side architectures as well as HTML/CSS, JavaScript, and UI/UX design.
+- Understanding of software quality assurance principles.
+- A technical mindset with great attention to detail.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 16 : 
+
+- BTech degree in computer science or related field.
+- 3-6 years of relevant work experience.
+- Strong experience in Java.
+- Strong knowledge of any of the databases like MySQL, NoSQL, SQL Server, Oracle, PostgreSQL.
+- Experience in scripting languages like Python, PHP, etc. 
+- Hands-on experience with systems that are asynchronous, RESTful, and demand concurrency.
+- Knowledge of best software engineering practices for all stages of software development life cycle.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 17 : 
+
+- Proven experience in Core Java, OOPs concepts, collection, Multithreading,Concurrency, lambdas & streams.
+- Strong hands-on experience on Angular 2+
+- Hands-on Java and open-source server-side technologies development experience.
+- Strong fundamentals of object-oriented design and event/message driven architecture. (MQs, Kafka etc)
+- Quick learner and ability to understand and follow functional processing of the system.
+- Practical experience of Agile development
+- Any experience in developing reactive UI applications using JS based technologies like Angular/React/NextJs is preferred
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 18 : 
+
+- 2+ experience or more in C++ programming.
+- Understanding of object-oriented programming and writing maintainable code.
+- It’s nice to have an understanding of Windows Programming.
+- It’s nice to have Client-Side Technology (HTML, ReactJS, JavaScript)
+- It’s nice to know Delphi (Even though we are moving away from it, it remains part of the source code).
+- Strong problem-solving and analytical skills.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 19 : 
+
+- Experience as a backend Laravel developer.
+- Experience in Core PHP using MVC Architecture.
+- Ability to write APIs including Restful APIs.
+- Knowledge of database operations with MySQL/MongoDB, Stored procedures.
+- Knowledge of front-end technologies (HTML5, CSS3, JavaScript, jQuery, etc.).
+- Knowledge and experience of OOPs concepts.
+- Experience working with CMS systems e.g. Magento, WordPress
+- Good knowledge of web hosting environments e.g. cPanel, AWS, Google
+- Knowledge of source control e.g. Bitbucket, Github
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 20 : 
+
+- Design, develop, and maintain scalable web applications using PHP Laravel, Node.js, and Python.
+- Collaborate with cross-functional teams to define, design, and ship new features.
+- Write clean, maintainable, and efficient code following best practices.
+- Develop and integrate RESTful APIs and microservices.
+- Stay up-to-date with emerging technologies and industry trends.
+- Optimize applications for maximum speed and scalability.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 21 : 
+
+- BTech/MTech in Computer Science or a related field from a leading university
+- Familiar with concepts and popular tools for dev ops
+- Experience using Git, Familiar with software design methods and techniques.
+- Experience with developing complex, low latency, performance oriented and highly scalable backend applications.
+- Ability to design the classes to store hierarchical relation data and traverse through it. For ex: Data structures and algorithms based implementations
+- Ability to think about all test cases and validate the solution on those.
+- Experience with databases, MySQL
+- Excellent problem-solving skills.
+- Must have an expert understanding of object oriented programming.
+- Experience with continuous integration and large scale automated deployment (CI/CD)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 22 : 
+
+- 8+ years building scalable APIs and web applications.
+- Experience with server-side JavaScript, TypeScript, and Node.js.
+- Working knowledge of relational databases like PostgreSQL or MySQL.
+- Experience working in AWS or Azure, ideally via infrastructure as code.
+- Experience with CI/CD and automated testing.
+- Bonus: Experience working with event-based systems. 
+- Bonus: Experience with Python or PHP web applications.
+- Bonus: Full stack experience.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 23 : 
+
+- Bachelor s degree in Computer Science, Engineering, or related field.
+- Proven experience with NestJS and Node.js, preferably in a startup environment.
+- Understanding of front-end technologies (e.g., HTML, CSS, JavaScript).
+- Familiarity with databases, web servers, and UI/UX design.
+- Strong problem-solving skills and a willingness to learn and adapt to new technologies.
+- Excellent communication and teamwork skills.
+- Passion for AI technology and its application in the finance sector.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 24 : 
+
+- 3-5 years of experience.
+- Hands-on experience in designing, developing, testing, and deploying large-scale applications
+- Strong in Data structures/ algorithms & oops concepts.
+- Strong in concurrency & multithreading
+- A good understanding of Java and an additional understanding of GoLang / Python will also be appreciated
+- Data modeling experience in both Relational and NoSQL databases
+- Able to design and implement low-latency RESTful services
+- Strong understanding of cloud infrastructure like AWS/GCS.
+- Experience in distributed queue systems like Kafka.
+- Continuously refactor applications and architectures to maintain high-quality levels
+- Passion for learning new things, solving challenging problems
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 25 : 
+
+- Design, develop, test, and maintain backend services and APIs using Java or Python.
+- Collaborate with cross-functional teams to understand requirements and translate them into technical solutions.
+- Work with databases, including MongoDB and either MySQL or PostgreSQL, for efficient data storage and retrieval.
+- Ensure the performance, scalability, and security of backend systems.
+- Problem-solving and troubleshooting to address software defects and issues.
+- Keep abreast of industry trends and best practices to enhance the software development process.
+- Contribute to the overall software delivery process with a focus on quality and efficiency.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 26 : 
+
+- In-depth hands on experience programming in Python
+- Thorough understanding of the web and cloud computing systems
+- Experience in developing RESTful web services
+- Knowledge of TDD and unit testing processes
+- Experience working on an AWS environment is an added advantage
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 27 : 
+
+- Bachelor’s or Master’s degree in CS and having built projects in web development.
+- Hands-on backend web development experience.
+- 1+ Years Experience working on Large scale Applications in backend web development (Node.js).
+- Strong proficiency with JavaScript (ES6 and above).
+- Knowledge of Node.js and frameworks available for it (such as Express etc depending on your technology stack)
+- Proficient knowledge of a backend programming language and an in-depth understanding of web development.
+- Knowledgeable of front-end technologies and platforms, such as JavaScript, HTML5, and CSS3.
+- Good understanding of server-side CSS preprocessors.
+- Proven experience creating user authentication and authorization between multiple systems, servers, and environments.
+- Capability to integrate multiple data sources and databases into one system.
+- Proven experience managing the hosting environment, that includes database administration and scaling an application to support load changes.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 28 : 
+
+- Ability to write APIs including Restful APIs.
+- Knowledge of database operations with MySQL/MongoDB, Stored procedures.
+- Knowledge of front-end technologies (HTML5, CSS3, JavaScript, jQuery, etc.).
+- Knowledge and experience of OOPs concepts.
+- Experience working with CMS systems e.g. Magento, WordPress
+- Good knowledge of web hosting environments e.g. cPanel, AWS, Google
+- Knowledge of source control e.g. Bitbucket, Github
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 29 : 
+
+5-10 years of experience in designing and developing scalable enterprise grade solutions
+Extensive hands-on experience with at least two programming languages (Java, Go, Python etc)
+Hands-on with architecture, design, development and deployment of enterprise systems
+Experience in rolling out distributed, large-scale, low latency web applications with REST, Data Caching Services, DB schema design and data access technologies
+Experience crafting and architecting distributed systems, concurrent programming, and coding data structures
+Experience designing ecosystems for Web applications & API Platforms
+Understand security concepts and build reliable and safe distributed applications
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 30 : 
+
+Basic understanding of front-end technologies and platforms, such as JavaScript, HTML5, and CSS3
+Good understanding of server-side CSS pre-processors, such as LESS and SASS.
+Understanding accessibility and security compliance (Depending on a specific project)
+Integration of multiple data sources and databases into one system.
+Data migration, transformation, and scripting.
+Creating database schemas that represent and support business processes.
+Preferred experience in implementing functionality through RESTful APIs and GraphQL.
+Proficient knowledge of a back-end programming language such as NodeJS, ExpressJS, PHP etc.
+Proficient knowledge of a Databases such as MongoDB, MySql etc.
+Good problem solving skills.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

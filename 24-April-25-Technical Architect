@@ -1,0 +1,854 @@
+Google Sheet Link : https://docs.google.com/spreadsheets/d/15sXmdzzeAWDVT9raJWATfP9eLeAXm6SVPHq0thyaxh8/edit?gid=0#gid=0
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 1
+
+- BTech degree in computer science, engineering or related field of study or 12+ years of related work experience
+- 7+ years design & implementation experience with large scale data centric distributed applications
+- Professional experience architecting, operating cloud-based solutions with good understanding of core disciplines like compute, networking, storage, security, databases etc.
+- Good understanding of data engineering concepts like storage, governance, cataloging, data quality, data modeling etc.
+- Good understanding about various architecture patterns like data lake, data lake house, data mesh etc.
+- Good understanding of Data Warehousing concepts, hands-on experience working with tools like Hive, Redshift, Snowflake, Teradata etc.
+- Experience migrating or transforming legacy customer solutions to the cloud.
+- Experience working with services like AWS EMR, Glue, DMS, Kinesis, RDS, Redshift, Dynamo DB, Document DB, SNS, SQS, Lambda, EKS, Data Zone etc.
+- Thorough understanding of Big Data ecosystem technologies like Hadoop, Spark, Hive, HBase etc. and other competent tools and technologies
+- Understanding in designing analytical solutions leveraging AWS cognitive services like Textract, Comprehend, Rekognition etc. in combination with Sagemaker is good to have.
+- Experience working with modern development workflows, such as git, continuous integration/continuous deployment pipelines, static code analysis tooling, infrastructure-as-code, and more.
+- Experience with a programming or scripting language – Python/Java/Scala
+- AWS Professional/Specialty certification or relevant cloud expertise
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 2
+
+- Single point of contact with customer for Cloud enablement/assessment  
+- Infrastructure assessment (networking, applications, databases, etc.)  
+- Identify application dependencies.  
+- Based on inventory report, determine end of lifecycle of workloads (OS versions, application versions, database versions, etc.)  
+- Identify high availability and geo-redundancy requirements.  
+- Automation assessments tasks  
+- Networking Design  
+- OCI landing zone templates creation/update  
+- Work with OCI team to build the OCI environment  
+- VM creation, Subnet Creation and routing table creation  
+- End to End application validation with customer (troubleshooting latency, packet loss, burst, etc…)  
+- Knowledge on Regression testing  
+- Experience on Performance testing
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 3
+
+- ● 3+ years developing Drupal applications. Drupal 7/8/9 experience required.  
+- ● 1+ year of Experience in building applications in Drupal8.  
+- ● 6+ years industry experience in software development and/or DevOps projects.  
+- ● Must have strong analytical and technical skills using PHP and MYSQL.  
+- ● Expertise in JavaScript and mainstream JavaScript libraries such as JQuery and working knowledge of Ajax.  
+- ● Good understanding of web technologies, debugging and protocols.  
+- ● Contribution to the open-source community  
+- ● Must have PHP, JavaScript, AJAX, HTML and CSS experience  
+- ● Should be able to code as per Drupal coding standards and best practices.  
+- ● Should be well versed with implementation and configuration of most commonly used modules  
+- ● Experience with CSS Frameworks and tools.  
+- ● Should have a strong understanding about Drupal 8.x, configuring control, security and performance modules.  
+- ● Respond positively to opportunities to be involved in brainstorming and iterative work. Handle times of change in a way that drives innovation and iteration.  
+- ● Strong understanding of Object Oriented Programming.  
+- ● Experience with a Multisite environment would be a plus.  
+- ● Experience on Drupal 9 (Good to have)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 4
+
+- Technical Experience  
+- Experienced with Data modeling in Relational and Multi-dimensional databases  
+- Experienced with Data Integration methods including file-based and API based data Integrations.  
+- Practical understanding of Data Transformation requirements between source to target based on data criteria  
+- Knowledge of scripting languages for data handling will be preferred  
+- Understanding Data Quality requirements and validation of data quality sourced from external sources  
+- Understanding of web-based reporting tools  
+- Experience with setting up public cloud services like GCP, AWS, Azure will be preferred.  
+- Experience in extracting and integrating data from ERP systems such as SAP, Oracle, or Microsoft Dynamics.  
+
+- Ideal Experience  
+- Worked hands on as Data Model developer or Data Integration developer in Analytics Products or Services for at least 2 years  
+- Worked on EPM or Analytics products as modeler / technical consultant for at least 2 years (ex: Hyperion, Anaplan, Jedox, One Stream, or similar)  
+- Have experience with procuring data from ERP systems like SAP/Oracle/MS Dynamics
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 5
+
+- Hands-on experience with SSIS, ETL, Informatica (ETL), or similar  
+- 1 year of experience managing multiple client batch jobs  
+- Timely response and resolution of batch automation disruptions, in order to meet customer SLA’s with accurate and on-time results  
+- Validating, synthesizing, transforming customer data for planning, visibility, collaboration, and analytics using tools like SQL/SSIS/Excel, Apache NiFi, Hadoop, PySpark/Hive SQLs  
+- Review and analyze the data provided by the customer along with its technical/functional intent and interdependencies.  
+- Ensure smooth operations of o9's cloud-based solution  
+- Support continuous integration and continuous delivery processes  
+- Collect, monitor and analyze systems performance data for improved performance  
+- Create automated tasks with shell scripts (bash, PowerShell, python)  
+- Understand the o9 platform’s data model (table structures, linkages, optimal designs) post-go-live for maintaining, debugging, and enhancing various planning use cases.  
+- Participate in the technical design, data requirements gathering, making recommendations in case of inaccurate or missing data.  
+- Fine-tune performance at various levels; automate manual processes; establish checks and balances for sustained value delivery.  
+- Create and execute integration test-cases. Work on bugs/issues and track the progress of resolving issues using support tools.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 6
+
+- Automation Solutions Design: Identify and implement the most suitable technologies to solve QC challenges and improve efficiency.  
+- Requirements Analysis: Collaborate with Product teams to understand business problems and translate them into functional and technical requirements.  
+- Architecture Development: Perform architecture analysis to derive non-functional requirements, ensuring performance, scalability, security, and maintainability.  
+- Framework & Standards: Design and document system architecture, interfaces, and frameworks for automation solutions, ensuring long-term sustainability.  
+- Technical Guidance: Guide Programming Leads and teams in implementing frameworks and adhering to architecture best practices.  
+- Technology Evaluation: Propose and validate technology solutions for automation challenges, including proof-of-concept (POC) development.  
+- Code Quality: Conduct code reviews and promote best practices to ensure high-quality, maintainable code.  
+- Collaboration: Work closely with Programming Leads and Project Managers to define team composition, effort estimates, and execution strategies.  
+- Problem Resolution: Troubleshoot technical issues and provide expert guidance to teams as needed.  
+- Training Plans: Creating a long-term training plan for the Tech. teams for core technical trainings and work closely with L&D Manager to ensure execution.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 7
+
+- Independently analyze, solve, and correct issues in real time, providing problem resolution end-to-end.  
+- Strong experience in development tools, CI/CD pipelines. Extensive experience with Agile.  
+- Good proficiency overlap with technologies like: Java8, Spring, SpringMVC, RESTful web services, Hibernate, Oracle PL/SQL, SpringSecurity, Ansible, Docker, JMeter, Angular.  
+- Strong fundamentals and clarity of REST web services. Person should have exposure to developing REST services which handles large sets  
+- Fintech or lending domain experience is a plus but not necessary.  
+- Deep understanding of cloud technologies on at least one of the cloud platforms AWS, Azure or Google Cloud  
+- Wide knowledge of technology solutions and ability to learn and work with emerging technologies, methodologies, and solutions.  
+- Strong communicator with ability to collaborate cross-functionally, build relationships, and achieve broader organizational goals.  
+- Provide vision leadership for the technology roadmap of our products. Understand product capabilities and strategize technology for its alignment with business objectives and maximizing ROI.  
+- Define technical software architectures and lead development of frameworks.  
+- Engage end to end in product development, starting from business requirements to realization of product and to its deployment in production.  
+- Research, design, and implement the complex features being added to existing products and/or create new applications / components from scratch.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 8
+
+- Strong MERN (Mongo DB + Mongoose, Express, React, Node JS) full stack experience using Typescript.  
+- Experience in leading in code reviews.  
+- Demonstrate understanding of SOLID principles.  
+- Demonstrate understanding of TDD or BDD.  
+- Good knowledge and experience of writing good unit tests.  
+- Strong implementation design using cloud.  
+- Microservices architecture, GraphQL, RESTful Webservices, NoSQL & SQL  
+- Docker & containerization, CI/CD pipeline design & build  
+- Event driven architecture, Kafka.  
+- Use of tools such as JIRA, Git, GitHub  
+- Strong communication skills  
+- Ability to lead discussion and solve problems for the dev team  
+- Ability to manage expectations of Product/Business teams in terms of prioritizing quality, aligning to the strategic vision  
+- Provide guidance on inline technical documentation
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 9
+
+Required Skills & Qualification
+
+- Frontend: React.js / Angular / Vue.js, WebSockets, RESTful APIs.  
+- Backend: GraphQL, Node.js / Python (FastAPI, Flask, Django) / Java / Spring Boot.  
+- AI Integration: Experience integrating AI/ML models via REST/ GraphQL APIs / TensorFlow Serving / ONNX, or custom AI pipelines.  
+- Databases: Neo4j (GraphDB), PostgreSQL / MongoDB / Redis / Firebase.  
+- Cloud & DevOps: AWS / GCP / Azure, Kubernetes, Docker, Terraform, CI/CD (Jenkins, GitHub Actions).  
+- Security: OAuth2, JWT, Role-Based Access Control (RBAC), Secure API design.  
+- Experience with EDA tools, AI-driven design automation and real-time interface systems is a plus.  
+- Master’s or Bachelor’s degree in Computer Science, Engineering, or related field.  
+
+Key Responsibilities
+
+- Define and implement a scalable and modular full-stack architecture integrating UI/UX, backend, and AI engine.  
+- Optimize backend services for low-latency AI inference and large dataset processing.  
+- Define security standards, authentication, and authorization protocols across all layers.  
+- Integration of AI models into the backend via APIs, microservices, or containerized deployments.  
+- Ensure frontend frameworks (React, Angular, Vue) interact seamlessly with backend services.  
+- Implement best DevOps practices for CI/CD pipelines, automated testing, and deployment.  
+- Conduct performance benchmarking, ensure the system supports real-time and batch processing efficiently.  
+- Optimize backend databases (PostgreSQL, NoSQL, GraphDB) for fast AI inference and user interactions.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 10
+
+Here is your content with a hyphen added at the beginning of each line:
+
+- 10-12 years of professional experience in software development, with significant experience in Java.  
+- Strong candidate who has worked on design and development of Backoffice trading operations, ledger funds, RMS application.  
+- Expertise in system architecture, design patterns, and development of scalable, low-latency, and high-availability systems.  
+- Need good skillset for capital market product development Backoffice trading operations experience, ledger funds, RMS application  
+- Integrated OMS and RMS  
+- Strong background in designing and developing Front Office and RMS (Risk Management System) applications, preferably within the financial services industry.  
+- Expertise in system architecture, design patterns, and development of scalable, low-latency, and high-availability systems.  
+- Deep understanding of financial trading systems, including risk management, pricing, order management, and trading lifecycle.  
+- Experience with multi-threading, concurrency, and performance optimization in high-frequency, real-time systems.  
+- Knowledge of financial protocols, messaging systems (e.g., FIX), and market data handling is highly desirable.  
+- Familiarity with Unix/Linux environments and development tools for C++ and Java.  
+- Strong problem-solving skills, with the ability to quickly analyse complex issues and provide effective solutions.  
+- Experience with cloud platforms (e.g., AWS, Azure) and distributed systems.  
+- Familiarity with modern front-end technologies and UI frameworks is a plus.  
+- Knowledge of databases (SQL and NoSQL) and data modeling for large-scale, real-time systems.  
+- Prior experience with Agile methodologies and DevOps practices.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 11
+
+Here is your content with a hyphen added at the beginning of each line:
+
+TECHNICAL SKILLS:
+
+IT Infrastructure Expertise
+- In-depth experience with Microsoft 365, Active Directory, and Exchange  
+- Strong proficiency in cloud platforms (primarily Azure; familiarity with AWS is a plus)  
+- Infrastructure design experience across servers, storage, and virtualization technologies (mainly Hyper-V, some VMware ESX)  
+- Networking fundamentals including LAN/WAN, firewalls, and VPNs; experience with licensing and configurations for Fortigate, Meraki, and Cisco  
+- Solid understanding of backup and disaster recovery solutions (Azure Backup, Azure Site Recovery, Acronis, DropSuite)  
+
+Cybersecurity Fundamentals
+- Experience with endpoint protection, email security, and firewall configurations  
+- Knowledge of security and compliance standards such as SOC2, ISO 27001, HIPAA  
+
+Migration Experience
+- Proven experience leading email migrations to Microsoft 365  
+- Experience migrating file servers to OneDrive and SharePoint  
+
+Tooling & Platforms
+- Familiarity with MSP tools like ConnectWise and N-able  
+- Strong understanding of Microsoft 365 and Windows Server licensing models
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 12
+
+Here is your content with a hyphen added at the beginning of each line:
+
+- Extensive experience in infrastructure-as-code development, with a minimum of 80% hands-on development contribution.  
+- Comprehensive experience of designing, implementing, and maintaining Kubernetes environments, including technologies such as Helm and KEDA.  
+- Solid experience of the Azure and Azure DevOps platforms.  
+- Deep understanding of DevOps and DevSecOps principles.  
+- Experience with API Management solutions.  
+- Good understanding of API design components such as identity (OAuth, OIDC, SAML), REST, GraphQL, CORS, TLS, rate limiting.  
+- Hands-on experience of designing and implementing monitoring solutions.  
+- Working knowledge of application security, performance, and resiliency.  
+- Good understanding of networking, both at layers 4 and 7, and firewalls.  
+- Experience leading technical teams and managing projects.  
+- Deep understanding of enterprise architecture patterns, methodologies, and tools.  
+- Demonstrated ability to solve complex technical problems and deliver quality solutions.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 13
+
+Required Skills And Abilities
+
+- A moderate amount of experience with Guidewire Cloud and DevOps practices including CI/CD pipelines, infrastructure as code and containerization.  
+- Proven experience in designing complex, scalable architectures for large enterprise environments.  
+- Ability to break down complex problems, evaluate multiple solutions & choose the most suitable outcome based on tradeoffs.  
+- Uphold technical integrity of internal assets at the logical and physical level, ensuring designs and changes done based on an outstanding architectural foundation.  
+- Deep understanding of enterprise integration patterns (API, middleware and/or data migration).  
+- Ability to work closely with cross-functional teams, including developers, product owners, and operations to ensure alignment on technical goals and priorities.  
+- Develop, own and publish the product technical architecture and design documentation.  
+- Identify technical resources required to deliver the service and maintain plans for the short-, mid-, and long-term to support business cases for technical investments (upgrades, etc.).  
+- Translates the high-level designs into the technical specifications to facilitate efficient and effective development and unit testing.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 14
+
+- Hands on experience as Lead with executing and delivering 2 or more full life cycle SAP S/4HANA MDG implementation project.  
+- Deep understanding on key SAP MDG concepts – Data Modelling, UI Modelling, Process Modelling, Governance Process, Mass Processing, DRF, DIF, BRF+ and Consolidation Features + DQM.  
+- Configure, Design, Build, Test and Deploy the core SAP MDG solution – E2E MDGIMG, DRFIMG, SOA Manager and ensure it works seamlessly.  
+- Experience in implementing SAP S/4HANA.  
+- Expertise in Implementation of SAP MDG Solution for masters like Material, BP – Vendor and Customer, Finance Master objects etc.  
+- Experience in Configuring rule-based Workflows - serial, parallel and combination.  
+- Hands on Experience in User interface modelling.  
+- Hands on Experience in integration techniques like ALE/IDOCs, SOA Manager & Web Services.  
+- Hands on experience in activating & Configuring SAP Standard MDG FIORI apps from SAP FIORI Library.  
+- Author FSD, GAPs, WRICEF and related Test Scripts.  
+- Excellent stakeholder management and relationship building skills and an ability to communicate flexibly with technical and non-technical stakeholders.  
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 15
+
+- 13+ Years of work experience with good knowledge on object-oriented design principles/concepts.  
+- Experience in application development on Java/JEE platform.  
+- Experience in development of AEM Forms - Adaptive Forms/Fragments.  
+- Experience in development of AEM Forms OSGi workflows.  
+- Experience in development of OSGi Services/Components.  
+- Experience in development of XDPs.  
+- Experience in usage of AEM Forms Document Services.  
+- Experience in Adobe LiveCycle Modules like - LiveCycle Forms, Process Management, Rights Management, document security, digital signatures.  
+- Experience in development of web services - SOAP/REST.  
+- Experience in HTML5, JavaScript, CSS3 and frameworks/technologies like jQuery and AJAX.  
+- Experience in working with RDBMS.  
+- Experience in working in an Agile development environment.  
+- Experience in Adobe LiveCycle upgrades [ES2/ES3/ES4].  
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 16
+
+- Experience: Minimum of 10 years of experience with Microsoft Dynamics NAV/Business Central, focusing on implementation, customization, and integration.  
+- Technical Skills: Proficiency in ASP.net, C#, AL, C/AL, C/SIDE, and other relevant development tools and technologies.  
+- ERP Expertise: In-depth understanding of ERP systems, particularly in educational environments, including finance, student records management, and operational management.  
+- Integration Proficiency: Strong experience with integration methodologies, including APIs, web services, and middleware.  
+- Project Management: Demonstrated ability to lead complex ERP projects from inception to completion.  
+- Communication: Strong verbal and written communication skills, capable of interacting with technical and non-technical stakeholders.  
+- Certification: Microsoft Dynamics 365 Business Central certifications are highly desirable.  
+- Problem-Solving Abilities: Excellent analytical skills and a proactive approach to problem-solving.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 17
+
+- 15 to 20 years of experience designing, building, and maintaining large-scale web applications and services, with expertise across the full technology stack.  
+- Expertise in TypeScript/JavaScript and Node.js with proficiency in multiple programming languages preferred.  
+- In-depth knowledge of front-end frameworks (e.g., React, Angular) and back-end technologies (Node.js and Python).  
+- Strong experience in REST APIs and GraphQL, domain and schema modeling, object-oriented design principles, and full-stack architecture.  
+- Expertise in building event-driven architectures and services in the cloud (AWS preferred).  
+- Skilled in designing secure, scalable, and extensible APIs, including complex GraphQL schemas, and front-end interfaces.  
+- Proficiency with relational databases with PostgreSQL expertise preferred, focusing on schema and index design and query optimisation.  
+- Strong understanding of security best practices, including OWASP Top 10 risks.  
+- Proven leadership experience, mentoring software engineers, and managing complex development projects across the full stack.  
+- AWS certification.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 18
+
+Primary Skills
+
+- ZIA (Zscaler Internet Access):  
+  - Internet Security: Deep understanding of secure web gateway (SWG), SSL/TLS inspection, malware protection, content filtering, and DLP.  
+  - URL Filtering and Threat Detection: Knowledge of configuring and managing URL filtering, sandboxing, and advanced threat protection within ZIA.  
+  - Firewall and Policy Management: Ability to configure policies for internet access, data protection, and application control.  
+  - Troubleshooting: Skills in diagnosing and resolving issues related to traffic forwarding, latency, and user access in a cloud-based SWG environment.  
+
+- ZPA (Zscaler Private Access):  
+  - Zero Trust Architecture: Expertise in implementing ZPA’s zero trust network access (ZTNA) model.  
+  - Application Segmentation: Knowledge of configuring policies to provide secure access to internal apps without exposing them to the internet.  
+  - Authentication and Identity: Proficiency with multi-factor authentication (MFA), Single Sign-On (SSO), and integration with identity providers (IDPs).  
+  - Client Connector Management: Experience in managing and troubleshooting Zscaler Client Connector (ZCC) agents.  
+
+- Networking Knowledge:
+  - Network Protocols: Strong understanding of TCP/IP, DNS, HTTP/S, IPsec, VPNs, and network routing.  
+  - Security Protocols: Familiarity with TLS/SSL, IPsec, and GRE tunnels for secure data transfer.  
+
+Secondary Skills
+
+- Automation Skills:  
+  - Scripting and Automation: Basic to intermediate skills in scripting languages like Python, PowerShell, or Bash for automating repetitive tasks, reporting, and monitoring.  
+  - APIs: Experience with Zscaler’s API for integrating ZIA/ZPA with third-party tools and automating administrative tasks such as policy changes, configuration management, and user provisioning.  
+  - Automation Tools: Familiarity with tools like Ansible, Terraform, or scripting via Zscaler’s API to automate configuration, deployment, or compliance tasks.  
+
+- Cloud Security Best Practices:
+  - CASB: Knowledge of cloud access security broker (CASB) functionalities, including visibility, governance, and protection across SaaS apps.  
+  - Cloud Networking: Experience with cloud platforms and security configurations, including how Zscaler integrates with IaaS and PaaS services.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 19
+
+Required Skills and Experience:
+
+- Strong .NET Expertise: Extensive experience with .NET Core, C#, ASP.NET Web API, Entity Framework Core, and related technologies.
+- React Proficiency: Deep understanding of React principles, components, lifecycle methods, and best practices for building scalable React applications.
+- Frontend Development Skills: Expereince with React.JS, JavaScript, HTML, CSS, and modern JavaScript frameworks.
+- Architectural Design: Proven ability to design and implement clean, scalable, and maintainable application architectures.
+- Cloud Computing: Understanding of cloud platforms like Azure or AWS and the ability to leverage cloud services.
+- Agile Methodology: Experience working in Agile development environments.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 20
+
+You Should Have :
+
+- 5+ years of experience in developing complex systems and service communications.  
+- Lead a team of developers through the battlezone.  
+- Extensive experience in the following is a must:  
+  - Backend Languages – Ruby, Python, Java, JavaScript  
+  - Databases – MongoDB, Postgres, etc.  
+  - Message queues – RabbitMQ, Kafka, Google Pub/Sub, etc.  
+  - REST Framework & GraphQL  
+  - Analytics gathering tools – New Relic, Grafana, Nagios, Segment, etc.  
+- Bachelor’s / Master’s Degree in Computer Science  
+
+Good To Have :
+
+- Knowledge of the following:  
+  - Deployment frameworks – Docker, Kubernetes, CI/CD  
+  - Big data frameworks – Hadoop/HBase
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 21
+
+- Lead the design and architecture of the LIMS to meet current and future business needs.  
+- Develop and maintain LIMS technical specifications, documentation, and standards.  
+- Evaluate and recommend technologies and solutions for LIMS enhancements and integrations.  
+- Ensure the LIMS architecture is scalable, secure, and maintainable.  
+- Develop, test, and deploy LIMS customizations, extensions, and integrations.  
+- Write clean, efficient, and well-documented code.  
+- Configure and customize LIMS modules to meet specific laboratory workflows.  
+- Perform data migration and data validation activities.  
+- Troubleshoot and resolve technical issues related to the LIMS.  
+- Design and implement integrations between the LIMS and other laboratory instruments, systems (e.g., ELN, CDS, ERP), and databases.  
+- Develop and maintain APIs and web services for data exchange.  
+- Work with vendors to ensure seamless integration of third-party software.  
+- Provide technical support to LIMS users.  
+- Monitor LIMS performance and identify areas for improvement.  
+- Apply software patches and upgrades.  
+- Participate in disaster recovery planning and testing.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 22
+
+Candidate Required Skills : 
+- Passionate about AI architecture, scalability, and system optimization.  
+- Proven experience in architectural design, defining scalable, secure, and high-performance system architectures.  
+- Expertise in creating and maintaining Master Design Documents (MDD) and Architecture Design blueprints.  
+- Strong understanding of Business Requirement Documents (BRD) and the ability to translate them into technical solutions.  
+- Experience in backend technologies (Node.js, Python) with strong architectural knowledge.  
+- Proficiency in designing microservices architectures and API development.  
+- Hands-on experience with cloud platforms (AWS, Azure, GCP) and containerization (Docker, Kubernetes).  
+- Strong knowledge of DevOps practices, CI/CD pipelines, and infrastructure automation.  
+- Experience with scalability, performance tuning, and distributed systems.  
+- Familiarity with security best practices, authentication, and data encryption.  
+
+Preferred Skills : 
+- Expertise in backend technologies (Node.js, Python).  
+- Strong understanding of frontend frameworks (React.js, Angular, Vue.js).  
+- Experience with cloud platforms (AWS, Azure, GCP) and containerization (Docker, Kubernetes).  
+- Hands-on experience with microservices architecture and API development.  
+- Proficiency in databases (SQL - PostgreSQL, MySQL & NoSQL - MongoDB, DynamoDB).  
+- Strong knowledge of DevOps practices, CI/CD pipelines, and infrastructure automation.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 23
+
+Required Skills And Abilities :  
+- Bachelor’s degree in Computer Science, Information Technology, or a related field.  
+- Proven experience as a Salesforce Technical Architect in enterprise environments, preferably within the commercial insurance industry.  
+- Extensive experience in delivering solutions on Salesforce including Sales Cloud, Service Cloud, and Financial Services Cloud.  
+- Effective knowledge of Salesforce platform capabilities, including design thinking methodologies, DevOps practices, and CI/CD pipelines.  
+
+Desired Skills And Abilities :
+- Hands-on experience with Azure services, API integration, and data streaming technologies.  
+- Familiarity with enterprise architecture frameworks such as TOGAF or Zachman.  
+- Excellent communication, leadership, and collaboration skills.  
+- Salesforce certifications such as Certified Technical Architect (CTA) and Certified Application Architect are a plus.  
+- Experience working in scaled agile delivery setups, preferably SAFe.  
+- Excellent problem-solving and troubleshooting skills.  
+- Proven tech leader and mentor, able and willing to share knowledge and experience in order to develop colleagues.  
+- Effective communication and collaboration skills.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 24
+
+Experience:
+- 5–7 years  
+
+Work Experience and Skills required: 
+- 5–7 years of experience in Microsoft .NET technologies (ASP.Net, .Net Core, C#) and MS SQL Server.  
+- Strong experience in building RESTful APIs.  
+- Proficiency in SQL Server development and optimization.  
+- Solid understanding of data structures, concurrent programming, and design patterns.  
+- Passion for Agile development practices with a focus on quality and efficiency.  
+- Ability to work in a structured and methodical manner.  
+- Strong problem-solving skills and ability to perform under pressure.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 25
+
+- Minimum 12 years of total experience in IT  
+- Minimum 8 years of Salesforce experience in architecture and integration  
+- Minimum 5 years of experience in Salesforce customizations (Apex/Lightning), integrations, and data migrations  
+- 3–5 years of experience creating technical architecture for complex Salesforce implementations  
+- 7+ years in designing, delivering, and deploying Salesforce-based technical solutions as a responsible contributor  
+- Design and implement Salesforce solutions aligned with business strategy and objectives  
+- Lead technical requirements sessions and document solutions aligned with business objectives  
+- Translate business requirements into well-architected Salesforce solutions  
+- Guide deployment of Salesforce CRM implementations, integrations, and upgrades  
+- Mandatory: Platform Developer II Certification and at least two Cloud Consultant Certifications (Sales, Service, Experience, Field Service, or CPQ)  
+- Mandatory: Minimum of either System Architect or Application Architect certification  
+- Excellent communication and interpersonal skills; able to present to varied audiences (executive to technical)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 26
+
+- Lead the design and architecture of AEM solutions, including content management, digital asset management, and workflow automation  
+- Lead architectural design for AEM-based applications, ensuring alignment with client requirements and industry standards  
+- Provide technical leadership and mentorship to development teams  
+- Ensure scalability, security, and performance of AEM applications  
+- Oversee integration of AEM with other enterprise systems and third-party tools  
+- Implement and manage Adobe Launch for tag management and analytics integration  
+- Design multi-regional and multi-lingual sites using MSM  
+- Experience in designing solutions using headless implementation of AEM  
+- Design solutions using AEM content fragments, experience fragments, and launches  
+- Stay up to date with Adobe AEM product offerings and emerging trends in web technologies  
+- Collaborate with other architects and technical teams  
+- Troubleshoot and resolve technical issues effectively  
+- Conduct code reviews and ensure adherence to best practices and coding standards  
+- Work closely with stakeholders to understand business needs and translate them into technical solutions  
+- Implement SEO best practices to enhance visibility and search ranking of AEM sites  
+- Experience in AEM Dynamic Media for delivering rich, engaging, and personalized media experiences  
+- Configure and manage AEM Dispatcher for caching, load balancing, and security  
+- Manage and optimize AEM Cloud Manager for CI/CD, ensuring efficient and reliable delivery of AEM applications
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 27
+
+Knowledge
+
+- Expert understanding of Architecture Development Methodology  
+- Awareness of agile development methodologies and their functionalities  
+- Familiarity with underwriting concepts, terminologies, and insurance industry products  
+
+Skills
+
+- Strong ability in Application Architecture, Tiers, Layers, NFRs, APIs, and DevOps Automation  
+- Practical experience in application development (Web API, Web Application, SharePoint, Azure Services, Angular/React, .NET Core)  
+- Proficient in system integration (e.g., Azure Data Factory)  
+- Solid understanding of Azure, including migration, PaaS, native development, well-architected framework, Azure SQL  
+- Experience in code review, applying best practices, using SonarQube, and setting guiderails (including security)  
+- Knowledge of DevOps/Azure DevOps practices, including branching strategies  
+
+Good To Have
+
+- Understanding of at least one RPA platform (UI Path or Power Automate)  
+- Experience in customer-facing Architectural Review Boards (ARB)  
+- Exposure to AI/ML and Python  
+- Strong logical thinking for deriving insights  
+- Excellent written and verbal communication, including creating emails, presentations, and documentation  
+- Comfortable in diverse and fast-paced environments  
+- Exceptional problem-solving aptitude  
+- Knowledge of architectural frameworks like TOGAF or Zachman  
+
+**Qualification and Experience**
+
+- 12–14 years of experience in a Technical Architect or similar role  
+- Strong domain knowledge with a focus on insurance industry regulations, products, and processes  
+- Previous experience working in or for the insurance sector
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 28
+
+Experience: 8+ years
+
+Primary Skills:
+- Developed & maintained large-scale enterprise application/SaaS
+- Proficient in MERN stack, JavaScript, React.js, AWS, CI/CD, Containers, Microservices, SQL, Node.js, ExpressJS, Kafka, Kubernetes
+
+Secondary Skills:
+- HTML5, CSS3, Lambda, Python, Data pipeline, Elastic Search
+
+Key Responsibilities:
+
+- Worked on large-scale projects, demonstrating experience in building and maintaining highly performant consumer-facing products based on web technologies.
+- Proficiency in full-stack development using MEAN/MERN stack.
+- Designed and implemented enterprise applications with a focus on object-oriented programming, design patterns, and security standards.
+- Hands-on experience with microservices implementation and transformation.
+- Built single-page applications using JavaScript libraries and frameworks like React, with a focus on responsive web applications.
+- Designed database models and infrastructure for highly scalable products.
+- Proficient in SQL and NoSQL databases with a deep understanding of performance optimization.
+- Authored unit and API tests to ensure high-quality code.
+- Extensive experience with cloud platforms like AWS, GCP, or Azure.
+- Worked with message brokering tools such as Kafka, SQS, SNS, RabbitMQ, etc.
+- Proficient with containerization, virtualization, and orchestration technologies like Docker and Kubernetes.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 29
+
+Key Responsibilities:
+
+1. **Architectural Design & Governance**
+   - Define, document, and maintain the technical architecture for projects and product modules.
+   - Ensure architectural decisions meet scalability, performance, and security requirements.
+
+2. **Solution Development & Technical Leadership**
+   - Translate product and client requirements into robust technical solutions, balancing short-term deliverables with long-term product viability.
+   - Oversee system integrations, ensuring best practices in coding standards, security, and performance optimization.
+
+3. **Collaboration & Alignment**
+   - Work closely with Product Managers and Project Managers to prioritize and plan feature development.
+   - Facilitate cross-team communication to ensure technical feasibility and timely execution of features or client deliverables.
+
+4. **Mentorship & Code Quality**
+   - Provide guidance to senior developers and junior engineers through code reviews, design reviews, and technical coaching.
+   - Advocate for best-in-class engineering practices, encouraging the use of CI/CD, automated testing, and modern development tooling.
+
+5. **Risk Management & Innovation**
+   - Proactively identify technical risks or bottlenecks, proposing mitigation strategies.
+   - Investigate and recommend new technologies, frameworks, or tools that enhance product capabilities and developer productivity.
+
+6. **Documentation & Standards**
+   - Maintain architecture blueprints, design patterns, and relevant documentation to align the team on shared standards.
+   - Contribute to the continuous improvement of internal processes, ensuring streamlined development and deployment workflows.
+
+---
+
+### **Skills:**
+
+1. Technical Expertise
+   - 7–10 years of overall experience in software development with at least a couple of years in senior or lead roles.
+   - Strong proficiency in at least one mainstream programming language (e.g., Golang, Python, JavaScript).
+   - Hands-on experience with architectural patterns (microservices, monolithic systems, event-driven architectures).
+   - Good understanding of Cloud Platforms (AWS, Azure, or GCP) and DevOps practices (CI/CD pipelines, containerization with Docker/Kubernetes).
+   - Familiarity with relational and NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB).
+
+2. Leadership & Collaboration
+   - Excellent communication skills to work effectively with both technical and non-technical teams.
+   - Ability to mentor developers, encouraging best practices and continuous learning.
+   - Capable of explaining complex technical topics in a clear, understandable manner to stakeholders.
+
+3. Strategic & Analytical Thinking
+   - Comfort with trade-off analyses (time, cost, complexity) when recommending solutions.
+   - Experience conducting performance tuning and implementing security best practices.
+
+4. Agile & Project Management Exposure
+   - Familiarity with Agile/Scrum methodologies, sprint planning, and backlog refinement.
+   - Proven track record of on-time and on-budget delivery in a fast-paced environment.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 30
+
+Requirements:
+
+8+ years of experience in IT industry as Technical Architect
+Experience in architecting large scale, cloud native applications
+Experience in architecting marketplace (ecommerce or fintech) or similar web applications
+Familiarity with NFT and Blockchain technologies
+Experience in MERN stack based product development
+Experience in AWS cloud based development and CI/CD environment
+Certification in AWS Solution Architect or Professional is preferred
+Experience in handling customer queries and demonstrating product capabilities
+Experience in Agile / SCRUM development process
+Excellent communication and teamwork skills
+
+
+
+Responsibilities:
+
+Design and maintain scalable, reliable, secure and cost-optimized Architecture of our SaaS product in AWS
+Develop product roadmap and prioritize user stories
+Provide technical leadership to the development team
+Review design and code according to standards and ensure quality
+Design product API
+Co-ordinate customer interactions and team interactions
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 31
+
+Key Skills required :
+- Full Stack MERN App Dev, Front-End + Back-End Development, API Dev, Micro Services
+- Azure Cloud Native App Dev, Cloud Solutions (essential)
+- AWS Cloud Native App Dev, AWS Cloud Solutions (nice-to-have)
+- LLM Solutions, LLM App Dev
+- AI Agents, Agentic AI Workflows
+- Enterprise Integrations
+- Generative AI, Multi Modal AI , Creative AI
+- Working with Text, Imagery, Speech, Audio and Video AI
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 32
+
+Responsibilities
+
+- Lead the design, development, and implementation of robust test automation frameworks using Selenium and Katalon Studio. 
+- Architect and maintain scalable, reusable, and efficient automated test scripts for web, mobile, and API applications. 
+- Integrate automated tests into the CI/CD pipeline, ensuring faster delivery and high-quality releases. 
+- Collaborate with development, QA, and product teams to define automation strategies and ensure end-to-end test coverage. 
+- Establish and promote best practices in test automation; mentor junior and mid-level engineers on automation techniques. 
+- Provide technical leadership in driving standardization and innovation within the automation process. 
+- Troubleshoot and resolve automation issues swiftly, minimizing downtime and maintaining productivity. 
+- Continuously enhance automation tools, processes, and frameworks to boost efficiency and effectiveness. 
+- Analyze and review test results, generate detailed reports, and deliver actionable insights to key stakeholders. 
+- Champion the adoption of automation practices across teams and identify opportunities to optimize testing workflows. 
+- Stay current with the latest trends and advancements in test automation, and incorporate relevant technologies into the automation roadmap. 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 33
+
+Required Skills & Qualifications : 
+- Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.
+- 7+ years of experience in full-stack development, with expertise in MERN (MongoDB, Express.js, React.js, Node.js).
+- Strong experience in system architecture, microservices, and API design.
+- Proficiency in JavaScript, TypeScript, and ES6+.
+- Experience with GraphQL, RESTful APIs, and WebSockets.
+- Strong knowledge of database management (MongoDB, PostgreSQL, or MySQL).
+- Familiarity with Docker, Kubernetes, and cloud-based deployments.
+- Experience with state management libraries (Redux, Context API, or Recoil).
+- Understanding of serverless computing and event-driven architectures.
+- Proficiency in performance optimization, caching strategies (Redis, CDN), and load balancing.
+- Preferred Qualifications
+- Experience with Next.js, NestJS, or other modern frameworks.
+- Knowledge of AI/ML integrations in web applications.
+- Understanding of blockchain, Web3, or decentralized applications (optional but a plus).
+- Familiarity with NoSQL and SQL hybrid architectures.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 34
+
+Requirements : 
+- BS in Computer Science or Software Engineering
+- 7+ years of experience working as a software engineer
+- Excellent analytical and problem solving skills
+- Good understanding of software development fundamentals
+- Knowledge of data structures, databases, networks and algorithms
+- Good understanding of information security concepts
+- Experience with cloud platforms such as AWS and Openstack
+- Familiar with containerization technologies such as Docker and Kubernetes
+- Experience using Apache Kafka
+- Experience developing web services and network APIs
+- Familiar with SQL and NoSQL database technologies
+- Familiar with Linux operating systems and scripting languages
+- Strong verbal and written communication skills
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 35
+
+Requirements:
+
+1. Expereince with MEAN/MERN Stack, solid understanding of Javascript/Typescript based development.
+2. Sound knowledge of Devops (AWS/Azure/GCP), should be able to set up multiple environments, pipelines for deployment (CI/CD) and automated testing. Should have experience with Docker, Kubernetes, Jenkins etc.
+3. Experience with designing server side applications as per requirements, should be able to assess all factors and build scalable, efficient and secure products.
+4. Knowledge of monolithic, microservices, SOA and serverless architectures. Should be aware of best practises and be able to design RESTful APIs.
+5. Good critical reasoning and analytical skills. Should be able to mutli task and prioritize.
+6. Most importantly, the passion to work in a startup. There is good funding and decent pay now, but it only gets better if the person can sync with the team, take on their responsibilities and give the best output. It's a small team with a flat hierarchy, everyone grows with the company.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 36
+
+Requirements:
+- 8+ years of working experience on MEAN/MERN stacks with Nest.js and GraphQL.
+- Must be experienced in building scalable applications.
+- In depth knowledge and hands on experience of NodeJS, Nest.js, Angular or React and AWS.
+- Be highly-capable experts in Javascript and Typescript.
+- Experience in NOSQL data base like MongoDB, Postgre SQL and DynamoDB.
+- Experience in Elastic Search, Redis and Memcached.
+- Architecting and deploying applications for AWS.
+- Designing APIs consumed by many mobile or web applications
+- Good knowledge on authentication, authorization and security technologies.
+- Employing strong TDD and performance optimization strategies
+- AWS certifications.
+- Should be able to manage client requirement and strong communication skills.
+- Strong team leadership skills (helping lead the team's work) and influence the technical direction for the team.
+- Should have experience in hiring and mentoring the tech team.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 37
+
+Main skill sets are:
+- Design: Defining the overall software architecture. Create blueprints for software projects, ensuring the design meets the client's needs.
+- Develop: Design and develop software solutions, including the programming, testing, and deployment
+- Document: Document software functionality and components, and create enterprise software documentation
+- Test: Test software for quality assurance and check for errors like unit test
+- Performance: Check the application performance and improve it
+- NodeJS: Have worked on JavaScript with Nodejs framework.
+- Recommend: Recommend appropriate tools, technologies, and processes for development
+- Establish: Establish coding standards, guidelines, and project practices
+- Hands on practice on following technologies like:
+- Node.JS, Node OPC UA
+- React (JavaScript),
+- JavaScript, HTML, CSS,
+- RESTful APIs. Web Socket
+- GIT version control.
+- MongoDB,
+- Continuous integration – Jenkins,
+- JIRA tracker for Requirement analysis
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 38
+
+Responsibilities:
+- Define and design the frontend architecture for web and mobile applications.
+- Lead the selection of frontend frameworks and tools (e.g., React, Angular, Vue.js, Next.js).
+- Collaborate with UX/UI designers to translate designs into high-quality, responsive interfaces.
+- Establish frontend coding standards, best practices, and reusable component libraries.
+- Optimize frontend performance, accessibility, and SEO compliance.
+- Mentor and guide frontend developers, fostering a culture of technical excellence.
+- Work closely with backend architects to ensure seamless API integrations.
+- Stay updated on emerging frontend technologies and recommend adoption strategies.
+- Conduct code reviews and ensure adherence to quality standards.
+- Drive continuous improvement in frontend development processes.
+
+Requirements:
+- Bachelor’s or Master’s degree in Computer Science, Software Engineering, or related field.
+- 8+ years of experience in frontend development and architecture.
+- Expertise in JavaScript, TypeScript, HTML5, CSS3, and ES6+.
+- Proficiency in modern frontend frameworks (React, Angular, Vue.js, or Svelte).
+- Experience with state management libraries (Redux, MobX, Recoil, or Zustand).
+- Strong understanding of RESTful APIs, GraphQL, and WebSockets.
+- Familiarity with build tools (Webpack, Vite, or Rollup) and package managers (npm, Yarn).
+- Experience with testing frameworks (Jest, Cypress, or Playwright).
+- Knowledge of CI/CD pipelines and frontend deployment strategies.
+- Strong problem-solving skills and attention to detail.
+- Excellent communication and leadership skills.
+
+Preferred Qualifications:
+- Experience with Progressive Web Apps (PWAs) and JAMstack architectures.
+- Knowledge of Web3, blockchain, or decentralized application development.
+- Familiarity with cloud platforms (AWS, Azure, or GCP) for frontend hosting.
+- Contributions to open-source frontend projects or communities.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 39
+
+Responsibilities:
+- Design end-to-end architecture for web and mobile applications (frontend and backend).
+- Lead the selection of fullstack technologies (MERN, MEAN, or similar stacks).
+- Architect APIs, microservices, and database systems for scalability.
+- Collaborate with product teams to translate requirements into technical solutions.
+- Optimize application performance across the stack (UI, API, database).
+- Establish coding standards, design patterns, and reusable components.
+- Mentor fullstack developers and conduct code/design reviews.
+- Ensure seamless integration between frontend and backend systems.
+- Drive adoption of modern development practices (TDD, CI/CD, DevOps).
+- Stay updated on fullstack trends and recommend innovative solutions.
+
+Requirements:
+- Bachelor’s or Master’s degree in Computer Science, Software Engineering, or related field.
+- 8+ years of experience in fullstack development and architecture.
+- Expertise in JavaScript, TypeScript, and frameworks (React, Angular, Node.js).
+- Strong knowledge of databases (MongoDB, PostgreSQL, or MySQL).
+- Experience with RESTful APIs, GraphQL, and WebSockets.
+- Proficiency in cloud platforms (AWS, Azure, or GCP) and containerization (Docker).
+- Familiarity with state management (Redux, Context API) and build tools (Webpack).
+- Understanding of security, authentication, and authorization mechanisms.
+- Strong leadership, communication, and problem-solving skills.
+- Experience with performance optimization and scalability strategies.
+
+
+
+Preferred Qualifications:
+
+- Experience with serverless architectures and event-driven systems.
+- Knowledge of AI/ML integrations in fullstack applications.
+- Familiarity with Web3 or blockchain technologies.
+- Contributions to open-source fullstack projects.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------

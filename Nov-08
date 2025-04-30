@@ -1,0 +1,444 @@
+
+Excel Sheet for DevOps : https://docs.google.com/spreadsheets/d/15IDNsyCqCXS4mwQlOAlxTU-OV9pdXvb6ehe6t4Hvuc8/edit#gid=0
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 15 : 
+
+- Container orchestration services, especially Kubernetes.
+- Administering and deploying development CI/CD tools such as GitHub, GitLab, ArgoCD or Jenkins.
+- Other automation/configuration tools (e.g. Ansible, Terraform or similar)
+- Several years of professional experience in the administration of Linux system environments and have a sound knowledge of common Linux distributions (such as RedHat, CentOS, Debian and Ubuntu)
+- Infrastructure scripting solutions such as Go or Python
+- Build independent web-based tools, microservices and open source solutions
+- Knowledge in container technology (Docker/Podman)
+- Knowledge in monitoring solutions (ELK, Grafana, Prometheus or equivalent)
+- Knowledge of Linux web services and application servers (Apache, Nginx, Tomcat, JBoss etc.)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 16 :
+
+- AWS (EC2, EBS, ECS, RDS/Aurora, S3, EFS, SNS, SQS, Elastic ache redis, Opensearch, IAM)
+- Basic Knowledge of cloud infrastructure: AWS, GCP or Azure
+- Basic Knowledge of Linux administration.
+- General knowledge of OS, infrastructure, and TCP/IP networking concepts
+- Familiarity with source control (Git) and SDLC practices.
+- Basic experience working with relational databases or NoSQL.
+- Basic experience using scripting languages: Groovy, Python, etc.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 18 :
+
+Experience : 5+ years
+
+- Manage Integration of Code, Fixing Security Vulnerabilities, Support and Defect handling
+- Maintain and Monitor testing environments.
+- Required Technical and Professional Expertise
+- Hands on JAVA and python and Knowledge of Cloud Native CI/CD frameworks
+- Knowledge of Git, JIRA
+- Agile Methodologies, Knowledge on Ansible & Kubernetes.
+- CI/CD Tools: Git, GitHub, Travis CI, Jenkins, Artifactory
+- Maximo Asset Management Manage
+- Maximo Application Suite
+- Open Shift, and Docker
+- Java and Python
+- Experience in project/release management
+- Knowledge on IBM Cloud pak systems/tools.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 19 :
+
+- Proven experience as a DevOps Engineer or in a similar role.
+- Strong expertise in Docker and container orchestration platforms such as Kubernetes or OpenShift.
+- Experience with infrastructure-as-code tools like Terraform or CloudFormation in-depth knowledge of cloud platforms, particularly AWS and GCP.
+- Familiarity with scripting languages for automation and tooling.
+- Understanding of networking, security, and system administration concepts.
+- Experience with monitoring and logging tools like Prometheus, Grafana, ELK stack, or similar.
+- Knowledge of database technologies such as MySQL, PostgreSQL, or MongoDB.
+- Excellent problem-solving abilities and the ability to work collaboratively in a team environment.
+- Effective communication and documentation skills.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 20 :
+
+Experience : 5+ years
+
+- DevOps Culture - You will be a shepherd of our DevOps culture, collaborating closely with our development team leads. 
+- Infrastructure - You will own, maintain, and improve our cloud infrastructure to keep it humming, always looking for optimizations that make our business better.
+- Platform Development - You will contribute to and help shape EventMobi’s architecture and backend API-driven systems utilizing python and clean architecture patterns.
+- Security - Event Planners trust us with critical data and you will help us to continue to earn that trust by securing our infrastructure.
+- Continuous Delivery - Frequent and reliable deploys are critical to our success. Collaborating with our development teams, you’ll keep the flow of new code moving along our continuous delivery pipeline.
+- Extensive experience with DevOps & Cloud (AWS, Terraform, CI/CD, Docker, Linux, Networking, Alerting & Monitoring)
+- Experience with Python and RESTful APIs, RDBMS, ORMs, Caching, Queues
+- Knowledge of Clean Architecture, SOLID Principles, Domain Modelling, and Design Patterns is a benefit
+- Experience with Information Security best practices is a benefit
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 21 : 
+
+Experience : 2+ years
+
+- Responsible for the deployment and maintenance of our cloud-based SaaS recruitment platform.
+- You will need to work closely with engineering and technical teams in deploying their code, providing operational support for new and existing products, and debugging production issues.
+- As a DevOps Engineer, you will need to manage the deployment, configuration, support, and troubleshooting of issues with our cloud infrastructure.
+- To ensure the availability, performance, scalability and security of our productions systems.
+- Build, release and configuration management of production systems.
+- Pre-production Acceptance Testing to help assure the quality of our products / services.
+- System troubleshooting and problem solving across platform and application domains.
+- Suggesting architecture improvements, recommending process improvements.
+- Evaluate new technology options and vendor products.
+- Ensuring critical system security through the use of best in class cloud security solutions.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 22 :
+
+- Experience in AWS DevOps CI/CD pipeline is a must.
+- Should be able to integrate plugins into the pipeline.
+- Suggest & assist development teams on the different integrated tools before Implementation.
+- Understanding of managing multiple Git Repositories.
+- Experience working on Linux/windows.
+- Should be able to set up a new Kubernetes platform and maintenance.
+- Knowledge of network configuration, CDN, DNS, and VPN.
+- Containerisation technology like docker.
+- Experience in scripting languages (Bash, PowerShell)
+- Experience in managing multiple environments like (Dev, QA, and Pre-Prod)
+- Automate the infrastructure via CI/CD pipeline (Code pipeline or Jenkins)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 23 : 
+
+Experience : 0+ years ( Intern )
+
+- AWS Infrastructure Management: Gain experience in provisioning and managing AWS cloud resources, including EC2 instances, S3 buckets, RDS databases, and more.
+- Support DevOps Team: Assist the DevOps team in various tasks related to infrastructure management, deployment, and automation.
+- Scripting and Automation: Write scripts and automation tools to streamline manual processes and improve efficiency.
+- Monitoring and Alerting: Assist in setting up and monitoring systems for performance and security, and help configure alerting mechanisms.
+- Version Control: Collaborate with the team to manage source code repositories using tools like Git.
+- Documentation: Document processes, procedures, and configurations for knowledge sharing within the team.
+- Troubleshooting: Participate in troubleshooting and resolving technical issues as they arise.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 24 : 
+
+Experience : 2+ years
+
+- 2-3 years of professional experience in DevOps practices, including CI/CD pipeline development and infrastructure automation.
+- Proficiency in Python programming for scripting and automation tasks.
+- Hands-on experience with cloud platforms such as AWS, Azure, or GCP.
+- Familiarity with containerization and orchestration tools like Docker and Kubernetes.
+- Strong understanding of version control systems (e.g., Git) and collaborative development workflows.
+- Knowledge of monitoring and logging tools for application and infrastructure monitoring.
+- Excellent problem-solving skills and the ability to troubleshoot complex technical issues.
+- Strong communication skills and the ability to work effectively in cross-functional teams.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 25 : 
+
+Experience : 0+ years
+
+- Linux Fundamentals and Scripting Skills
+- Understanding of Relevant Tools
+- Security Skills
+- Automation Skills
+- Coding and Scripting
+- Cloud Skills
+- Testing Skills
+- Configuration and Version Management
+- Learning Proactive Monitoring
+- Communication and Collaboration
+- Soft Skills and Noble Thought
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 26 :
+
+Experience : 3+ years
+
+- Design, automate and support CI/CD stack, cloud infrastructure, monitoring, and logging.
+- Work with developers and release management to craft and implement delivery pipelines.
+- Fix production issues and coordinate with engineering teams to streamline code deployment
+- Participate in architecture design and implementation of infrastructure monitoring, security, and scaling solutions
+- Evaluate tools and technologies that help deliver high-quality secure software faster and more efficiently, in conjunction with GIT Architecture team
+- Conduct systems tests for security, performance, and availability
+- Liaise with GIT Info Security team to coordinate investigations and resolutions, and deploy/test new security solutions
+- Develop and maintain design and fixing documentation
+- Apply GIT DevOps best practices and standards
+- Partner with the Global DevOps group to advise new standards/best practices/policies
+- Implement and improve automated testing solutions in coordination with dev teams
+- Collaborate with the product team to consistently deliver quality software to end users
+- Product team support as needed.
+- Design & develop integrated build pipelines using continuous integration workflows (ex. Azure DevOps Git Jenkins )
+- Support the deployment of containers and container orchestration technologies (ex. Docker, Kubernetes)
+- Lead Development teams to implement Test Automation (Unit, Functional, Regression)
+- Build application performance monitoring processes to proactively identify issues and scale of cloud environments.
+- Maintain, modify and support sub-system or 3rd party components (programs, processes, configuration) all the while working within a larger system scope. Complete unit testing of all work processes.
+- Apply knowledge of current technologies and methodologies with business subject matter to develop technical solutions. Confer with partners to gain an understanding of the situation requiring intervention. 
+- Acquire advice from higher-level Information Technology associates when precedents are unclear.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 27 :
+
+Experience : 4+ years
+
+- Extensive experience and hands-on knowledge across the catalog of AWS technologies & services (IAM, ELB, VPCs, EBS,S3, EC2, RDS, CloudWatch).
+- Strong experience designing, building, maintain, and securing AWS resources for high-availability and production level systems and services.
+- Experience in migrating systems to hybrid or fully cloud-based solutions
+- Work with operating system administration Windows and Linux.
+- Experience establishing and working in a Virtual server environment
+- Network troubleshooting including AWS networking capabilities and security protocols
+- Knowledge of monitoring of server using Nagios and cloud watch
+- Work with various team to solve their problems
+- Security and vulnerability related issue and fixed them with infra level as well development level by coordinate with team
+- Experience of various VPN connections site to site, SSL and AWS VPNs
+- Knowledge of ChatGPT is required
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 28 :
+
+- Experience working on Linux based infrastructure
+- Hands-on experience with CI/CD tools like (GIT, Jenkins, Team City)
+- Experience of using scripting language. e. g. Python, Shell, Regular expression
+- Experience implementing microservices and Java applications.
+- Familiarity with version control like Git.
+- Excellent analytical, problem-solving and communication skills.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 29 :
+
+- Proven 3-4 years of experience as a DevOps Engineer or in a similar role. Strong knowledge of cloud computing platforms (e.g., AWS, Azure, GCP).
+- Proficiency in scripting and automation with tools like Python, Bash, or PowerShell.
+- Experience with containerization and orchestration tools (Docker, Kubernetes, Terraform, Ansible).
+- Familiarity with CI/CD tools (Jenkins script, Serverless Microservices Architecture GitLab CI/CD, Travis CI).
+- Expertise in infrastructure as code (Terraform, Ansible, or CloudFormation, VPC Concept, AWS S3, EC2,).
+- Knowledge of version control systems (Git).
+- Understanding of networking and security concepts. 
+- Strong problem-solving and communication skills.
+- Certifications such as AWS Certified DevOps Engineer
+- Experience in AWS CloudWatch, API Gateway, CloudFront, Lambda, Code commit, Cloud Format, Certified Kubernetes, Administrator, or similar are a plus.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 30 : 
+
+Experience : 10+ years
+
+- Should have 10+ years experience with designing automated, scalable and distributed applications, automation management and CI/CD orchestration with Jenkins / Gitlab CI, and either as a product manager, product owner or a software engineer.
+- Experience of demonstrated ability to work cross-organizationally to gather business requirements, track and measure against goals, objectives or KPIs.
+- Knowledge or experience with Ansible, Terraform, Kubernetes & hands-on experience with Node, Python or Shell, Linux scripting is preferred.
+- Experience in using and building Docker based deployments preferred.
+- Excellent written and verbal communication skills to influence cross functionally without direct authority.
+- Related experience as a Product Owner, Product Manager or similar role
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 31 : 
+
+Experience: 4-8 Years
+
+- Bachelor's degree in Computer Science, Engineering, or related field.
+- Providing software build and test solutions catering to different market segments such as Mobile, Server, IoT and Automotive
+- Lifecycle management of core project infrastructure, from design through to deployment, maintenance, and performance optimisation
+- Continuous improvement of workflow quality, security, and efficiency
+- Prior experience in a DevOps/Infrastructure engineering position, preferably involving use of cloud platforms such as AWS and GCP
+- Experience of delivering solutions using virtualisation and containerisation technologies such as Kubernetes, Docker, OpenStack, Rancher, and Harvester
+- Experience in Unix (Linux) Systems Administration
+- Knowledge of automation and “Infrastructure as Code” tooling such as Terraform & Ansible
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 32 : 
+
+- Experience and Hands-on experience in handling Linux environments
+- Expertise and Hands-on experience in AWS cloud and services like EC2, S3, VPC, Route53, CloudFront, RDS, Lambda etc.,
+- Expertise in DevOps tools like Jenkins, Ansible, Docker, Kubernetes etc.,
+- Good knowledge of DevOps tools like Jenkins, Ansible, Docker, Kubernetes etc.
+- Should be able to Deploy the applications on AWS cloud and Monitor and Manage
+- Good knowledge of cloud monitoring tools
+- Hands-on experience in scripting languages like Bash / Python
+- Ability to work with remote team in a geographically distributed model
+- Good knowledge on Agile / ITIL
+- Good and effective written and oral communication
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 33 : 
+
+Experience: 1+ Years
+
+- Automate deployment processes using tools such as Jenkins, Ansible, or Terraform
+- Configure and manage infrastructure using tools such as CloudFormation, AWS CLI, or Azure CLI
+- Monitor and troubleshoot system performance and stability
+- Respond to incidents and resolve issues quickly and effectively
+- Collaborate with developers to ensure that software is deployed and maintained efficiently
+- Strong understanding of software development lifecycles and DevOps methodologies
+- Experience with a variety of DevOps tools and technologies, such as Jenkins, Ansible, Terraform, CloudFormation, AWS CLI, or Azure CLI
+- Experience with configuration management tools, such as Puppet or Chef
+- Excellent problem-solving and troubleshooting skills
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 34 : 
+
+- Extensive experience in operating scripting languages like Pearl, Shell, etc.
+- Experience in developing and maintaining CI/CD processes for SaaS applications by accessing tools like Maven, Jenkins, etc.
+- Hands-on experience in using configuration management tools like Puppet, SaltStack, Ansible, etc.
+- Hands-on experience to build and handle VMs, and containers using tools like Kubernetes, Docker, etc.
+- Hands-on experience in building, designing, and maintaining cloud-based applications with AWS, GCP, etc.
+- Expertise in operating Linux environment with good command over any scripting language such as Shell, Python, etc.
+- Familiarity with monitoring
+- Familiarity with cloud platforms like AWS, Microsoft Azure, and GCP.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 35 : 
+
+- Bachelor's degree in Computer Science, Engineering, or related field.
+- Experience with source code management tools such as Subversion and Git
+- A minimum of 3 years of experience in DevOps, Continuous Integration/Continuous Deployment tools, and automation
+- Proven experience with Microsoft Azure
+- Strong experience in integrating security tools, build tools, automated test tools
+- Experience with DevOps workflows using tools like Azure DevOps, GitLab, Jenkins, and others.
+- Self-starter who works efficiently in a fast-paced environment with changing priorities and a geographically distributed team
+- Excellent analytical skills, organizational abilities, and problem-solving skills
+- Expert-level understanding of DevOps culture, methodologies, coding, and automation.
+- Strong scripting and software development experience, including Bash, Python, PowerShell, TypeScript and JavaScript.
+- Microsoft Certified: DevOps Engineer
+- Knowledge in: Experience with Microsoft Azure
+- Experience with Docker, and Kubernetes.
+- Experience with SQL desirable. Graduation
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 36 :
+
+- Bachelor's degree in Computer Science, Engineering, or related field.
+- Design, Implement cloud services in Google Cloud Platform(GCP)
+- Build terraform automation pipelines to create GCP cloud resources
+- Build CI/CD pipelines to automate the deployment of code/artifacts
+- Use Git, GitHub and GitHub Actions to manage the code and improve developer productivity
+- Maintain and enhance existing enterprise infrastructure
+- Use YAML, Shell Scripting in day-to-day actives.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 37 : 
+
+- Understanding customer requirements and project KPIs ( Key Performance Indicators ).
+- Implementing various development, testing, automation tools, and IT infrastructure
+- Planning the team structure, activities, and involvement in project management activities.
+- Managing stakeholders and external interfaces
+- Setting up tools and required infrastructure
+- Defining and setting development, test, release, update, and support processes for DevOps operation
+- Coordination and communication within the team
+- Selecting and deploying appropriate CI/CD tools
+- Strive for continuous improvement and build continuous integration, continuous development, and constant deployment pipeline (CI/CD Pipeline)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 38 : 
+
+Experience: 1+ years
+
+- A Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent practical experience.
+- Professional Experience of minimum of 1 year in DevOps, System Administration, or Software Development roles.
+- CI/CD Expertise: Hands-on experience with CI/CD tools like Jenkins, GitLab CI, or Travis CI is essential.
+- Containerization & Orchestration: Proven experience with containerization technologies like Docker and orchestration tools such as Kubernetes.
+- Scripting Proficiency: Highly skilled in scripting languages like Python, Bash, or Ruby.
+- Cloud Computing: Familiarity with cloud platforms, including but not limited to AWS, GCP, or Azure.
+- Infrastructure as Code: Experience with IaC tools like Terraform or CloudFormation is desirable.
+- Networking Skills: A strong grasp of networking concepts, including TCP/IP, DNS, and load balancing.
+- Monitoring Tools: Familiarity with monitoring and logging tools like Prometheus, ELK Stack, or Datadog.
+- Analytical & Problem-Solving Skills: Excellent analytical abilities with a knack for solving complex problems under pressure.
+- Communication Skills: Exceptional communication and team collaboration skills
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 39 :
+
+Experience: 3+ years
+
+- Experience with source code management tools such as Subversion and Git
+- A minimum of 3 years of experience in DevOps, CI/CD tools, and automation
+- Proven experience with Microsoft Azure.
+- Strong experience in integrating security tools, build tools, automated test tools
+- Experience with DevOps workflows using tools like Azure DevOps, GitLab, Jenkins, and others.
+- Self-starter who works efficiently in a fast-paced environment with changing priorities and a geographically distributed team
+- Excellent analytical skills, organizational abilities, and problem-solving skills
+- Expert-level understanding of DevOps culture, methodologies, coding, and automation.
+- Strong scripting and software development experience, including Bash, Python, PowerShell, TypeScript and JavaScript.
+- Microsoft Certified: DevOps Engineer
+- Knowledge in: Experience with Microsoft Azure
+- Experience with Docker, and Kubernetes and SQL.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 40 : 
+
+Experience: 4-6 years
+
+- Setup & Manage AWS Cloud.
+- Experience on AWS, Linux shell scripting, Ansible, Terraform, Monitoring Tools and Deployment Tools is mandatory.
+- Knowledge of issues related to build Cloud infrastructures using Ansible and Terraform.
+- Experience in tools like Jenkins,Grafana,Zabbix, Redis, active MQ , ELK , Apache,tomcat.
+- Must have Linux knowledge.
+- Strong familiarity with web servers and load balancing technologies and autoscaling.
+- Experience in use of source code management system like GIT and build tools like ant, maven, Gradle or make.
+- Knowledge of Python & Database is plus.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 41 : 
+
+Experience: 5+ years
+
+- Experience in developing & maintaining CI/CD process using tools like GIT, GITHUB.
+- Experience with Kubernetes & GCP.
+- Expertise in Linux System Admin.
+- VMs and Containers using Kubernetes.
+- Experience in developing application with .Net Core.
+- Experience in following languages: C#, Java script, JSON.
+- Experience in Systems and IT operations.
+- Ability to use a wide variety of open-source technologies and tools for Continuous Integration and Delivery.
+- Comfort with frequent, Incremental code testing and deployment.
+- Strong understanding of automation tools.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 42 : 
+
+Experience: 6+ years
+
+- Demonstrating your knowledge and expertise in RHCSA / RHCE.
+- Implementing and managing automation tools such as Ansible, Puppet, and Terraform.
+- Leveraging your skills in public cloud platforms like Azure and AWS.
+- Employing virtualization technologies effectively.
+- Handling container technologies like Kubernetes, Docker, and OpenShift.
+- Contributing to the continuous integration and continuous delivery (CI/CD) pipeline.
+- Utilizing your proficiency in Python for various tasks and projects.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 43 : 
+
+Experience: 6-11 years
+
+- AWS Certified Security Specialty or equivalent practical experience
+- AWS Certified DevOps Engineer Professional
+- AWS Certified Solutions Architect Professional
+- Multiple IAC Methods, such as CDK, CloudFormation, Serverless Framework, SAM, Terraform
+- Hands on experience delivering cloud native software using modern practices.
+- Familiarity with Application Security concepts such as OWASP, CVE, SAST.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------

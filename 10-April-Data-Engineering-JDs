@@ -1,0 +1,467 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Engineering Sheet Link : https://docs.google.com/spreadsheets/d/1TduOqr73MA0HbrJo7EE_jrIFoVGnCCwgrYPPDUa149I/edit#gid=0
+
+RoadMap 1 : https://github.com/datastacktv/data-engineer-roadmap
+RoadMap 2 : https://github.com/ErdemOzgen/Data-Engineering-Roadmap
+RoadMap 3 : https://medium.com/@avikumart_/a-complete-roadmap-to-learn-data-engineering-in-2023-89968b7c5daf
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 1 : 
+
+Requirements:
+
+- At least 4 years of experience in data engineering roles.
+- Demonstrated experience with graph databases (e.g., Neo4j), time series databases, and document databases (e.g., MongoDB).
+- Proficiency in data orchestration and workflow management using Prefect, Dagster, or similar tools, with a proven track record of automating complex data processes.
+- Strong programming skills in Python, Scala, or Java, especially in the context of data manipulation and pipeline development.
+- Solid understanding of data pipeline and storage architectures, including experience in integrating diverse database technologies.
+- Excellent problem-solving abilities and a collaborative approach to working with cross-functional teams.
+
+Over and Above:
+
+- Experience in cloud-based database solutions (e.g., Azure Cosmos DB, InfluxDB Cloud) and integrating them with data orchestration tools.
+- Knowledge of data visualization tools and the ability to present complex data in a comprehensible manner.
+- Understanding of data governance, privacy standards, and compliance in relation to data storage and processing technologies.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 2 : 
+
+- 8+ years in a developer, architect, engineer, or DBA role working with large data sets
+- Subject matter expert in data ingestion concepts and best practices
+- Subject matter expert in data pipeline design, development and automation
+- Comfortable working with DevOps teams to optimize CI/CD pipelines
+- Advanced SQL skill is required
+- Experience coding with Python is required
+- Experience with Snowflake, Fivetran, dbt, Tableau, and AWS is preferred
+- Experience with Git version control and repository management in Gitlab
+- Experience with advanced ELT tool administration (code deployment, security, setup, configuration, and governance)
+- Experience with enterprise ELT tools like Fivetran, dbt, Matillion or other similar ETL/ELT tools 
+- Expertise with one or more cloud-based data warehouses is required such as Snowflake
+- Expertise extracting raw data from APIs using industry standard ingestion techniques
+- Ability to explain complex information and concepts to technical and non-technical audiences 
+- Enjoy supporting team members by sharing technical knowledge and helping solve problems
+- Enjoy a connected, collegial environment even though we are remote, hybrid, and on-site
+- Familiarity with documenting data definitions and code
+- Driven by a fast-paced, energetic, results-oriented environment
+- Exemplary organizational skills with the ability to manage multiple competing priorities
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 3 : 
+
+Required Qualifications:
+- Undergraduate degree or equivalent experience
+- 5+ years of experience with modern relational databases
+- 5+ years of experience optimizing SQL statements
+- 5+ years of experience working on commercially available software and / or healthcare platforms as a Data Engineer
+- 3+ years of experience building data pipelines in Azure Data factory, Databricks, App services, Az Functions
+- 3+ years of experience working with Synapse, Cosmos
+- 3+ years of experience designing and building Enterprise Data solutions on Cloud
+- 1+ years of experience/knowledge of Power BI
+
+Preferred Qualifications:
+- Experience building Big Data solutions on public cloud (Azure)
+- Experience with Data warehousing services, preferably synapse and SQL
+- Experience developing RESTful Services in .NET, Java, or any other language
+- Experience with DevOps in Data engineering
+- Experience with Microservices architecture
+- Experience in using modern software engineering and product development tools including Agile/SAFE, Continuous Integration, Continuous Delivery, DevOps etc.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 4 : 
+
+- 7+ years' experience developing and deploying data pipelines both batch and streaming into production. 
+- Strong experience working with a variety of relational SQL and NoSQL databases. 
+- Extensive experience working with cloud native data services in one of the popular public clouds (preferably GCP) 
+- Deep expertise in one of the popular data warehousing tools such as Snowflake, Big Query, RedShift, etc 
+- Experience working with big data tools and frameworks such as Hadoop, Spark, DBT, Kafka, etc. 
+- Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc. 
+- Hands-on experience in the Data engineering Spectrum, e.g. developing metadata-based framework-based solutions for Ingestion, Processing, etc., building Data Lake/Lake House solutions. 
+- Strong knowledge of data pipeline and workflow management tools (Ex: Airflow). 
+- Working knowledge of Github /Git Toolkit. 
+- Experience with providing operational support to stakeholders. 
+- Expertise in standard software engineering methodology, e.g. unit testing, test automation, continuous integration, code reviews, design documentation. 
+- Experience with data visualization using Tableau, PowerBI, Looker or similar tools is a plus 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 5 : 
+
+- Bachelor’s degree or equivalent experience in Computer Science or related field 
+- 6+ years of experience with Java or a similar OO language
+- 6+ Experience with data structures, algorithms, object-oriented design, design patterns, SQL, and performance-scale considerations
+- 4+ years in building and maintaining ETL pipelines using Bigdata technologies like Spark Streaming, Spark SQL, MapReduce, Kafka and Hive/Impala and Hadoop
+- Ability to design complex systems with material & technical risk at a team level
+- Enjoy working in an agile, rapid development, and prototyping environment 
+- Driven towards writing, debugging, and improving existing code 
+- Ability to make decisions independently 
+- Exceptional debugging, testing, and problem-solving skills.
+- Exceptional written and verbal communication skills with proven ability to effectively communicate complex technical issues to both technical and non-technical teams.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 6 : 
+
+- Experience managing work using software version control like GitHub and/or Dev Ops.
+- Must have familiarity with Microsoft Azure business intelligence, data lake platform and services (Hadoop, notebooks)
+- Development tools (Power Apps, Power Automate)
+- Designing and implementing data models, and data lake solutions
+- Working with data scientists and digital teams to meet strategic data needs through project management tools like Microsoft Teams, JIRA, are desired.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 7 : 
+
+- A bachelor's degree in Computer Science, Engineering, AI/ML, or a related field, complemented by practical experience.
+- Proficiency in Python (at least 5 years of professional experience)
+- Experience with Python AI/Data libraries and frameworks (e.g., numpy, scipy, pandas, scikit-learn, spacy, nltk, tensorflow, pytorch, fastapi, pydantic, psycopg, sqlalchemy, sentence-transformers)
+- Familiarity with productionizing GenAI based applications and libraries (openai, langchain, lite-llm); 
+- Familiarity with Vector Search Databases deployment (Milvus, Weaviate, chromadb); 
+- Knowledge of big data processing frameworks (e.g., Apache Spark, AWS Glue, Athena, Opensearch) and experience with feature engineering for ML models and GenAI applications.
+- Proficiency incloud platforms and services, especially AWS, for deploying and scaling AI/ML projects.
+- Interest in the entire AI/ML pipeline, from data ingestion and processing to model development, training, and deployment.
+- Eagerness to explore containerization and orchestration technologies (e.g., Docker, Kubernetes) for AI/ML workloads.
+- Understanding of data quality, model governance, and privacy regulations (e.g., GDPR, CCPA) within the AI/ML context.
+- Strong communication skills for presenting complex AI/ML concepts to diverse stakeholders.
+- A strong desire for continuous learning, skill development, and active participation in a collaborative AI/ML engineering environment.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 8 : 
+
+- 8+ years of experience in data engineering, with a strong background in cybersecurity or a related field.
+- Demonstrated leadership skills, with the ability to guide and inspire a team of data engineers.
+- Expertise in programming and scripting languages such as Python, SQL, and Scala or PySpark.
+- Expertise in building and maintaining Data Lakehouses.
+- Deep knowledge of big data frameworks (Apache Spark, Kafka, Flink) and cloud platforms and services, especially AWS (Glue, EMR, Athena, Redshift, and others).
+- Proficiency in modern data stack platforms and tools, including experience with data integration, ETL/ELT pipelines, storage formats (parquet, avro), open table formats (iceberg, hudi, delta), semantic/query layers (trino, presto, dremio), ingestion tools (upsolver, airbyte), transformation tools (dbt).
+- Experience with orchestration tools like Apache Airflow or Prefetch.
+- Experience in setting up and maintaining data visualization platforms such as Apache Superset or Redash.
+- A solid understanding of containerization and orchestration technologies, such as Docker and Kubernetes.
+- Experience with data quality and governance tools, and knowledge of data privacy regulations like GDPR and CCPA.
+- Excellent communication skills, with the ability to convey complex data concepts to technical and non-technical stakeholders alike.
+- A strong desire to mentor and develop others, sharing your expertise to elevate the team's capabilities.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 9 : 
+
+- 3+ years of hands-on experience in a Data Engineering role, with shown strength in the following platforms/tools or equivalents:
+- Object-oriented/object function scripting in: Python
+- Other coding languages: PySpark, SQL
+- Data warehouses: Google BigQuery, Snowflake
+- Tools and services: GitHub, Apache Airflow, AWS, Databricks, Google Cloud Platform, Kubernetes, Terraform, Jenkins
+- STEM degree in Computer Science, Information Technology, Software Engineering, Data Engineering, Data Science, Mathematics, Physics, etc. or applicable training and experiences in data engineering, complex data technologies, and cloud computing platforms
+- Advanced SQL knowledge, query authoring, and perspicacity in relational databases
+- Experience building, maintaining, and optimizing complex data pipelines, architectures, and datasets
+- Experience cleaning, testing, and evaluating data quality from a wide-variety of ingestible data sources
+- Design processes supporting data transformation, data edifice, metadata, dependency and workload management
+- Experience monitoring backend infrastructure health and collaborating with appurtenant engineering teams, such as Cloud Governance to ensure data processes are uninterrupted and exhibit high quality standards
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 10 : 
+
+- Design and implement complex technical solutions. 
+- Design, build, manage and optimize data pipelines for data structures encompassing data transformation, data models, schemas, metadata, data quality. 
+- Develop complex data integration processes, data transformation. 
+- Ensure that the extracted and displayed information/data meets the business requirements of the organization. 
+- Analyze data and enable machine learning. 
+- Write scripts with Python or Java Scala. 
+- Query data via SQL. 
+- Participate in data quality assurance.
+- Master’s degree in Data Science, Computer Science, Engineering, or in a related field.
+- Knowledge of Java, Python, or Scala .
+- Knowledge with Spark, ability to draw insights from data and clearly communicate them.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 11 : 
+
+- Bachelor's with 8+ years Oracle Data Analyst (Additional 4 years may be substituted for education)
+- Proficiency in PL/SQL, T-SQL and SQL, and knowledge of data manipulation tools.
+- Experience with extracting, transforming, and loading data sources (ETL).
+- HL7 and medical record data management experience.
+- Strong problem-solving and analytical skills.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 12 : 
+
+- Bachelors or Masters degree or equivalent industry experience
+- Passion for solving complex data problems
+- 7-10+ years of relevant experience
+- Hands on experience building modeling datasets and features for predictive modeling
+- Expert SQL skills, including advanced functions, table design, view creation, stored procedure and script design and coding, general performance tuning
+- Expert data profiling and analysis skills including statistical analysis
+- Experience building ML data pipelines and working with feature stores
+- In-depth knowledge of Python
+- Experience with AWS data capabilities like Airflow, Glue, Redshift, EMR
+- Exposure to developing and automating data quality monitoring 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 13 : 
+
+- 8+ Years relevant experience
+- In-depth knowledge of AFW data requirements, formats, subscription processes, M2M web services, and capabilities
+- Familiarity with DoD data policies, including VAULTIS, and other relevant regulatory frameworks
+- Strong analytical skills with the ability to troubleshoot and resolve complex data-related issues
+- Excellent communication and interpersonal skills to collaborate effectively with cross-functional teams
+- Ability to work independently and prioritize tasks in a dynamic environment
+- AWS Cloud Practitioner Certification.
+- Certification or training in AWS Data Specialties (Database Specialty OR Data Engineer Specialty).
+- Experience with cloud migration projects and related technologies (e.g., AWS, Azure, Google Cloud Platform).
+- Familiarity with Agile and DevSecOps tools and methodologies, and experience working in Agile development teams (Jira, Confluence).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 14 : 
+
+- 8+ years of data engineering experience building, maintaining and working with data pipelines & ETL processes in big data environments.
+- Extensive experience with SQL, ideally in the context of data modeling and analysis.
+- Hands-on production experience with dbt, and proven knowledge in modern and classic Data Modeling - Kimball, Inmon, etc.
+- Proficiency in a programming language such as Python, Go, Java, or Scala. 
+- Experience with cloud columnar databases (Google BigQuery, Amazon Redshift, Snowflake), query authoring (SQL) as well as working familiarity with a variety of databases.
+- Experience with processes supporting data transformation, data structures, metadata, dependency, ensuring efficient data processing performance and workload management.
+- Excellent communication and collaboration skills.
+- Thrive in ambiguous situations, possesses a proactive problem-solving attitude.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 15 : 
+
+- B.S. Degree in Computer Science, Computer Engineering, or an equivalent degree and 5+ years of industry experience.
+- Hands-on experience with distributed technology such as Kafka, Spark, Spark Streaming, Storm, Flink, Cassandra.
+- Strong working knowledge of data structures and algorithms.
+- Mastery of an object oriented programming language, such as C++, Python, or Java.
+- Excellent attention to detail and rigorous testing methodology.
+- Exceptional written and verbal communication skills and team leading abilities.
+- Experience with robotics, automotive engineering, or start-ups is not required.
+- Experience mentoring and guiding junior engineers.
+- Ability to undergo a driving record check.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 16 : 
+
+- 5+ years of software development experience
+- Experience with technical leadership and mentorship of other engineers and data specialists
+- Bachelor’s degree in Computer Science or equivalent combination of technical education and work experience
+- Experience with data storage and data pipeline solutions and technologies
+- Solid software development background, including design patterns, data structures, test-driven development
+- Software development experience in building web services and highly scalable applications
+- Proficient with server-side languages such as Python, Java, GoLang, Typescript, etc.
+- Experience with data structures and algorithms and knowledge of relational databases (NoSQL experience would be a nice add)
+- Familiarity with data processing tools and platforms like Kafka, Spark/Flink, Pandas/Dask/Ray, Airflow, in an AWS-based environment
+- Experience with Devops practices, infrastructure-as-code such as Terraform, and data governance, security, and privacy, are nice-to-have skills to augment the team
+- Excellent communication skills to convey complex technical information effectively to internal and external/non-technical stakeholders.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 17 : 
+
+- Validate the data pipeline executions to ensure that they are completed within the SLA’s.
+- Troubleshoot issues related to data pipelines, data integrations, bug fixes, performance bottlenecks
+- Working with multiple cross functional teams like DBA, Unix Server Administrator, Vendor Support to resolve any incidents / problems
+- Support development teams as needed acting as Subject Matter Expert
+- Upkeep of the systems by implementing security features like certificate, vulnerability, user access and service account management
+- Migrate the legacy platforms to the next gen cloud platforms using AWS EMR, EC2 and Snowflake Cloud DataWarehouse
+- Identify the areas of improvement by automating day to day activities
+- Analyze and organize raw data to extract patterns for KPIs and Metrics to publish dashboards
+- Work with Data Scientist / Business Analyst community to support the AI / ML Model development environments and operationalization of the models
+- Be able to support Master Data Management Reltio , API Hub
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 18 : 
+
+- ETL & data integration development experience using SSIS and ADF (or similar).
+- Comfortable working with a production environment and understanding the responsibility it requires.
+- Team experience, including working closely with business professionals as well as technical resources and acting as a bridge between the two groups including liaison with vendors.
+- Experience in optimizing, loading, and processing large datasets from different data sources and formats, including APIs.
+- Proven experience in developing creative solutions to technological challenges.
+- Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy.
+- Keen sense of curiosity and creativity for analysis and problem-solving.
+- Working knowledge of and experience with databases (Microsoft SQL), programming (JSON, XML, JavaScript, Groovy, or ETL frameworks).
+- Understanding of best practices around database encryption, backup, and recovery.
+- Strong documentation skills (e.g., requirements, test scripts, project status, management presentations, etc.).
+- Adept at SQL query development, report writing, and presenting findings.
+- Ability to work individually as well as in a small team setting.
+- Experience working with Azure DevOps and Agile development methodology.
+- Azure Synapse Analytics, Snowflake, or equivalent tools.
+- Enterprise Systems - Salesforce.com, ERP (SAP, Dynamics), SharePoint, DocuShare.
+- Related Big Data experience (NoSQl, Hadoop, Spark, Clusters, etc. on/off premise).
+- Healthcare industry/HIPPA regulated data environment.
+- Experience with business intelligence solutions (Power BI, Tableau).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 19 : 
+
+- 7+ years of data development experience
+- 3+ years of experience with the cloud (AWS, Azure and/or Google Cloud Platform)
+- 3+ years of experience in cloud-based data warehouses (Databricks, SnowFlake)
+- 3+ years of experience with cloud-based ETL/ELT tools (Glue, Data Factory) and data modeling
+- Experience with one or multiple cloud data storage solutions (e.g., S3, RDS, Redshift, Couchbase, Databricks, etc.)
+- Good understanding of database design principles, data modeling techniques, and experience with databases 
+- Comprehensive proficiency in key programming and scripting languages (e.g., Python, Bash, SnowFlake, SQL, etc.)
+- Ability to develop ELT data pipelines in and out of data warehouse using Databricks SQL environment
+- Experience working with software engineering & DevOps tools (Github, Jenkins, Docker, etc.)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 20 : 
+
+- Design and develop workflows that consume data from file based, SQL, and REST API sources.
+- ETL scripting, data prep, and cleanse of file-based and SQL-based data using Alteryx, DAX, and PowerQuery (M) languages.
+- Develop data models and robust visualizations using Power BI.
+- Write complex SQL queries with multiple joins to automate/manipulate these extracts in Alteryx.
+- Troubleshoot automation programs/reports already created in Alteryx.
+- Work with internal customers to refine and clarify requirements.
+- Optimize our end-to-end use of Alteryx from how we take in data from different sources to how we distribute outputs.
+- Make use of Alteryx server to schedule, monitor, and enhance workflow performance.
+- Serve as the back-up admin for Alteryx Server and MongoDB.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 21 : 
+
+- BS in Computer Science, Statistics, or Data Science
+- 3+ years of professional experience in software development
+- ETL Expert - Data Manipulation, Data Migration, Data Validation, Data Cleansing, Data Verification, & Identifying & Remediating Data Mismatches
+- Minimum of 3 years of programming experience using a programming language such as Python, R, SQL, C#/++, Java
+- Experience developing scripting solutions to automation problems, especially in a fast paced setting (pipelining)
+- 2+ years experience writing complex SQL Queries and PL/SQL scripts
+- Ad-hoc report creation using programming languages - e.g. Jasper Reports
+- Good communication skills with the ability to work with a multidisciplinary team (pathologists, biologists, image analysis scientists, analysts, technicians, histology lab)
+- Experience with image analysis or computer graphics a strong plus
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 22 : 
+
+- You have 2+ years of experience working with Data Warehouse ETL and building out data pipelines.  
+- You have excellent communication skills to collaborate with partners in IT, data science, and Finance. 
+- You have experience with Python programming for the purpose of ETL.
+- You possess a deep knowledge of Kimball Data Modeling.
+- You possess a deep knowledge of SQL.
+- You have experience with Cloud data such as AWS or Azure big data offerings.
+- You have an understanding and experience building Power BI data models and reports. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 23 : 
+
+- Collaborate with the data engineering team to design, implement, and maintain data pipelines.
+- Assist in the development and optimization of data models.
+- Contribute to the improvement of data infrastructure and architecture.
+- Work on ETL processes for data extraction, transformation, and loading.
+- Participate in troubleshooting and debugging data-related issues.
+- Collaborate with cross-functional teams to understand and address data requirements.
+- Familiarity with data engineering concepts and best practices.
+- Proficiency in at least one programming language (e.g., Python, Java, Scala).
+- Basic understanding of database systems and SQL.
+- Strong problem-solving and analytical skills.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 24 : 
+
+- Experience with SQL (Preferably Amazon Redshift SQL) 
+- Experience with cloud-based data platforms (e.g., AWS) 
+- Develop, optimize, and maintain ETL processes for data integration. 
+- Solid and current skills in tools like Mulesoft, SSIS, AWS Glue or similar. 
+- Familiarity with real-time data processing technologies. 
+- Understanding of data modeling concepts and techniques. 
+- Design and implement efficient and scalable data models in the cloud. 
+- Establish data quality monitoring and validation processes 
+- Implement and monitor security measures to protect sensitive data 
+- Proficient in writing complex SQL queries. 
+- Familiarity with version control systems like Git for managing codebase changes 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 25 : 
+
+- 2-5 years experience building data platforms for products and analytics
+- Proficiency in the back-end technologies, such as: Python, NoSQL, ElasticSearch, Node JS, Java
+- Expert understanding about data architecture, analytics tools, system design
+- Good communication skills
+- Good understanding of data modeling, cloud system (AWS or Azure)
+- Experience in building APIs
+- Excellent coding standard
+- Should have experience working on significant consumer facing applications
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 26 : 
+
+- Data Engineer who is strong on Data Warehousing, Big Data, Data Analytics
+- With developing software code in one or more languages such as Java and Python.
+- Google Cloud Platform Data Components – BigQuery, BigTable, CloudSQL, Dataproc, Data Flow, Data Fusion, Etc
+- Extensive skills and success in the implementation of technology projects within a professional environment, with a particular focus on data engineering on experience with Data Projects in cloud specifically GCP
+- Knowledge of Data related concepts
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 27 : 
+
+- Technical degree or relevant technical experience.
+- Experience working in SQL environments.
+- Demonstrable experience with Microsoft Azure, particularly Azure Data Factory (ADF) Pipelines and Data Flows.
+- Experience with transformation technologies related to XML and JSON.
+- Strong technical problem-solving skills.
+- Excellent written and verbal communication skills, capable of effectively collaborating with developers and end-users, and producing clear and concise requirements.
+- Associated Microsoft qualifications achieved or in progress.
+- Understanding of ITIL practices.
+- Familiarity with Agile methodologies.
+- Experience working in a micro-service architecture, particularly with Azure API Manager, Jitterbit, or C#.
+- Knowledge of Product Information Management, including creating data quality rules and managing technical aspects of the solution.
+- Proficiency in using Microsoft Power BI or equivalent technologies.
+- Domain experience in Higher Education and/or international recruitment.
+- Experience with Machine Learning.
+- Familiarity with Salesforce or equivalent CRM technologies.
+- Ability to work effectively with minimal supervision.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 28 : 
+
+- You have at least 3 years of experience building, managing and operating SQL databases.
+- You have at least 2 years of experience using Python to automate data flows and other tasks.
+- Strong experience with data warehousing (e.g Redshift, Snowflake, BigQuery, DataBricks)
+- You have worked in depth with cloud services, ideally AWS.
+- Based in one of our office hubs, following our hybrid model with 3 days per week on-site. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 29 : 
+
+- 3 to 8 years of experience as a Data Engineer or similar role,with a demonstrated experience in supporting data pipelines for AI applications and their data requirements.
+- Proven experience with AWS services,including S3, Redshift, Glue, Lambda, and Kinesis.
+- Strong experience with Python and SQL.
+- Strong understanding of AI libraries and frameworks.
+- Experience with data warehousing and data modeling concepts.
+- Excellent problem-solving and analytical skills.
+- Ability to work independently and as part of a collaborative team.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 30 : 
+
+- 3+ years of experience in a data-driven software engineering environment. 
+- Proven experience working with ETL tools (DataStage, SQL/PLSQL), JSON, XML; Database (SQL Server). 
+- Expertise in SQL: sub-queries, joins and PL/SQL 
+- Hands on experience with UNIX, Linux, and Shell Scripts. 
+- Exposure to cloud technology (preferably GCP, AWS, Azure) 
+- Curiosity for Data and how it impacts our day to day lives and that of our clients. 
+- Strong understanding of Data Warehouse concepts, ETL strategies, and best practices. 
+- Deep understanding of relational, 3rd normal form, and dimensional database schema design. 
+- Minimum of 3 years of programming experience in SQL, along with knowledge of Data Science concepts, Python, R, and languages (statistics, machine learning, predictive modeling). 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

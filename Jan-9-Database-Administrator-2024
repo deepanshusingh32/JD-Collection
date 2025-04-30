@@ -1,0 +1,587 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Google Sheet Link : https://docs.google.com/spreadsheets/d/16a3qq8Rgvc8fWtF7jYEVPtWIqDHLpuJ0wb-b1h5C8Jw/edit#gid=0
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 1 :
+
+- 10+ years of rich hands-on experience with DB2 SQLs performance tuning in Data sharing environments.
+- 7+ years hands on experience with the replication and publishing technologies on z/OS i.e. Q Replication, SQL Replication, Data Event Publishing, and Change Data Capture.
+- 7+ years of good experience with Application programming and development, design, analysis, and coding: PL/1, DB2, REXX, JCL, Java.
+- 5+ years of rich working experience with IBM products i.e., QMON, Admin tool, DB2 log analysis tool, Omegamon etc.
+- Working Experience with IBM DB2 Analytics Accelerator (IDAA).
+- Experience with ITIL processes and Tools.
+- Strong analytical, problem-solving skills, written, verbal communication and interpersonal skills.
+- Ability to learn new technologies and methodologies quickly.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 2 :
+
+- 10+ years of experience in information technology.
+- At least 5 years of experience as an Oracle DBA in a fast-paced, rapid-growth and intensive environment.
+- 2+ years of experience with Amazon cloud managed RDS and tools.
+- Some experience with NoSQL technologies like Kafka , Redis, MongoDB, Cassandra , Elastic Search.
+- Experience with database performance tuning.
+- Strong programming skills (Bash, Python, Go).
+- Experience with Git.
+- Experience with Cloud environments (preferably AWS ).
+- Experience with infrastructure coding tools (preferably Terraform).
+- Experience with Oracle 19, Oracle Datagaurd.
+- Experience working with Linux OS.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 3 :
+
+- Experience as SQL Database Administrator.
+- Experience designing, implementing, and managing High Availability database solutions.
+- Experience working in Azure.
+- Experience in producing technical documentation.
+- Exposure to migrating existing SQL Server (on-premises) data loads to Cloud (Azure).
+- Expert knowledge of SQL scripting \ programming.
+- Prior work experience with performance tuning, query plan analysis, and indexing.
+- Knowledge of database auditing and performance monitoring solutions.
+- Understanding of Databricks, Azure Synapse, ADLS, CI\CD Pipelines, and SSIS ETL packages.
+- Knowledge of Data Storage: Delta Lake, Parquet, ORC, AVRO.
+- Understanding of Azure Network, Security groups, Load balancing, and Storage layers.
+- Oustanding working knowledge of IT Operations and support organizations would be an advantage.
+- Ability to work self-directly with less supervision is required.
+- Experience doing backups & restores using SQL Litespeed\Commvault is a plus.
+- Knowledge of ITIL processes and tools like Service Now, SILVA, and JIRA.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 4 :
+
+- Candidates should have 5-9 years of exp. in Oracle Database Administration and in Production support environments.
+- Good understanding of the Oracle database architecture (Single Instance, RAC and ASM) on Oracle 10g, 11gr1, 11gr2, and 12c.
+- Defining database standards and procedures to cover the instance parameters, object sizing, storage, and naming.
+- The procedures define the process for install/ upgrade, corporate database requirements, security and automate the same.
+- Knowledge of ALL Oracle backup and recovery scenarios.
+- Should have live experience of Database Upgrade/Migration from multiple database versions and OS.
+- Should be able to fix issues with RMAN and Patching Oracle Binaries and Databases.
+- 5-7 years of experience supporting relational databases as a DBA with multiple distributed relational DBSM*s or a depth and focus in Oracle and related tools.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 5 :
+
+- 6-14 years experience.
+- DBaaS requirement at ACS.
+- Production DBAs with following skills:
+- Oracle RDBMS on Versions 11g & 12c
+- RAC , ASM, DataGuard, RMAN also Performance/tuning know-how
+- Good skills on Enterprise Manager / Cloud Control
+- SUSE / SLES
+- Exadata
+- Linux 5 & 6 Virtualization
+- Certifications and Good Communication skills a must.
+- Experience with providing KTs to customers will be a plus
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 6 :
+
+- Perform ongoing tuning of the database instances
+- Ensure high levels of performance, availability, sustainability and security
+- Monitoring and optimizing the performance of the database
+- Analyze, solve, and correct issues in real time
+- Assist developers with query tuning and schema refinement
+- Should have worked on high availability and DR strategies.
+- Administer all database objects, including tables, clusters, indexes, views, sequences, packages and procedures
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 7 :
+
+- Proficiency with MSSQL database administration on Windows platforms
+- Ability to understand and remediate production issues on fly and conduct the Root cause analysis
+- Experience on data movement utilities Loads, Imports and Exports
+- Exposure on DR test & strategies like Failover Clustering, Log Shipping, Replication, HACMP, HADR
+- Fix-pack Insulation, Version upgradation
+- Troubleshooting and Performance tuning 
+- Backup Strategy and restoration, refresh activity
+- Maintenance utility Runstat and reorg
+- Good knowledge on Capacity planning & forecasting
+- Knowledge on ITIL Methodologies like Change, Incident, Problem, Service Management using service now Ticketing tool
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 8 :
+
+- 4-6 years RDBMS experience working in a high-volume production environment.
+- At least 2+ years as a MySQL DBA in a LAMP environment.
+- Excellent knowledge in various aspects of MySQL 5.x - 8.x (Innodb, MyISAM, replication, analyzing slow queries, schema changes with and without locking, backups and restores).
+- Experience in AWS cloud, especially RDS/Aurora.
+- Experience in Performance Tuning.
+- Experience of cloud-based data warehouse systems, like Redshift or Snowflake is highly desirable.
+- Knowledge of NoSQL solutions.
+- Proven knowledge of physical and logical database design.
+- Experience with Nagios, Collectd, Grafana and DataDog.
+- Familiarity with JSON, YAML and Chef.
+- Proficiency in writing automation scripts using Shell, or Python.
+- Knowledge of Subversion, Git or other source code version control and repository tools.
+- Broad exposure to Open-Source tools for automation, monitoring, and provisioning.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 9 :
+
+- Provide day-to-day database management and support including overseeing and guiding team members. 
+- Monitor the system’s health and performance. 
+- Ensure high levels of performance, availability, sustainability, and security of databases. 
+- Analyze, solve, and correct issues in real-time. 
+- Provide suggestions for solutions. 
+- Install, configure, troubleshoot, and maintain a database system. 
+- Implement, maintain, and test disaster recovery strategies. 
+- Implement, maintain, and test database backup and recovery strategies. 
+- Manage the database capacity to ensure that it can meet the needs of the organization. 
+- Lead the set-up, testing, and deployment of new databases, migrations, and upgrades. 
+- Refine and automate regular processes, track issues, and document changes. 
+- Mentor junior DBAs on the team. 
+- Continuously evaluate emerging SQL Server technologies and recommend best practices for database management. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 10 :
+
+- Have at least 2-4 years of experience running MySQL/PostgreSQL databases in large Environments.
+- Awareness of cloud infrastructure (AWS/GCP).
+- Have knowledge of the internals of MySQL/PostgreSQL.
+- Knowledge of load balancing solutions such as ProxySQL to distribute database traffic efficiently across multiple servers.
+- Knowledge of tools and methods for monitoring database performance.
+- Strong problem-solving skills and ability to work in a fast-paced environment.
+- Excellent communication and collaboration skills to work effectively within cross-functional team
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 11 :
+
+- Proficient level understanding of various databases like Postgres, TSDB, MongoDB, Redis, and DynmoDB
+- Experience with AWS services like EC2, ECS, EBS, ELB, S3, Route 53, RDS, ALB, etc.
+- Experience in monitoring, backups, troubleshooting, security, user maintenance, reporting, migrations, upgrades, data extraction and sync, disaster recovery, and database restoration
+- Experience in architecting database solutions that optimally meet business needs
+- Experience with Shell scripting, stored procedures, SQL, query tuning, etc
+- Strong understanding of database system concepts like ACID properties, normal forms, backup and recovery mechanisms, DDL vs DML, transaction logging, log shipping, etc
+- Ability to work with application teams on database design and database issues
+- Excellent problem-solving and troubleshooting skills
+- Experience with automation of routine tasks
+- Good communication and interpersonal skills
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 12 :
+
+- Experience as SQL Database Administrator.
+- Experience designing, implementing, and managing High Availability database solutions.
+- Experience working in Azure.
+- Experience in producing technical documentation.
+- Exposure to migrating existing SQL Server (on-premises) data loads to Cloud (Azure).
+- Expert knowledge of SQL scripting \ programming.
+- Prior work experience with performance tuning, query plan analysis, and indexing.
+- Knowledge of database auditing and performance monitoring solutions.
+- Understanding of Databricks, Azure Synapse, ADLS, CI\CD Pipelines, and SSIS ETL packages.
+- Knowledge of Data Storage: Delta Lake, Parquet, ORC, AVRO.
+- Understanding of Azure Network, Security groups, Load balancing, and Storage layers.
+- Oustanding working knowledge of IT Operations and support organizations would be an advantage.
+- Ability to work self-directly with less supervision is required.
+- Experience doing backups & restores using SQL Litespeed\Commvault is a plus.
+- Knowledge of ITIL processes and tools like Service Now, SILVA, and JIRA.
+- Having Microsoft Certification is a plus.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 13 :
+
+- Minimum 6 years of experience as an Oracle DBA.
+- Strong expertise in Oracle Golden Gate for real-time data replication.
+- Proven experience in managing Oracle databases on the AWS cloud platform.
+- In-depth knowledge and hands-on experience with Dataguard, RAC, and Oracle GoldenGate.
+- Expertise in performance tuning and query optimization.
+- Proficient in Oracle database installations and upgrades (19c, 18c, 12c, 11g, 10g).
+- Familiarity with AWS cloud services and database migration processes.
+- Strong problem-solving and troubleshooting skills.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 14 :
+
+- A bachelor's degree in computer science or a related discipline
+- Extensive knowledge of SQL and SQL server tools
+- Experience in Database Performance, Development and Maintenance
+- In-depth understanding of database security, backup and recovery, and performance monitoring requirements
+- Familiarity with relational and dimensional data modelling
+- Extensive knowledge in database design, implementation, and conversion
+- Knowledge of PowerShell and Unix shell scripting
+- Experience with SSAS, SSIS, and SSRS
+- Working knowledge of Linux and Windows Server infrastructures
+- Extensive knowledge of database technologies (, MS SQL, PostgreSQL)
+- Prior experience with cloud services (AWS, Microsoft Azure)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 15 :
+
+- Must have a minimum of 5 experience in configuration, manage and maintain database servers, along with MSSQL basic query and scripting.
+- Configure and manage database maintenance including jobs like backups, restore, indexing, update statistics.
+- Handle database permissions for User setup and configuration.
+- Experienced in monitoring system health like diskspace, CPU, memory, long running queries, blocking, Log shipping, replication, Always-On High availability etc.
+- Perform configurations like Log shipping, replication and Always-On High availability
+- Understands how integration and reporting services work within DB.
+- Independently analyze, solve and provide problem resolution
+- Proficient written and verbal communication along with Documentation skills
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 16 :
+
+- Experience of administering Open Source Databases such as MongoDB, Postgres and MariaDB or a willingness to learn these DB technologies 
+- Experience of working within Financial Services organization 
+- Experience of working in an Agile/SCRUM environment 
+- Microsoft SQL Server MCITP/MCA level certification 
+- Knowledge and experience of current 3rd party SQL Server tools ( eg Solarwinds , Redgate) 
+- Coding skills (PowerShell, C#, Python) to automate tasks and interact with APIs 
+- Automation and Orchestration tools ( Jenkines , Ansible, GIT, TeamCity, Azure Devops ) 
+- Data Virtualisation and Protection Tooling experience, preferably Delphix & Delphix Masking
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 17 :
+
+- Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent experience). 
+- Proven experience as a PostgreSQL Database Administrator. 
+- Strong SQL skills and proficiency in database performance tuning. 
+- Experience with database security, backup, and recovery strategies. 
+- Familiarity with AWS services and infrastructure. 
+- Excellent problem-solving and communication skills. 
+- Ability to work effectively in a team and independently. 
+- AWS and PostgreSQL certifications (e.g., AWS Certified Database - Specialty, PostgreSQL Certified Administrator) is a plus
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 18 :
+
+- 8+ years of experience in database administration supporting MS SQL Server environments
+- SQL Development – ability to write, tune and troubleshoot SQL Code and design (stored procs, functions, tables, views, triggers, indexes, constraints) 
+- Extensive knowledge of Microsoft SQL Server Replication (Merge, Transactional)
+- Extensive knowledge of Microsoft SQL Server Integration Services (SSIS)
+- Working knowledge of SSRS, SSAS
+- Experience implementing/supporting High Availability (HA) and Disaster Recovery (DR) options for SQL Server
+- Experience in troubleshooting and resolving database integrity issues, blocking and deadlocking issues, replication issues, AlwaysOn, connectivity issues, security issues etc.
+- Experience in Performance Tuning, Query Optimization, using Performance Monitor, SQL Profiler and other related monitoring and troubleshooting tools
+- Strong knowledge of backups, restores, recovery models, database shrink operations, DBCC commands
+- Strong knowledge of SQL Server tools (Profiler, DTA, SSMS, PerfMon, DMVs, system sprocs)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 19 :
+
+- 4-6 years SQL Server experience, with 2+ years SQL Server development experience, 3+ years in Database Administration
+- Bachelor’s degree in Computer Science or related major
+- SQL Server 2016 and 2019 experience required. 
+- Experience with Azure
+- Extensive experience writing SQL queries and stored procedures
+- Experience optimizing queries and database objects, including advanced skills in index design and maintenance
+- Experience with SQL Server Service Broker, SQL Server in a Windows Cluster environment, and AlwaysOn Availability Groups
+- Experience with encryption including TDE and Always Encrypted
+- Experience with monitoring tools such as SQL Monitor, Zabbix, SolarWinds, Idera, System Center
+- Excellent problem solving and effective research skills
+- Dedication and willingness to work some alternative schedules as necessary
+- Effective verbal and written communication skills
+- Self-motivated with the ability to work as part of a team or independently
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 20 :
+
+- Provide support for MongoDB, MSSQL, AWS Elasti Cache, and Redis database systems, assisting with troubleshooting and issue resolution
+- Assist in the installation, configuration, and maintenance of MongoDB, MSSQL, AWS Elasti Cache, and Redis environments
+- Familiarity with Monitoring tool such as Datadog, Grafana & Sumo Logic
+- Should worked on Jira ticketing tool
+- Collaborate with Database Administrators and Developers to diagnose and resolve database-related problems
+- Familiarity with database monitoring and performance tuning tools for MongoDB, MSSQL, AWS Elasti Cache, and Redis
+- Familiarity with scripting languages such as Python, PowerShell, or Bash
+- Familiarity with Jenkins, Liquibase, Terraform and Git
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 21 :
+
+- Should have 4+ years working experience in both MySQL (5.6.X and above) & NoSQL Databases.
+- Exposure in databases designed for financial and high traffic websites / applications is a must.
+- Experience working in large database instance environments with size ranging up-to 1TB having Master-Slave replications, group replication, InnoDB Cluster and DB Upgrades.
+- Should have thorough knowledge of MySQL replication topologies.
+- Clear understanding of data base security concepts is a must to have
+- Understand existing Backup and Design and Implement various MYSQL backup/recovery strategies
+- Should have thorough knowledge of shell scripting. Should have worked on complex shell scripts [any of bash/Perl/python/C]
+- Knowledge in docker & kubernetes is a plus
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 22 :
+
+- Familiar with Linux and open source technologies.
+- Experience with open-source database technologies, such as MariaDB, MySQL, Postgres.
+- Experience of securing databases, such as hardening to CIS benchmarks, backup and restoration, authentication principles, encryption and secured communications.
+- Experience with extracting, transforming, and loading data into databases. Desirable:
+- Experience with Data Centre infrastructure, such as storage arrays, Fibre Channel and Ethernet switches, and server systems.
+- Scripting in Linux shell, Perl, and/or Python.
+- Experience with open source systems management and development tools, such as: Nagios, Apache, Ansible, git, and the ELK (Elasticsearch, Logstash, Kibana) stack.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 23 :
+
+- Working experience as a Database Administrator is required
+- Database standards and end-user applications knowledge
+- Data backup, recovery, security, integrity, and SQL are all skills that you should have
+- Database design, documentation, and coding are all skills that you should have
+- Previous expertise with third-party and DBA case tools
+- API knowledge of programming languages
+- Problem-solving abilities and the ability to think in an algorithmic manner
+- Any relevant certification is required
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 24 :
+
+- Proven working experience as a Database administrator
+- Hands-on experience with database standards and end user applications
+- Excellent knowledge of data backup, recovery, security, integrity and SQL
+- Familiarity with database design, documentation and coding
+- Previous experience with DBA case tools (frontendbackend) and third party tools
+- Familiarity with programming languages API
+- Problem solving skills and ability to think algorithmically
+- BS degree in a computer discipline or relevant certification
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 25 :
+
+- Experience developing PowerShell or Python scripts to automate DBA tasks
+- Experience with SQL Server Failover Cluster Instances or Always On availability groups
+- Experience with SQL Server Analysis Services
+- Experience with monitoring tools such as Idera or Redgate
+- Experience with Git and automation tools such as Ansible, Puppet, or Chef
+- Experience with aspects of Windows administration such as file sharing, group policy, or Active Directory
+- Experience with data virtualization or business intelligence tools
+- Familiarity with VMware virtualization environments
+- Experience with Amazon Web Services, Microsoft Azure or Google Cloud Platform
+- Knowledge of IT Service Management concepts or experience with JIRA
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 26 :
+
+- Oracle 19c ( CDB/PDB )installation, configuration, troubleshooting skills ( Required )
+- MySQL ( Required ) , Postgres, Mongo db
+- Oracle EBS ( Technical )
+- AWS cloud technologies, ( Required )
+- Backup and recovery ( RMAN ) ( Required )
+- Dataguard, RAC, Advance queuing (AQ), partitioning, performance tuning for Oracle 19c databases ( Required )
+- Shell and python scripting ( Required )
+- OEM ( Oracle Enterprise manager configuration, deployment, and scripting ) ( Required )
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 27 :
+
+- Minimum of 3+ years hands on experience in database administration and Performance troubleshooting in oracle and PostgreSQL databases.
+- Oracle and PostgreSQL Database Installation, Migration, Upgrade andPatching.
+- Proficient in programming solutions with shell scripting, Python, SQL,PL/SQL, PL/PGSQL, PSQL, Stored Procedures, functions, views, triggers,Performance tuning and DevOps process
+- Good knowledge in Backup Restore strategies: Datapump,Export/import, Hot backup, RMAN, Dataguard, OEM and AWR reports.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 28 :
+
+- Bachelor's degree in computer science, information technology, or a related field.
+- Proven experience as a SQL Server Database Administrator.
+- In-depth knowledge of SQL Server database management and administration.
+- Strong understanding of database design principles, normalization, and optimization.
+- Proficiency in writing and optimizing SQL queries.
+- Familiarity with database security best practices.
+- Experience in performance tuning and troubleshooting.
+- Knowledge of backup and recovery procedures.
+- Excellent problem-solving and communication skills.
+- Relevant certifications (e.g., Microsoft Certified: Azure Database Administrator Associate) are a plus.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 29 :
+
+- Have at least 2-4 years of experience running MySQL/PostgreSQL databases in large Environments.
+- Awareness of cloud infrastructure (AWS/GCP).
+- Have knowledge of the internals of MySQL/PostgreSQL.
+- Knowledge of load balancing solutions such as ProxySQL to distribute database traffic efficiently across multiple servers.
+- Knowledge of tools and methods for monitoring database performance.
+- Strong problem-solving skills and ability to work in a fast-paced environment.
+- Excellent communication and collaboration skills to work effectively within cross-functional teams.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 30 :
+
+- Excellent communication skills.
+- Strong problem-solving skills
+- Proficiency in Oracle and SQL.
+- Strong SQL, PL/SQL, and performance tuning skills.
+- Minimum 5 years of experience working with Oracle and SQL databases
+- Knowledge of database security principles.
+- Experience with database monitoring tools and configuring alerts.
+- Experience supporting production environment.
+- Experience working with remote teams.
+- Familiarity with PowerShell or Python for tasks automation.
+- Familiarity using tools like Git, Jira.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 31 :
+
+- Experience implementing and managing highly performant and highly available PostgreSQL databases
+- Experience with Unix/Linux systems and networking.
+- Experience writing high-quality code in Python, Go, or equivalent languages.
+- Knowledge of Site Reliability Engineering (SRE).
+- Experience with cloud computing (AWS preferable).
+- Infrastructure as code skills, ideally with Terraform.
+- Experience in coaching and team-building
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 32 :
+
+- Good understanding of Oracle database.
+- Good verbal and written communication skills.
+- 5 years of Oracle production support DBA experience is preferred.
+- Ability to quickly learn and start working on any new technologies based on the project needs.
+- Good knowledge and experience with Oracle backup, recovery, transportable tablespace, RAC, data guard, and performance tuning is preferred.
+- Experience working in ISO certified environment is a plus.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 33 :
+
+- Installing, configuring MySQL server and client software. 
+- Experience of MySQL's underlying storage engines, such as InnoDB and MyISAM. 
+- Experience in MySQL and 5.x and 8.x Schemas database versions, Experience in MySQL Enterprise Monitoring. 
+- Experience in Upgrade and Migration of MySQL databases 
+- Performance Tuning of MySQL databases and patching. 
+- Planning, scheduling, and taking MySQL backups and recovery. 
+- Experience in MySQL Enterprise Backup. 
+- Experience in high availability configurations, Replication, disaster recovery planning. 
+- Experience in MySQL Query Analyzer. 
+- Experience on MySQL Workbench. 
+- Installation, configuration and upgrading of MySQL instance and related products /plugins. 
+- Ensure performance, security, and availability of databases. 
+- Establish and maintain sound backup and recovery policies and procedures. 
+- Implement and maintain database security (create and maintain users and roles, assign privileges). 
+- Database performance tuning and monitoring. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 34 :
+
+- Working in AWS and their database related services e.g. RDS is must.
+- Working experience in other databases e.g. oracle, MySQL is preferable.
+- Knowledge of NoSQL technologies.
+- Working knowledge of Linux operating systems
+- Keep up to date on the latest industry trends in the technologies
+- Proven working experience as a Database administrator
+- Hands-on experience with database standards and end user applications
+- Excellent knowledge of data backup, recovery, security, integrity and SQL
+- Familiarity with database design, documentation and coding
+- Previous experience with DBA case tools (frontend/backend) and third party tools.
+- Familiarity with programming languages API.
+- Problem solving skills and ability to think algorithmically.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 35 :
+
+- 4-6 years SQL Server experience, with 2+ years SQL Server development experience, 3+ years in Database Administration
+- Bachelor’s degree in Computer Science or related major
+- SQL Server 2016 and 2019 experience required. 
+- Experience with Azure
+- Extensive experience writing SQL queries and stored procedures
+- Experience optimizing queries and database objects, including advanced skills in index design and maintenance
+- Experience with SQL Server Service Broker, SQL Server in a Windows Cluster environment, and AlwaysOn Availability Groups
+- Experience with encryption including TDE and Always Encrypted
+- Experience with monitoring tools such as SQL Monitor, Zabbix, SolarWinds, Idera, System Center
+- Excellent problem solving and effective research skills
+- Dedication and willingness to work some alternative schedules as necessary
+- Effective verbal and written communication skills
+- Self-motivated with the ability to work as part of a team or independently
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 36 :
+
+- Proven working experience as a Oracle Database Administrator
+- Previous experience working with AWS RDS
+- Hands-on experience with database standards and end user applications
+- Excellent knowledge of data backup, recovery, security, integrity
+- Familiarity with database design, documentation and coding
+- Previous experience with DBA case tools (frontend/backend) and third party tools
+- Nice to have - Familiarity with programming languages API
+- Problem solving skills and ability to think algorithmically
+- BS degree in a computer discipline or relevant certification
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 37 :
+
+- Bachelor's or Master's degree in Computer Science, Information Technology, or a related field.
+- Proven experience as a Database Administrator with expertise in both SQL and NoSQL databases.
+- Proficiency in SQL databases such as MySQL, PostgreSQL, or SQL Server.
+- Familiarity with NoSQL databases such as MongoDB, Cassandra, or Redis.
+- Expertise in database query optimization for both SQL and NoSQL environments.
+- Knowledge of database security best practices for SQL and NoSQL systems.
+- Knowledge on Droid, Penot or any time series database is a plus
+- Experience with backup and recovery solutions for both SQL and NoSQL databases.
+- Familiarity with database performance monitoring and tuning tools for both SQL and NoSQL
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 38 :
+
+- Proven experience as a Database Administrator with a focus on query optimisation, specifically in MariaDB.
+- Proficiency in SQL query analysis and optimisation techniques.
+- Strong understanding of database indexing and its impact on performance.
+- Hands-on experience with MariaDB performance tuning tools and utilities.
+- Familiarity with database design principles and normalisation.
+- Ability to collaborate effectively with cross-functional teams.
+- Strong problem-solving skills and attention to detail.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 39 :
+
+- Bachelors’ degree in Engineering preferably in Information Management or Computer Science
+- Minimum of 5+ Years as Oracle Database Administrator
+- Good hands-on Oracle Core DBA, MYSQL DBA, Oracle Database
+- Experience with Oracle Database Architecture; Oracle Database Upgrade; Oracle Exadata Database Machine
+- Should have worked on Oracle RAC DBA; Oracle Tuning
+- Optional Skills are IBM AIX; Linux Environments; Oracle Linux
+- Responsibilities include designing, installing, upgrading, patching, tuning, monitoring and troubleshooting databases with large amounts of data (Terabytes)
+- Capacity planning, sql analysis, schema revisions, security administration and user account maintenance are also required tasks
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 40 :
+
+- 6+ years MS SQL Server Administration experience required
+- Expert knowledge required in SQL Server replication, Always-ON, performance tuning and optimization, troubleshooting and SQL Server internals.
+- Expert level experience with backups, restores and recovery models
+- Hands-on on other HA/DR topologies like Log Shipping, Mirroring and Clustering for SQL Server
+- Expert in writing and troubleshooting T-SQL
+- Experience working with Windows server, including Active Directory
+- Experience working with Linux and any scripting language like powershell, shell, python etc.
+- Experience in MySQL/ MariaDB installation, backup, restore, recovery, security, replication, troubleshooting failures, performance troubleshooting and tuning.
+- Experience in PostgreSQL installation, backup, restore, recovery, setting up security, replication and troubleshooting.
+- Experience in MongoDB installation, CRUD operations, backup, restore, recovery, security best practices, replication and sharing.
+- Excellent written and verbal communication
+- Ability to multi-task and context-switch effectively between different activities and teams
+- MCTS, MCITP, and/or MVP certifications a plus
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
