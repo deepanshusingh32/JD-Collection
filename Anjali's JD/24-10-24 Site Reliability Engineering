@@ -1,0 +1,592 @@
+Google Sheet: https://docs.google.com/spreadsheets/d/1wxrxYiA2zTZOE5OU545RpJ3jWBNmbX80an3s_YNd29k/edit?gid=213833575#gid=213833575
+
+--------------------------------------------------------------
+JD 1:
+Multi-cloud management experience/certifications with AWS / GCP / Azure
+Hands-on experience in cloud native application architecture
+Experience in communicating across internal and external organizations
+Experience in architecting, analyzing, and troubleshooting large-scale distributed systems & storage systems
+Familiarity with software development life cycle process
+Hands-on experience with AWS ecosystem, orchestration tools at scale(e.g. Terraform, Ansible, Packer), CI/CD tools(Groovy, Jenkins DSL) and monitoring tools (ELK, Prometheus)
+
+JD 2:
+Experience with scripting languages; Bash, Groovy, YAML and/or Python
+Use of CICD tooling such as GIT/Ansible/Jenkins/Nexus
+Knowledge of git concepts, CI/CD, release strategy, branching strategy, and development / release pipelines.
+Oracle / MSSQL / Postgres /database querying
+Broad Infrastructure knowledge (Networks, Database, Web, SAN/NAS)
+Use of JIRA / Kanban to build epics, stories, backlog prioritisation, planning, reporting.
+SCOM/SCORCH, Control-M, BigPanda, Service Now, DataDog
+Understanding of Agile software engineering principles (Dev/ QA / Deployment etc)
+
+JD 3:
+5+ years of experience developing or operating complex cloud scale application/infrastructure environment
+4+ years of hands on experience with operating systems: RHEL, CentOS Linux, and Windows Servers
+Hands-on experience with Container technologies: Kubernetes, Docker, etc.
+Working knowledge with one or more Virtualization technologies: Citrix Hypervisor, VMware vSphere, Ubuntu KVM, etc.
+Hands-on experience building automation: Bash, PowerShell, Python or Go. 
+Working knowledge with one or more key infrastructure tools/products: Active Directory, Ansible, Chef, etc.
+Working knowledge with Monitoring technologies: Zabbix, Splunk, etc.
+Working knowledge with Network and Storage technologies
+Working knowledge with ServiceNow, JIRA, Confluent, and GitHub
+Experience with Message Queues, PostgreSQL/MySQL Databases, and NoSQL Databases
+
+JD 4:
+Strong understanding and work experience developing with either Python, GoLang or any object oriented programming language.
+Strong understanding and working knowledge of Kubernetes, Terraform, CI/CD pipelines , Release Engineering practices .
+Strong understanding of Linux operating systems administration.
+Work-related experience with large-scale, high-traffic platforms.
+Work-related experience with designing scalable and robust services in the real world.
+Clear communication skills and the ability to represent your contributions and ideas with clarity while remaining open and giving space to the contributions and ideas of others.
+Participate in system design consulting, platform management, and capacity planning.
+Developing and maturing sustainable systems and services through automation and uplifts.
+Balance feature development speed and reliability with well-defined service-level objectives.
+Extensive experience supporting livesite and on call.
+Experience building and operating complex observability tooling like Grafana Cloud , Prometheus etc.
+Working knowledge of Cassandra, MySQL, Redis
+Working knowledge of React, Node.js, Python, Go, 
+Working knowledge of Docker, Chef, CircleCI, Vault.
+Working knowledge of Wordpress, Drupal.
+Coding experience beyond simple scripts.
+CKA, CKAD, CKS or CNCF Certifications
+Experience supporting and developing Open Source tooling on public clouds like GCP, AWS or Azure.
+
+JD 4:
+Extensive experience with a wide range of infrastructure technologies, such as but not limited to Linux, Windows, High-performance computing, storage platforms, networking, cloud computing, cloud services (IaaS, PaaS, SaaS, etc.), virtualization, OpenStack, containerization, and orchestration technologies (e.g., Docker, Kubernetes). Solid understanding of the underpinnings of container technology such as Cgroups and Namespaces.
+Deep understanding of IT infrastructure related services and their dependencies required to troubleshoot issues and define mitigations.
+Solid experience with the administration, security hardening, and performance tuning of Linux and Windows OS. In-depth knowledge of CIS benchmarking standards.
+Experience with developing service level indicators and objectives, instrumenting software, and building alerts.
+An understanding of software engineering fundamentals with experience developing software with a team of engineers. Strong experience in the practice of testing.
+Experience with the operations, administration, and development of orchestration systems such as Kubernetes, ECS, Mesos. 
+Passion for tracking down technical root causes of distributed systems, and software.
+Experience with ITAM, Service Mapping, and CMDB (service-now)
+Strong technical foundation, with the ability to engage deeply on technical topics related to data center and cloud infrastructure, software reliability, and operational practices.
+Proficiency in ITIL (Information Technology Infrastructure Library) processes and frameworks
+12+ years of experience with infrastructure architecture design, implementation, and support in large organizations.
+Implementation experience in infra-automation tools and frameworks like GitHub, Maven/Gradle, Jenkins, Terraform (IaC), Ansible, Shell scripting. 
+Hands on experience with one or more of Java/Python/Go/NodeJS languages.
+Well versed with SDLC, Agile processes and CI/CD tools.
+Well versed with ITIL process including incident, request and change management.
+
+JD 5:
+5 to 9 years of experience handling systems for large scale production environments.
+A self-starter, able to build, drive and advocate for SRE solution.
+Effective cross-functional collaboration skills to develop tools for secured, scalable, and reliable systems.
+Solid understanding of SRE concepts like SLAs, SLOs, SLIs, error budgets, MTTR, MTTD, etc.
+Experience with variety of tools that help manage, understand, and debug large, complex distributed systems.
+Good programming experience (Python/Go).
+Hands-on experience with Kubernetes and Docker.
+Working knowledge in any one of the cloud platforms (AWS, Azure, GCP)
+Experience with monitoring and logging tools (e.g. Datadog, ELK, Prometheus, Grafana).
+Good knowledge of Unix system, networking, web technologies, and databases.
+Expert with troubleshooting issues and bugs.
+Incident Management experience coupled with effective communication skills.
+Experience in financial domain (desirable).
+Prior SRE/DevOps experience desirable.
+
+JD 6:
+Experience with DevOps tools for Code Build & Version Control, Test and Deployment
+Proficient in Software Delivery Lifecycle or Service Management
+Experience with scripting / coding in one or more of the following – Python, Shell, PowerShell, Go, JavaScript/Typescript
+Good working knowledge on cloud technologies, particularly Azure and Kubernetes
+Hands-on experience with Unix, Kubernetes
+Experience in monitoring and observability i.e. using AppDynamics, Grafana, Azure App Insights
+Familiarity with Internal Developer Portals, Backstage, MKDocs is a plus
+Expertise in Incident and Change Management will be an added advantage
+
+JD 7:
+8 years of experience as platform architect with advanced knowledge in the following key areas: containers, deployment architecture, benchmarking, design, and network engineering.
+Minimum 4 years of combined experience serving in either a DevOps, SRE, Systems, and/or software development role.
+Hands-on experience in establishing and maturing SRE practices, program, and roadmap
+Extensive experience with public cloud technologies and cloud-native architectures and solutions. (Azure highly preferred)
+Experience with Infrastructure-as-Code (IAC), DevOps, and CI/CD practices and tool chains (Terraform, Gitlab, ArgoCD, Jenkins)
+Experience with configuration management tools (Ansible, Chef, and Packer)
+Experience with container technology and orchestration (Kubernetes, Docker)
+Experience with Observability and Monitoring practices and tools (OpenTelemetry, New Relic, OpsRamp, Prometheus, Grafana, Elastic Stack, Splunk, DynaTrace)
+Deep understanding of microservice architectures, application servers, network, and databases
+Excellent understanding of scalability processes and techniques
+
+JD 8:
+Minimum 5 years’ experience in a similar role
+Working experience in installing, configuring and troubleshooting Linux environments
+Experience with Automation, CI/CD, Jenkins, VMWare, Ansible, git, RedHat Enterprise Linux
+Scripting skills and (Bash, Python, HashiCorp products,Ruby)
+Experience with monitoring systems (Nagios, Big Panda, Elastic, Datadog)
+Experience with virtualization and containerization (VMware, Docker, Kubernetes, RancherOS)
+Awareness of Agile methodology
+Experience in AWS, Azure, Networking & Windows eco system is plus.
+
+JD 9:
+Strong programming skills in Python, Java, or similar languages
+Experience with automation tools such as Ansible, Puppet, or Chef
+Proficiency in monitoring tools like Nagios, Prometheus, or Grafana
+Demonstrated ability to analyze and debug complex system issues
+Expertise in networking concepts and protocols
+Experience with cloud platforms such as AWS, GCP, or Azure
+Knowledge of containerization and orchestration technologies like Docker and Kubernetes
+Excellent problem-solving and communication skills
+Ability to work effectively in a fast-paced and collaborative environment
+Certifications such as AWS Certified SysOps Administrator or Google Professional Cloud Developer are a plus
+Strong understanding of security principles and best practices
+Experience with incident response and post-mortem analysis
+
+JD 10:
+8+ years of experience in software development, Cloud-SRE/DevOps/System Engineering Field, with at least 2 years in a Managerial role.
+Technical Skills: Proficiency in SRE and software development, with a understanding of infrastructure management, observability, automation, and deployment.
+Proficiency in Python, Go, and Shell scripting, with expertise in Linux and FreeBSD. Development experience with front-end frameworks like React/Angular (UI) and back-end technologies such as Java, Python, Java Spring Boot, and Node.js. Experienced in using OpenTelemetry, Prometheus, Grafana, ELK stack, Terraform, Puppet, Ansible, Docker, Kubernetes, and other SRE tools.
+Oversee the design of scalable portals and AI Co-Pilot solutions to support data-driven decision-making and operational efficiency. Collaborate with product, operations, and security teams to integrate and deploy new tools and features, ensuring seamless operations.
+Strategic Planning: Develop and implement strategic plans for SRE Platform and Tooling, aligning with Zscaler's goals and technological advancements.
+
+JD 11:
+Proven experience (8+ years) in site reliability engineering or a similar role, with a strong focus on system reliability, scalability, and performance optimization.
+Demonstrated experience in leading and managing a team of SRE engineers.
+Strong knowledge of cloud infrastructure, such as AWS, Azure, or GCP, and proficiency in infrastructure as code (IaC) tools like Terraform or CloudFormation.
+Knowledge in various monitoring APM tools (DynaTrace, AppDynamics, AppInsights, BMC Patrol, BMC BPPM, System Center Operations Manager (SCOM),CA Performance Center (formerly NetQoS), CA Spectrum
+Experience with distributed storage technologies such as NFS, HDFS, Ceph, and Amazon S3, as well as dynamic resource management frameworks (Apache Mesos, Kubernetes, Yarn)
+Proficiency in programming and scripting languages like Python, Java, or Bash.
+Solid understanding of network protocols, web technologies, and database systems.
+Excellent problem-solving and troubleshooting skills, with a data-driven and analytical approach.
+Strong communication and interpersonal skills, with the ability to collaborate effectively with cross-functional teams and stakeholders.
+Proficiency in Python, PERL, Shell Scripting and macros
+Proven ability to work in a fast-paced, dynamic environment and manage multiple priorities effectively.
+
+JD 12:
+Software: Java, Springboot, Gradle, GIT, Hibernate, Rest API, OAuth, Python, Powershell
+Application Architecture: Scalable, Resilient, event driven, secure multi-tenant Microservices architecture
+Cloud Architecture: MS Azure (ARM templates, AKS, HD insight, Application gateway, Virtue Networks, Event Hub, Azure AD)
+Frameworks/Others: Kubernetes, Kafka, Elasticsearch, Spark, NOSQL, RDBMS, Springboot, Gradle GIT, Ignite
+
+JD 13:
+Experience in a distributed system or microservices architecture
+Experience making technical decisions as a tech lead
+Familiar with monitoring/observability technologies like Prometheus, Graphite, Grafana, Kibana, Elasticsearch, Datadog
+Open-source software development experience and or participation in open-source communities
+Working knowledge of cloud security and application security
+Experience in using any service meshes in production such as Istio or Linkerd
+Experience in using network reliability practices such as circuit breaking, rate limiting
+Experience in designing secure cloud-based network architectures
+
+JD 14:
+Prior experience in Production Support, SRE, Change, Release, Problem, Service Management
+Sound knowledge on REST APIs using JSON, Java Web Services on SOAP, OAuth Integrations
+Sound knowledge on Docker, Kubernetes
+Sound Cloud Knowledge (preferably on AWS, in services like EKS, Lambdas, API Gateway, Load Balancers, SQS, SNS, CloudWatch, EC2, RDS)
+Prior experience of working as a DevOps or SRE Engineer
+Hands on experience on Application performance management, and monitoring tools like AppDynamics, Splunk, DataDog, CloudWatch, X-ray, ZipKin, etc. (Any experience in reporting, visualisation tools e.g. QlikSense, Dashboards in AppDynamics, Splunk will be an added advantage.)
+Sound knowledge Jenkins, Groovy for CI/CD
+Sound knowledge Python, Shell Scripting for Automation
+Hands on experience on Version Control systems like GitHub, and Tagging, Releases setup
+Good analytical, troubleshooting, communication, articulation, and interpersonal skills
+Excellent Problem-Solving, triaging skills, and strongly positive attitude to improve operational ways of working
+Ability to influence stakeholders convincingly with well-considered & rationalised logic
+Experience in using JIRA & Confluence or equivalent portals.
+Good Knowledge & working experience in Agile, Scrum / Kanban methodologies
+
+JD 15:
+Minimum of 6 years of experience in infrastructure management, with a strong focus on AKS (Azure Kubernetes) or ASF (Azure Service Fabric)
+Expertise in Kubernetes cluster setup, administration, and orchestration or proficiency in service fabric and microservices design.
+Strong experience with Grafana and Prometheus for monitoring and performance tuning.
+In-depth knowledge of CI/CD tools such as Jenkins, TeamCity, Octopus Deploy, and Bamboo.
+Familiarity with Infrastructure as Code (IaC) tools like Terraform.
+
+JD 16:
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+Proven experience in system architecture, deployment, and performance tuning.
+Proficiency in scripting languages such as Python, Bash, or Ruby.
+Expertise in utilizing cloud services like AWS, GCP, or Azure.
+Demonstrated experience in automation using tools like Ansible, Puppet, or Chef.
+Strong troubleshooting and problem-solving skills in complex distributed systems.
+Knowledge of containerization technologies such as Docker and Kubernetes.
+Experience with monitoring and logging tools like Prometheus, Grafana, or ELK stack.
+Familiarity with networking concepts and protocols.
+Ability to work effectively in a fast-paced, collaborative environment.
+Excellent communication and interpersonal skills.
+Proactive mindset with a focus on continuous improvement and learning.
+Capability to thrive in a dynamic and evolving technology landscape.
+Understanding of Agile and DevOps methodologies.
+Certifications in relevant areas like AWS, Azure, or Google Cloud.
+
+JD 17:
+To Detect the Incidents and act proactively escalate using the built in dashboards.
+Hands on using Dynatrace dashboards and creation of customized dashboards.
+Hands on using ServiceNow to perform analytics, Reporting, knowledge management, CMDB, ITOM modules(Event Management, Operator Workspace etc)
+Basic knowledge on other monitoring tools would be advantage (SolarWinds, Nimsoft, SCOM, Redgate etc.)
+Basic understanding of Application Architecture and its infra components, so that the user impact can be understood.
+Troubleshooting/communication skills:
+Hands on experience in troubleshooting basic issues in Windows, Unix
+Able to write and understand basic command lines and scripting 
+Able to communicate effectively during the incident and Problem management calls
+Batch Management – Autosys
+Basic understanding of Autosys Batches and its components
+Experience in working with Batch management(monitoring and incident resolution)
+Basic knowledge on AWS/Azure to support the access management tasks.
+Knowledge/certification on the Azure/AWS associate level.
+Knowledge on login to the AWS console
+Different access management roles and its functions
+Database 
+Understanding of Relational Database(any one)
+Able to write& understand basic queries using SQL.
+Service now Fundamentals or Admin knowledge or certified
+Understanding of Devops practices and tools
+
+JD 18:
+Minimum 3+ years of experience in a Site Reliability Engineering or similar role, with a strong focus on cloud infrastructure and operations.
+2+ years and deep expertise in cloud platforms such as GCP, AWS or Azure.
+2+ years and proficiency in infrastructure as code (IaC) tools such as Terraform, CloudFormation, or Ansible.
+Experience with CI/CD pipelines and DevOps practices.
+Experience with monitoring and observability tools (e.g., Prometheus, Grafana, ELK stack).
+2+ years in scripting and programming skills (e.g., Python, Bash).
+
+JD 19:
+Design Azure-based solutions for high availability and scalability
+Manage Kubernetes clusters, optimizing resource allocation
+Maintain and configure Ansible playbooks for deployments
+Monitor systems using Datadog and Elasticsearch for troubleshooting
+Implement best practices for fault tolerance in collaboration with development teams
+
+JD 20:
+Lead a team in automating deployments and enhancing infrastructure stability
+Manage AWS infrastructure with Terraform, focusing on scalability
+Implement Prometheus monitoring and custom alerting solutions
+Collaborate to create robust CI/CD practices
+Conduct post-incident reviews to identify systemic improvements
+
+JD 21:
+Automate AWS provisioning with CloudFormation templates
+Manage Docker deployments and optimize container performance
+Implement CI/CD pipelines on GitLab for seamless deployments
+Monitor performance metrics to improve stability and response times
+
+JD 22:
+Design and manage GCP infrastructure for reliability and disaster recovery
+Automate tasks with Puppet and Terraform, streamlining processes
+Develop and maintain Kubernetes clusters for microservices
+Use Splunk for proactive incident resolution and log analysis
+
+JD 23:
+Set up Prometheus monitoring and alerting to track system health and identify issues in real time
+Write Bash and Python scripts to automate repetitive maintenance tasks, improving efficiency and response time
+Work with Docker to containerize applications, assisting in initial troubleshooting and basic issue resolution
+Support on-call rotations, assisting in triaging and resolving alerts, and optimizing alert thresholds to reduce noise
+
+JD 24:
+Implement robust infrastructure on Azure, emphasizing automation for scaling and environment consistency
+Orchestrate and optimize Kubernetes clusters for resource utilization, load balancing, and fault tolerance
+Manage and improve Jenkins CI/CD pipelines, ensuring rapid but stable code deployments
+Set up ELK Stack (Elasticsearch, Logstash, and Kibana) to centralize log data and monitor for application performance and error trends
+
+JD 25:
+Enhance AWS infrastructure for performance optimization and resource utilization, focusing on latency reduction
+Build Grafana dashboards to monitor real-time performance and customize alerts for proactive maintenance
+Use Terraform for Infrastructure as Code, automating the provisioning of environments and setting up version control
+Use Docker to streamline container deployment processes, integrating container security best practices into all stages
+
+JD 26:
+Administer GCP-based Kubernetes clusters, configuring for load balancing and resilience
+Integrate Istio for secure traffic management across microservices, improving application reliability
+Automate environment setups with Terraform, using code reviews and documentation to maintain accuracy
+Configure Jenkins CI/CD pipelines, with integrated testing for all microservices before deployment to production
+
+JD 27:
+Set up and maintain CloudWatch for monitoring AWS resources, configuring dashboards and alerts for early detection of issues
+Automate AWS deployments using Ansible, reducing the manual steps required in environment provisioning
+Utilize Docker for application containerization, maintaining consistent configurations across environments
+Write Python scripts to automate routine tasks and gather custom performance metrics
+Develop AWS infrastructure using CloudFormation, focusing on repeatability and version-controlled environments
+Oversee Docker-based application deployments, optimizing for security, performance, and resource utilization
+
+JD 28:
+Implement Infrastructure as Code on AWS with Terraform, focusing on security, scalability, and cost-efficiency
+Create and maintain Grafana dashboards, enabling cross-functional teams to monitor application health
+Use Jenkins to develop and maintain CI/CD pipelines, integrating automated testing scripts for quality assurance
+
+JD 29:
+Use Kubernetes for large-scale container orchestration, managing container health checks and automated restarts
+Implement Prometheus for continuous monitoring, setting up alerts for performance anomalies
+Develop Python scripts for automation tasks, especially focused on container deployment and debugging
+
+JD 30:
+Architect scalable and secure infrastructure on Google Cloud Platform using Terraform, with an emphasis on repeatability and version control
+Manage configuration automation using Ansible playbooks to maintain consistency across environments
+Implement ELK Stack (Elasticsearch, Logstash, and Kibana) for centralized logging, enabling teams to analyze trends and pinpoint issues
+Develop Python scripts to streamline operational tasks, including log parsing, data extraction, and reporting
+
+JD 31:
+Deploy and manage applications in Kubernetes clusters, utilizing Helm for version-controlled deployments
+Use Datadog for in-depth application monitoring and Prometheus to customize alerts for potential production incidents
+Troubleshoot and resolve complex container-related issues in Docker, optimizing configurations to minimize resource usage
+Collaborate with teams to improve incident response processes and implement best practices in monitoring
+
+JD 32:
+Develop and manage AWS infrastructure using CloudFormation, focusing on security and cost efficiency
+Set up and maintain CI/CD pipelines in GitLab, integrating automated testing and deployment steps
+Implement and maintain ELK Stack for log management and analytics, ensuring timely response to critical events
+Automate various deployment and maintenance tasks using Python, enhancing deployment speed and reliability
+
+JD 33:
+Deploy Azure cloud infrastructure with Terraform, focusing on reliability, scalability, and security
+Use Kubernetes to manage container orchestration and ensure seamless scaling during peak loads
+Implement Splunk for real-time monitoring and alerting, enabling quick identification and resolution of issues
+Develop and maintain Ansible playbooks to automate configuration tasks across multiple environments
+Automate configuration management and scaling on GCP using Puppet to ensure reliability across cloud infrastructure
+Develop custom Python scripts to automate monitoring and maintenance tasks
+Deploy Docker containers in production, ensuring optimal performance and container security
+Create Grafana dashboards for visualizing performance data, alerting teams to potential bottlenecks
+
+JD 34:
+Set up Prometheus for monitoring and configuring custom alerting for AWS resources
+Manage CI/CD pipelines on Jenkins, ensuring that all code undergoes rigorous automated testing before deployment
+Write Bash scripts to automate routine administrative tasks, enhancing system performance and availability
+Troubleshoot and resolve issues within Kubernetes clusters, ensuring containers are running optimally
+
+JD 35:
+Architect and deploy scalable infrastructure on Azure, ensuring optimized configurations for cost and performance
+Use Terraform to manage infrastructure resources, enabling automated and consistent environment setups
+Configure Prometheus and Grafana to monitor system performance, setting up alerts and visual dashboards for proactive issue detection
+Orchestrate Kubernetes deployments to streamline microservices and ensure efficient resource utilization.
+Spearhead automated infrastructure provisioning in AWS through CloudFormation, focusing on scalability, security, and compliance.
+Manage Docker-based deployments to ensure smooth, consistent application performance across various environments.
+Oversee CI/CD processes with Jenkins, implementing robust automated testing and deployment pipelines to improve development speed and accuracy.
+Develop Python scripts to automate repetitive monitoring and maintenance tasks, enhancing operational efficiency.
+Collaborate with the development team to ensure integration of new features without disrupting the production environment.
+
+JD 36:
+Use Ansible to standardize and automate configurations across GCP instances, enabling consistent setup across all environments.
+Implement the ELK Stack for log aggregation and analysis, allowing for centralized management and quicker identification of issues.
+Deploy infrastructure through Terraform, focusing on ease of scaling and minimizing manual intervention.
+Develop Bash scripts for routine tasks, optimizing maintenance processes and reducing manual errors.
+Partner with engineering teams to ensure configurations align with system requirements, supporting smooth, reliable production workflows.
+
+JD 37:
+Manage Kubernetes clusters on AWS, leveraging Helm for efficient and consistent application deployment.
+Use Datadog for comprehensive monitoring, setting up alerts and reports to track performance trends and mitigate issues.
+Develop and deploy Python scripts to automate deployment processes, improving overall release velocity and reliability.
+Analyze and optimize resource consumption within Kubernetes, focusing on cost management and performance efficiency.
+Coordinate with product and engineering teams to ensure applications meet reliability standards and maintain high availability.
+
+JD 38:
+Leverage Puppet to automate GCP environment configuration, standardizing processes to maintain compliance and security.
+Orchestrate Kubernetes clusters to support microservices architecture, ensuring efficient resource allocation and system resilience.
+Use Splunk to centralize and analyze logs, enabling fast issue resolution and system insights.
+Write Python scripts to automate alerts, improving team response to incidents and reducing downtime.
+Collaborate with teams to align infrastructure with operational and business requirements, supporting seamless production workflows.
+
+JD 39:
+Implement and manage AWS infrastructure using CloudFormation, ensuring high availability and security through automation.
+Use Docker to containerize applications, standardizing configurations for reliable and scalable deployments.
+Configure and maintain Jenkins CI/CD pipelines, automating the testing and release process to reduce deployment risks.
+Set up Grafana dashboards to provide visual insights into application performance and track key system metrics.
+Work cross-functionally to refine deployment workflows and incorporate feedback into continuous improvement efforts.
+
+JD 40:
+Administer Kubernetes clusters on Azure, configuring environments for optimized scalability and uptime.
+Utilize Prometheus to implement detailed monitoring, customizing alerting to ensure proactive incident management.
+Automate configuration tasks with Ansible, maintaining consistent environments across multiple deployments.
+Develop Bash scripts for recurring tasks, improving response times and operational efficiency.
+Support on-call rotations and work closely with developers to implement scalable solutions that enhance application reliability.
+
+JD 41:
+Design, deploy, and manage GCP infrastructure and services.
+Implement and maintain Kubernetes clusters using Google Kubernetes Engine (GKE).
+Utilize Terraform and Infrastructure as Code (IaC) for automation of deployments.
+Manage Helm charts for application deployment and configuration.
+Ensure high availability and reliability of production servers.
+Collaborate with development teams to enhance application performance and reliability.
+Utilize change management tools to track and manage changes in the production environment.
+Provide security insights and implement best practices to safeguard cloud infrastructure.
+
+JD 42:
+1-3 years of experience as an SRE, DevOps, or related role.
+Strong experience in CI/CD pipeline creation and management (Jenkins, GitLab CI, CircleCI, etc.).
+Proficiency in Linux administration and shell scripting.
+Hands-on experience with Docker and Kubernetes in production environments.
+Experience with monitoring tools like Prometheus and Grafana.
+Knowledge of MongoDB and MySQL database administration.
+Familiarity with configuration management tools like Ansible, Chef, or Puppet.
+Experience with cloud platforms (AWS, GCP, Azure) is a plus.
+Strong problem-solving skills and ability to work in a fast-paced environment.
+
+JD 43:
+Design, build, and maintain highly available, scalable, and performant
+infrastructure for our applications.
+Implement and manage Infrastructure as Code (IaC) using AWS CDK,
+Terraform and Ansible.
+Automate deployments and configuration management for AWS, on-
+premises environments, and container orchestration platforms (Kubernetes, EKS,
+ECS).
+Integrate CI/CD pipelines to automate infrastructure provisioning and
+configuration changes.
+Implement and maintain monitoring solutions (e.g., Datadog) to proactively
+identify and troubleshoot infrastructure issues.
+Collaborate with development teams to ensure infrastructure aligns with
+application requirements and best practices.
+Participate in incident response procedures for infrastructure and application
+issues.
+Continuously improve infrastructure performance, scalability, and reliability.
+Stay up to date with the latest trends and technologies in cloud computing,
+containers, and monitoring.
+Key Attributes and Qualifications:
+Proven experience as a Site Reliability Engineer (SRE) or related role.
+Strong understanding of cloud computing concepts (AWS preferred).
+Experience with on-premises deployments (optional but a plus).
+Expert knowledge of Infrastructure as Code (IaC) tools like AWS CDK,
+Terraform and Ansible.
+Familiarity with container orchestration platforms (Kubernetes, EKS, ECS).
+Experience with CI/CD pipelines and tools.
+Proficiency with configuration management tools.
+Experience with monitoring tools (Datadog).
+Strong scripting skills (Bash, Python preferred).
+
+JD 44:
+Experience in an SRE/SysAdmin/DevOps or equivalent role - at least +4 years
+Practical experience in managing Linux Operating Systems on the administrative level
+Solid Monitoring & DevOps skills
+Practical knowledge of container orchestration (Kubernetes, Docker)
+Familiarity with at least one of the monitoring tools (e.g. Icinga, Newrelic, Prometheus, Grafana, OpenTSDB)
+Experience with public cloud services (GCP/AWS/Azure)
+Coding skills in Python or Golang
+Ability to work effectively in a globally distributed team structure
+Drive to grow as a Site Reliability Engineer (we value open-mindedness and a can-do attitude)
+Troubleshooting skills to hunt down the root causes of issues and persistence in preventing them from happening again
+Experience handling large numbers of diverse systems with configuration management systems like Puppet, Ansible, Terraform
+Solid English skills to effectively communicate with other team members (B2 level)
+
+JD 45:
+Design, implement, and maintain cloud infrastructure using AWS and GCP.
+Automate the provisioning and management of infrastructure using Terraform and other Infrastructure as Code (IaC) tools.
+Ensure the availability, scalability, and reliability of systems using Kubernetes (K8s) and container orchestration tools.
+Manage Linux-based environments, ensuring security, performance, and stability.
+Implement and maintain monitoring, logging, and alerting systems to ensure system performance and uptime.
+Troubleshoot infrastructure and application-related issues, working closely with development and operations teams.
+Continuously evaluate and improve system architecture and operations to meet growing business needs.
+Collaborate with cross-functional teams to improve deployment and delivery processes, ensuring continuous integration and continuous delivery (CI/CD).
+Conduct system health checks and plan capacity to support growth and peak demand scenarios.
+
+JD 46:
+3+ years of experience in infrastructure engineering or DevOps roles
+Proficiency in scripting languages such as Bash, Python, or PowerShell for automating tasks and managing infrastructure.
+Strong background on Linux
+Experience on Containerization, Docker, Kubernetes
+Hands-on experience with Kubernetes, including deployment and management
+Familiarity with Helm for managing Kubernetes applications and deployments
+Familiarity with monitoring and logging technologies (e.g., Prometheus, Grafana, Splunk)
+Troubleshooting within Linux and Kubernetes environment during deployments.
+Deep knowledge of Networking (TCP, UDP, DNS, DHCP, IPSec)
+Experience with Terraform
+Hands on expertise on any cloud (AWS, OCI, Azure)
+Thorough understanding of DevOps culture and Agile Methodology.
+Ability to work effectively in a collaborative, cross-functional team environment
+
+JD 47:
+Experience designing and deploying application monitors and alarms and maximizing application uptime.
+Good exposure on Public Clouds (GCP/AWS).
+Demonstrated experience in shell scripts or Perl/Python.
+Proven ability to break down, analyze, troubleshoot, and identify the root cause of issues.
+Software deployment support in staging and production environments.
+Understanding of load balancing technologies.
+System and Support status reporting to stakeholders and maintaining smooth communication with the stakeholders.
+Be on-call for incident escalations and infrastructure task handling.
+Understanding of configuration management tools like Ansible/Puppet/Chef.
+Experience with DevOps practices.
+
+JD 48:
+Have experience managing large, complex infrastructure deployments / distributed systems onR
+Public Cloud (AWS) experience
+Come with experience or an interest in managing highly compliant financial services infrastructur
+And ensure the continuance of compliance against pci-dss, iso:27001:2013, data-localization
+(RBI) and NPCI guidelines
+understand the ecosystem around microservice architecture with regards to IAC, CI/CD, HA and monitoring
+Docker, Cloudformation, Codepipeline, Codebuild,ECS/Fargate,K8s(EKS), Datadog,Coralogix
+Signalfx, Elasticsearch, Pulumi
+
+JD 49:
+Knowledge in Linux/Unix Administration
+Knowledge in networking
+Knowledge of wide variety of open source technologies/tools and cloud services
+Knowledge of best practices and IT operations in an always-up, always-available service
+Participate in oncall rotation.
+Good English communications skills
+Strong background in linux networking ( ip, iptables, ipsec )
+Knowledge of working with MySQL
+A working understanding of code and script ( eg: Perl/Golang preferred )
+Knowledge of automation/configuration management using either saltstack or equivalent
+Hands on experience in private and public cloud environments
+Knowledge of the following will be a plus:
+================================
+Implementation of cloud services on linux using kvm/qemu
+DCOS (mesos &amp; mesos frameworks)
+aerospike ( nosql )
+perl/golang
+galera
+openbsd
+
+JD 50:
+Has worked for at least three to four years as SRE / Linux System Admin
+● In-depth understanding of the Linux operating system, and should have expertise in shell scripting
+● Requires working knowledge of two or more Scripting languages (preferably Python or GoLang)
+● Strong background in Networking protocols (specifically, DNS, HTTP(S), UDP/TCP, SSL)
+● Has worked on NoSQL Databases like Mongo or ElasticSearch
+● Has worked on SQL Databases like MySQL or Postgres
+● Has a clear idea of CI and CD using one or more tools (Jenkins etc.)
+● Has carried out Infrastructure coding using Configuration Management, SlatStack/Ansible
+● Experience in working with load balancer and web server technologies such as Nginx, HAProxy, etc.
+● Strong understanding of monitoring and logging toolchains such as Prometheus, ELK, Grafana, APM, etc.
+● Implementing and maintaining CI/CD pipelines.
+
+JD 51:
+Familiarity with micro-services architecture and container orchestration with Kubernetes.
+Awareness of key security principles including encryption, keys (types and exchange protocols).
+Understanding SRE principles includes monitoring, alerting, error budgets, fault analysis, and automation.
+Strong sense of ownership, with a desire to communicate and collaborate with other engineers and teams.
+Ability to identify and communicate technical and architectural problems, while working with partners and their team to iteratively find solutions.
+
+JD 52:
+Good knowledge of UNIX/Linux command line.
+Good understanding of the usage of TCP/IP and UDP networking in applications.
+Basic understanding of network routing and troubleshooting.
+Basic experience in writing SQL database queries.
+Basic experience in Bash, Python or other scripting language.
+
+JD 53:
+Oversee and maintain our Kubernetes infrastructure, encompassing deployment, scaling, and vigilant monitoring..
+Establish and sustain automated pipelines to efficiently handle data ingestion, processing, and analysis tasks.
+Devise and deploy automation scripts and tools to optimise the deployment process for increased efficiency
+Engage in collaborative efforts with development teams to architect and deploy scalable and dependable systems
+Proficiently diagnose and resolve challenges pertaining to Kubernetes and its associated technologies
+Formulate and execute robust security policies and measures, safeguarding the platform's confidentiality and integrity.
+Effectively oversee, configure, and automate systems and services within the AWS environment
+Remain well-informed about the latest advancements in Kubernetes and associated technologies, providing valuable insights for continuous enhancements
+Supervise and monitor applications and database systems, ensuring superior availability, performance, security, and scalability
+Demonstrate proficient scripting skills in languages such as Python, Bash, and Shell
+Extensive practical experience with various DevOps tools, including Bamboo, Bitbucket, Jenkins, Helm, Kiali, Sentry, Sonarqube, Grafana, Elastic, Kibana, and Prometheus
+Collaborate closely with Senior Management to develop and implement an enablement roadmap
+Continuously monitor system health and reliability, aiming to enhance support for business process requirements
+
+JD 54:
+Minimum of 3-5 years of experience in DevOps engineering, with expertise in designing and
+implementing CI/CD pipelines, containerisation, and orchestration
+Strong Knowledge of AWS cloud
+Excellent troubleshooting skills and attention to detail.
+Strong communication and interpersonal skills.
+Strong practical application experience on Linux.
+Good to have hands-on experience in Google Cloud Platform
+Good to have AWS Certification
+Comfortable with on-call support.
+Capable of working in agile team with multiple technologies.
+You understand the importance of using metrics to influence product and technical decisions.
+You are an advocate for modern DevOps/SRE tools, best practices and culture.
+Systematic problem solving approach, coupled with a strong sense of ownership and drive.
+
+JD 55:
+Basic understanding of Linux/Unix systems, networking, and cloud services (AWS, Azure, or Google Cloud). Familiarity with scripting languages such as Python, Bash, or Ruby.
+Tools and Technologies: Exposure to monitoring and logging tools (e.g., Elastic, Prometheus, Grafana, Splunk), version control systems (e.g., Git), and CI/CD pipelines.
+Problem-Solving: Strong analytical and problem-solving skills with a proactive approach to identifying and addressing issues.
+Communication: Excellent verbal and written communication skills, with the ability to work effectively in a team environment.
+Learning Mindset: Eagerness to learn new technologies and improve existing skills. Openness to receiving feedback and applying it to improve performance.
+Experience/Credentials:
+Minimum two years experience in a SRE, DevOps or Software Engineering role
+Certifications: Relevant certifications such as AWS Certified Solutions Architect, Google Cloud Professional DevOps Engineer, or similar
+
+JD 56:
+Site Reliability Engineer , Cloud- GCP , Observability Tools, Monitoring Tools, Automation - Terraform & Infrastructure as a code , Devops - Kubernetes , Incident Management, Exp in scaling system
+Networking Protocol, Kafka, Elastic, Load Balancers

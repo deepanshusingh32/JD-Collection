@@ -1,0 +1,541 @@
+Google Sheet: https://docs.google.com/spreadsheets/d/1oixy7DxrmtrF84JHCodFKnAxhOF9fyue3XEC4p88mBg/edit?usp=sharing
+
+JD 1
+- Lead the development of blockchain-based solutions using The Graph and Filecoin
+- Design and implement distributed ledger architectures based on Nakamoto Consensus principles
+- Create optimized smart contracts using Solidity and Hardhat
+- Develop secure and scalable dApps with Web3.js and Ethers.js integration
+- Conduct formal verification and security audits using MythX and Slither
+- Collaborate with cross-functional teams to integrate blockchain solutions with existing systems
+- Stay current with evolving blockchain technologies and industry standards
+
+JD 2
+- Architect and develop decentralized applications (dApps) using Moralis and Yearn Finance protocols
+- Implement and test smart contracts using Foundry and Truffle frameworks
+- Lead the integration of Zero-Knowledge Rollups (Zk-Rollups) for enhanced scalability
+- Design secure token economics and incentive structures for DeFi applications
+- Perform gas optimization for cost-effective contract execution
+- Contribute to technical documentation and knowledge sharing within the team
+- Participate in code reviews to ensure code quality and adherence to best practices
+
+JD 3
+- Build and maintain smart contracts on multiple blockchain platforms - Binance Smart Chain and Solana
+- Develop and integrate NFT marketplaces using ERC-721 and ERC-1155 standards
+- Implement secure wallet connections via MetaMask and WalletConnect
+- Design and optimize blockchain data structures using Merkle Trees
+- Utilize Chainlink oracles for reliable off-chain data integration
+- Build comprehensive test suites for contract validation using Hardhat and Ganache
+- Create technical specifications and architecture documentation for blockchain systems
+
+JD 4
+- Lead the development of decentralized finance (DeFi) protocols Uniswap and Aave
+- Implement automated market maker (AMM) mechanisms for decentralized exchanges
+- Develop yield farming and liquidity mining solutions for token incentivization
+- Create and audit smart contracts using Solidity with OpenZeppelin libraries
+- Integrate Layer 2 scaling solutions including Arbitrum and Optimistic Rollups
+- Conduct security audits using CertiK and Quantstamp methodologies
+- Collaborate with UI/UX teams to create intuitive interfaces for complex DeFi products
+
+JD 5
+- Design and implement interoperable blockchain solutions using Polkadot and Cosmos frameworks
+- Develop custom blockchain networks using Substrate and Tendermint
+- Create secure peer-to-peer networking protocols leveraging libp2p and Devp2p
+- Implement and optimize consensus mechanisms including Proof of Stake (PoS) and Delegated Proof of Stake (DPoS)
+- Develop cross-chain communication bridges for asset transfers
+- Utilize formal testing and fuzz testing techniques for robust validation
+- Contribute to open-source blockchain projects and standards development
+
+JD 6
+- Lead the development of stablecoin protocols to MakerDAO
+- Implement collateralized debt position (CDP) systems for decentralized stablecoins
+- Design liquidation mechanisms and stability fee structures
+- Develop smart contracts using Vyper for enhanced security
+- Create and implement governance mechanisms for decentralized autonomous organizations (DAOs)
+- Conduct comprehensive security audits using Mythril and OpenZeppelin Defender
+- Optimize gas consumption for high-volume transaction processing
+
+JD 7
+- Architect and develop enterprise blockchain solutions using Hyperledger Fabric and IBM Blockchain
+- Implement privacy-preserving techniques with Zero-Knowledge Proofs (ZKPs)
+- Create permissioned blockchain networks for regulated industries
+- Develop smart contracts using Solidity for interoperability with public networks
+- Design secure digital identity solutions using Decentralized Identifiers (DIDs)
+- Build and maintain RESTful APIs for blockchain data access and integration
+- Create technical documentation and training materials for enterprise stakeholders
+
+JD 8
+- Lead the implementation of blockchain-based storage solutions using IPFS, Storj, and Sia
+- Develop data integrity verification mechanisms using cryptographic proofs
+- Create incentivization models for decentralized storage networks
+- Implement efficient data retrieval systems for blockchain applications
+- Integrate blockchain storage with traditional databases for hybrid solutions
+- Conduct performance optimization for large-scale data operations
+- Design and develop data privacy solutions compliant with regulatory requirements
+
+ JD 9
+- Build advanced DeFi protocols thru Curve Finance and Balancer
+- Implement liquidity pool mechanisms with customizable parameters
+- Design automated portfolio management systems for yield optimization
+- Develop flash loan functionality with appropriate security controls
+- Create governance token systems with voting mechanisms
+- Integrate oracle solutions using Pyth for reliable price feeds
+- Perform comprehensive contract auditing using formal verification tools
+
+JD 10
+- Lead the development of blockchain analytics platforms like  Nansen and Chainalysis
+- Implement on-chain data indexing and querying using Covalent and The Graph
+- Develop transaction monitoring systems for compliance and fraud detection
+- Create visualization tools for blockchain data analysis
+- Design and implement risk scoring algorithms for blockchain addresses
+- Build machine learning models for pattern recognition in blockchain data
+- Develop APIs for integration with third-party compliance systems
+
+JD 11
+- Architect and develop Layer 2 scaling solutions using StarkNet and zk-STARKs
+- Implement prover and verifier systems for zero-knowledge proofs
+- Create efficient batch processing mechanisms for transaction throughput optimization
+- Develop secure bridge contracts between Layer 1 and Layer 2 systems
+- Design state channel implementations for off-chain transaction processing
+- Conduct formal verification of critical protocol components
+- Contribute to technical research in blockchain scalability innovations
+
+JD 12
+- Lead the integration of blockchain technology with gaming platforms using Flow and Unity
+- Develop in-game NFT systems with ERC-1155 multi-token standards
+- Implement verifiable random function (VRF) mechanisms for fair gameplay
+- Create blockchain-based achievement and rewards systems
+- Design gas-efficient contracts for high-frequency gaming interactions
+- Develop WebXR integrations for metaverse applications
+- Build secure marketplace functionality for digital asset trading
+
+JD 13
+- Design and implement enterprise blockchain solutions on Corda and Hyperledger
+- Develop privacy-focused transaction mechanisms for regulated industries
+- Create identity management systems using Sovrin and DID standards
+- Implement Practical Byzantine Fault Tolerance (PBFT) consensus for enterprise networks
+- Build integration layers with existing enterprise systems
+- Design and implement regulatory compliance features for financial services
+- Develop comprehensive documentation and deployment guides for enterprise stakeholders
+
+JD 14
+- Lead the development of decentralized governance systems like Aragon and Colony
+- Implement on-chain voting mechanisms with delegation capabilities
+- Create treasury management contracts for decentralized organizations
+- Develop permission and role management systems with granular control
+- Design reputation systems for contribution-based influence
+- Implement proposal creation and execution workflows
+- Build integration with existing DeFi protocols for treasury diversification
+
+JD 15
+- Architect and develop advanced privacy solutions using zk-SNARKs
+- Implement confidential transaction mechanisms for financial applications
+- Create privacy-preserving identity verification systems
+- Design and develop mixing protocols for enhanced transaction privacy
+- Build private voting systems for governance applications
+- Conduct security audits focused on privacy vulnerabilities
+- Contribute to research and standardization of privacy technologies in blockchain
+
+JD 16
+- Lead the development of cross-chain interoperability solutions using Polkadot parachains
+- Implement secure bridge contracts for asset transfers between disparate blockchains
+- Create middleware protocols for standardized cross-chain communication
+- Develop atomic swap mechanisms for trustless token exchanges
+- Design and implement relay networks for message passing between chains
+- Build monitoring systems for bridge security and operation
+- Create comprehensive testing suites for cross-chain functionality verification
+
+JD 17
+- Design and implement blockchain infrastructure using Go-Ethereum (Geth) and Besu
+- Develop custom consensus mechanisms and blockchain parameters
+- Create node synchronization and peer discovery optimizations
+- Implement state pruning techniques for blockchain efficiency
+- Build monitoring and management tools for node operators
+- Develop security enhancements for blockchain clients
+- Create documentation and deployment guides for infrastructure components
+
+JD 18
+- Lead the development of decentralized oracle networks similar to Chainlink
+- Implement data aggregation mechanisms for reliable off-chain information
+- Create reputation systems for oracle node operators
+- Develop crypto-economic incentive structures for honest reporting
+- Design fault-tolerant systems for continuous data availability
+- Build monitoring systems for oracle network health and performance
+- Create comprehensive documentation and integration guides for developers
+
+JD 19
+- Architect and develop supply chain solutions on VeChain and Hyperledger Fabric
+- Implement asset tracking and verification mechanisms using blockchain
+- Create digital twin implementations for physical asset representation
+- Develop compliance and certification tracking systems
+- Design and implement IoT device integration for automated data capture
+- Build dashboards and reporting tools for supply chain visibility
+- Create implementation guides and training materials for supply chain stakeholders
+
+JD 20
+- Lead the development of decentralized identity solutions using uPort and Sovrin
+- Implement self-sovereign identity principles in application design
+- Create verifiable credential issuance and verification systems
+- Develop selective disclosure mechanisms for privacy-preserving verification
+- Design and implement key recovery systems for identity wallets
+- Build integration with existing authentication systems
+- Create comprehensive documentation and user guides for identity solutions
+
+JD 21
+- Design and implement custom blockchain protocols using Substrate framework
+- Develop runtime modules for specific business use cases
+- Create custom consensus mechanisms tailored to application requirements
+- Implement cross-chain communication capabilities for interoperability
+- Build governance mechanisms for protocol upgrades and parameter adjustments
+- Develop economic models and incentive structures for network participants
+- Create technical documentation and developer resources for custom blockchain adoption
+
+JD 22
+- Lead the development of decentralized data marketplaces using Filecoin and Aleph
+- Implement data licensing and access control mechanisms
+- Create token-based incentive systems for data providers
+- Develop data quality verification mechanisms using Zero-Knowledge Proofs
+- Design and implement data discovery and search functionality
+- Build integration with AI/ML systems for data processing
+- Create comprehensive documentation and user guides for marketplace participants
+
+JD 23
+- Architect and develop blockchain-based voting systems with verifiable results
+- Implement privacy-preserving voting mechanisms using zk-SNARKs
+- Create voter registration and verification systems using Decentralized Identifiers
+- Develop tamper-proof ballot counting and tallying mechanisms
+- Design and implement delegation and liquid democracy features
+- Build result verification tools accessible to all participants
+- Create technical documentation and security analysis for voting systems
+
+JD 24
+- Lead the integration of blockchain technology with IoT systems using VeChain
+- Implement secure device identity and authentication mechanisms
+- Create data validation and verification protocols for IoT data streams
+- Develop smart contracts for automated device interactions and payments
+- Design and implement resource sharing marketplaces for IoT networks
+- Build monitoring and management systems for blockchain-IoT integration
+- Create comprehensive implementation guides for IoT manufacturers
+
+JD 25
+- Design and implement secure wallet infrastructure for institutional clients
+- Develop multi-signature transaction protocols with customizable approval workflows
+- Create key management solutions with hardware security module (HSM) integration
+- Implement transaction monitoring and compliance checking systems
+- Design and develop backup and recovery mechanisms for disaster scenarios
+- Build integration with existing financial systems and ERP solutions
+- Create comprehensive security documentation and operational procedures
+
+JD 26
+- Lead the development of blockchain-based prediction markets using smart contracts
+- Implement market creation and resolution mechanisms with oracle integration
+- Create liquidity provision incentives and automated market making systems
+- Develop outcome reporting and dispute resolution protocols
+- Design and implement fee structures and treasury management
+- Build user interfaces for market participation and trading
+- Create comprehensive documentation and risk disclosures for market participants
+
+JD 27
+- Architect and develop security audit tools similar to Slither and Echidna
+- Implement static analysis capabilities for common vulnerability detection
+- Create dynamic testing mechanisms for complex attack vector identification
+- Develop reporting systems with remediation recommendations
+- Design and implement continuous integration for automated security checking
+- Build custom rule sets for organization-specific security policies
+- Create comprehensive documentation and training materials for security best practices
+
+JD 28
+- Lead the development of decentralized insurance protocols using smart contracts
+- Implement risk assessment and premium calculation mechanisms
+- Create claim verification and processing workflows with oracle integration
+- Develop capital management and reinsurance mechanisms
+- Design and implement governance systems for protocol parameters
+- Build user interfaces for policy management and claims submission
+- Create comprehensive documentation and actuarial models for insurance products
+
+JD 29
+- Design and implement blockchain-based social platforms with tokenized incentives
+- Develop content creation and curation mechanisms with reputation systems
+- Create privacy-preserving messaging using public key cryptography
+- Implement community governance and moderation tools
+- Design and develop token-based reward distribution systems
+- Build recommendation algorithms for decentralized content discovery
+- Create comprehensive documentation and community guidelines
+
+JD 30
+- Lead the development of decentralized computing platforms using blockchain
+- Implement job distribution and verification mechanisms for compute tasks
+- Create token-based incentive systems for computational resource providers
+- Develop result validation protocols using zero-knowledge proofs
+- Design and implement privacy-preserving computation workflows
+- Build integration with AI/ML frameworks for distributed training
+- Create comprehensive documentation and integration guides for developers
+
+JD 31
+- Architect and develop custom Avalanche Subnets for specific use cases
+- Implement custom virtual machines for specialized transaction processing
+- Create cross-subnet communication protocols for composable applications
+- Develop governance mechanisms for subnet parameters and upgrades
+- Design and implement economic models for subnet validators
+- Build deployment and monitoring tools for subnet operators
+- Create comprehensive documentation and developer resources for subnet adoption
+
+JD 32
+- Lead the implementation of quantum-resistant cryptography in blockchain systems
+- Develop post-quantum digital signature schemes for transaction security
+- Create hybrid cryptographic solutions for transition periods
+- Implement key rotation mechanisms for cryptographic agility
+- Design and develop secure key generation and storage protocols
+- Build testing frameworks for cryptographic security verification
+- Create comprehensive documentation on quantum resistance measures
+
+JD 33
+- Design and implement decentralized exchange (DEX) protocols with advanced features
+- Develop limit order functionality for decentralized trading
+- Create liquidity incentivization mechanisms to ensure market depth
+- Implement fee structures and distribution systems for protocol sustainability
+- Design and develop front-running protection mechanisms
+- Build integration with multiple blockchains for cross-chain trading
+- Create comprehensive documentation and trading guides for platform users
+
+JD 34
+- Lead the development of tokenization platforms for real-world assets
+- Implement compliance-focused issuance mechanisms with KYC/AML integration
+- Create dividend and revenue distribution systems for tokenized assets
+- Develop secondary market functionality with regulatory considerations
+- Design and implement governance mechanisms for tokenized asset management
+- Build reporting and tax documentation systems for token holders
+- Create comprehensive documentation and legal frameworks for tokenization
+
+JD 35
+- Architect and develop blockchain-based loyalty and rewards systems
+- Implement point issuance and redemption mechanisms with smart contracts
+- Create token standards for interoperable loyalty programs
+- Develop partner integration protocols for cross-program recognition
+- Design and implement anti-fraud measures for points systems
+- Build analytics dashboards for program performance monitoring
+- Create comprehensive documentation and implementation guides for merchants
+
+JD 36
+- Lead the development of decentralized domain name systems
+- Implement registration and renewal mechanisms with auction capabilities
+- Create name resolution protocols integrating with multiple blockchains
+- Develop governance systems for protocol parameters and upgrades
+- Design and implement content addressing for decentralized websites
+- Build integration with traditional DNS for hybrid deployments
+- Create comprehensive documentation and guides for domain registrants
+
+JD 37
+- Design and implement blockchain-based carbon credit and environmental asset systems
+- Develop verification and certification mechanisms for environmental claims
+- Create marketplaces for carbon credit trading and retirement
+- Implement oracle integration for real-world environmental data
+- Design and develop dashboards for impact visualization
+- Build integration with international carbon accounting standards
+- Create comprehensive documentation and verification methodologies
+
+JD 38
+- Lead the development of decentralized banking services using smart contracts
+- Implement lending and borrowing protocols with dynamic interest rates
+- Create collateral management systems with liquidation mechanisms
+- Develop stable asset generation through algorithmic management
+- Design and implement governance for risk parameters and system upgrades
+- Build integration with traditional banking rails for fiat on/off ramps
+- Create comprehensive documentation and risk disclosures for users
+
+JD 39
+- Architect and develop blockchain-based music royalty distribution systems
+- Implement rights management and ownership verification using NFTs
+- Create automated payment distribution based on usage metrics
+- Develop integrations with streaming platforms for play count verification
+- Design and implement marketplace functionality for rights trading
+- Build analytics dashboards for artist earnings visualization
+- Create comprehensive documentation and onboarding guides for artists
+
+JD 40
+- Lead the integration of blockchain with artificial intelligence systems
+- Implement verifiable computation for AI model execution
+- Create decentralized datasets for AI training with access control
+- Develop token incentives for high-quality data contribution
+- Design and implement governance for AI model parameters
+- Build privacy-preserving inference mechanisms using zero-knowledge proofs
+- Create comprehensive documentation and ethical guidelines for AI-blockchain integration
+
+JD 41
+- Design and implement blockchain-based real estate tokenization platforms
+- Develop fractional ownership mechanisms with compliance considerations
+- Create governance systems for property management decisions
+- Implement automated rental income distribution using smart contracts
+- Design and develop marketplace functionality for fractionalized properties
+- Build integration with legal frameworks for property transfer
+- Create comprehensive documentation and regulatory compliance guides
+
+JD 42
+- Lead the development of decentralized lending protocols with novel features
+- Implement risk assessment algorithms for under-collateralized lending
+- Create reputation-based credit scoring using on-chain activity
+- Develop interest rate models optimized for capital efficiency
+- Design and implement liquidation protection mechanisms
+- Build analytics dashboards for portfolio management
+- Create comprehensive documentation and risk management guides
+
+JD 43
+- Architect and develop blockchain forensics tools similar to Chainalysis and Elliptic
+- Implement clustering algorithms for entity identification
+- Create visualization tools for transaction flow analysis
+- Develop risk scoring models for address classification
+- Design and implement integration with regulatory compliance systems
+- Build reporting mechanisms for suspicious activity detection
+- Create comprehensive documentation and training materials for forensic analysis
+
+JD 44
+- Lead the development of decentralized derivatives platforms
+- Implement oracle-based settlement mechanisms for financial contracts
+- Create collateral management systems with dynamic requirements
+- Develop automated margin calls and liquidation processes
+- Design and implement governance for protocol risk parameters
+- Build analytics dashboards for position management
+- Create comprehensive documentation and risk disclosures for traders
+
+JD 45
+- Design and implement blockchain-based healthcare systems with privacy focus
+- Develop secure patient data sharing mechanisms using zero-knowledge proofs
+- Create consent management systems for granular access control
+- Implement medical credential verification using verifiable credentials
+- Design and develop research data marketplaces with anonymization
+- Build integration with existing electronic health record systems
+- Create comprehensive documentation and compliance guides for healthcare providers
+
+JD 46
+- Lead the development of decentralized content platforms with fair compensation
+- Implement token-based creator economy with engagement incentives
+- Create content authentication mechanisms using digital signatures
+- Develop recommendation systems resistant to manipulation
+- Design and implement moderation frameworks with community governance
+- Build analytics dashboards for creator performance metrics
+- Create comprehensive documentation and onboarding guides for content creators
+
+JD 47
+- Architect and develop blockchain infrastructure for gaming economies
+- Implement interoperable asset standards across multiple games
+- Create secure trading mechanisms for in-game items
+- Develop verifiable randomness for fair loot distribution
+- Design and implement anti-cheat systems with blockchain verification
+- Build analytics dashboards for economic health monitoring
+- Create comprehensive documentation and integration guides for game developers
+
+JD 48
+- Lead the implementation of decentralized identity for enterprise systems
+- Develop secure credential issuance workflows with corporate governance
+- Create integration with existing identity and access management systems
+- Implement selective disclosure protocols for privacy-compliant verification
+- Design and develop audit trails for credential usage
+- Build administration interfaces for credential management
+- Create comprehensive documentation and implementation guides for enterprise adoption
+
+JD 49
+- Design and implement blockchain-based supply chain financing platforms
+- Develop invoice tokenization with verification mechanisms
+- Create dynamic pricing models for early payment financing
+- Implement risk assessment algorithms for supplier evaluation
+- Design and develop integration with traditional banking systems
+- Build analytics dashboards for financing program performance
+- Create comprehensive documentation and onboarding guides for participants
+
+JD 50
+- Lead the development of blockchain-based digital art platforms using NFTs
+- Implement royalty distribution mechanisms for secondary sales
+- Create provenance verification systems for authenticity
+- Develop collaborative creation workflows with ownership splitting
+- Design and implement curation mechanisms with tokenized incentives
+- Build exhibition and display systems for digital art presentation
+- Create comprehensive documentation and guides for artists and collectors
+
+JD 51
+- Architect and develop advanced DeFi aggregation platforms
+- Implement yield optimization strategies across multiple protocols
+- Create risk assessment frameworks for protocol evaluation
+- Develop automated portfolio rebalancing mechanisms
+- Design and implement gas optimization for complex transactions
+- Build analytics dashboards for performance visualization
+- Create comprehensive documentation and risk disclosure for users
+
+JD 52
+- Lead the development of decentralized cloud computing resources
+- Implement resource allocation and verification mechanisms
+- Create incentive structures for service quality maintenance
+- Develop containerization solutions for decentralized deployment
+- Design and implement secure data transfer between compute nodes
+- Build monitoring and management tools for service providers
+- Create comprehensive documentation and integration guides for developers
+
+JD 53
+- Design and implement blockchain-based intellectual property management
+- Develop proof of creation mechanisms with timestamping
+- Create licensing workflows with automated royalty distribution
+- Implement dispute resolution systems with decentralized arbitration
+- Design and develop marketplace functionality for IP trading
+- Build analytics dashboards for license usage tracking
+- Create comprehensive documentation and legal integration guides
+
+JD 54
+- Lead the development of privacy-focused Layer 1 blockchain protocols
+- Implement advanced cryptographic techniques for transaction privacy
+- Create efficient consensus mechanisms with scalability considerations
+- Develop governance systems for protocol parameters and upgrades
+- Design and implement interoperability with existing blockchain networks
+- Build developer tools and SDKs for ecosystem growth
+- Create comprehensive documentation and technical specifications
+
+JD 55
+- Architect and develop blockchain-based energy trading platforms
+- Implement peer-to-peer energy exchange mechanisms with smart contracts
+- Create grid management integration for system stability
+- Develop certification systems for renewable energy sources
+- Design and implement dynamic pricing models based on supply and demand
+- Build visualization tools for energy flow and trading activity
+- Create comprehensive documentation and regulatory compliance guides
+
+JD 56
+- Lead the development of decentralized advertising platforms
+- Implement attention verification mechanisms with privacy preservation
+- Create fair compensation models for content creators and viewers
+- Develop fraud prevention systems for authentic engagement
+- Design and implement targeted advertising without personal data sharing
+- Build analytics dashboards for campaign performance measurement
+- Create comprehensive documentation and integration guides for advertisers
+
+JD 57
+- Design and implement blockchain-based education credential systems
+- Develop secure issuance workflows for academic institutions
+- Create verification mechanisms accessible to employers and institutions
+- Implement lifelong learning portfolios with skill attestations
+- Design and develop marketplace functionality for educational opportunities
+- Build integration with existing learning management systems
+- Create comprehensive documentation and adoption guides for educational institutions
+
+JD 58
+- Lead the implementation of blockchain solutions for charitable giving
+- Develop transparent fund tracking from donation to impact
+- Create verification mechanisms for charitable organizations
+- Implement automated fund distribution based on milestone achievement
+- Design and develop impact measurement and reporting systems
+- Build visualization tools for donation allocation and usage
+- Create comprehensive documentation and onboarding guides for nonprofit organizations
+
+JD 59
+- Architect and develop blockchain-based voting systems for corporate governance
+- Implement secure shareholder verification with privacy considerations
+- Create proposal submission and discussion workflows
+- Develop weighted voting mechanisms based on share ownership
+- Design and implement delegation systems for proxy voting
+- Build result verification and audit tools for regulatory compliance
+- Create comprehensive documentation and integration guides for corporate secretaries
+
+JD 60
+- Lead the development of decentralized autonomous organization (DAO) frameworks
+- Implement flexible governance mechanisms with multiple voting systems
+- Create treasury management with multi-signature security
+- Develop contributor reputation systems based on participation
+- Design and implement proposal creation and execution workflows
+- Build analytics dashboards for organizational health metrics
+- Create comprehensive documentation and setup guides for community founders

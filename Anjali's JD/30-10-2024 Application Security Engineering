@@ -1,0 +1,574 @@
+JD 1
+Strong foundations in software engineering. 
+Minimum of 7 years of technical experience with any combination of the following: threat modeling experience, secure coding, identity management and authentication, software development, cryptography, system administration and network security. 
+Minimum 2 years experience with Software Development Life Cycle in one or more languages (Rust, Python, Go, Nodejs, etc.)
+Minimum 1 year experience with public/private cloud environments (Openshift, Rancher, K8s, AWS, GCP, Azure, etc.)
+Experience in running assessments using OWASP MASVS and ASVS
+Working knowledge on exploiting and fixing application vulnerabilities
+Strong background in threat modeling
+In-depth knowledge of common web application vulnerabilities (i.e. OWASP Top 10)
+Familiarity with automated dynamic scanners, fuzzers, and proxy tools
+
+JD 2
+5 years of experience in application security and network security, including the understanding of application security attacks, vulnerabilities, and mitigations
+Knowledge of common Web Application security vulnerabilities (OWASP TOP10, SANS 25, etc.)
+Proficiency with cloud security principles and best practices (e.g., AWS, Azure, GCP), experience with DevOps, SRE, Kubernetes, Containers, and CI/CD
+Hands-on experience in the implementation and maintenance of Palo Alto / Checkpoint Firewalls systems and a deep understanding of working with L2/L3/L7 Policies
+Familiarity with security tooling such as, WAF, FW, CSPM, CNAPP, EDR, SIEM, SOAR, DLP
+Ability to conduct investigations into information security events – analysis of network and application based events, issuing IOCs and implementing them in the systems
+Ability to work autonomously, taking ownership of security challenges and driving solutions
+Excellent communication skills and ability to effectively communicate security risks and recommendations to technical and non-technical stakeholders
+
+JD 3
+Experience developing on web and mobile and API platforms
+Experience in assessing and securing iOS and Android mobile apps
+Experience in assessing and securing REST and SOAP APIs
+Experience in assessing and securing web applications
+Reviewing source code and using security testing tools
+Experience in threat modeling web and mobile applications
+Working knowledge of Web Application firewalls is necessary
+Experience working with Agile development/Scrum teams
+Experiencing in developing in Java, SQL, and Python.
+Strong knowledge and ability to operate vulnerability assessment and application assessment tools (e.g. AppScan, Fortify, Veracode, SonaType, RASP highly desired)
+Security risk assessment and systems security audit work experience is highly desired.
+Experience with threat modeling and web application security assessments
+
+JD 4
+Bachelor's degree or equivalent in Computer Science or a related discipline. 5-8 years progressive experience in information technology system engineering, system management, and system operations. Ability to configure Firewall ACL's, VPN's, OSPF, EBGP, iBGP, for FortiGate, Networking gear.
+Ability to diagnose and resolve server and network problems quickly and accurately.
+Strong technical expertise in security systems and tools, such as firewalls, IDS/IPS, SIEM solutions, antivirus/anti-malware software, and endpoint detection and response (EDR) platforms.
+Ability to manage operational service levels, including SLAs.
+Ability to design, analyze and plan projects.
+Ability to work effectively with vendors, internal staff, and other company/client staff.
+Ability to quickly analyze and understand business functions and client needs.
+Strong interpersonal and communication (written and verbal) skills.
+Time management skills (including task prioritization)
+Relevant certifications (e.g., CISSP, CISM, CompTIA Security+, Cisco CCNA Cyber Ops, GIAC Certified Incident Handler - GCIH) are highly desirable.
+
+JD 5
+3 + years’ experience engineering, designing and developing embedded secure systems
+Experience working in the automotive industry
+Knowledge of system development and handling of crypto material
+High level of oral and written communication skills
+Excellent organization, communication, collaboration and interpersonal skills
+Ability to communicate and present complex issues and ideas with precision and clarity, adjusting appropriately for the audience; ability to communicate effectively at all levels of the organization
+Familiarity with device security concepts such as Secure boot (using HSM, SHE etc.), Secure updates, Secure communications (TLS/SSL, MQTT, Firewall etc.) and applied cryptography
+Working knowledge of Keys, random number generation, and handling of crypto material
+Have knowledge of Hardware description languages (Verilog, VHDL) and software languages (assembly, C, C++, Python)
+Experience using JTAG/SCAN/Chip-Whisperer or other direct interaction with test hardware
+Previous experience in assisting silicon bring-up, debug and characterization
+Familiarity with standards such as NIST, FIPS, PKCS etc.
+
+JD 6
+Solid understanding of security protocols, cryptography, authentication, authorization and best practices
+• Proven experience with leading and guiding a group of stakeholders from different functions through threat modeling, utilizing STRIDE or other frameworks 
+• Excellent knowledge of the Common Vulnerability Scoring System (CVSS) and its application during technical vulnerability assessment
+• Experience with management of 3rd party vulnerabilities through analysis of Software Bill of Materials (SBOM)
+ • Ability to explain security concepts and security processes to technical stakeholders such as R&D Software Engineers
+ • Very broad technical knowledge: from embedded devices to containerized deployments of services, from backend to frontend • Familiar with OWASP project (Top 10, ASVS, SAMM, …)
+ • Coding skills: C, C++, JavaScript (Rust & Go a bonus)
+ • Highly motivated individual with a genuine enthusiasm for information security and technology • Eager to stay up to date with latest technologies
+ • Customer centric mindset
+ • Good verbal, written, presentation, facilitation, and interaction skills, including ability to effectively communicate risks, issues and concepts to multiple organization levels and executive management • Good communication skills both verbal and written English.
+
+JD 7
+Excellent understanding of application security and common application security vulnerabilities;
+● Excellent knowledge of the frontend, backend and mobile security domains;
+● Good understanding of DevOps and cloud native technologies;
+● Successful track record driving security initiatives;
+We’ll be delighted if you bring experience in the following topics but otherwise these would be opportunities for you to grow your knowledge working in the security team:
+● Implementing OWASP ASVS/M-ASVS and SKF;
+● Implementing SAST, SCA, IAST and RASP tools in the SDLC;
+● Assessing and implementing security maturity models;
+● Facilitating threat modeling sessions with the development teams;
+● Pen testing web and mobile applications;
+● Training and guiding developers on application security concepts;
+● Relevant regulations such as GDPR and PCI-DSS.
+● A background in development and a good understanding of the SDLC;
+● English language on a professional level, written and spoken.
+
+JD 8
+3+ years of proven experience in penetration testing and vulnerability assessment. Your experience will contribute to our proactive approach to security.
+Possession of a penetration testing certification like Offensive Security Certified Professional (OSCP) or equivalent, or a strong commitment to obtaining one. Your commitment to professional development will enhance your contributions.
+Experience with secure coding practices, code review, and familiarity with programming languages commonly used in game development such as C, C++, C#, Go, Python, PHP, Obj-C/Swift, Linux, and OSX. Your expertise in these areas will be invaluable in securing our games.
+
+JD 9
+:Strong understanding of security principles and methodologies, with experience securing systems at scale
+.Proficiency in application security engineering, vulnerability assessments, and incident response
+.Expertise in web, mobile, and cloud security and familiarity with tools like OWASP and SANS frameworks
+.Mobile Application Testing, API Security Testing, Web Application Testing, Cloud Security (AWS, GCP, OpenStack etc
+)Strong problem-solving skills with the ability to address complex security issues
+.Excellent communication and collaboration skills, with experience working across development and operations teams
+.Expertise in ISO/IEC 27001, ISO 27017, ISO 27018, SOC 2, and PCI DSS is highly desirable
+
+JD 10
+4-6 years of professional experience in applied software security roles
+Strong in OWASP top 10 security vulnerabilities, identifying security flaws in software, scoring the impact, and proposing a solution for developers.
+Experience leveraging cloud security tools as part of software architecture.
+Operational expertise in high scale, reliable 24/7, multi-tenant SaaS
+Strong coding and debugging skills (Scala experience highly beneficial).
+Security certifications, experience in bug bounty/CTFs, reported CVEs, and experience with compliance frameworks and audits are all pluses.
+
+JD 11
+Strong interpersonal skills and experience collaborating with developers and leadership to promote secure SDLC
+Proven foundations in software engineering in multiple languages and frameworks
+Experience with SAST, DAST, SCA, and related application security tools
+Comfortable switching contexts between red, blue, and development perspectives
+Strong sense of personal accountability and dedication to team success
+Deep understanding of OWASP Top 10 and CWE 25; with experience in implementing and integrating remediation strategies
+High-Level Knowledge of security concepts in the various security domains including, but not limited to, authentication, authorization, testing, and cryptography
+Strong problem solving and analytical skills with a proven record of resolving system-level issues
+
+JD 12
+Bachelor's degree in computer science or another highly technical scientific discipline.
+3+ years experience in development using one or more high-level programming languages like Java, .Net, Javascript, Go, Python, etc.
+Should have experience in Manual Source code Review.
+3+ years experience in security-focused code review covering some market standards AppSec Frameworks like OWASP Web/API/Mobile Top 10, PCI- DSS, etc.
+A proactive approach to spotting problems, areas for improvement, and performance bottlenecks.
+Strong technical aptitude - being able to pick up technical concepts rapidly is required.
+Highly motivated self-starter.
+Fluent in English (++ for other languages).
+
+JD 13
+3+ experience in Web and Mobile applications Vulnerability Assessment & Penetration Testing 
+Strong experience in programming languages (Python, Java, GoLang, Javascript, etc.) and be able to write automation scripts/in-house tools 
+Understanding of fundamental concepts of Cloud Infrastructure
+
+JD 14
+8+ years of experience in Application Security roles
+Have proven experience in application, API, database and infrastructure security topics
+Have strong technical knowledge on security vulnerabilities, defense techniques and security best practices
+Ability to explain vulnerabilities in a precise, concise and easy to understand manner to stakeholders of varying security and technical backgrounds
+Experience in performing Threat Modelling and providing actionable advise from its results
+High level of experience in scoring security vulnerability severities through CVSS
+Good understanding of SSDLC as well as development and integration tools and technologies uses as part of CI/CD pipelines
+Experience providing secure coding education to developers
+Know how to go beyond generic security vulnerability remediation advice
+Have good understanding of one or more major cloud providers (Azure, AWS, GCP)
+Have experience in authentication and authorization standards and protocols (SAML, Oauth, LDAP, AD, etc.)
+Practical knowledge of applied cryptography and common attacks against modern cryptographic algorithms (encryption at rest, TLS, hashing, etc.)
+
+JD 15
+Bachelor’s degree in Cybersecurity or related degree and experience.
+At least 3 years of experience in Information Security or Information Technology.
+Experience assisting in the deployment, configuration, operation, and monitoring of tools ensuring complete coverage and functionality of Endpoint security tools.
+Strong understanding of the tools and concepts relating to Security Operations; SIEM, EDR, DLP, NAC, etc.
+Strong communication skills and ability to work with different teams, both technical and non-technical.
+Strong customer service skills.
+Ability to effectively prioritize and execute tasks in a high-pressure environment.
+Ability to manage multiple work streams simultaneously.
+Proactive continuous improvement approach to product implementations and processes.
+
+JD 16
+10+ years of relevant experience
+Demonstrate coding skills in Python, Java Script, Node.js, React
+Extensive experience with AWS cloud environment, using its APIs, Serverless Application Model (AWS SAM) and Lambda functions
+Experience working with CI/CD (e.g., TeamCity, Jenkins) pipelines and associated tools. 
+Working knowledge of react, Kubernetes, Docker Containers
+Experience in general security concepts, OWASP secure coding practices and standards (MITRE ATT&CK, Cyber Kill Chain, cybersecurity detection and response lifecycle)
+Bachelor's degree or higher in Computer Science or a related field
+Understanding of Rest APIs and ability to utilize them in the code
+Experienced in design patterns and best coding practices
+Excellent written and verbal communication skills, and experience working with remote teams
+Have an agile, systematic problem-solving approach, coupled with strong interpersonal skills and a sense of ownership and drive
+Unimpeachable integrity, character, courage and honesty
+
+JD 17
+1. Bachelor’s degree in computer science, IT, Cybersecurity or a related field.
+2. Must have a minimum of 3-5 years of relevant experience as SOC Analyst /Engineer.
+3. Must possess good knowledge and understanding of cloud platforms such as AWS and Azure.
+4. Good Knowledge and understanding of SIEM tools such as Sumo Logic, Splunk, QRadar, Microsoft Sentinel.
+5. Good knowledge and hands on experience on Vulnerability Management tools such as Qualys, Burp Suite etc.
+6. Experience in analyzing security alerts in CrowdStrike, Defender 365, Microsoft Entra, Sumo Logic along with managing and troubleshooting issues in CrowdStrike, and Microsoft Defender.
+7. Good understanding of MITRE ATT&K, NIST and other security frameworks.
+8. Excellent communication and collaboration skills are required.
+9. Ability to work as a team player and as an individual contributor.
+10. Must be willing to learn, adapt, and work in fast paced, dynamic environment
+
+JD 18
+- Drive and influence software security across the organization.
+- Keep up to date with emerging security vulnerability classes, research, and perform triage for relevance by performing tabletop exercises where necessary
+- Perform security threat modelling and design reviews to provide early secure design guidance to engineers and product managers
+- Perform product security feature-specific implementation reviews (or penetration testing whole applications where applicable), API security testing, and code reviews to identify vulnerabilities and provide critical security guidance to engineers.
+- Identify opportunities for implementing additional technology controls to build more visibility or defend key points of attack
+- Hands-on experience, Microservices Security SSO (OAuth, JWT).
+
+JD 19
+Bachelor's degree in Computer Science, Information Security, or a related field (or equivalent work experience).
+Proven experience in a technical leadership position with a focus on security.
+Industry-recognized certifications such as CISSP, CISM, or CEH (optional but a plus).
+Strong knowledge of security principles, practices, and technologies.
+Experience with security tools and software.
+Excellent problem-solving and communication skills.
+Up-to-date knowledge of emerging security threats and solutions.
+
+JD 20
+Familiarity with OWASP/SANS standards
+Experience in using automated and manual testing tools (Burp Suite Pro, Appscan, NMAP, Acuentix etc.)
+Good hands-on experience with Application Security Assessment tools both static and dynamic like Veracode, Fortify, WebInspect, CodeSecure, AppScan, Burp, Coverity
+Hands on Experience with Mobile application testing tools like Drozer, Xposed, MobSF, SSLTrustKiller, Frida, apktool, dex2jar, jadx, IDA etc.
+Experience in iOS and Android application pen testing
+Carry out application (web as well as mobile) penetration tests
+Performing security testing over APIs
+Keep up to date with latest testing and ethical hacking methods
+Report on findings to a range of stakeholders using a risk based methodology
+Make suggestions for security improvements
+Experience in different types of penetration testing - Black box, Grey box and White box
+Demonstrated experience with common penetration testing and vulnerability assessment tools (open source and commercial) such as nmap, Wireshark, Kali Linux OS, Metasploit, Burp Suite, Open VAS, OWSAP ZAP, Accunetix, Nikto, Nessus, sqlmap
+Basic knowledge of a programming languages such Java, JavaScript and SQL.
+Basic knowledge of Web technologies such as J2EE, XML, JSON, SOAP, REST, and AJAX
+Basic knowledge of application security mechanisms such as authentication and authorization techniques, data validation, and the proper use of encryption
+Support development teams with the implementation and running of penetration tests as per Secure SDLC
+Go beyond conventional checklists to create new ones fine-tuned to Airtel specific needs
+Experience with assessment development implementation integration optimization and documentation of a comprehensive and broad set of security technologies and processes within SaaS, IaaS, PaaS environments.
+
+JD 21
+3+ years of proven experience in penetration testing and vulnerability assessment. Your experience will contribute to our proactive approach to security.
+Possession of a penetration testing certification like Offensive Security Certified Professional (OSCP) or equivalent, or a strong commitment to obtaining one. Your commitment to professional development will enhance your contributions.
+Experience with secure coding practices, code review, and familiarity with programming languages commonly used in game development such as C, C++, C#, Go, Python, PHP, Obj-C/Swift, Linux, and OSX. Your expertise in these areas will be invaluable in securing our games.
+Ability to thrive in a corporate, thriving, and fast-paced environment. Your ability to adapt and excel in a dynamic setting will be essential to your success.
+Demonstrated ability to quickly learn unfamiliar technologies and languages, rapidly acquire new skills, and tackle problems at the edge of your expertise. Your adaptability and intellectual curiosity will drive your growth in the field of cybersecurity.
+Display a strong passion for learning and growing in the field of cybersecurity and application security. Your enthusiasm and dedication will inspire those around you
+
+JD 22
+Review Software applications for potential security vulnerabilities by conducting application security reviews i.e., Requirements review, Design review, Code Review.
+Clear Understanding and Hands on experience on OWASP Top 10 Vulnerability standards like XSS, SQL injection, session hijacking, and authorization bypass vulnerabilities.
+In-depth research on Web security, familiar with the origin of various Web security problems and solution, having a tracking of Security threats of network.
+Expertise in testing web application vulnerabilities and Network related vulnerabilities.
+Practical understanding and use of commercial application security tools
+Knowledge of the Vulnerability Fixations.
+Hands on development using Java / J2EE
+Solid understanding and experience with establishing application security policies across an organization.
+Good Documentation, reporting, Strong communication, and collaboration skills with various levels of executives from top management to technical team members across the organization.
+Strong self-starter who can operate independently.
+
+JD 23
+Bachelor’s degree with a computer science background
+Any degree Minimum 2+ years' experience administering multiple monitoring systems such as Site24x7, Azure, Compuware etc.
+Knowledge in SFTP, Http, Https Protocols, and file share system.
+Graduate in any computer stream.
+Good interpersonal skills and excellent written/oral communication skills.
+Good team player - one who can prioritize in a fast moving, constantly changing environment.
+Strong analytical and problem-solving skills with the ability to exercise sound and balanced judgment.
+Ability to handle multiple tasks simultaneously and work under tight deadlines. Meet Daily/Weekly/Monthly assigned tasks.
+Ability to work with a variety of senior and junior team members and build smooth working relationships ensuring reporting timelines and targets.
+Highest attention to detail.
+
+JD 24
+Strong interpersonal skills and experience collaborating with developers and leadership to promote secure SDLC
+Proven foundations in software engineering in multiple languages and frameworks
+Experience with SAST, DAST, SCA, and related application security tools
+Comfortable switching contexts between red, blue, and development perspectives
+Strong sense of personal accountability and dedication to team success
+Deep understanding of OWASP Top 10 and CWE 25; with experience in implementing and integrating remediation strategies
+High-Level Knowledge of security concepts in the various security domains including, but not limited to, authentication, authorization, testing, and cryptography
+Strong problem solving and analytical skills with a proven record of resolving system-level issues
+
+JD 25
+Familiarity and ability to explain common security flaws and ways to address them (e.g. OWASP Top 10)
+Experience identifying security issues through code review.
+Proficient in at least one of the CI/CD products - Github actions, ArgoCD, Jenkins
+Proficient in Java or Python
+Familiarity with some common security libraries and tools (e.g. static analysis tools, proxying / penetration testing tools).
+Good understanding of network and web related protocols - TCP, TLS, HTTPS, DNS
+Ability to work effectively in a fast-paced environment.
+Good knowledge in multiple classes of vulnerabilities that includes cross-site scripting, SQL Injection, CSRF, cryptographic related weakness, and code injection.
+
+JD 26
+OWASP Top 10 and Application Security in general.
+DevSecOps with exposure to commonly used CI/CD platforms.
+Threat Modelling & Risk Assessment.
+SAST ,SCA and DAST tools.
+Exposure to one or few commonly used programming languages/platforms( .NET, C#, Java , JavaScript/TypeScript).
+Cloud & modern tech-stack security (PaaS, Containerization & orchestration, microservices, etc.)
+Vulnerability management
+Azure, Windows, and Linux security practices
+Hacking tools and offensive security techniques
+
+JD 27
+5+ years of experience in Application Security or related roles.
+3+ years of hands-on experience with advanced application security tools such as Nexpose, Tenable, Rapid7, OpenVAS, Invicti, DASTerdly, Snyk, Checkmarx, and SonarQube.
+Experience in using penetration testing tools such as Burp Suite and Metasploit, among others.
+Preferred certifications include eWPT, PNPT, OSCP, CISSP, GWAPT, or similar.
+Experience in IT general controls and internal control areas is required, as is the comprehension of standards and methodologies related to OWASP, PTES, NIST, CIS, PCI DSS, and ISO 27001.
+A clear understanding of pentest methodologies and reporting.
+Great awareness of cybersecurity trends and hacking techniques.
+Promote a culture of security within the organisation.
+Stay up-to-date with the latest security trends, vulnerabilities, and technologies.
+Continuously improve security testing methodologies and processes.
+Ability to work under pressure in a fast-paced environment.
+Strong attention to detail with an analytical mind and outstanding problem-solving skills.
+
+JD 28
+Degree in Software Engineering or equivalent
+At least 3-4 years of combined experience in development, in any programming language,and Application Security (minimum 2 years in AppSec).
+Previous experience in one or more Application Security practices, such as pen-testing, security code review, AST products, research
+Knowledge on how to conduct a Threat Modeling exercise.
+Knowledge of AppSec industry standards, frameworks and guidelines, such as OWASP Top 10 (Web, Api or Mobile) and Secure SDLC.
+Client handling skills for Security Engagements;
+Good written and verbal communication skills in English;
+Pro-active and sense of ownership;
+Get an advantage if you have Security Certifications (CISSP, CSSLP, CEH, OSCP, etc.).
+
+JD 29
+You have a breadth and depth of knowledge across AppSec; you're expected to understand topics like why private keys should be stored in the Secure Enclave, the differences between URL Schemes and Universal Links, what presigned URLs are in the context of S3 and the safest storage mechanisms for modern browsers.
+You know Burp Suite (or your favourite attack proxy) inside and out; bonus points if you've written or contributed to an extension that enhances its functionality.
+You have excellent spoken and written communication skills to articulate vulnerabilities clearly and persuasively, advocating for their remediation even when faced with competing production pressures.
+As a passionate senior security engineer, you have a blog, public speaking engagements, bug bounty profile, or a Git repository showcasing your work.
+You're comfortable writing proof-of-concept (POC) scripts to demonstrate your findings and their potential impact, as needed.
+You have hands-on experience with securing cloud-native applications, ensuring that best practices are consistently applied.
+
+JD 30
+B.Tech/B.E/ Master’s Degree in Computer Science or similar discipline.
+You have 7+ years of work experience as an Application/Product Security Engineer.
+You have 2+ years of experience in Threat Modelling & secure coding practices.
+You are proficient in multiple programming languages.
+You are proficient in security frameworks and standards.
+You have knowledge and deep understanding of SDLC frameworks, including proven track record of implementation and continuous improvements of such frameworks.
+You have experience and understanding with web application architecture and designed & secured applications.
+You have proficiency with security tools and technologies.
+You are a critical thinker and solve security problems via automation.
+You can work independently and drive security leadership and tasks.
+You have very good English language communication skill.
+You are a continual learner and adapt.
+You are good in team collaboration and teamwork.
+
+JD 31
+7+ years of experience in application security, with an emphasis on secure design and architecture for enterprise applications.
+Strong ability to collaborate with developers and architects to incorporate security best practices into application design.
+Expertise in gathering security requirements, conducting architectural risk assessments, and applying secure-by-design principles.
+Familiarity with frameworks like OWASP ASVS and mitigation of common vulnerabilities.
+Proficient in tools for threat modeling and architectural review to maintain a proactive security approach.
+Experience in performing secure code reviews, especially in complex or legacy systems, is a bonus.
+
+JD 32
+Proven expertise in DevSecOps, integrating security within CI/CD pipelines using Jenkins, GitLab, or ArgoCD.
+Skilled in automating security testing through SAST, DAST, and SCA tools (e.g., Checkmarx, SonarQube, Veracode) within deployment workflows.
+Experience with container security, including automated vulnerability assessments for Docker and Kubernetes environments.
+Familiar with container scanning tools such as Aqua Security, Twistlock, or Clair to ensure secure images.
+Hands-on experience developing policies for secure code and configuration management in automated deployments.
+Proficient in cloud security best practices, including the use of AWS/GCP security tools and IAM configurations.
+
+JD 33
+In-depth knowledge of network security principles, including firewall configurations, VPNs, and zero-trust networking.
+Experience designing and enforcing application-level security policies within large-scale, distributed environments.
+Expertise in configuring intrusion detection/prevention systems (IDS/IPS) and Web Application Firewalls (WAF) for enhanced security.
+Strong understanding of secure network architecture, DNS security, and network segmentation techniques.
+Skilled in implementing security best practices in API gateways and microservice architectures.
+Knowledge of advanced network protocols (TCP/IP, TLS/SSL, DNS) and encryption standards.
+
+JD 34
+Strong experience with Identity and Access Management (IAM), including OAuth, OpenID Connect, SAML, and LDAP.
+Proven track record of implementing authentication and authorization best practices in enterprise applications.
+Skilled in managing and securing user credentials, session management, and implementing MFA/SSO solutions.
+Experience in designing IAM policies that align with compliance and regulatory standards (e.g., PCI-DSS, GDPR).
+Familiarity with cloud IAM configurations (AWS IAM, Azure AD) and securing access in multi-cloud environments.
+Able to troubleshoot and resolve access control issues and collaborate with DevOps on secure user provisioning.
+
+JD 35
+5+ years of experience with web and mobile application security, specifically addressing vulnerabilities in mobile platforms (iOS and Android).
+Skilled in using mobile security assessment tools such as MobSF, Drozer, and Frida for in-depth vulnerability analysis.
+Knowledge of mobile security frameworks, including OWASP Mobile Top 10, and experience securing mobile APIs.
+Ability to conduct reverse engineering, app tampering prevention, and code obfuscation for mobile applications.
+Experienced in threat modeling mobile applications and providing actionable recommendations to development teams.
+Understanding of secure storage, encryption, and permissions on mobile devices for data protection.
+
+JD 36
+Expertise in conducting regular security audits and assessments to identify potential vulnerabilities within applications.
+Skilled in leveraging automated security tools and manual methods to ensure thorough vulnerability assessment.
+Experience with compliance standards like ISO 27001, SOC 2, and PCI-DSS to maintain regulatory adherence.
+Ability to report security findings and provide developers with actionable recommendations to mitigate risks.
+Familiarity with maintaining security documentation and audit trails for external and internal audits.
+Strong organizational skills to manage multiple assessments and prioritize critical vulnerabilities.
+
+JD 37
+Experience in API security, focusing on securing RESTful and GraphQL APIs in complex, microservices-based architectures.
+Proficient in API authentication and authorization using tokens, JWT, and OAuth2.
+Skilled in identifying API-specific vulnerabilities, such as injection flaws, improper data validation, and broken authentication.
+Familiar with tools like Burp Suite, Postman, and OWASP ZAP for testing and securing APIs.
+Ability to integrate API security checks into CI/CD pipelines for continuous protection.
+Strong understanding of API documentation and versioning best practices to mitigate security risks.
+
+JD 38
+Proficient in secure coding standards and practices, especially in languages like Python, Java, and JavaScript.
+Skilled in code reviews, identifying security vulnerabilities, and enforcing secure coding guidelines.
+Experience with code quality and security analysis tools such as SonarQube, Fortify, and Coverity.
+Knowledge of preventing common vulnerabilities, including SQL injection, XSS, CSRF, and authentication flaws.
+Ability to create and deliver secure coding training for development teams.
+Familiar with industry standards and guidelines, including OWASP ASVS and SEI CERT.
+
+JD 39
+Experience in vulnerability management, including identification, risk assessment, and mitigation planning for discovered issues.
+Skilled in using vulnerability scanning tools like Qualys, Nessus, and Rapid7 to manage application security posture.
+Ability to work with development teams to remediate high-risk vulnerabilities in a timely manner.
+Familiar with tracking and reporting vulnerabilities through platforms like JIRA or ServiceNow.
+Proficiency in creating dashboards and metrics to report on vulnerability management performance.
+Knowledge of CVSS scoring for prioritizing vulnerability fixes based on risk impact.
+
+JD 40
+Strong understanding of secure DevOps practices, including the integration of security within agile development workflows.
+Skilled in threat modeling, risk assessment, and secure design in collaboration with development and DevOps teams.
+Experience with DevSecOps automation tools, including SAST, DAST, and infrastructure-as-code security scanning.
+Familiar with cloud-native security practices and monitoring for AWS, GCP, and Azure environments.
+Ability to conduct security reviews for code, configuration, and infrastructure within CI/CD pipelines.
+Understanding of container security best practices, including image scanning and runtime security in Docker/Kubernetes.
+
+JD 41
+6+ years of experience in application security, with expertise in designing secure architectures for both on-premise and cloud applications.
+Proficient in securing multi-tenant SaaS applications, emphasizing secure isolation and data protection for different tenants.
+Skilled in implementing multi-factor authentication (MFA), encryption, and secure session management.
+Hands-on experience with security frameworks like NIST, ISO 27001, and CIS controls to ensure compliance.
+Familiarity with endpoint security solutions for protecting applications accessed from various devices.
+Strong documentation skills for creating security policies, procedures, and standards for SaaS products.
+
+JD 42
+Advanced knowledge of cryptography, including symmetric and asymmetric encryption, hashing, and digital signatures.
+Experience implementing cryptographic solutions to secure data at rest, in transit, and in use.
+Proficient in using encryption libraries, such as OpenSSL, Bouncy Castle, and PKCS standards.
+Skilled in key management practices and integrating with key management services (KMS) like AWS KMS or Azure Key Vault.
+Understanding of secure coding for cryptographic functions and mitigating side-channel attacks.
+Ability to perform cryptographic review and analysis of third-party libraries to ensure secure integrations.
+
+JD 43
+Expertise in Web Application Security, including hands-on experience with OWASP Top 10 and SANS Top 25 vulnerabilities.
+Proficient in using web security testing tools such as Burp Suite, OWASP ZAP, and Acunetix.
+Skilled in manual penetration testing and automated scans to identify vulnerabilities in web applications.
+Knowledge of browser security features like Content Security Policy (CSP), CORS, and secure cookies.
+Familiarity with secure headers, such as HSTS and X-Frame-Options, to mitigate client-side attacks.
+Experience working with development teams to implement security controls and monitor for compliance.
+
+JD 44
+Strong background in mobile application security, focusing on Android and iOS platforms.
+Proficient in mobile application assessment tools like MobSF, Frida, and OWASP Mobile Security Testing Guide (MSTG).
+Experienced in detecting mobile-specific vulnerabilities, including improper platform usage and insecure data storage.
+Knowledge of secure app development practices, such as certificate pinning and encrypted storage.
+Skilled in reverse engineering techniques and protecting mobile apps from tampering and cloning.
+Ability to guide mobile developers on secure coding practices for both Android and iOS applications.
+
+JD 45
+5+ years of experience in penetration testing, with hands-on experience in vulnerability assessment and exploitation techniques.
+Proficiency in using penetration testing tools like Metasploit, Burp Suite, and Kali Linux.
+Skilled in testing web, mobile, and API applications, with expertise in white-box, black-box, and grey-box testing.
+Experience with red teaming activities to simulate adversary behavior and improve incident response.
+Ability to write detailed reports, communicate findings to technical and non-technical stakeholders, and recommend remediation.
+Familiarity with CVSS scoring to prioritize vulnerabilities based on risk impact.
+
+JD 46
+Proficiency in Cloud Security, specifically in AWS, Azure, and GCP environments, with knowledge of cloud-native security controls.
+Experience in configuring secure cloud services, including IAM policies, VPC, and security groups.
+Skilled in securing serverless applications and containerized deployments (Docker, Kubernetes) in cloud platforms.
+Familiarity with cloud security tools, such as AWS GuardDuty, Azure Security Center, and GCP Security Command Center.
+Ability to design and enforce cloud security policies to meet compliance requirements like HIPAA and GDPR.
+Knowledge of securing cloud storage solutions (e.g., S3 buckets) and ensuring data encryption in transit and at rest.
+
+JD 47
+Strong knowledge of Application Security Testing tools, including both static (SAST) and dynamic (DAST) analysis.
+Proficient in using SAST tools like Checkmarx, Fortify, and Coverity for identifying vulnerabilities in code.
+Experience with DAST tools, such as AppScan and OWASP ZAP, for runtime vulnerability detection.
+Skilled in deploying Interactive Application Security Testing (IAST) and Runtime Application Self-Protection (RASP) tools.
+Familiarity with integrating testing tools into CI/CD pipelines for continuous security monitoring.
+Experience in generating and interpreting tool reports, and working with developers to address findings.
+
+JD 48
+5+ years of experience in incident response and forensic analysis for application security incidents.
+Skilled in threat hunting and identifying anomalies in application logs, using SIEM tools like Splunk or QRadar.
+Proficient in malware analysis, understanding attack vectors, and mitigating post-incident risks.
+Ability to manage and investigate security incidents, following established incident response playbooks.
+Familiarity with endpoint detection and response (EDR) tools for monitoring application security events.
+Experience documenting incident findings and implementing preventive measures to improve security posture.
+
+JD 49
+Expertise in creating and managing Security Operations Center (SOC) processes focused on application security.
+Skilled in monitoring and responding to application security alerts, using SIEM and log management tools.
+Experience in triaging alerts, analyzing security events, and coordinating response with other security functions.
+Familiarity with playbooks for responding to specific application security threats, such as account takeovers.
+Knowledge of best practices for logging, monitoring, and alerting for application-specific security events.
+Ability to analyze trends in SOC activity to enhance detection and response strategies.
+
+JD 50
+Skilled in integrating security into agile software development lifecycles, working closely with scrum teams.
+Proficient in identifying and mitigating risks at each stage of the development lifecycle, including design and testing.
+Familiarity with tools like JIRA and Confluence for tracking security issues and ensuring alignment with agile workflows.
+Ability to coach developers on secure coding practices and ensure awareness of evolving security threats.
+Experience with secure sprint planning and enforcing security gates for quality and compliance in releases.
+Knowledge of agile principles and security processes for continuous delivery of secure software.
+
+JD 51
+Strong understanding of secure database management, focusing on SQL injection prevention and secure data storage.
+Skilled in designing access controls and enforcing least privilege for database users and roles.
+Familiarity with data encryption techniques, including Transparent Data Encryption (TDE) and encryption at the field level.
+Experience in auditing database activity for anomalies and unauthorized access.
+Proficient in hardening database configurations to reduce attack surfaces in relational and NoSQL databases.
+Knowledge of database backup and disaster recovery practices to ensure data integrity and security.
+
+JD 52
+Hands-on experience in designing and implementing Zero Trust security architectures for application access.
+Skilled in managing identity, device, and network access controls to ensure Zero Trust principles.
+Familiarity with network segmentation, microsegmentation, and secure access solutions (e.g., Zscaler, Cloudflare).
+Experience working with endpoint and identity security solutions to enforce user and device verification.
+Ability to manage access policies that adapt dynamically based on risk profiles and behaviors.
+Knowledge of Zero Trust frameworks and best practices for enhanced application security.
+
+JD 53
+Expertise in implementing security for DevOps and CI/CD workflows, securing pipelines and build processes.
+Skilled in automating security checks, using tools like SonarQube, Nexus, and Snyk for dependency scanning.
+Proficient in securing container registries and enforcing policies for image scanning and vulnerability management.
+Experience in securing artifacts and managing build integrity in distributed teams.
+Knowledge of GitOps practices and securing version control systems against unauthorized access.
+Skilled in monitoring and enforcing security policies in IaC environments (e.g., Terraform, CloudFormation).
+
+JD 54
+Proven experience in application-level monitoring and logging for security insights and anomaly detection.
+Skilled in setting up and managing logging frameworks like ELK Stack or Grafana for application monitoring.
+Ability to analyze logs to detect suspicious patterns, including login anomalies and API abuse.
+Knowledge of logging best practices, such as log retention, secure transmission, and log correlation.
+Experience in creating alerts and automated responses for critical security events.
+Familiarity with log analysis for identifying potential insider threats and unauthorized access.
+
+JD 55
+Skilled in developing and managing application security policies, standards, and guidelines for organizations.
+Experience conducting security awareness and training sessions for developers on secure coding practices.
+Knowledge of governance frameworks, including ISO, NIST, and COBIT, to enforce security policies.
+Ability to track policy compliance and work with auditors to provide documentation.
+Skilled in monitoring regulatory changes and updating policies to align with new compliance requirements.
+Proficient in risk assessment and providing recommendations based on organizational risk appetite.
+
+JD 56
+Expertise in using application vulnerability scanners, such as Qualys, Nessus, and OpenVAS, for proactive detection.
+Skilled in interpreting scanner results, identifying false positives, and prioritizing vulnerabilities.
+Experience in planning and executing remediation efforts with development and infrastructure teams.
+Proficient in tracking vulnerability mitigation progress and reporting on key security metrics.
+Knowledge of vulnerability lifecycle management, including retesting and closing of resolved vulnerabilities.
+Ability to provide insights and recommendations based on vulnerability trends and emerging threats.
+
+JD 57
+Hands-on experience in securing APIs for microservices, including authentication, rate-limiting, and access control.
+Skilled in implementing API gateways and using security protocols like OAuth2 and JWT for API access.
+Familiarity with API security assessment tools and techniques to detect potential API vulnerabilities.
+Ability to create and enforce security guidelines for API developers and design secure API endpoints.
+Knowledge of API security standards like OpenAPI and OWASP API Security Top 10.
+Proficient in rate-limiting and throttling techniques to prevent API abuse and DoS attacks.
+
+JD 58
+Skilled in creating and managing secure SDLC processes, integrating security checks at each phase.
+Familiarity with software development methodologies (Agile, DevOps) and secure development practices.
+Ability to enforce security controls in SDLC stages like design, development, testing, and deployment.
+Proficient in using SDLC tools like JIRA, GitHub, and GitLab to ensure secure development workflows.
+Skilled in training development teams on secure coding, security testing, and vulnerability remediation.
+Strong understanding of compliance requirements in SDLC, such as GDPR, PCI-DSS, and HIPAA.
+
+JD 59
+5+ years of experience in assessing, securing, and deploying applications on Kubernetes and containerized environments.
+Skilled in securing container orchestration platforms, including RBAC, network policies, and pod security policies.
+Experience in configuring runtime security tools like Falco, Twistlock, and Aqua Security for Kubernetes.
+Familiar with image scanning, vulnerability assessment, and remediation for containerized applications.
+Proficient in securing ingress and egress traffic in Kubernetes environments to prevent unauthorized access.
+Ability to implement best practices for managing secrets, environment variables, and access controls.
+
+JD 60
+Expertise in security automation and scripting using Python, Bash, or PowerShell for security tasks.
+Skilled in writing custom scripts to automate vulnerability scanning, log analysis, and incident response.
+Ability to develop tools and scripts for secure configuration management and compliance checks.
+Familiar with creating security dashboards, using scripts to aggregate data from various security tools.
+Experience in collaborating with DevOps to integrate security scripts within CI/CD pipelines.
+Knowledge of secure coding and scripting practices to prevent injection and other common scripting vulnerabilities.

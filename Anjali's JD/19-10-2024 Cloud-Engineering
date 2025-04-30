@@ -1,0 +1,601 @@
+Google Sheet: https://docs.google.com/spreadsheets/d/1hG51IESfYN5ZehKHqIeTQEqiuCjPROPcwO7WxUdajJs/edit?gid=1924534233#gid=1924534233
+
+JD 1
+Manage and administer Microsoft Azure cloud environment: provisioning, configuration, performance monitoring, policy governance, security.
+Design, develop, and implement highly available, multi-region solutions in Microsoft Azure.
+Analyze operational standards, processes, and governance for improvement.
+Migrate existing infrastructure services to cloud-based solutions.
+Manage security and access controls of cloud-based solutions.
+Develop infrastructure as code (IaC) using cloud native tooling for automated, consistent deployments.
+Implement policy-driven data protection best practices.
+Support cloud adoption of applications during transformation/modernization.
+Ensure infrastructure components meet performance and capacity standards.
+
+JD 2
+Experience with: web application development, Unix/Linux environments, Cloud native application development, distributed/parallel systems.
+Experience with unit or automated testing tools.
+Experience with various databases (SQL, NoSQL, Graph).
+Experience with DevOps practices: infrastructure as code, continuous integration, automated deployment.
+Experience with deployment/orchestration technologies: Puppet, Chef, Salt, Ansible, Docker, Kubernetes, Mesos, OpenStack, Jenkins.
+Understanding of open source server software: NGINX, RabbitMQ, Redis, Elasticsearch.
+
+JD 3
+3+ years of backend development experience (hands-on).
+2+ years of experience in DevOps.
+Experience with IaC and GitOps principles/tools (e.g., Terraform).
+Experience with Docker & Kubernetes.
+Experience in operation & managing production deployments.
+Experience with monitoring and logging platforms (e.g., Prometheus & Coralogix).
+Experience with a PaaS/SaaS cloud, preferably AWS.
+Lead automation for CI/CD pipelines for cloud services.
+Strong analytical and critical thinking skills.
+Self-motivated with a passion for learning.
+Excellent communication and collaboration skills.
+
+JD 4
+Extensive knowledge of Linux based systems: hardware, software networking, storage, deployment automation tools (e.g., Ansible).
+Understanding of different service models (SaaS, PaaS, IaaS).
+Experience architecting cloud infrastructures for small, medium, and enterprise applications.
+Cloud Certifications (e.g., Google Cloud or Azure).
+Linux/Windows, Application knowledge of Java, .Net, and IT security.
+Cloud Native technologies (e.g., Powershell, AWS CF, AWS CDK or Azure ARM), IaC automation in Azure Devops or Gitlab.
+Strong experience in one or more programming languages/frameworks (e.g., Python, C#, Java EE).
+Implementing cloud architectures in infrastructure-as-code (IaC) and automating.
+
+JD 5
+Experience in a cloud security role, designing and maintaining secure cloud environments on AWS, GCP, or Azure.
+Strong understanding of cloud computing technologies and workload transition challenges.
+Familiarity with security standards and frameworks (e.g., NIST, ISO 27001).
+Knowledge of cloud service provider technologies and tools for securing cloud environments.
+Excellent problem-solving skills and analytical thinking.
+Strong communication skills and ability to work collaboratively.
+
+JD 6
+Proven experience as a Cloud Engineer (X years for mid-level, X+ years for senior level).
+Expertise in cloud platforms (AWS, Azure, GCP).
+Strong understanding of cloud architecture, networking, and security principles.
+Proficiency in cloud automation and scripting using tools like Terraform, Ansible, or CloudFormation.
+Experience with containerization technologies (Docker) and container orchestration (Kubernetes).
+Familiarity with DevOps practices and CI/CD pipelines.
+Excellent problem-solving skills.
+Strong communication and collaboration skills.
+
+JD 7
+Basic knowledge of cloud platforms (AWS, Azure, GCP).
+Understanding of cloud computing concepts: virtualization, networking, storage.
+Familiarity with Linux and Windows operating systems.
+Basic scripting knowledge (e.g., Python, Bash, PowerShell).
+Strong problem-solving skills and ability to learn quickly.
+Excellent communication skills and ability to work collaboratively.
+
+JD 8
+2+ years of experience in Database Administration (Oracle/PostgreSQL).
+Basic knowledge of Linux and networking fundamentals.
+Experience with DB Query Analyzers, query tuning/slow query optimization.
+Exposure to Virtualization technologies (VMware, Xen, Hypervisor).
+Prior working experience with AWS (EC2, S3, EBS, RDS, Dynamo DB).
+Exposure to security concepts and best practices.
+Understanding of IPsec, VPN, Load Balancing, Iperf, MTR, Routing Protocols, SSH, Network.
+Experience in managing full application stacks.
+Monitoring and troubleshooting tools experience.
+
+JD 9
+Hands-on experience with AWS security services (IAM, Security Hub, Guard Duty, WAF, CloudTrail).
+Experience with DevOps tools (Jenkins, GitLab, Docker, Kubernetes) and IaC tools (Terraform, AWS CloudFormation).
+Experience with integrating security into CI/CD pipelines.
+
+JD 10
+Expertise in cloud services across AWS, Azure, and GCP.
+Proficiency in implementing the 12-factor app methodology for building cloud-native applications.
+Advanced knowledge & experience in:
+Infrastructure Automation: CloudFormation, Terraform, Jenkins
+Container Technologies: Docker, Kubernetes, Helm, Istio
+Networking: Load Balancers, Security Groups, Network Access Control, VPN, VPC, TLS
+Strong knowledge of one or more Languages: Python, NodeJS, Java, Go, JavaScript/TypeScript, ReactJS, Spring
+Proficiency in implementing the 12-factor app methodology.
+Familiarity with industry standards (GDPR, HIPAA, PCI DSS, NIST 800-53, ISO 27001, SOC2).
+Cloud certifications (AWS, Azure, GCP).
+Strong work ethic, willingness to work additional hours.
+Exceptional leadership skills and demonstrated ability to lead multiple technical teams.
+Strong interpersonal skills and ability to work with both technical and non-technical stakeholders.
+Excellent written and verbal communication skills.
+
+JD 11
+3+ years of experience in data management systems & storage platforms.
+3+ years of experience with fault tolerant, highly scalable cloud architectures.
+Proficiency in multiple Programming languages (Golang, Node.js, Python).
+Experience with docker, Kubernetes.
+Experience with GitHub, Jenkins, Ansible, CI build systems, Automated Testing.
+
+JD 12
+Experience with or willingness to learn new technologies: LXD, Snaps, MAAS, Juju, Ubuntu.
+Open source development or scripting experience.
+Professional experience with OpenStack.
+Professional experience with Kubernetes and/or Ceph.
+Applying knowledge of Linux virtualisation (Libvirt/KVM), containers, and Kubernetes along with TCP/IP networking to support customized solutions.
+
+JD 13
+Expertise in one programming language: Java, Python, or Go.
+Proficiency in writing bash scripts.
+Good understanding of SQL and NoSQL systems.
+Good understanding of systems programming (network stack, file system, OS services).
+Understanding of network elements (firewalls, load balancers, DNS, NAT, TLS/SSL, VLANs).
+Skilled in identifying performance bottlenecks, anomalous system behavior, and root causes of incidents.
+Knowledge of JVM concepts (garbage collection, heap, stack, profiling, class loading).
+Knowledge of best practices related to security, performance, high-availability, and disaster recovery.
+Proven record of handling production issues, planning escalation procedures, conducting post-mortems, impact analysis, risk assessments.
+
+JD 14
+Experience with managing large scale deployments of:
+Search engines (Elasticsearch)
+Message-oriented middleware (Kafka)
+RDBMS systems (Oracle)
+NoSQL databases (Cassandra)
+In-memory caching (Redis, Memcached)
+Experience with container and orchestration technologies (Docker, Kubernetes).
+Experience with monitoring tools (Graphite, Grafana, Prometheus).
+Experience with Hashicorp technologies (Consul, Vault, Terraform, Vagrant).
+Experience with configuration management tools (Chef, Puppet, Ansible).
+In-depth experience with continuous integration and continuous deployment pipelines.
+Exposure to Maven, Ant, or Gradle for builds.
+
+JD 15
+Experience with database replication and high availability.
+Experience with cloud compute infrastructure (Azure, AWS).
+Experience with Cloud providers and their associated database services (AWS, AWS RDS, Azure).
+Experience with data warehouses and ETL (Extract, Transform, Load).
+Experience with Site Reliability Engineering.
+Experience with Shell Scripting, Batch Scripting, and Perl Scripting.
+
+JD 16
+Hands-on experience with leading Identity and Access Management (IAM) solutions (Okta, Azure AD) and Single Sign-On (SSO) technologies.
+Experienced with Kubernetes and cloud native application (EKS, AKS, GKE).
+Understanding of common attacker Tactics, Techniques, and Procedures (TTPs) in cloud and identity-based attacks.
+Experience in developing or contributing to open-source security tools (cloud security, identity protection, threat detection).
+Experience in conducting or assisting with red team exercises or penetration testing in cloud environments, focusing on identity-based attacks.
+Familiarity with threat detection methodologies, SIEM systems, and incident response processes.
+In-depth knowledge of identity and access management principles and technologies.
+
+JD 17
+Familiar with web application development using Javascript, Java, AngularJS, PostgreSQL or SQL Server database.
+2-4 years experience with Public Cloud Deployments (Hybrid and Pure public cloud deployments).
+Experience with Docker and Kubernetes in production.
+Experience with automation tools (Terraform, Ansible).
+Experience with Networking and security Technology for cloud services.
+Experience with Continuous Deployment tools (Jenkins, CircleCI).
+Experience with Logging and Monitoring tools (ELK, Splunk, Datadog).
+
+JD 18
+Experience with GCP DataStream: setup and configuration for real-time data replication and CDC from on-prem databases (Oracle, DB2) to BigQuery.
+Strong expertise in GCP data engineering services: BigQuery, Dataflow, Pub/Sub, Cloud Storage.
+Infrastructure Automation: creating reusable Terraform modules and automating cloud infrastructure using Terraform.
+Experience with Azure DevOps: configuring and maintaining CI/CD pipelines for infrastructure provisioning.
+Networking and Security: understanding of GCP networking, IAM, VPCs, firewall configurations, and security best practices.
+Familiarity with on-prem databases (Oracle, DB2).
+Scripting and Automation: Proficiency in scripting (Bash, Python).
+
+JD 19
+Knowledge (5+ years) with strong DevOps and automation skillsets (Bitbucket, Jenkins, Terraform, Confluence, Ansible, Python, cloud-based databases).
+Experience with cloud databases (AWS RDS, Aurora Postgres, MySQL) and related implementations: high availability, disaster recovery, scalability, extensibility.
+Proficiency with AWS Aurora/RDS, AWS Database Migration Service (DMS), Schema Conversion Tool (SCT), and KMS encryption.
+Responsible for assessing existing On-Prem Databases to develop a migration strategy to Cloud native solutions.
+Create and maintain Terraform modules for provisioning and managing AWS Resources.
+Deploy and manage cloud database resources using automation tools (Bitbucket, Jenkins, Ansible, Python).
+
+JD 20
+Expertise in architect and engineer cloud infrastructure solutions with strong knowledge of cloud & virtualization technologies (VMware).
+Hands-on experience with VMware Cloud, VMware NSX, vSAN technologies.
+Work experience with vRA, vRO, vROPS, Code Stream, vRLI, and other VMware products.
+Hands-on working knowledge of vSphere and vCenter features and functions.
+AWS services (EC2, S3, Route 53, ELB, VPC, Cloud trail, IAM, AWS Config, cloud watch, Lambda) via CLI and API within a multi-account production environment.
+Hands-on experience with enterprise-grade datacenter server hosting hardware (HP, Cisco UCS, Dell).
+Experience working with virtualization: performance tuning, capacity management, design, and configuration of Cloud and VMware based infrastructure.
+Hands-on design & architecture experience on VMware cloud or VMware cloud on AWS.
+Experience with Windows and Linux operating systems and troubleshooting.
+Knowledge of full product line of VMware relevant to cloud services and emerging technologies.
+Knowledge and working experience with disaster recovery concepts and building solutions and processes.
+Strong understanding of network concepts and ability to architect, design, and engineer networks required for VMware SDDC.
+
+JD 21
+Experience with tool sets relevant to modern cloud operations (SIEM, WAF, vulnerability scans, pen tests, CIS benchmarking).
+Strong knowledge of encryption protocols, secret management, SSO technology.
+2 years’ experience in working with AWS/GCP security and different security standards.
+
+JD 22 
+Test code for regressions against new Puppet versions
+Puppet configuration for masterless client configuration
+PuppetDB configuration for masterless client configuration
+Pipeline for deploying Puppet code from BitBucket to s3 destination
+Configuration for clients to sync from s3 destination to Hosts
+Automation of processes to install Host with correct Puppet installation and configuration
+
+JD 23 
+Must Have -- good knowledge of Google Cloud (GCP), Good to Have- AWS and Azure Cloud automation, with overall cloud computing experience.
+Good knowledge of Windows Server and IIS (Internet Information Services).
+Good knowledge of .NET applications (ASP.Net, MVC, Web API, WCF etc.) deployment using Jenkins.
+Good knowledge of Gitlab or GitHub.
+Good knowledge of Linux Servers.
+
+JD 24
+Design, architect, and implement AWS server solutions, including EC2 instances, EBS volumes, and VPC configurations.
+Optimize server performance and resource utilization to ensure cost-effectiveness.
+Manage and maintain AWS infrastructure, including patching, security updates, and monitoring.
+Troubleshoot and resolve server-related issues in a timely manner.
+Automate routine tasks using AWS tools and scripting languages (e.g., CloudFormation, AWS CLI, Python).
+Collaborate with development teams to ensure smooth integration of server infrastructure with applications.
+
+JD 25
+Experience on the various native services provisioning and maintenance on AWS
+Ability to provide support and maintain client’s AWS production accounts
+Experience deploying applications on cloud infrastructure - i.e., AWS
+Experience working in designing, deploying, and managing infrastructure with exposure to solution design and deployment of resilient, HA, Highly Scalable & DR architecture.
+Orchestration & containerization to incorporate setting up ephemeral and permanent environments as part of our CI/CD workflow using Docker, Terraform, Kubernetes, etc.
+Has experience on setting up & troubleshooting Kubernetes Clusters in Production ready environment
+Strong experience in server administration (Ubuntu/Linux servers).
+Docker containers and Kubernetes - Hands-on experience on writing docker files and compose files. Experience in writing Kubernetes manifest files
+Strong troubleshooting, debugging skill. Good performance diagnostic skills.
+Subject matter expert in cloud compute, storage network services & containerization technologies.
+Good understanding of operating systems.
+Understanding of microservices, application servers, web servers, messaging servers, NOSQL and SQL database technologies.
+Networking, load balancers, CIDR, subnets,
+Automation and scripting - terraform, shell scripting, python
+Build, run & support of Infrastructure for micro service
+
+JD 26
+Experience working with client-side web technologies (e.g., HTML, CSS, JavaScript, or HTTP).
+Experience in technical troubleshooting, and managing internal/external partners or customers.
+Experience coding with one or more programming languages (e.g., Java, C/C++, Python).
+Experience with data processing software and data processing algorithms.
+Experience in designing and performing large-scale data migrations using various tools and services.
+Experience in Google Cloud Native Databases such as Cloud Spanner, Cloud BigTable, and AlloyDB.
+Experience in database design principles, data modeling, and the ability to translate business requirements into efficient database structures.
+Understanding of data security measures, encryption techniques, and compliance regulations such as GDPR, CCPA, or HIPAA.
+Ability to troubleshoot and resolve database-related issues.
+
+JD 27
+Strong understanding of cloud computing principles and best practices, including architecture, security, networking, storage, and performance optimization.
+Strong experience with AWS, Azure, GCP, IAM, SAML 2.0
+Experience with scripting languages such as Python or PowerShell is recommended.
+5+ years of experience supporting complementary Wintel environments (On-Premises and Cloud) including core MS Infrastructure (AD, AAD, DNS, Group Policy).
+Experience in infrastructure-as-code tools such as CloudFormation, Terraform, or AWS CDK.
+
+JD 28
+Planning, designing and developing cloud-based applications.
+Managing cloud environments in accordance with company security guidelines.
+Implementation of DevOps and CI/CD into AWS cloud as needed in accordance with best practices throughout the development lifecycle.
+Providing Knowledge of networking concepts essential (e.g., TCP/IP, DNS, DHCP, Subnets and Firewalls)
+Experience in implementing monitoring (e.g. uptime, utilization, workloads and optimization), SIEM, Log Management and auditing systems
+Experience in deploying, implementing various Cloud or Open Source based tools to support your operational requirements.
+Experience in implementing Security best practice, such as VPN, Virtual Clouds, DMZs, Segregation of Duties etc.
+Ability to translate architectural requirements into cloud solutions / deployments
+Capability to select the appropriate services based on compute, data, or security requirements
+Ability to deploy, manage, and operate scalable, highly available, and fault-tolerant systems
+Knowhow to implement and control the flow of data, to and from external providers
+Ability to own the cloud budget, estimate usage costs and identify operational cost control mechanisms
+Capability to migrate on-premises workload to cloud or hosted based environments.
+Relational Database and T-SQL scripting experience (working with large transactional datasets)
+CI/CD Tools (Octopus Deploy, Team City, Jenkins)
+Experience working with Atlassian Suite.
+
+JD 29
+Designing, developing and deploying modular cloud-based systems.
+Developing and maintaining cloud solutions in accordance with best practices.
+Ensuring efficient functioning of data storage and processing functions in accordance with company security policies and best practices in cloud security.
+Experience with CI/CD systems.
+Troubleshooting and analytical skills.
+Azure, AWS, and GCP certifications preferred.
+
+JD 30
+Cloud or Data Engineer, with an ability to support infrastructure platform configurations, resources, and provisioning for cloud and data services
+Experience in building and optimizing Data Engineering pipeline, architectures and data sets
+Hands-on experience in developing and implementing data/hot fixes to address urgent data issues and ensure compliance with data governance and security policies
+Extensive working experience with backend programing languages like SQL & Python is a must
+Experience with big data systems such as Spark, PySpark, Databricks etc. is desired
+
+JD 31
+Proven experience in infrastructure setup and application observability.
+Expertise in designing, configuring, and managing monitoring dashboards.
+Hands-on experience with Terraform, Terragrunt, and Helm charts for infrastructure management.
+Solid understanding of AWS dashboards, with the ability to analyze various metrics.
+Strong collaboration skills and experience troubleshooting cloud infrastructure.
+Excellent communication and teamwork abilities for cross-functional collaboration.
+
+JD 32
+Sustain the resiliency of critical infrastructure by diligently performing platform maintenance, ensuring optimal performance, security, and availability.
+Proactively identify and resolve infrastructure issues encompassing Linux systems in a Hybrid Cloud environment, providing swift restoration to operational status, and minimizing down-time.
+Enhance the security posture of the environment by administering IAM systems and maintaining robust host and network configurations.
+Maintain containerization platforms including Kubernetes and AWS EKS, guaranteeing stable platform for the operation of Mimecast’s microservices.
+Engage collaboratively with the team to refine operational processes, and documentation.
+Manage and maintain Observability platform such as Graphite, Prometheus, Grafana, Elastic, and LogScale, ensuring reliable monitoring, logging, and alerting functionalities.
+Provide an outstanding support experience for Mimecast’s internal Engineering teams by meeting Product and Engineering requirements for Mimecast’s Cloud Platform.
+
+JD 31
+Designing, building, and managing cloud-based applications and services using Amazon Web Services (AWS)
+Manage and maintain AWS services such as EC2, S3, RDS, Lambda, VPC, IAM, CloudFormation, and others
+Configure and manage AWS services for monitoring, logging, and security to ensure operational excellence
+Ensure cloud infrastructure security by implementing best practices and compliance controls, including data protection, identity management, and access control
+Create and maintain comprehensive documentation of the cloud architecture, processes, and procedures
+Collaborate with development, operations, and product teams to ensure seamless integration and delivery of new features and updates
+Optimize infrastructure costs for efficiency
+Troubleshooting and resolving issues with the cloud infrastructure.
+
+JD 32
+Build and maintain pipelines and automation through GitOps (GitHub Actions, Jenkins, etc..)
+Build and maintain platform level services on top of Kubernetes
+Develop automation scripts by submitting PRs and participating in code reviews (Github)
+Build monitoring and alerting templates for various cloud metrics (Splunk)
+Design, develop, and maintain web applications using technologies - Core Java, Spring Boot, Spring Webflux, .NET Core, Angular & React
+Work with SQL databases to design schemas, write queries
+Develop and maintain Web APIs for both internal and external consumption
+Follow Agile methodologies to deliver high-quality technology solutions
+
+JD 33
+Proven experience with managing and monitoring an AWS Cloud environment;
+Hands on experience with operating Kubernetes on AWS;
+Hands on experience with Infrastructure as Code (Terraform and/or Cloudformation Template);
+Hands on experience with Linux and Windows OS Environments;
+Ability to diagnose and troubleshoot technical issues;
+Ability to analyze new feature requests and architectural changes;
+Good understanding of Networking concepts TCP/IP, DNS, VPN;
+2nd line technical support to our clients;
+Ability to professionally communicate with our clients;
+
+JD 34
+Manage and administer the Microsoft Azure cloud environment, including provisioning, configuration, performance monitoring, policy governance and security.
+Design, develop, and implement highly available, multi-region solutions within Microsoft Azure.
+Analyze existing operational standards, processes, and/or governance to identify and implement improvements.
+Migrate existing infrastructure services to cloud-based solutions.
+Manage security and access controls of cloud-based solutions.
+Develop infrastructure as code (IaC) leveraging cloud native tooling to ensure automated and consistent platform deployments.
+Develop and implement policy driven data protection best practices to ensure cloud solutions are protected from data loss.
+Support cloud adoption of applications as they are being transformed and/or modernized.
+Ensure all infrastructure components meet proper performance and capacity standards.
+
+JD 35
+Collaborate with agile development teams and lead, oversee every aspect of the secure software development lifecycle including specifications, designs, development, implementation, testing, optimization, and delivery.
+Architect and drive implementation of cloud strategies that align with the company's vision, incorporating industry best practices and emerging cloud trends.
+Design and oversee the implementation of highly available and secured cloud-based infrastructure solutions deployed to AWS, Azure, and GCP. Act as a key decision-maker in selecting cloud technologies and services to meet the specific needs of the enterprise.
+Automate infrastructure provisioning and deployment processes using Infrastructure as code tools.
+Monitor and optimize the performance, reliability, and cost-effectiveness of cloud resources.
+Establish and enforce security best practices for cloud environments and compliance with industry standards.
+Design and manage Kubernetes clusters for container orchestration and microservices deployments including multi-tenant architectures.
+Configure and manage cloud networking components to ensure secure and efficient communication between cloud resources and external networks.
+
+JD 36
+T infrastructure, Azure Infrastructure Services, Database Migration – MSSQL, MySQL,.
+ Drive discussions with technical stakeholders to uncover strategic needs and align on key technologies.
+ Establish systems and solution design in large, sophisticated, data-intensive systems
+ Responsible for migration of on-premise databases (MSSQL, MySQL, Postgres SQL etc) to Microsoft Azure
+ Azure SQL/SQL MI or MS SQL Server experience/SQL Server on Azure VM experince
+ Responsible for all aspects of database administration for SQL Server including implementation efforts for large and / or complex projects.
+ Responsible for ensuring high levels of data availability and database performance.
+ Experience with some form of HA/DR (replication, mirroring, AG, log shipping, etc.)
+ Experience with SQL backups and other maintenance tasks
+ SQL Security knowledge
+
+ JD 37 
+ Design and build secure, highly scalable, multi-tier, single/multi-tenant cloud infrastructure solutions on platforms such as Azure, AWS, or GCP, aligning them with the company's business objectives.
+Create and manage the cloud solution infrastructures with infrastructure as code (IAC) tools like Terraform, PowerShell, ARM scripts and automating provisioning and deployment processes with CI/CD solutions such as Azure DevOps.
+Build fully automated CI/CD pipelines, DevOps processes and improve the existing ones according to the latest technologies and project requirements.
+
+JD 38
+Experience (2+ years) with scripting languages (Python or Go Lang preferred)
+Good theoretical knowledge of basic programming principles
+Strong (5+ years) knowledge of Docker Containerization
+Strong (5+ years) knowledge of Puppet
+Strong (5+ years) knowledge of Kubernetes (K8s) development
+Strong (5+ years) knowledge of Serverless architecture
+Strong (5+ years) working knowledge of Terraform
+Strong (5+ years) working knowledge of AWS Services, including:
+VPC/EC2
+Networking, routing, load balancing
+Lambda
+Autoscaling
+ECS/EKS/Fargate
+S3
+CloudWatch
+Strong (5+ years) understanding of DevOps principles
+CI/CD (GitHub Actions good to have)
+Containerization and Orchestration
+Infrastructure as Code (IaC), Infrastructure as a Service (IaaS), Platform as a Service (PaaS)
+Observability (e.g., Logging and Monitoring)
+Terraform
+Docker
+Kubernetes
+Python or Shell scripting
+AWS
+VPC / EC2
+Networking, routing, load balancing
+Lambda
+Autoscaling
+ECS / EKS / Fargate
+
+JD 39
+Design, develop and implement hybrid cloud environments
+Deploy and automate infrastructure & platform services in Public Clouds (AWS, GCP, and Azure) using Terraform and Ansible
+Design and manage Continuous deployment using Kubernetes and Jenkins
+Design, implement and execute Backup and Recovery and Business Continuity processes
+Design, implement and execute industry standard security processes for best practices and compliance (SOC2, ISO27001, Fedramp, HIPPA etc) leveraging services in Public Cloud such as AWS GuardDuty, Web Application Firewall and Cloudtrail.
+Monitor environments for security vulnerabilities and take actions to remediate and/or mitigate risks
+Monitor applications and services within the environments, on-call rotation using Datadog, Elastic Search, and Opsgenie, take actions to resolve issues and implement strategies to prevent future occurrences
+Perform troubleshooting and root cause analysis for Service Incidents using Jira Service Desk and the alerting and monitoring tools documented above
+Set up intelligent application performance alerts in Datadog and ElasticSearch to find and fix issues before they impact business services and end-users
+
+JD 40
+
+Build reference architectures for VMware Cloud (VMC) on AWS, AWS, and Azure
+Architect, Engineer, and Design forward-looking architectures for VMC and the clouds that VMC integrate with.
+Implement and manage forward-looking cloud infrastructure solutions.
+Identify business requirement and drive automation for Cloud adoption.
+Monitor and troubleshoot performance, security, availability of the cloud environment by identifying issues and resolving proactively.
+Be an escalation-point for Level-4 operation issues and provide technical support and guidance to stakeholders, engineering, and L3-L1 support teams.
+Be a subject matter expert, advise and guide operations team through standard operating procedures (SOPs)
+Collaborate with cross-functional teams to assess cloud requirements and develop cloud-based solutions meet the business requirements.
+Optimize resource utilization and capacity planning to ensure cloud environment stability and cost-effectiveness.
+Architect, design & implement and maintain security of the cloud environment to ensure integrity and confidentiality of the data hosted in the cloud.
+Design and implement solutions for regular system backups, disaster recovery planning and testing to ensure system continuity.
+Stay up to date with emerging VMware Cloud technologies, best practices, and industry trends.
+Input architecture team on environmental problems that needs to be fixed with re-architecture, design change and new tools and technologies.
+Coordinates with business division architects to ensure new cloud services are certified for SPGI standards and enable automation code (Terraform, YAML, PowerShell, PowerCLi or similar) for service consumption.
+
+JD 41
+
+Design, develop and implement SAD approved capability using agreed tooling and techniques into Corporate Data Cloud
+Design, build and maintain data pipelines ensuring data quality, efficient processing, and timely delivery of accurate data.
+Define technical architecture, establish, and maintain development standards.
+Ensure all results conform to security, infrastructure, product, and other internal requirements.
+Maintain system documentation, Technical Design Document in conformance with LSEG requirements.
+Give to the Centre for Enablement delivering:
+Preferred integration patterns
+Identify and promote standard methodology
+Advice, guide and assistance to disparate teams seeking integration
+Chip in to evolving LSEG policies and standards
+Excellent knowledge of AWS tools
+The ability to conduct testing at different levels and stages of the project
+Knowledge of scripting languages
+Experience with DevOps;
+Knowledge of optimization, automation, integration and productivity tools
+Knowledge of relevant libraries and security protocols
+Work with DevOps teams to set-up and maintain CI/CD pipelines to support the Data Warehouse and bring in new feature enhancement
+
+JD 42
+Manage AWS EC2, networking, and alerting.
+Maintain monitoring, alerting, and incident response processes.
+Scale infrastructure to handle high traffic and RPM.
+Develop dashboards for system health and performance.
+Optimize cloud costs and support data warehousing (Athena) as needed.
+Implement observability strategies and manage APM tools.
+Collaborate on CI/CD processes and Kubernetes integration.
+
+JD 43
+Advanced knowledge of and comprehensive experience in deploying and managing:
+Microsoft Windows Server 2012/2016/2019/2022
+Multi-Site and Multi-Forest Active Directory and DFS
+PowerShell Experience
+Multi-Tenant Exchange 2010/2013/2016
+Microsoft Office 365 / Azure Platform (Networking, VM Hosting, Files, AVD)
+Microsoft AD Connect, SPO, Teams, PowerBi, Azure Hybrid AD Setup
+Microsoft Intune MDM / MAM
+Knowledge of VMware products and architectures required
+Knowledge of SPAM filtering tools
+Strong understanding of cyber-security concepts, e.g., MFA or Next-gen security design, Conditional Access, DLP, Identity Management
+
+JD 44
+Proficiency with AWS Cloud technology preferred. 
+Terraform or simialr IaC language
+AWS resources including Networking/ECS/EC2/Network/IAM, CLI, & best practices
+Ansible
+CI/CD Development
+Git
+Markdown
+DOT Language / Mermaid Diagrams
+Python
+Infrastructure Diagraming / Flow Diagrams
+AWS Solution Architect – Associate certification preferred
+
+JD 45
+Design, deploy, and manage cloud infrastructure on platforms such as AWS, Azure, or Google Cloud. 
+Develop and implement cloud architecture strategies that ensure scalability, reliability, and security. 
+Automate cloud provisioning, deployment, and management tasks using tools such as Terraform, Ansible, or CloudFormation. 
+Monitor cloud performance and optimize resources to improve efficiency and reduce costs. 
+Ensure cloud environments adhere to security best practices, including identity and access management, encryption, and network security. 
+Troubleshoot and resolve complex cloud infrastructure issues. 
+Collaborate with development teams to support application deployment and ensure seamless integration with cloud services. 
+Develop and maintain documentation related to cloud architecture, configurations, and processes
+
+JD 46
+Possessing an expert grasp of Cloud Infrastructure, with an excellent conceptual understanding of diverse deployment models and a clear understanding of cloud architectural concepts, you will be capable of crafting zonal, regional, and other high-availability architectures. Your excellent architectural knowledge extends to the intricacies of Linux, and many other supporting technologies.
+Knowledge on differing types of cloud infrastructure services (Most importantly: compute, storage, network, security), and how they are typically integrated.
+Strong troubleshooting skills and knowledge encompassing all aspects.
+Experience in SAP applications running on SAP-supported databases within cloud infrastructure is a bonus.
+Professional level fluency in both written and verbal English language.
+
+JD 47
+Design, develop, and maintain scalable cloud infrastructures in public clouds like Azure, AWS, GCP. 
+Deploy, manage, and troubleshoot containerized applications using Kubernetes. 
+Design and optimize PostgreSQL databases for high performance, reliability, and scalability. 
+Implement Elasticsearch clusters for processing large scale data processing 
+Monitor cloud systems and address any scaling and performance issues proactively. 
+Collaborate with cross-functional teams to architect and improve system performance and capacity. 
+Develop solutions for disaster recovery, high availability, Resiliency and data redundancy. 
+Apply best practices in security, governance, and compliance for cloud environments. 
+
+JD 48
+Set up and configure Azure and AWS infrastructure for seamless application deployment.
+Troubleshoot infrastructure and latency issues across multiple regional data centers.
+Collaborate with application programmers to review and optimize resource usage.
+Work with various servers, APIs, databases, and file systems.
+Implement backup and disaster recovery strategies.
+Create and scale Docker containers on EC2 and EKS instances.
+Manage Azure security for users and applications.
+Demonstrate excellent communication skills for client-facing interactions and reporting.
+Develop hands-on proof of concepts to validate software capabilities and integrations.
+
+JD 49
+AWS IoT, AWS SNS, AWS SQS, RDS
+AWS EC2, ECS, ELB, Route53
+AWS Cognito
+AWS CloudFormation
+Must have a good understanding of computer networking fundamentals.
+Must understand security concepts and frameworks, as well as authentication and authorization frameworks.
+Good understanding of managing AWS users, roles, and policies.
+Experience in working on the Linux platform.
+Experience working on Docker containers. Knowledge of Kubernetes is desirable.
+Familiar with REST APIs, JSON/XML data formats, Web frameworks, Reverse Proxies, and Caching.
+Good software development practices, use of version control, and issue tracking.
+Experience in CI/CD pipelines.
+Good programming skills in Python/NodeJS are desirable.
+Good knowledge of test frameworks for Python/NodeJS and web applications is desirable.
+
+JD 50
+Experience in Modernizing applications to Container based platform using EKS, ECS, Fargate
+Proven experience on using DevOps tools during Modernization. Solid experience around No-SQL database. Should have used Orchestration engine like Kubernetes, Mesos
+Java8, spring boot, sql, Postgres DB and AWS Secondary Skills: React, redux , JavaScript
+Experience level knowledge on AWS Deployment Services, AWS beanstalk, AWS tools & SDK, AWS Cloud9, AWS CodeStar, AWS Command line interface etc and hands on experience on AWS ECS, AWS ECR, AWS EKS, AWS Fargate, AWS Lambda function, Elastic Chache, S3 objects, API Gateway, AWS Cloud Watch and AWS SNS.
+
+JD 51
+Strong hands-on experience with Python, Boto3, and test-driven development techniques such as unit testing and gameday testing.
+Hands-on experience in writing unit tests with Python.
+Hands-on experience with common AWS Services such as Lambdas, Step Functions, DynamoDB, S3, and CloudWatch.
+Experience in deploying applications to development and test environments.
+
+JD 52
+Develop and implement scalable, elastic microservice-based platforms
+Collaborate with cross-functional teams to ensure optimal performance and security of cloud-based solutions
+Manage Kubernetes to manage containerized applications
+Create and maintain scripts for automation and orchestration of cloud-based solutions
+Perform code review and ensure SOLID principles are implemented
+Conduct unit and system testing of application code and execute implementation activities
+Prepare technical documentation such as HLD and LLD based on architects' discussion
+Coordinate with other technical teams to integrate external data points into solutions with minimal impact
+Ensure code quality and coverage with SonarQube and integration with CI/CD pipeline
+Ensure compliance with PCI and Security Coding Standards
+Stay current on latest Azure technologies such as Service Bus Architecture Implementation, Docker-based solutions, Kubernetes, blue-green deployment strategy, etc.
+
+JD 53
+Seasoned understanding of computer science, with specific knowledge of computer programming, application design, and user-focused features. 
+Design, Develop, and Operate solutions for a cloud computing platform with baked in attributes of security, auditability and observability. 
+Define and build value-add services on the platform using cloud-native principles. 
+Expert level proficiency with at least one programming language such as Java and Springboot. 
+Experience in writing automated tests using industry frameworks. 
+Experience in programming frameworks (e.g. Spring Boot, Spring Cloud, 15 factor app principles) . 
+Experience in Kubernetes is essential. 
+Demonstrated knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.) with cloud native data management capabilities (e.g. relational db, no-sql db, graph db and object storage). 
+Experince in developing high performance RESTful and GraphQL API's. 
+Experience building custom annotations in Springboot to enable better tooling, code analysis, and code generation to standardize API invocation, OAuth token generation etc.Are familiar with modern development stack, e.g. Kotlin or Java 8+, TypeScript, React or Angular 2+, GraphQL, PostgreSQL. 
+Worked with source control like Git
+Understanding of CI/CD, rapid delivery on production
+Experience with one of the cloud platform like AWS, Azure etc. 
+Understanding different Agile methodologies
+Ability to write quality unit and end–to–end tests; debug and optimize existing and new code.
+
+JD 54
+Leads the building of various opinionated cloud environments and platforms while aligning them with business and security strategies and requirements.
+Builds standards, designs, and automates the deployment of software in cloud environments.
+Designs and develops solutions that protect and manage cloud native apps and data.
+Contributes to technology strategy and engineering roadmaps around cloud platforms; execute strategic engineering proof of concepts around cloud platforms.
+Partners with DevOps to develop tooling and infrastructure for cloud development and cloud operations use cases, with a focus on microservices deployment and distributed systems monitoring and fault analysis.
+Executes job using Test Driven Development (TDD) approach, and supports continuous integration and continuous deployment patterns.
+Confers with systems engineers to design and to obtain information on project limitations and capabilities, performance requirements and interfaces.
+Delivers best practices recommendations, tutorials, blog articles, and technical presentations adapting to different levels of key business and technical stakeholders.
+Applies advanced subject matter knowledge, leads complex projects, and exercises independent judgment in resolving business issues and establishing policies.

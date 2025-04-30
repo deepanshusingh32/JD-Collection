@@ -1,0 +1,191 @@
+Mid-senior & Senior JDs
+
+JD 1
+Architect, manage, and maintain multi-site network systems, ensuring consistent connectivity and robust security.
+Configure and monitor routers, switches, and firewalls, especially using Cisco, Juniper, and Fortinet products.
+Perform proactive network health checks with tools like SolarWinds and Nagios, optimizing traffic flow and minimizing latency.
+Work collaboratively with cross-functional teams to enhance VPN, QoS, and wireless network operations.
+Maintain accurate network diagrams and comprehensive documentation.
+
+JD 2
+Serve as the primary point of contact for network performance and uptime in a hybrid cloud infrastructure.
+Leverage Cisco Meraki, Palo Alto, and F5 for configuring secure, scalable network solutions.
+Conduct routine vulnerability scans and apply updates as needed, using tools such as Nessus and Qualys.
+Use packet analysis (Wireshark) to troubleshoot and diagnose connectivity issues, ensuring minimal disruption.
+Provide training and guidance to junior administrators, fostering a collaborative work environment.
+
+JD 3
+Oversee the configuration and maintenance of the company’s LAN/WAN, including firewall and intrusion prevention setups.
+Manage Cisco ASA, Check Point, and Fortinet devices to enforce strong network security policies.
+Conduct regular security audits to ensure network compliance with regulations such as PCI-DSS and HIPAA.
+Document network setups, security policies, and troubleshooting procedures, facilitating knowledge sharing across teams.
+
+JD 4
+Administer a high-availability, low-latency network infrastructure to support business-critical applications.
+Configure and maintain firewall policies using Cisco, Palo Alto, and SonicWall systems.
+Monitor network performance using PRTG, Zabbix, and Datadog, and generate actionable performance reports.
+Deploy and manage VPNs, load balancers, and QoS configurations for optimal network operation.
+Participate actively in network disaster recovery planning, including backups and failover testing.
+
+JD 5
+Lead network security initiatives, focusing on secure access control, firewall rules, and encryption protocols.
+Configure and manage FortiGate, Sophos, and Juniper SRX devices, ensuring they meet current security standards.
+Use Wireshark and tcpdump to monitor network traffic, identifying and resolving potential security threats.
+Collaborate with the cybersecurity team on vulnerability management, incident response, and regular compliance checks.
+Maintain clear, thorough network documentation to support rapid problem resolution and knowledge transfer.
+
+JD 6
+Provide expert-level support and administration for complex enterprise network infrastructure.
+Configure, troubleshoot, and maintain network devices from Cisco, Aruba, and Juniper, including VLAN and routing setup.
+Utilize SolarWinds and Nagios for real-time network monitoring, quickly identifying and addressing issues.
+Document IP address schemes, VLANs, and network diagrams for streamlined troubleshooting and audits.
+
+JD 7
+Develop and maintain secure network infrastructure across multiple branch locations, including VPN, LAN, and WAN solutions.
+Leverage advanced firewall configurations using Fortinet, Check Point, and Palo Alto.
+Set up and manage monitoring systems (e.g., Zabbix, NetFlow) to ensure optimal performance across sites.
+Implement VLAN segmentation, access controls, and ACLs to safeguard network integrity.
+
+JD 8
+Manage and optimize a 24/7 enterprise network for consistent, high-quality performance and security.
+Configure and monitor Cisco Meraki, Aruba, and Juniper networks, ensuring proper device health and uptime.
+Monitor network traffic using tools like Grafana and Prometheus, analyzing trends to prevent potential issues.
+Develop and maintain detailed network documentation, including IP management, configuration logs, and network topology maps.
+
+JD 9
+Oversee the performance and security of an extensive cloud-based network infrastructure (AWS, Azure).
+Use Palo Alto, Cisco ASA, and Fortinet for advanced firewall configurations to secure the cloud network.
+Regularly conduct security assessments with Qualys or Nessus, applying patches to mitigate vulnerabilities.
+Work closely with cybersecurity teams to implement policies, monitor for intrusions, and maintain regulatory compliance.
+
+JD 10
+Design and maintain a global network infrastructure supporting remote locations and hybrid cloud environments.
+Configure VPNs and MPLS for secure site-to-site and remote access connections.
+Leverage Wireshark and packet sniffing tools for deep analysis, quickly identifying and resolving issues.
+Document all network changes, create clear SOPs, and maintain a comprehensive knowledge base for the IT team.
+
+JD 11
+Act as the primary administrator for an enterprise network’s firewall and security appliances.
+Configure and support FortiGate, Check Point, and SonicWall firewalls to enforce stringent security policies.
+Manage VLAN, ACL, and VPN configurations to secure traffic across sites and remote connections.
+Provide network traffic analysis using NetFlow, SolarWinds, and other monitoring tools to ensure efficient data flow.
+
+JD 12
+Architect and maintain LAN and WAN environments, managing both local and wide-area networks across sites.
+Configure routing protocols (BGP, OSPF, EIGRP) to ensure efficient, fault-tolerant data flow.
+Set up load balancers and firewall rules with Cisco ASA, F5, and Palo Alto for optimized security and traffic management.
+Document network architecture and ensure all changes are tracked in real time.
+
+JD 13
+Manage high-availability network infrastructure, focusing on zero downtime and optimized traffic handling.
+Utilize tools such as SolarWinds, Nagios, and Datadog for comprehensive network monitoring.
+Configure firewall rules and intrusion prevention systems on FortiGate and Sophos.
+Document and update disaster recovery plans, ensuring a quick response to potential outages.
+
+JD 14
+Oversee an enterprise network supporting cloud and on-premises systems, ensuring optimal connectivity.
+Configure and maintain Cisco and Juniper network devices, using SNMP-based monitoring for proactive management.
+Develop and enforce VLAN and ACL rules for secure network segmentation and access control.
+Create and distribute network health reports to key stakeholders, highlighting trends and potential risks.
+
+JD 15
+Ensure high security and performance of a multi-site network environment, utilizing Meraki and SonicWall.
+Configure and optimize MPLS and QoS for reliable site-to-site communication and prioritized traffic.
+Conduct regular security audits and patch management using Nessus and Qualys.
+Maintain and regularly update all network diagrams and IP schemas.
+
+JD 16
+Administer and optimize wireless networks across corporate offices, using Cisco and Aruba access points.
+Use Wireshark and tcpdump for in-depth troubleshooting and performance assessments.
+Develop firewall rules and monitor threats on Fortinet and Check Point devices.
+Document network configurations, policies, and change logs for compliance and efficiency.
+
+JD 17
+Manage a secure, high-availability network infrastructure, with a focus on redundancy and disaster recovery.
+Configure VPNs, VLANs, and ACLs across Cisco, Palo Alto, and Juniper environments.
+Conduct vulnerability scans and apply corrective measures to ensure compliance with industry standards.
+Maintain a thorough knowledge base, including documentation on all network setups and processes.
+
+JD 18
+Design and support secure network systems for cloud, LAN, and WAN environments.
+Configure advanced firewall and VPN policies on FortiGate, Palo Alto, and SonicWall devices.
+Analyze traffic patterns using PRTG and Datadog, identifying opportunities for performance enhancement.
+Document network configurations, update SOPs, and create troubleshooting guides.
+
+JD 19
+Lead the design, deployment, and management of a secure multi-vendor network infrastructure.
+Configure and maintain network devices, including routers, switches, and firewalls from Cisco, Palo Alto, and Fortinet.
+Implement and monitor site-to-site and remote VPNs, QoS, and network segmentation.
+Conduct in-depth analysis using Wireshark and SolarWinds, generating insights for performance improvements.
+Provide detailed documentation and regular network health reports.
+
+JD 20
+Manage and optimize multi-site network environments to support business continuity and high availability.
+Configure firewall rules, VLANs, and routing protocols (BGP, OSPF) on Cisco, Meraki, and Juniper devices.
+Use Zabbix and Nagios for continuous monitoring and proactive problem resolution.
+Collaborate with IT security to implement robust access control and encryption standards.
+
+JD 21
+Oversee the setup and maintenance of network infrastructure across both local and cloud environments.
+Configure network security using FortiGate, Cisco ASA, and SonicWall to protect sensitive data.
+Use tools like PRTG and Datadog to monitor network performance, identifying potential bottlenecks.
+Conduct regular security assessments and apply patches to maintain compliance.
+Document network configurations, policies, and support playbooks.
+
+JD 22
+Manage an enterprise-wide wireless network, configuring and optimizing access points from Cisco and Aruba.
+Implement firewall policies and security protocols on Palo Alto and Fortinet devices.
+Monitor network traffic with SNMP-based tools and analyze traffic patterns using NetFlow.
+Collaborate with cybersecurity on vulnerability scanning and incident response.
+Prepare network architecture documentation and disaster recovery plans.
+
+JD 23
+Configure, monitor, and troubleshoot an advanced network infrastructure for hybrid cloud environments.
+Leverage load balancers, VPNs, and MPLS to ensure secure, high-availability connections.
+Use Nessus and Qualys to perform regular vulnerability scans and implement patches.
+Maintain clear, comprehensive network documentation for compliance and operational efficiency.
+
+JD 24
+Support a global network infrastructure, handling routing, switching, and firewall configurations.
+Configure and optimize Cisco and Juniper equipment, ensuring redundancy and failover capabilities.
+Monitor network health using SolarWinds and generate monthly performance reports.
+Document network configurations, disaster recovery protocols, and network architecture.
+
+JD 25
+Manage and secure network traffic across remote offices and cloud resources.
+Configure and maintain security policies on Fortinet, Cisco ASA, and Palo Alto firewalls.
+Use packet sniffing tools like Wireshark for in-depth troubleshooting of connectivity issues.
+Create documentation for network setups, maintenance procedures, and incident response plans.
+
+JD 26
+Develop and maintain network infrastructure for a large-scale enterprise environment.
+Configure VLANs, ACLs, and firewalls to segment and protect network traffic.
+Monitor network traffic and performance using Nagios and PRTG, identifying areas for optimization.
+Participate in network disaster recovery planning, including regular backups and failover tests.
+Document network configurations and contribute to the development of SOPs.
+
+JD 27
+Design and support secure connectivity for a multi-site network infrastructure.
+Configure advanced firewall policies using FortiGate, Check Point, and Cisco Meraki.
+Utilize Datadog and Grafana to monitor and report on network health and performance.
+Create documentation for network changes, security configurations, and troubleshooting procedures.
+
+JD 28
+Serve as the primary network administrator for a multi-location enterprise network.
+Set up and maintain Cisco, Aruba, and SonicWall devices, ensuring optimal performance.
+Implement and monitor VPN connections for secure remote access.
+Conduct network security audits and enforce compliance with regulatory requirements.
+Skills: proactive approach, excellent communication, and strong troubleshooting abilities.
+
+JD 29
+Administer a complex, high-availability network environment for a global enterprise.
+Configure and maintain firewall, VPN, and load balancing solutions using Palo Alto, F5, and Fortinet.
+Monitor network traffic using Zabbix, creating reports on performance and usage.
+Update network documentation regularly and conduct security assessments to address vulnerabilities.
+
+JD 30
+Manage and support a secure and scalable network infrastructure across multiple locations.
+Configure firewall and access control policies on Cisco ASA, Fortinet, and Palo Alto.
+Use monitoring tools like NetFlow and SolarWinds to track network health and security events.
+Collaborate with IT teams to develop and implement network policies, ensuring compliance.
+Document network designs, configurations, and troubleshooting procedures.

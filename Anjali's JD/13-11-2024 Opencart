@@ -1,0 +1,260 @@
+Google Sheet - https://docs.google.com/spreadsheets/d/142Y0otzwXXFLU2C_2CjWnOMqXYrKctrHQ2bSUutVpfs/edit?gid=0#gid=0
+
+-----------------------------------------
+
+JD 1
+Develop and customize OpenCart themes and extensions, focusing on MVC architecture for scalability.
+Use PHP, JavaScript, and jQuery for interactive and responsive design.
+Implement VQMod and OCMod to achieve custom functionalities without core modification.
+Integrate REST and SOAP APIs for external service connections.
+Utilize MySQL for efficient database integration and optimization.
+Conduct security assessments to prevent SQL Injection, CSRF, and XSS attacks.
+Ensure compatibility across multiple devices and browsers.
+Document code changes and technical procedures for team reference.
+
+JD 2
+Customize and extend OpenCart functionalities using PHP and JavaScript, maintaining MVC structure.
+Optimize OpenCart sites for SEO, utilizing tools like SEO URL, Meta Tag Manager, and Google Analytics.
+Implement responsive design and layout customization for mobile compatibility.
+Integrate major payment gateways (e.g., Stripe, PayPal, Authorize.net) for secure transactions.
+Use MySQL and SQL to manage and optimize database performance.
+Develop security features, including Two-Factor Authentication and PCI compliance.
+Conduct regular backups and maintain database integrity.
+Document all technical configurations for streamlined future updates.
+
+JD 3
+Develop OpenCart extensions for custom product options, reviews, and carousel features.
+Utilize HTML/CSS and Bootstrap for frontend theme development and responsive design.
+Integrate APIs and shipping providers (UPS, FedEx) for logistical functionality.
+Implement caching frameworks and Apache for improved site speed and performance.
+Conduct vulnerability assessments to address security threats (XSS, CSRF).
+Collaborate with SEO and marketing teams to improve search engine visibility.
+Maintain organized records of code modifications and version control with Git.
+
+JD 4
+Lead the customization of OpenCart modules, using VQMod/OCMod for seamless modification.
+Enhance backend performance using PHP and MySQL database integration.
+Implement secure payment gateways and meet PCI compliance requirements.
+Manage REST API integrations to support customer relationship tools and CRM.
+Ensure frontend responsiveness through HTML/CSS, JavaScript, and jQuery.
+Optimize for SEO using Google Analytics, Sitemap Generators, and Meta Tags.
+Document development processes for future reference.
+
+JD 5
+Build OpenCart sites, focusing on front-end development using JavaScript, React, and Bootstrap.
+Develop and modify OpenCart themes to achieve optimal frontend performance.
+Utilize REST API to integrate CRM, reporting, and order management systems.
+Apply security measures to protect user data, including SQL Injection prevention.
+Ensure browser compatibility and mobile optimization through responsive design.
+Use version control (Git) for efficient collaboration and project management.
+Document code updates for seamless handover to support teams.
+
+JD 6
+Design and implement custom OpenCart themes using HTML/CSS, JavaScript, and jQuery.
+Leverage OCMod and VQMod for safe customization, preserving core files.
+Integrate and configure payment gateways (PayPal, Stripe, 2Checkout) for flexibility.
+Optimize databases using MySQL for efficient data management.
+Conduct security audits and implement XSS, CSRF, and SQL injection protections.
+Use Google Analytics to monitor performance metrics and improve SEO.
+Document configuration changes and maintain backup protocols.
+
+JD 7
+Develop and manage OpenCart extensions for product bundles, reviews, and related products.
+Integrate shipping modules (UPS, FedEx, USPS) for improved customer experience.
+Implement MVC framework knowledge to structure code for scalability.
+Apply caching techniques and use Apache HTTP Server for improved performance.
+Conduct regular security testing to mitigate vulnerabilities and enhance security.
+Optimize frontend with responsive HTML/CSS and JavaScript frameworks.
+Maintain comprehensive documentation for future maintenance and scalability.
+
+JD 8
+Lead OpenCart backend customization, including module and session management.
+Use PHP, MySQL, and SQL to develop robust, secure data management solutions.
+Integrate REST and SOAP APIs to enhance OpenCart functionality.
+Ensure compliance with security standards, including Two-Factor Authentication.
+Collaborate with DevOps to set up cloud environments (AWS, Azure) for deployment.
+Conduct performance optimization to enhance site speed and responsiveness.
+Maintain technical documentation for all backend processes.
+
+JD 9
+Customize OpenCart with custom themes, extensions, and layout modifications.
+Ensure SEO best practices using tools like Sitemap Generator and Meta Tag Manager.
+Use HTML/CSS, JavaScript, and jQuery to create a responsive front end.
+Integrate major payment and shipping gateways for streamlined transactions.
+Use Git for version control, enabling efficient team collaboration.
+Document all code modifications for clarity and future reference.
+Optimize for speed with caching and server configuration adjustments.
+
+JD 10
+Develop OpenCart extensions, focusing on compatibility with major payment gateways.
+Implement MVC principles to manage project scalability and flexibility.
+Customize templates and layouts for mobile and desktop compatibility.
+Ensure secure coding practices to protect against XSS and CSRF vulnerabilities.
+Integrate MySQL database for data storage and optimization.
+Collaborate with designers for a cohesive front-end experience.
+Provide documentation on configuration and deployment processes.
+
+JD 11
+Create custom modules and integrate CRM systems using REST and SOAP APIs.
+Conduct vulnerability testing for SQL Injection, XSS, and CSRF.
+Utilize caching frameworks and Linux-based systems for high performance.
+Integrate payment options like Stripe, PayPal, and WorldPay.
+Customize OpenCart layouts with Bootstrap for a responsive design.
+Document processes and configurations for reliable maintenance.
+Provide ongoing technical support and troubleshooting for live websites.
+
+JD 12
+Build and maintain OpenCart e-commerce sites, integrating OCMod for modularity.
+Conduct performance tuning and use SEO tools to optimize for search engines.
+Ensure data security using secure payment gateways and SQL injection prevention.
+Implement and manage MySQL databases for fast data retrieval.
+Collaborate with marketing teams to implement SEO enhancements.
+Maintain detailed documentation of all technical work and configurations.
+Apply responsive design techniques for a user-friendly mobile experience.
+
+JD 13
+Develop custom OpenCart extensions for product and order management.
+Implement frontend optimizations using JavaScript, React, and HTML/CSS.
+Conduct SQL-based security checks to prevent unauthorized data access.
+Integrate third-party APIs and CRM tools for enhanced store functionality.
+Utilize Google Analytics and SEO tools for site optimization.
+Document processes for efficient workflow and team collaboration.
+Use Git for version control, maintaining organized code updates.
+
+JD 14
+Customize OpenCart themes and extensions for enhanced customer experience.
+Apply VQMod/OCMod for safe and modular functionality adjustments.
+Integrate APIs for payment and shipping (e.g., UPS, FedEx).
+Maintain database integrity with MySQL optimization techniques.
+Use Git and version control for streamlined project management.
+Ensure PCI compliance with secure gateway implementation.
+Maintain extensive documentation for project handover.
+
+JD 15
+Lead OpenCart project customization, from backend integration to frontend development.
+Use MySQL, SQL, and caching frameworks to optimize backend performance.
+Implement session management, security features, and MVC architecture.
+Use REST and SOAP APIs to support external system integrations.
+Document workflows for transparent team collaboration.
+Test across devices to ensure responsive and compatible design.
+Provide thorough documentation and technical support.
+
+JD 16
+Develop OpenCart stores using HTML/CSS, JavaScript, and responsive design principles.
+Integrate secure payment options and maintain PCI compliance.
+Use MVC structure and caching frameworks to optimize code efficiency.
+Apply database management skills with MySQL for performance tuning.
+Provide thorough documentation on development and troubleshooting steps.
+
+JD 17
+Develop, test, and deploy custom OpenCart extensions focusing on scalability and performance.
+Use CSS preprocessors like SASS/SCSS for advanced styling and flexibility in frontend design.
+Implement automated testing with PHPUnit for backend stability and code reliability.
+Enhance backend performance with database indexing and query optimization.
+Integrate AJAX-based dynamic features for enhanced user interactivity.
+Manage server performance through Nginx configuration and caching.
+Maintain project documentation and workflows in JIRA or similar project management tools.
+
+JD 18
+Customize OpenCart’s shopping cart functionality, utilizing JavaScript frameworks like Vue.js for dynamic UI components.
+Ensure API security with OAuth 2.0 when integrating third-party applications.
+Use Webpack and Gulp for frontend asset bundling and minification, optimizing loading times.
+Integrate email marketing tools (e.g., MailChimp, SendGrid) within OpenCart’s customer communication system.
+Use Redis and Memcached for backend caching, improving site performance and load handling.
+Maintain deployment documentation and manage version control with Bitbucket.
+
+JD 19
+Develop secure and responsive OpenCart stores with JavaScript ES6+ features.
+Customize OpenCart’s product search functionality using Elasticsearch or Solr for enhanced search capabilities.
+Build SEO-friendly URLs and use structured data schemas to improve search engine indexing.
+Optimize image handling with ImageMagick or GD library to ensure quick load times and quality.
+Ensure continuous integration with Jenkins for seamless code updates and testing.
+Write comprehensive code documentation and guides for team knowledge sharing.
+
+JD 20
+Build and maintain OpenCart themes and plugins using Headless CMS principles, enabling API-driven content management.
+Implement Unit Testing with PHPUnit and end-to-end testing using Selenium.
+Configure and optimize servers for OpenCart using Docker for consistent development environments.
+Use RabbitMQ or Kafka to manage asynchronous tasks within OpenCart’s order processing.
+Integrate analytics tracking with Google Tag Manager and event-based tracking.
+Write clear documentation, outlining development workflows and troubleshooting procedures.
+
+JD 21
+Develop highly customizable OpenCart themes with Twig templating for dynamic, maintainable views.
+Integrate OpenCart with CRM systems (e.g., HubSpot, Salesforce) through secure APIs.
+Utilize GraphQL for flexible data retrieval, enhancing the efficiency of client-side requests.
+Apply Progressive Web App (PWA) standards to create a mobile-first shopping experience.
+Implement continuous integration and delivery pipelines (CI/CD) with GitLab CI.
+Document and share best practices for frontend and backend development.
+
+JD 22
+Implement modular design principles for OpenCart extensions, ensuring scalability with SOLID principles.
+Use Google Lighthouse for performance audits, improving accessibility and SEO.
+Build product recommendation engines using machine learning libraries like TensorFlow.js.
+Secure backend APIs with JWT (JSON Web Tokens) to ensure data privacy.
+Optimize SQL queries and handle large datasets through partitioning and index optimization.
+Maintain a library of well-organized technical documentation for future updates.
+
+JD 23
+Design and deploy custom OpenCart functionalities using TypeScript for improved code maintainability.
+Create and manage a microservices architecture to handle various aspects of the OpenCart ecosystem.
+Implement OAuth2.0 protocols for secure authentication in third-party integrations.
+Configure AWS Lambda functions for serverless processes within OpenCart’s infrastructure.
+Use Webpack for bundling and optimizing frontend assets, reducing load time.
+Maintain structured documentation for every feature enhancement and bug fix.
+
+JD 24
+Develop custom OpenCart solutions with advanced CSS Grid and Flexbox layouts for modern design.
+Implement React components within OpenCart for highly interactive product pages.
+Enhance site performance with CDNs (Content Delivery Networks) like Cloudflare for global reach.
+Configure SSL certificates and maintain secure communication with HTTPS.
+Use GraphQL to streamline data fetching for dynamic pages and custom widgets.
+Document frontend and backend processes to streamline development workflows.
+
+JD 25
+Lead OpenCart projects with a focus on headless architecture, leveraging frontend frameworks.
+Integrate OpenCart with ERP systems to enable automated inventory and order management.
+Secure the site with SSL/TLS configurations and HTTP Strict Transport Security (HSTS).
+Use Jenkins or GitLab CI to automate testing and deployment pipelines.
+Configure multi-language and multi-currency support for a global customer base.
+Create in-depth documentation for each project phase, from design to deployment.
+
+JD 26
+Build highly performant OpenCart stores with AMP (Accelerated Mobile Pages) for mobile optimization.
+Customize checkout processes to reduce cart abandonment, leveraging AJAX and Vue.js.
+Integrate advanced payment methods like Apple Pay and Google Pay.
+Develop automated unit and integration tests to ensure code reliability.
+Use Redis or Memcached to reduce load times and improve server response.
+Maintain and update documentation, covering project architecture and user guidelines.
+
+JD 27
+Integrate API-based dynamic pricing engines for customized product pricing.
+Implement Content Security Policy (CSP) and other browser-based security policies.
+Use Node.js for backend task automation within the OpenCart ecosystem.
+Configure Linux cron jobs for scheduled tasks, including data backups and log management.
+Create extensive frontend UI components with Vue.js or React to boost interactivity.
+Document workflows in Confluence or Notion for team knowledge sharing.
+
+JD 28
+Develop highly interactive and customizable OpenCart stores with AJAX-powered filtering.
+Implement service workers to enable offline capabilities and PWA support.
+Use SASS for modular, maintainable stylesheets in complex themes.
+Integrate APM (Application Performance Management) tools like New Relic for real-time monitoring.
+Optimize database handling with Redis and MySQL tuning for scalable data management.
+Maintain a detailed technical log of development and maintenance tasks.
+
+JD 29
+Customize OpenCart with MVC and Dependency Injection patterns for code reusability.
+Use Elasticsearch for product search optimization and large-scale data handling.
+Integrate JWT for secure and lightweight authentication processes.
+Apply GraphQL schema stitching for dynamic data aggregation.
+Implement SEO microdata and open graph tags for enhanced social sharing.
+Create extensive technical documentation for project handover and support.
+
+JD 30
+Lead OpenCart development with Vuex for state management within Vue-based components.
+Build a scalable product catalog using Elasticsearch to handle extensive product data.
+Integrate and secure RESTful APIs using OAuth and JWT.
+Optimize OpenCart’s image handling with responsive images and WebP format for better performance.
+Implement PHPUnit testing for reliable code coverage across key functionalities.
+Maintain a thorough technical knowledge base and documentation for continuous improvement.
