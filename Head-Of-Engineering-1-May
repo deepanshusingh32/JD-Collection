@@ -944,19 +944,147 @@ Experience with some of the following is advantageous but not mandatory:
 
 JD - 28 : 
 
+---
 
+ Responsibilities:
+
+ Develop and execute the engineering strategy, ensuring alignment with the company's vision and goals.
+ Identify and evaluate emerging technologies and trends, and recommend adoption strategies to stay ahead of industry changes.
+ Drive innovation within the engineering team, fostering a culture of technical excellence and continuous improvement.
+ Build, lead, and mentor a high-performing engineering team, ensuring development and success.
+ Establish clear goals, performance metrics, and personalized development plans for team members.
+ Foster a collaborative and inclusive work environment, supporting team cohesion and productivity.
+ Attract, recruit, and retain top engineering talent, building a strong technical workforce.
+ Oversee the entire software development lifecycle (SDLC), from concept to deployment and ongoing maintenance.
+ Ensure the delivery of high-quality, scalable, and reliable software products that meet business needs.
+ Implement and maintain agile development methodologies, ensuring flexibility and efficiency in development.
+ Collaborate with product management teams to define product roadmaps and prioritize features in line with business goals.
+ Define and maintain the overall technical architecture and infrastructure, ensuring they are robust and scalable.
+ Ensure the scalability, security, and performance of systems and products across the organization.
+ Implement and maintain DevOps practices and CI/CD pipelines, optimizing deployment and integration processes.
+ Manage technical debt and ensure code quality through effective code reviews, refactoring, and adherence to best practices.
+ Collaborate with executives and department heads to align engineering efforts with broader business goals.
+ Communicate effectively with internal and external stakeholders, ensuring technical requirements are met and understood.
+ Represent the engineering team in executive meetings, ensuring their voice is heard and their needs are prioritized.
+ Manage relationships with technology vendors and partners, ensuring strategic collaboration.
+ Develop and manage the engineering budget, making resource allocation decisions in line with project priorities and company objectives.
+ Optimize engineering processes to improve efficiency and reduce costs, ensuring sustainability in the development process.
+
+---
+
+ Qualifications:
+
+ Experience:
+
+ 12+ years in software engineering, with significant experience in leadership roles managing engineering teams.
+ Proven success in building and leading high-performing engineering teams that consistently meet goals and drive innovation.
+ Experience designing and developing scalable, distributed systems, and cloud-based applications.
+ Experience with cloud platforms such as AWS, Azure, or GCP, ensuring familiarity with modern cloud infrastructure and services.
+ Solid experience with Agile development methodologies, driving flexibility, collaboration, and iterative improvement.
+
+ Technical Skills:
+
+ Strong understanding of software development principles and practices, including design patterns, best practices, and version control.
+ Proficiency in modern programming languages and technologies to lead development efforts effectively.
+ In-depth knowledge of DevOps practices and CI/CD pipelines, focusing on optimizing the development lifecycle.
+ Familiarity with cloud computing, microservices architecture, and containerization technologies, such as Kubernetes and Docker.
+
+ Education:
+
+ Bachelor's or Master’s degree in Computer Science, Engineering, or a related field.
+
+---
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 29 : 
 
+---
 
+ Key Responsibilities:
+
+ Coach and Mentor: Guide teams on agile practices, removing impediments to ensure timely delivery of high-quality solutions.
+ Performance Feedback: Provide continuous feedback to teams, mentoring them on goal achievement and optimizing their performance.
+ SAFe Practices Leadership: Lead multiple agile teams through SAFe (Scaled Agile Framework) practices, including PI Planning, backlog refinement, and release management.
+ Work Prioritization: Assist with work prioritization to align with on-shore product leads and ensure alignment with business goals.
+ Collaboration with Engineering: Partner with engineering teams to design and implement scalable solutions using AWS services such as compute, storage, networking, and security.
+ Agile Ceremonies: Facilitate agile ceremonies across teams, ensuring effective coordination and dependency management between teams.
+ Customer and Market Research: Gather and analyze customer requirements, market research, and technical constraints to drive product decision-making.
+ Product Specifications: Create detailed product specifications, user stories, and acceptance criteria that balance technical depth with business value.
+ Cloud-Native Practices: Lead the adoption of cloud-native practices, providing guidance on AWS service selection and implementation.
+ Monitor and Optimize Performance: Track product performance metrics, cloud costs, and infrastructure efficiency to optimize ROI.
+ Product Strategy and Roadmap: Lead the product strategy and roadmap development for cloud infrastructure initiatives, ensuring alignment with both business objectives and technical feasibility.
+
+---
+
+ Required Skills/Knowledge:
+
+ Education: Bachelor’s degree in Computer Science, Engineering, or a related field; or 14+ years of relevant experience in lieu of a degree.
+ Experience:
+
+   12+ years in product management or engineering management within cloud infrastructure products.
+   3+ years experience working in SAFe or another scaled agile framework.
+   Proven track record of delivering complex technical products from conception to launch.
+ AWS Expertise: Deep understanding of AWS services and architecture patterns, including EC2, S3, RDS, Lambda, API Gateway, and container services.
+ SAFe Certification: Certified SAFe Product Owner/Product Manager (POPM) or equivalent certification.
+ Infrastructure as Code (IaC): Experience with CloudFormation or Terraform for IaC implementation.
+ Technical Background: Strong technical background with hands-on experience in development or DevOps practices.
+ Communication Skills: Strong communication skills with the ability to translate complex technical concepts for different audiences, from technical teams to business stakeholders.
+
+---
+
+ Desired Skills/Knowledge:
+
+ SAFe Program Consultant (SPC) certification.
+ AWS certifications (Solutions Architect, DevOps Engineer).
+ Microservices Architecture: Familiarity with microservices architecture and containerization technologies like Docker and Kubernetes.
+ Security & Compliance: Knowledge of security and compliance requirements in cloud environments.
+ Distributed Agile Teams: Experience leading distributed agile teams, working with global, cross-functional teams.
+ Lean & Value Stream Mapping: Background in value stream mapping and lean principles to optimize workflows and deliver value efficiently.
+
+---
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 30 : 
 
+---
 
+ What We Look For:
+
+ Senior Developer in large projects, working across a global team of developers and risk managers.
+ Performance Tuning: Improve memory and CPU utilization by optimizing application performance.
+ Statistical Analysis: Perform statistical analyses to identify trends and exceptions related to Market Risk metrics.
+ Reporting: Build internal and external reporting for the output of risk metric calculation using data extraction tools like SQL and data visualization tools such as Tableau.
+ Web Development: Utilize web development technologies to facilitate the development of front-end UI for risk management actions.
+ Database Development: Develop software for calculations using databases like Snowflake, Sybase IQ, and distributed HDFS systems.
+ Business Interaction: Interact with business users to resolve issues with applications.
+ Batch Process Design: Design and support batch processes using scheduling infrastructure for calculation and distributing data to other systems.
+ Team Leadership: Oversee junior technical team members throughout all aspects of the Software Development Life Cycle (SDLC), including design, code reviews, and production migrations.
+
+---
+
+ Skills and Experience:
+
+ Education: Bachelor’s degree in Computer Science, Mathematics, Electrical Engineering, or a related technical discipline.
+ Industry Experience: 1-2 years’ experience working in a risk technology team at a bank or financial institution. Experience in market risk technology is a plus.
+ Database Experience: Experience with one or more major relational/object databases.
+ Software Development: Solid understanding of data structures, algorithms, software design, and core programming concepts.
+ Multi-tasking: Comfortable with multi-tasking, managing multiple stakeholders, and working as part of a team.
+ Languages: Comfortable working with multiple programming languages.
+ Technologies:
+
+   Scala, Java, Python, Spark.
+   Linux and shell scripting.
+   TDD (JUnit).
+   Build tools such as Maven, Gradle, Ant.
+ Process Scheduling: Experience working with process scheduling platforms like Apache Airflow.
+ Proprietary Technology: Should be ready to work with GS proprietary technology like Slang/SECDB.
+ Compute Resources: Understanding of compute resources and the ability to interpret performance metrics (e.g., CPU, memory, threads, file handles).
+ Distributed Computing: Knowledge and experience in distributed computing, including parallel computation on a single machine (e.g., DASK) and distributed processing on public cloud platforms.
+ SDLC Knowledge: Understanding of SDLC and experience working through the entire lifecycle of a project from start to end.
+
+---
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
