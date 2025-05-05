@@ -721,61 +721,281 @@ JD - 18 :
 
 JD - 19 :
 
+---
 
+--Minimum Requirements--
+
+- Minimum --10 years of technology leadership-- experience with deep domain expertise in --cybersecurity--.
+- Extensive --hands-on experience-- in designing, managing, or assessing complex technology infrastructures—particularly across --enterprise networks, hybrid-cloud environments, applications, and cybersecurity frameworks--.
+- Demonstrated success working --within or alongside Government, Defense, or national cybersecurity organizations--, delivering --strategic, high-impact projects-- at a national level.
+- Strong understanding of --technology trends, digital transformation--, and how they disrupt traditional procurement and security practices.
+- Proven ability to engage with and manage relationships involving --Industry Analysts, Public Relations teams--, and thought leadership activities (e.g., --white papers, media events, and conferences--).
+
+---
+
+    --Preferred Requirements--
+
+- Demonstrated --cross-functional leadership skills-- with the ability to --influence without direct authority--.
+- --Active security clearance-- or the --eligibility to obtain-- one.
+- Ability to collaborate effectively across --diverse stakeholder groups--—including --government agencies, executive leadership, boards, technical teams, partners, and channels--.
+- Strong --listening, communication, and initiative-driving skills--, with the ability to both --lead and contribute-- meaningfully as a team player.
+- Advanced --analytical skills-- with the ability to --navigate and lead through complexity--.
+
+---
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 20 :
 
+---
+Key Responsibilities  
 
+-   Technology Vision & Strategy:  
+  Define and lead AiSensy’s   technology roadmap  , ensuring alignment with long-term business goals and rapid scaling requirements.
+
+-   Scalable System Architecture:  
+  Architect systems capable of handling   billions of messages   and   API calls   with high availability, low latency, and fault tolerance.
+
+-   Team Leadership & Culture:  
+  Build, inspire, and retain a   world-class engineering team  , fostering a high-ownership, fast-execution, and innovation-driven culture.
+
+-   Product & Tech Alignment:  
+  Partner closely with   Product   and   Business teams   to balance   innovation  ,   stability  , and   speed  . Enable agile execution of a dynamic, fast-moving roadmap.
+
+-   Security & Compliance:  
+  Ensure the platform meets best practices in   data privacy  ,   security protocols  , and compliance standards such as   ISO   and   GDPR  .
+
+-   DevOps & Infrastructure:  
+  Oversee infrastructure management on   AWS   (or   GCP  ), CI/CD pipelines, observability, and   cost optimization  .
+
+-   Innovation & R\&D:  
+  Keep the tech organization ahead of the curve by evaluating and adopting new   technologies  ,   tools  , and   architectural approaches  .
+
+-   Cross-functional Collaboration:  
+  Collaborate with   Growth  ,   Customer Success  , and   Sales teams   to support   business scalability  , performance insights, and feature rollouts.
+
+---
+
+What You Bring  
+
+-   8+ years   of   software development experience  , with at least   4+ years   in   tech leadership   roles such as   CTO  ,   VP of Engineering  , or   Director of Engineering  .
+- Proven experience in   scaling high-traffic  , distributed   SaaS platforms  .
+-   Deep hands-on expertise   in   MERN stack  ,   microservices  ,   system design  , and   cloud (AWS/GCP)  .
+- Experience handling   large-scale messaging   or   communication platforms   is a   strong plus  .
+- Strong understanding of   DevOps  ,   SRE  , and   cybersecurity best practices  .
+- Demonstrated success in leading   cross-functional teams  , setting an   engineering culture  , and mentoring senior tech leaders.
+- A   startup mindset  : hands-on when needed, yet   strategic in vision  ; focused on outcomes and fast execution.
+- Excellent   communication  ,   stakeholder management  , and   decision-making skills  .
+
+---
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 21 :
 
+--What You’ll Do:--
+
+- Own the product’s architecture, scalability, and performance
+- Lead all tech initiatives — from MVP to production scale
+- Drive AI-first innovation using LLMs, AI agents, and prompt engineering
+- Set up and manage Supabase, Next.js, WebSockets, and real-time infra
+- Collaborate with a founder who deeply understands the problem, brand, and growth side
+
+--What We’re Looking For:--
+
+- 4–5 years of hands-on full-stack experience
+- Deep proficiency in Supabase, Next.js, and PostgreSQL
+- Experience integrating AI/LLM APIs and building real-time apps
+- Ability to build fast, ship fast, and iterate even faster
+- Hunger to own, lead, and scale something truly disruptive
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 22 :
 
+--Job Description--
 
+- Lead the Technology department in the design and implementation of technological strategies and solutions.
+- Ensure the company's technological processes meet industry standards and are secure.
+- Collaborate with the management to set company's goals and strategy from a technology perspective.
+- Provide guidance and leadership to the technology team.
+- Monitor system infrastructure to ensure functionality and efficiency.
+- Foster a culture of innovation and continuous improvement in the technology department.
+- Handle the company's intellectual property portfolio relating to technology.
+- Stay updated with latest technology trends and ensure the company is at the forefront of industry developments, especially in mobile, digital and social media platforms.
+
+--The Successful Applicant--
+A successful CTO should have:
+
+- A degree in Computer Science, Engineering or a related field.
+- Proven experience in managing technology teams in a BFSI/Fintech/Payments Infra.
+- Strong knowledge of data analysis, budgeting and business operations.
+- Superior analytical and problem-solving capabilities.
+- A strong strategic and business mindset.
+- Excellent leadership and team management skills.
+
+--What's on Offer--
+
+- A fulfilling work environment that encourages innovation and professional growth.
+- Generous holiday leave and benefits package.
+- Opportunity to work in a leading organization in the business services and security industry.
+- Chance to make a significant impact on the company and the industry with your technological insights.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 23 :
 
+--What you will do:--
 
+- Setting a vision for how technology will be used in the company.
+- Ensuring that technological resources meet the company's short and long-term needs.
+- Outlining the goals for research and development.
+- Creating timelines for the development and deployment of all technological services.
+- Making executive decisions on behalf of the company's technological requirements.
+- Setting up of CI/CD pipelines to automate deployments at various stages, dev to staging to production at scale.
+- Setting up of APMs and integration with Slack to monitor the distributed system’s health in real-time.
+- Acting as a mentor to team members.
+- Maintaining a consumer-focused outlook.
+- Managing technology budgets and time frames.
+- Staying on top of technology trends and developments.
+
+--Desired Candidate Profile--
+
+--What you need to have:--
+
+- 8-12 years of overall experience.
+- 5+ years of experience in managing a self-organizing, high growth team.
+- 3+ years of experience as a developer.
+- Hands-on experience with MERN Stack.
+- Hands-on with Vue.js, AWS, and AWS Lambda implementation, Serverless Architecture, Microservices Architecture, MongoDB, MySQL, PHP (Laravel).
+- Knowledge of scaling high traffic apps using Heroku/EBS etc.
+- DevOps knowledge.
+- Working knowledge of Data Warehousing and CDP platforms.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 24 :
 
+- Current platform has no front end, so they want someone who can help decide and implement one. Back end is Python.
+- Somebody who has startup experience, this is pre-seed and launching an MVP in the next few months.
+- Ability and willingness to be hands-on, in development and DevOps, as well as strategic.
+- They are open to this being long-term or contract-to-hire as well for the right person.
+- Hours per week can flex with the candidate’s desire. 20-40 hours a week is the goal.
 
+--Key Responsibilities:--
+
+- Provide strategic direction for the product roadmap, focusing on innovation and user needs.
+- Oversee the technical development team, ensuring efficient execution and high-quality code. Lead the development and implementation of new features, including data integration, strategy development tools, advanced analytics, and platform integrations.
+- Champion best practices in security, scalability, and performance optimization.
+- Collaborate with other C-suite executives (if applicable) and stakeholders to ensure the product aligns with business goals.
+
+--Desired Skills and Experience:--
+
+- Deep understanding of algorithmic trading concepts, backtesting methodologies, and quantitative analysis.
+- Proven experience in building and leading high-performing engineering teams.
+- Expertise in relevant technologies like data management, machine learning, cloud computing, and low-latency execution systems.
+- Strong leadership, communication, and problem-solving skills.
+- Ability to work effectively in a fast-paced, dynamic environment.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 25 :
 
+--Key Responsibilities:--
+
+- Develop and document database architectures. Create and enforce database development standards.
+- Develop data models for applications, metadata tables, views, or related database structures.
+- Develop load-balancing processes to eliminate downtime for backup processes.
+- Develop or maintain archived procedures, procedural codes, or queries for applications.
+- Develop database architectural strategies at the modeling, design, and implementation stages to address business or industry requirements.
+- Develop and deliver long-term strategic goals for data architecture vision and standards by collaborating with Solution Architects, Software Architects, design analysts, and others.
+- Demonstrate database technical functionality, such as performance, security, and reliability.
+- Design data transfer mechanisms like ETL and improve data cleansing, data quality issues as they arise.
+- Establish methods and procedures for tracking data quality, completeness, redundancy, and improvement.
+- Define technical dependencies and dependency management strategy, and align solutions with enterprise architecture strategy.
+- Define functional design and technical design for data management and integration.
+- Create short-term tactical solutions to achieve long-term objectives and an overall data management roadmap.
+- Select and implement the appropriate tools, software, applications, and systems to support data technology goals.
+- Provide coaching and mentoring to all members of the department.
+
+--Skills Expected from Database Architect at SCA:--
+
+- Minimum of 5-8 years in Database design and development.
+- Demonstrated ability to design and develop complex database load and maintenance processes.
+- 4+ years of hands-on experience designing RDBMS databases for web applications.
+- 2+ years of experience with star schema and dimensional data modeling.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 26 :
 
+--Responsibilities:--
 
+- Define and execute the overall technology vision and strategy for the company.
+- Write the backend code initially.
+- Lead and mentor a high-performing engineering team.
+- Architect, design, and develop scalable and maintainable software solutions.
+- Oversee the development and deployment of our products on Google Cloud.
+- Ensure the security, reliability, and performance of our platform.
+- Collaborate with product management and design teams to deliver exceptional user experiences.
+- Manage and optimize our technology budget and resources.
+- Stay abreast of the latest technological advancements and industry trends.
+- Foster a culture of innovation and continuous improvement within the engineering team.
+- Contribute to fundraising efforts and build strong relationships with investors.
+
+--Qualifications:--
+
+- 8+ years of experience in software engineering, with at least 5 years in leadership roles.
+- Strong hands-on experience with Node.js, PostgreSQL, and cloud platforms (preferably Google Cloud).
+- Experience with Flutter for mobile app development (iOS and Android).
+- Experience with building and scaling high-traffic web applications.
+- Proven ability to lead and mentor engineering teams.
+- Excellent communication, collaboration, and problem-solving skills.
+- Passion for building innovative and impactful products.
+- Experience working in a fast-paced, early-stage startup environment is a strong plus.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 27 :
 
+--Key Responsibilities:--
+
+- --Technology Strategy & Cloud Migration-- - Lead the shift from on-premises to cloud infrastructure (AWS, Azure, or Google Cloud), ensuring scalability, security, and efficiency.
+- --Team Leadership-- - Manage a high-performing tech team, foster innovation, and collaborate with other departments.
+- --International Expansion-- - Develop and implement technology strategies for new global markets, ensuring compliance with regulations.
+- --Media Tech Expertise-- - Leverage knowledge of media technology trends, streaming, content supply chains, and AI/ML applications.
+- --Budget & Performance Management-- - Oversee technology budgets and deliver projects within financial constraints.
+
+--Requirements:--
+
+- Experience as a CTO or senior technology leader in media or tech companies.
+- Strong expertise in cloud platforms (AWS, Azure, Google Cloud) and cloud migration.
+- Knowledge of media technologies like playout, distribution, post-production, and OTT.
+- Experience in global market expansion and building international partnerships.
+- Strong leadership, communication, and strategic thinking skills.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 28 :
 
+--Key Responsibilities:--
 
+- Take complete ownership of the Tech Team and drive the building and scaling of the product at inFeedo.
+- Foster a culture of scale, passion, and relentless drive.
+- Lead the team with a fearless, confident attitude, ensuring goals are met efficiently and effectively.
+
+--MUST HAVES:--
+
+- 7+ years of experience in managing a Tech Team for a SaaS product.
+- Extremely strong communication skills.
+- Outstanding technical aptitude and a proven track record of inspiring the team.
+- Experience handling security and performance issues in small business environments.
+- Previous experience with MEAN stack, AWS, and working on integrations.
+- Capable of solving problem statements within time and budget, making decisions on team composition and performance.
+- Excellent people management skills.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
