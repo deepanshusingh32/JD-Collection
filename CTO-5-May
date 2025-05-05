@@ -2,7 +2,44 @@
 
 JD - 1 :
 
+Got it! Here's the job description with `--` before every bullet point:
 
+---
+
+### **Job Title:** Full Stack Developer / Tech Lead (ReactJS, NodeJS/Java, SQL)
+
+---
+
+### **Responsibilities:**
+
+\-- Experience in application design & development using:
+  -- Frontend: ReactJS / Angular, JavaScript, HTML5, CSS3, Bootstrap 4, Sass
+  -- Backend: NodeJS / Java, Python
+  -- Databases: SQL and NoSQL (e.g., MongoDB, PostgreSQL)
+\-- Requirement gathering and converting business needs into technical tasks
+\-- Architecting and developing customer-facing web applications
+\-- Designing and implementing microservices-based architecture
+\-- Building and maintaining reusable, efficient UI components
+\-- Performing code reviews and ensuring code quality and performance
+\-- Guiding and mentoring developers; resolving technical challenges
+\-- Designing database schemas and writing optimized queries
+\-- Handling Docker-based application deployment
+\-- Working comfortably on both front-end and back-end of web applications
+\-- Developing within MVC frameworks
+\-- Collaborating effectively with cross-functional teams
+
+---
+
+### **Mandatory Skills:**
+
+\-- JavaScript, jQuery, ReactJS (v16+), HTML5, CSS3, Sass, Bootstrap 4
+\-- NodeJS or Java
+\-- Strong experience with SQL; exposure to NoSQL databases
+\-- Experience designing and developing microservices
+\-- Proficiency in Docker and container deployment
+-- Strong interpersonal, communication, and teamwork skills
+
+---
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
