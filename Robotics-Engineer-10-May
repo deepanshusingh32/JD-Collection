@@ -554,150 +554,659 @@ JD - 15 :
 
 JD - 16 : 
 
+Key Responsibilities:
+• Design and implement end-to-end document processing solutions using UIPath IDP (Intelligent Document Processing) and Document Understanding (DU) components.
+• Build and train Machine Learning Models for document classification and data extraction using UIPath AI Center , Form Extractor , Regex Extractor , ML Extractor , etc.
+• Collaborate with business analysts and stakeholders to identify document types and use cases for automation.
+• Integrate IDP solutions with RPA workflows, APIs, and external systems.
+• Perform testing, validation, and exception handling for high-accuracy document extraction.
+• Monitor, maintain, and optimize deployed IDP bots and models.
+• Create and maintain solution documentation, training guides, and reusable assets.
 
+Required Skills & Experience:
+• 5+ years of experience in UIPath , with at least 2 years specifically in UIPath IDP/Document Understanding .
+• Proven experience building and deploying document understanding pipelines including classification, extraction, and validation.
+• Hands-on with:
+• UIPath Studio / StudioX
+• Document Understanding Framework
+• AI Center
+• Action Center
+• Experience integrating OCR engines like Google Vision, Abbyy, or OmniPage .
+• Solid understanding of ML Extractor, Form Extractor, and Intelligent Form Recognizer .
+• Familiar with model training, evaluation, retraining loops , and feedback-based learning.
+• Good understanding of JSON, APIs, Orchestrator queues, and error handling in complex workflows.
+• Strong analytical, problem-solving, and communication skills.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 17 : 
 
-
+* Design, develop, and deploy automation solutions using standardized tools like RPA, ENABLE, MATE, and in-house tools.
+* Manage the LCM of live automation solutions.
+* Facilitate the implementation of global automation initiatives for managed services customers.
+* Foster a culture of innovation and creativity within the team.
+* Ensure 24/7 availability of tools and automation for deployed customers within the LCM scope.
+* Define and manage SLAs with various stakeholders for end-to-end tools and automation support.
+* Create a productive team environment, provide feedback, and support optimal work-life balance.
+* Drive improvement programs and plan career development for team members.
+* Manage work level agreements, service level agreements, customer escalations, and business continuity.
+* Contribute to stakeholder meetings and ensure process adherence within the team.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 18 : 
 
-
+* The Robotics Engineer will initially share, and then Lead in the development and implementation of robotic technologies aligned with overall robotics program goals/objectives.
+* Execute Robotic testing and qualification efforts. Develop testing protocols, plan & execute demonstrations, to reduce uncertainty and improve likelihood during deployments across Chevron facilities. Qualify, rank and catalog capabilities and limitations of Robotics solutions.
+* Accelerate the development of payload and data integration for robotic systems by leveraging Chevron ENGINE resources and regional resources while continuing to identify and address barriers and challenges. Identify & share challenges to life cycle management aspects of Robotic tools for long term sustainability to avoid erosion of value.
+* Engage BU Technology Champions and develop business case for Robotics opportunities. Understand the current practices, processes and costs while comparing it with the innovative/new solutions and costs for integration and adoption.
+* Prepare economic projections and technology value analysis using standard practices.
+* Influencing change across a wide geographical area. Demonstrate capability to effectively evaluate and articulate tradeoffs with cost, schedule, reliability, and operability using predeveloped dashboards and available data sources.
+* Ability to quickly grasp a wide array of technologies, communicate to a diverse set of stakeholders, and identify barriers to scale up and adoption with corresponding mitigations.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 19 : 
 
-
+* Develop and implement algorithms for SLAM, vSLAM, path planning, computer vision, and Reinforcement Learning.
+* Design and implement navigation strategies for robotic systems.
+* Work closely with cross-functional teams to integrate robotics systems.
+* Develop an in-depth understanding of various sensors such as LiDAR, IMU, and more.
+* Optimize algorithms for real-time performance.
+* Implement and maintain codebase primarily in C/C++ and Python.
+* Utilize tools like ROS (Robot Operating System), OpenCV, and PyTorch.
+* Experience in OpenGL for working on Simulators for Robotics.
+* Hands-on work with robotic hardware, including system setup, calibration, and debugging.
+* Test robotic systems in simulated and real-world scenarios, including evaluation of navigation efficacy and safety.
+* Experience in robotics, computer vision, path planning, navigation, and Reinforcement Learning.
+* Proficiency in C/C++ and Python.
+* Experience with ROS (Robot Operating System).
+* Experience in computer vision libraries such as OpenCV.
+* Deep learning frameworks experience, preferably with PyTorch.
+* Understanding of various types of sensors used in robotic systems.
+* Experience with robotic hardware is a must.
+* Development & management of Simulator.
+* Publications in recognized conferences or journals such as ICRA/IROS/CVPR.
+* Bachelor's or Master's degree in Robotics, Computer Science, Electrical Engineering, or a related field.
+* 3+ years of experience in robotics engineering or a related field.
+* Strong programming skills in C/C++ and Python.
+* Experience with ROS (Robot Operating System) and OpenCV.
+* Experience with deep learning frameworks, preferably PyTorch.
+* Strong understanding of computer vision and machine learning concepts.
+* Experience with robotic hardware and sensor integration.
+* Excellent problem-solving skills and attention to detail.
+* Ability to work independently and as part of a team.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 20 : 
 
-
+* Minimum 5+ years of proven experience as software engineer.
+* Strong in Network protocols, OOPS concepts and data structures.
+* Familiarity with application software development as well as embedded software development
+* Experience in software development and coding in various languages (C, C++, C#)
+* Excellent knowledge of software and application design, architectural styles and design patterns, architecture tradeoff analysis
+* Proficient understanding of any one of code versioning tools (Git, SVN, and Mercurial)
+* Familiarity with formal change control and support processes (JIRA, BitBucket, Scrum etc.)
+* Understanding of V\&V approaches and software quality assurance principles
+* Experience with service-oriented architecture (SOA), and cloud technologies would be an added advantage
+* A technical mindset with great attention to details, innovation
+* Good analytical, communication and presentation skills
+* Competence to build and effectively manage interpersonal relationships at all levels with different clients and vendors.
+* Work Closely with business team to understand the needs and deliver by maintaining harmonious relationship.
+* Commitment to common purpose and goals
+* Seating respect on the table
+* Displaying Integrity and Ethic
+* Taking initiative and ownership
+* Being passionate about making a difference
+* Constant networking with thought leaders, analyst & special interest groups.
+* Collaborate with SMEs, domain experts and quality assurance to produce cutting-edge robust software solutions.
+* Dreamer, Creative, Passionate & self-motivated & self-starter
+* Actively listen to others and demonstrate understanding of other points of view.
+* Showcase likeliness to adjust to changing conditions or priorities.
+* Take the initiative to identify, work on problems proactively and lead by example.
+* Consistently provide ideas, opinions, or information in a professional way.
+* Understand IP & trademark policies and actively promote safe practices in projects.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 21 : 
 
+Qualifications And Skills
+• Proficiency in Machine Learning (Mandatory skill)
+• Strong background in Statistical Analysis
+• Experience with Python Programming
+• Ability to create comprehensive Data Visualization models to support project needs
+• Experience with Predictive Modeling techniques for forecasting and planning
+• Knowledge of Big Data frameworks and tools
+• Proficiency in SQL for database management and data manipulation
+• Experience with Data Mining to extract relevant insights from large datasets
 
+Roles And Responsibilities
+• Develop, test, and implement machine learning algorithms for robotics applications
+• Analyze and interpret complex data sets to identify patterns and trends
+• Collaborate with cross-functional teams to integrate robotics solutions into existing systems
+• Create and maintain documentation for all implemented robotics projects
+• Conduct regular performance checks and troubleshoot any issues arising in the robotics systems
+• Design predictive models and simulate scenarios for future projects
+• Utilize statistical and analytical tools to assess the efficiency of the deployed systems
+• Stay updated with the latest developments in the field of robotics and machine learning.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 22 : 
 
+Responsibilities:
+• Design and Development: Conceptualize, design, and develop robotics systems, emphasizing motors, conveyors, and camera integration.
+• Motorized Systems: Select, integrate, and optimize various types of motors and actuators for efficient robotic movements and operations.
+• Conveyor Systems: Design, implement, and troubleshoot conveyor systems for material handling and process optimization within robotic setups.
+• Camera Integration: Integrate and configure camera systems for vision-based applications, including object recognition, tracking, and navigation.
+• Programming and Control: Develop control algorithms and software interfaces to synchronize motors, conveyors, and cameras for seamless operation.
+• Testing and Validation: Conduct rigorous testing, analysis, and validation of robotics systems to ensure functionality, reliability, and safety.
+• Collaboration: Collaborate with cross-functional teams, including mechanical engineers, software developers, and quality assurance, to achieve project objectives.
+• Documentation and Reporting: Create comprehensive documentation, reports, and manuals for developed systems and provide regular progress updates.
 
+Qualifications
+• Bachelor's/Master's degree in Robotics, Mechanical Engineering, Electrical Engineering, or a related field.
+• 1+ years of experience (level-dependent) in robotics development and implementation.
+• Proficiency in motor selection, control systems, and programming (C/C++, Python, etc.).
+• Hands-on experience with conveyor systems design, implementation, and optimization.
+• In-depth knowledge of camera systems, computer vision, and image processing.
+• Strong problem-solving skills and the ability to troubleshoot complex robotic systems.
+• Experience with robotic simulation software (such as ROS, Gazebo, etc.) is a plus.
+• Excellent communication skills and ability to work effectively in a team environment.
+
+Preferred Qualifications:
+• Experience with industrial robotics or automation projects.
+• Familiarity with machine learning and AI techniques for robotics applications.
+• Knowledge of safety standards and protocols in robotics.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 23 : 
 
+Role and Responsibilities:
 
+* Design, develop & test high-reliability systems for autonomous drones & docking stations.
+* Build scalable, production-grade software that runs on real fleets—not just simulations.
+* Use AI to accelerate development, debug faster, and iterate smarter.
+* Evaluate bleeding-edge tech and ship what works—fast.
+* Influence the full-stack robotics architecture with first-principles thinking.
+* Build internal tools and automation pipelines to boost team velocity.
+* Collaborate with AI, Cloud, and Product teams to deliver real-world use cases.
+* Have built robotics systems for competitions like Robocon, e-Yantra, IMAV, AUVSI SUAS.
+* Have worked with ROS, and understand how to orchestrate real robots—not just simulate them.
+* Have experience with multi-robot systems, control theory, SLAM, or motion planning.
+* Know your way around DevOps, CI/CD, and cloud deployments.
+* Have strong foundations in multithreading, network protocols, and distributed systems.
+* Have shipped production-grade code in teams and taken ownership end-to-end.
+* Move fast. Solve problems. And leverage AI like a co-pilot.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 24 : 
 
+Key Responsibilities:
 
+* Develop and implement ROS-based software architectures for robotic applications.
+* Design and optimize motion planning, path planning, and control algorithms within ROS frameworks.
+* Create and maintain simulation environments using Gazebo, RViz or other platforms.
+* Develop real-time communication modules using ROS topics, services, and actions.
+* Optimize robotic perception and sensor fusion using LiDAR, depth cameras, and vision systems.
+* Write efficient and scalable C++ and Python code for ROS applications.
+* Debug and optimize ROS nodes for performance and reliability.
+* Implement AI-based enhancements for autonomous robotic decision-making within ROS.
+
+-Requirements:-
+
+* Bachelor’s or Master’s degree in Robotics, Computer Science, Software Engineering, or a related field.
+* 2+ years of experience developing ROS-based software applications.
+* Strong proficiency in C++ and Python for ROS development.
+* Experience with Gazebo, and real-time ROS-integrated simulations.
+* Expertise in robot perception, sensor processing, and data fusion.
+* Knowledge of ROS middleware (ROS1/ROS2), messaging, and debugging tools.
+* Experience with robotic control algorithms and kinematics.
+* Understanding of networking and communication protocols (ROSbridge, MQTT, DDS, etc.).
+
+-Nice to Have:-
+
+* Experience in AI-driven robotics and reinforcement learning within ROS.
+* Familiarity with cloud-based ROS deployments and remote operations.
+* Knowledge of Docker, Kubernetes, and CI/CD for ROS applications.
+* Contributions to open-source ROS projects or community involvement.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 25 : 
 
-
+Role & Responsibilities
+• Conduct research to determine the parameters of a robotic application.
+• Design robotic systems from start to finish and able to change and integration with the existing system.
+• Able to develop robotics arm, Mechanical mechanism, electromechanical mechanism and electrical mechanism based on the requirement.
+• Create complete documentation for robotic systems.
+• Develop cost-effective and efficient processes to produce the machines.
+• Monitor the use of robotic systems and optimize their functionality.
+• Excellent knowledge of CAD/CAM software.
+• Well-versed in computer science, applied physics, and mechanics.
+• Knowledge of IO communication with different peripheral devices.
+• Thorough understanding of electrical wiring and computer software engineering.
+• Ability to use tools and perform tasks such as soldering, welding, and metal cutting with precision and accuracy.
+• Working on the implementation of ROS packages/algorithms for mapping, localization, sensor fusion and navigation.
+• Excellent mathematical ability.
+• MUST have intermediate knowledge of Robotics, Robotic Operating Systems (ROS), Multi-threaded applications, Simultaneous Localization and Mapping (SLAM), Virtual Simultaneous Localization and Mapping (VSLAM) and Light Detection and Ranging (LIDAR).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 26 : 
 
+-Duties & Responsibilities-
 
+* Provide oversight for the entire lifecycle of industrial robotics projects, from planning and design to implementation and commissioning.
+* Manage and review mechanical design work, ensuring that all designs are optimized for performance and cost-efficiency.
+* Collaborate with AI/ML specialists to integrate intelligent algorithms into robotic systems and work closely with the electrical engineering team to ensure proper system integration and functionality.
+* Oversee the use of relevant software tools, including CAD, MATLAB, ROS, and control system platforms, while guiding a multidisciplinary engineering team.
+* Provide technical leadership, training, and mentorship to the team.
+* Guide the team on technical difficulties raised during projects.
+* Stay up-to-date on the latest advancements in the robotics field.
+* Conduct training for customers and internal team members.
+* Involve in service and maintenance of robots on-site.
+* Communicate with customers during delivery and commissioning to ensure successful project execution and customer satisfaction, both in-house and on-site.
+* Hand over the results of the tests to the Project Manager for final acceptance.
+* Explore smarter, more cost-effective technology and solutions to reduce costs.
+* Handle the entire project from factory start to installation and commissioning on-site, with handover to the customer.
+* Manage a team for technical guidance, weekly planning, and reporting.
+* Follow process operational flow, set rituals, standard procedures, and documentation. Implement and enforce robotic safety standards.
+
+-Skills Required-
+
+* Basic knowledge in mechanical design and CAD software, with an understanding of AI/ML algorithms and their integration in robotics.
+* Basic understanding of sensors, actuators, control systems, and embedded electronics.
+* Familiarity with software tools such as ROS, MATLAB, LabVIEW, and programming languages like Python and C++.
+* Knowledge of IDEs (e.g., Arduino IDE, STMCubeIDE, VS Code) and PCB design software.
+* Experience with localization & navigation algorithms.
+* Knowledge of image processing libraries, preferably OpenCV.
+* Basic experience in software architecture.
+* Strong leadership and project management skills, with experience in planning, scheduling, risk management, and team coordination.
+* Ability to identify and implement innovative solutions with a proactive approach to addressing challenges.
+* Strong written and verbal communication skills.
+* Excellent problem-solving and analytical skills.
+* Ability to work independently and as part of a team.
+* Experience leading and mentoring junior engineers.
+* Understanding of industrial robotics standards, safety protocols, and emerging technologies.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 27 : 
 
+-Responsibilities:-
 
+* Conduct engaging robotics training sessions for students.
+* Teach fundamental concepts of electronics, coding, embedded systems, and Arduino.
+* Create a dynamic learning environment that encourages student participation and hands-on experience.
+* Travel to different locations as required to deliver training sessions.
+
+-Requirements:-
+
+* Strong passion for teaching and mentoring students.
+* Proficiency in electronics, coding, embedded systems, and Arduino.
+* Ability to adapt teaching methods to suit different learning styles.
+* Excellent communication and interpersonal skills.
+* Flexibility to travel as part of the job requirement.
+* Freshers are encouraged to apply.
+
+-Bonus:-
+
+* Proficiency in riding a bike is an added advantage.
+
+-Benefits:-
+
+* Competitive salary based on experience and qualifications.
+* Opportunities for career advancement and professional development.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 28 : 
 
+-Responsibilities:-
 
+* Develop algorithms and implement software solutions for robotic navigation, motion planning, fleet management, and robotics middleware.
+* Software development in C/C++/Python.
+* Software testing, debugging, and deployment.
+* Hardware-software integration for developing robotics applications.
+* Technical project planning and execution on development projects for global industry members.
+* Must be hands-on and work well within a team of hardware and software engineers.
+* Technical write-up and presentation.
+
+-Job Requirements:-
+
+* Bachelor or Master Degree in Robotics Mechatronics, Computer Science, or relevant discipline.
+* Programming/software development experience (GUI, drivers, Linux-based development).
+* 1-2 years of software development experience using object-oriented programming languages, e.g., C++, Python, Java.
+* Knowledge of motion planning or control algorithms and software such as ROS/ROS2 and MoveIt will be advantageous.
+* Knowledge of AI algorithms for path planning and reinforcement learning, and libraries such as TensorFlow, PyTorch, OpenAI Gym will be advantageous.
+* Experience with robotics or control systems for industrial automation will be advantageous.
+* Willing to learn and adapt to new technology quickly.
+* Technically motivated to solve problems, innovate, and deliver on time to customers.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 29 : 
 
+-Key Responsibilities:-
 
+* Design and implement end-to-end document processing solutions using UIPath IDP (Intelligent Document Processing) and Document Understanding (DU) components.
+* Build and train Machine Learning Models for document classification and data extraction using UIPath AI Center, Form Extractor, Regex Extractor, ML Extractor, etc.
+* Collaborate with business analysts and stakeholders to identify document types and use cases for automation.
+* Integrate IDP solutions with RPA workflows, APIs, and external systems.
+* Perform testing, validation, and exception handling for high-accuracy document extraction.
+* Monitor, maintain, and optimize deployed IDP bots and models.
+* Create and maintain solution documentation, training guides, and reusable assets.
+
+-Required Skills & Experience:-
+
+* 5+ years of experience in UIPath, with at least 2 years specifically in UIPath IDP/Document Understanding.
+* Proven experience building and deploying document understanding pipelines including classification, extraction, and validation.
+* Hands-on with:
+
+  * UIPath Studio / StudioX
+  * Document Understanding Framework
+  * AI Center
+  * Action Center
+* Experience integrating OCR engines like Google Vision, Abbyy, or OmniPage.
+* Solid understanding of ML Extractor, Form Extractor, and Intelligent Form Recognizer.
+* Familiar with model training, evaluation, retraining loops, and feedback-based learning.
+* Good understanding of JSON, APIs, Orchestrator queues, and error handling in complex workflows.
+* Strong analytical, problem-solving, and communication skills.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 30 : 
 
+-Key Responsibilities:-
 
+* Design and implement end-to-end document processing solutions using UIPath IDP (Intelligent Document Processing) and Document Understanding (DU) components.
+* Build and train Machine Learning Models for document classification and data extraction using UIPath AI Center, Form Extractor, Regex Extractor, ML Extractor, etc.
+* Collaborate with business analysts and stakeholders to identify document types and use cases for automation.
+* Integrate IDP solutions with RPA workflows, APIs, and external systems.
+* Perform testing, validation, and exception handling for high-accuracy document extraction.
+* Monitor, maintain, and optimize deployed IDP bots and models.
+* Create and maintain solution documentation, training guides, and reusable assets.
+
+-Required Skills & Experience:-
+
+* 5+ years of experience in UIPath, with at least 2 years specifically in UIPath IDP/Document Understanding.
+* Proven experience building and deploying document understanding pipelines, including classification, extraction, and validation.
+* Hands-on experience with:
+
+  * UIPath Studio / StudioX
+  * Document Understanding Framework
+  * AI Center
+  * Action Center
+* Experience integrating OCR engines like Google Vision, Abbyy, or OmniPage.
+* Solid understanding of ML Extractor, Form Extractor, and Intelligent Form Recognizer.
+* Familiarity with model training, evaluation, retraining loops, and feedback-based learning.
+* Good understanding of JSON, APIs, Orchestrator queues, and error handling in complex workflows.
+* Strong analytical, problem-solving, and communication skills.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 31 : 
 
+-Key Responsibilities:-
 
+* Design and implement end-to-end document processing solutions using UIPath IDP (Intelligent Document Processing) and Document Understanding (DU) components.
+* Build and train Machine Learning Models for document classification and data extraction using UIPath AI Center, Form Extractor, Regex Extractor, ML Extractor, etc.
+* Collaborate with business analysts and stakeholders to identify document types and use cases for automation.
+* Integrate IDP solutions with RPA workflows, APIs, and external systems.
+* Perform testing, validation, and exception handling for high-accuracy document extraction.
+* Monitor, maintain, and optimize deployed IDP bots and models.
+* Create and maintain solution documentation, training guides, and reusable assets.
+
+-Required Skills & Experience:-
+
+* 5+ years of experience in UIPath, with at least 2 years specifically in UIPath IDP/Document Understanding.
+* Proven experience building and deploying document understanding pipelines, including classification, extraction, and validation.
+* Experience with UIPath Studio/StudioX, Document Understanding Framework, AI Center, and Action Center.
+* Familiarity with integrating OCR engines like Google Vision, Abbyy, or OmniPage.
+* Strong understanding of ML Extractor, Form Extractor, and Intelligent Form Recognizer.
+* Experience with model training, evaluation, retraining loops, and feedback-based learning.
+* Good knowledge of JSON, APIs, Orchestrator queues, and error handling in complex workflows.
+* Strong problem-solving and communication skills.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 32 : 
 
+-Key Responsibilities:-
 
+* Design and implement end-to-end document processing solutions using UIPath IDP (Intelligent Document Processing) and Document Understanding (DU) components.
+* Build and train Machine Learning Models for document classification and data extraction using UIPath AI Center, Form Extractor, Regex Extractor, ML Extractor, etc.
+* Collaborate with business analysts and stakeholders to identify document types and use cases for automation.
+* Integrate IDP solutions with RPA workflows, APIs, and external systems.
+* Perform testing, validation, and exception handling for high-accuracy document extraction.
+* Monitor, maintain, and optimize deployed IDP bots and models.
+* Create and maintain solution documentation, training guides, and reusable assets.
+
+-Required Skills & Experience:-
+
+* 5+ years of experience in UIPath, with at least 2 years specifically in UIPath IDP/Document Understanding.
+* Proven experience building and deploying document understanding pipelines, including classification, extraction, and validation.
+* Hands-on experience with:
+
+  * UIPath Studio / StudioX
+  * Document Understanding Framework
+  * AI Center
+  * Action Center
+* Experience integrating OCR engines like Google Vision, Abbyy, or OmniPage.
+* Solid understanding of ML Extractor, Form Extractor, and Intelligent Form Recognizer.
+* Familiar with model training, evaluation, retraining loops, and feedback-based learning.
+* Good understanding of JSON, APIs, Orchestrator queues, and error handling in complex workflows.
+* Strong analytical, problem-solving, and communication skills.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 33 : 
 
+-Key Responsibilities:-
 
+* Design and develop robotic systems for surgical applications.
+* Collaborate with engineers, clinicians, and other stakeholders to ensure seamless integration of robotic systems into clinical workflows.
+* Develop and maintain technical documentation and training materials for users.
+* Contribute to the development of new products and features that meet customer needs and market trends.
+
+-Requirements:-
+
+* Master's degree in Mechanical Engineering, Electrical Engineering, or a related field.
+* Minimum 5 years of experience in robotics engineering, with a focus on surgical robotics.
+* Strong understanding of robotic systems, including kinematics, dynamics, and control systems.
+* Experience with CAD software, such as SolidWorks or CATIA.
+* Excellent communication and collaboration skills, with the ability to work effectively in a fast-paced environment.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 34 : 
 
+-Key Responsibilities:-
 
+* Design, develop, and integrate embedded Linux-based robotics platforms for autonomous and semi-autonomous systems.
+* Implement geometric computer vision and SLAM (Simultaneous Localization and Mapping) algorithms for real-time navigation and object detection.
+* Develop and optimize C++ code for embedded systems and robotics control loops.
+* Work on sensor fusion from multiple sources such as LiDAR, GPS, cameras, and IMUs to enhance localization and perception.
+* Integrate Computer Vision algorithms for feature detection, tracking, and classification.
+* Collaborate with cross-functional teams to develop user-friendly Display and HMI (Human-Machine Interface) solutions for operator-machine interaction.
+* Participate in the strategic planning of robotics capabilities aligned with John Deere’s innovation roadmap.
+* Tackle complex engineering problems using first principles and analytical reasoning to deliver robust, scalable solutions.
+
+-Key Skills and Qualifications:-
+
+* Bachelor’s or Master’s degree in Robotics, Electronics, Electrical Engineering, Computer Science, or a related discipline.
+* 6–14 years of relevant experience in robotics systems development, preferably in embedded environments.
+* Strong hands-on experience with Embedded Linux, C++, and ROS/ROS2.
+* Solid foundation in geometric computer vision, image processing, and feature extraction.
+* Deep understanding of SLAM, sensor fusion, and probabilistic estimation techniques.
+* Exposure to HMI/Display systems and integration into complex machinery is an advantage.
+* Excellent problem-solving skills, analytical thinking, and the ability to work in a fast-paced, iterative R\&D environment.
+* Experience in agricultural automation, automotive, or off-highway machinery is preferred.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 35 : 
 
+-Mandatory Prerequisites:-
 
+* Bachelor's degree in Software Engineering, Computer Science, Mechatronics, Robotics, or a related field.
+* Proficiency in C#/.NET (Java is an acceptable alternative).
+* Strong foundation in multivariable calculus and linear algebra.
+* Experience with Git for collaborative development (command line or within Visual Studio IDE).
+* Ability to troubleshoot and debug using Visual Studio tools.
+* Strong English communication skills (both written and spoken).
+
+-Preferred Skills (Good to Have):-
+
+* Experience with UI development using the MVVM pattern in WPF (or other .NET UI frameworks).
+* Familiarity with 3D modeling in Rhino or other CAD software.
+* Knowledge of the RhinoCommon SDK or Grasshopper.
+* Basic understanding of robot arm programming (KUKA, ABB, Fanuc, etc.).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 36 : 
 
+-Key Responsibilities:-
 
+* Design and implement end-to-end document processing solutions using UIPath IDP (Intelligent Document Processing) and Document Understanding (DU) components.
+* Build and train Machine Learning models for document classification and data extraction using UIPath AI Center, Form Extractor, Regex Extractor, ML Extractor, etc.
+* Collaborate with business analysts and stakeholders to identify document types and use cases for automation.
+* Integrate IDP solutions with RPA workflows, APIs, and external systems.
+* Perform testing, validation, and exception handling for high-accuracy document extraction.
+* Monitor, maintain, and optimize deployed IDP bots and models.
+* Create and maintain solution documentation, training guides, and reusable assets.
+
+-Required Skills & Experience:-
+
+* 5+ years of experience in UIPath, with at least 2 years specifically in UIPath IDP/Document Understanding.
+* Proven experience building and deploying document understanding pipelines including classification, extraction, and validation.
+* Hands-on with:
+
+  * UIPath Studio / StudioX
+  * Document Understanding Framework
+  * AI Center
+  * Action Center
+* Experience integrating OCR engines like Google Vision, Abbyy, or OmniPage.
+* Solid understanding of ML Extractor, Form Extractor, and Intelligent Form Recognizer.
+* Familiar with model training, evaluation, retraining loops, and feedback-based learning.
+* Good understanding of JSON, APIs, Orchestrator queues, and error handling in complex workflows.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 37 : 
 
+-Qualifications and Skills:-
 
+* Proficiency in Machine Learning (Mandatory skill)
+* Strong background in Statistical Analysis
+* Experience with Python Programming
+* Ability to create comprehensive Data Visualization models to support project needs
+* Experience with Predictive Modeling techniques for forecasting and planning
+* Knowledge of Big Data frameworks and tools
+* Proficiency in SQL for database management and data manipulation
+* Experience with Data Mining to extract relevant insights from large datasets
+
+-Roles and Responsibilities:-
+
+* Develop, test, and implement machine learning algorithms for robotics applications
+* Analyze and interpret complex data sets to identify patterns and trends
+* Collaborate with cross-functional teams to integrate robotics solutions into existing systems
+* Create and maintain documentation for all implemented robotics projects
+* Conduct regular performance checks and troubleshoot any issues arising in the robotics systems
+* Design predictive models and simulate scenarios for future projects
+* Utilize statistical and analytical tools to assess the efficiency of the deployed systems
+* Stay updated with the latest developments in the field of robotics and machine learning
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 38 : 
 
+-Key Responsibilities:-
 
+-Design and Development:-
+
+* Develop robust and scalable robotic applications using ROS2.
+* Implement software for various robotic systems, ensuring high performance and reliability.
+* Hands-on development of ROS2 nodes, Services/Clients, Publishers/Subscriber.
+* Lead and develop path/motion planning algorithms that include route planning, trajectory optimization, decision-making, and open space planning.
+* Strong understanding of robot dynamics, kinematics, and modeling.
+
+-System Integration:-
+
+* Integrate sensors, actuators, and other hardware components with robotic systems.
+* Ensure seamless communication between hardware and software layers.
+* Experienced in integration with perception sensors such as IMU, GPS, Stereo Cameras, LiDAR, Radar, and other sensors.
+
+-URDF Modeling:-
+
+* Create and maintain accurate URDF models for robotic systems.
+* Ensure models accurately represent the physical configuration and kinematics of the robots.
+
+-Algorithm Implementation:-
+
+* Implement and optimize algorithms for perception, localization, mapping, navigation, and control.
+
+-Simulation and Testing:-
+
+* Utilize simulation tools to test and validate robotic systems in virtual environments like Gazebo, Rviz2, and Unity.
+* Perform rigorous testing in real-world scenarios to ensure system robustness.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 39 : 
 
+-Role & Responsibilities:-
+
+* Conduct research to determine the parameters of robotic applications.
+* Design robotic systems from start to finish, with the ability to integrate and modify existing systems.
+* Develop robotic arms, mechanical mechanisms, electromechanical mechanisms, and electrical systems based on requirements.
+* Create comprehensive documentation for robotic systems.
+* Develop cost-effective and efficient processes for machine production.
+* Monitor the use of robotic systems and optimize their functionality.
+* Possess excellent knowledge of CAD/CAM software.
+* Well-versed in computer science, applied physics, and mechanics.
+* Knowledge of IO communication with various peripheral devices.
+* Thorough understanding of electrical wiring and computer software engineering.
+* Ability to use tools and perform tasks such as soldering, welding, and metal cutting with precision and accuracy.
+* Work on implementing ROS packages/algorithms for mapping, localization, sensor fusion, and navigation.
+* Excellent mathematical ability.
+* Intermediate knowledge of Robotics, Robotic Operating Systems (ROS), Multi-threaded applications, Simultaneous Localization and Mapping (SLAM), Virtual Simultaneous Localization and Mapping (VSLAM), and Light Detection and Ranging (LiDAR).
+* Familiarity with communication systems.
+
+-Requirements:-
+
+* 2+ years of experience in robotics.
+* A Diploma/B.Tech in Electronics & Communication, Electrical, Mechatronics, or a related field.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 40 : 
 
+-What We Are Looking For (You Do Not Need to Meet 100%):-
 
+* Expert in the ROS framework.
+* Expert in C++ with experience in launching 1-2 industrial-grade modules.
+* Strong knowledge of Gazebo, SLAM, motion planning, and robot navigation.
+* Strong background in mobile robotics, computer vision, and machine learning.
+* Field experience in deploying robots in manufacturing lines or warehouses.
+* Excellent interpersonal and communication skills.
+* Strategic thinker who is also hands-on to get results.
+* Ability to work well in a fast-paced, distributed environment.
+* Experience in building teams and leading product development for at least 2-3 software products.
+
+-Responsibilities:-
+
+* Take responsibility for large-sized projects.
+* Take full responsibility for core modules that are essential for the product's success.
+* Build teams for different verticals and lead product development.
+* Work extremely closely with full-stack development and hardware teams.
+* Contribute to design and architecture, evaluating and deciding on frameworks, languages, data stores, tools to use, and preparing roadmaps for timely delivery.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
