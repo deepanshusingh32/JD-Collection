@@ -1,0 +1,1613 @@
+{
+  "Ajax": [
+    "AJAX"
+  ],
+  "Web APIs": [
+    "Web Services"
+  ],
+  "Code Quality": [
+    "Code reusability"
+  ],
+  "Data Streaming": [
+    "Event streaming",
+    "Streaming Frameworks",
+    "Stream-processing systems",
+    "Stream Processing",
+    "Streaming and batch processing",
+    "Wowza Streaming Engine",
+    "Data streaming"
+  ],
+  "Message Queue System": [
+    "Messaging queues",
+    "MQ",
+    "Distributed Messaging Frameworks",
+    "Queues",
+    "Solace"
+  ],
+  "Pub Sub Model": [
+    "Pub/sub architectures",
+    "Pub/Sub Systems",
+"Pub Sub", "Pub/Sub"
+  ],
+  "Data Quality and Validation": [
+    "Data validation methods",
+    "Data Validation",
+    "Data Quality"
+  ],
+  "Data Processing": [
+    "Data enrichment",
+    "Data Formats",
+    "Data correlation and enrichment best practices", "Data Governance", "Collibra"
+  ],
+  "Agile Methodology": [
+    "Scrum/Agile",
+    "Agility",
+    "Agile Development",
+    "Agile Scrum",
+    "Agile development environment",
+    "Methodologies",
+    "Agile/Scrum",
+    "Agile development",
+    "Agile Practices",
+    "Agile methodologies", "Agile Project Management"
+  ],
+  "Automation Testing Knowledge": [
+    "Test Automation",
+    "Automated testing",
+    "Automation Testing"
+  ],
+  "Unit Testing": [
+    "Unit Test",
+    "Unit testing",
+    "Unit tests",
+    "Mockito",
+    "Automated unit testing"
+  ],
+  "Regression Testing": [
+    "Regression Test"
+  ],
+  "CI/CD": [
+    "Cloud based application deployment",
+    "Continuous Integration",
+    "Continuous Deployment",
+    "CI/CD Tools",
+    "CI/CD pipeline",
+    "CI-CD",
+    "CI/CD pipelines",
+    "Testing and Deployment",
+    "Continuous integration",
+    "Automated deployments",
+    "CI/CD Pipelines",
+    "Version Control & CI/CD",
+    "Continuous Integration/Continuous Delivery",
+    "CI/CD analytics development pipeline",
+    "Continuous Delivery",
+    "Continuous delivery",
+    "Automation pipelines",
+    "Deployments",
+    "Continuous deployment"
+  ],
+  "HTML/CSS": [
+    "HTML5",
+    "CSS3",
+    "HTML",
+    "CSS",
+    "HTML5/CSS3"
+  ],
+  "Scrum Framework": [
+    "Sprints",
+    "Retrospectives",
+    "SCRUM framework"
+  ],
+  "Team Mentoring": [
+    "Mentoring",
+    "Mentorship"
+  ],
+  "Team Management": [
+    "Team Lead",
+    "Team Leadership",
+    "Management skills"
+  ],
+  "Caching Frameworks": [
+    "Caching",
+    "caching mechanisms"
+  ],
+  "Soft Skills": [
+    "Adaptability",
+    "Attention to Detail",
+    "Organizational skills",
+    "Interpersonal Skills",
+    "Attention to detail",
+    "Confident",
+    "Flexibility",
+    "Curiosity",
+    "Creativity",
+    "Innovation",
+    "Interpersonal skills"
+  ],
+  "GitHub": [
+    "Github",
+    "Git/GitHub/GitHub Actions"
+  ],
+  "Web Security and Compliance": [
+    "Web Security",
+    "OWASP"
+  ],
+  "Communication & Collaboration": [
+    "Collaboration",
+    "Communication",
+    "Writing",
+    "Communication Skills",
+    "Written and verbal communication",
+    "Teamwork",
+    "Team Player",
+    "Clear Communicator",
+    "Collaboration & Communication",
+    "Cross-Functional Skills",
+    "Communication skills",
+    "Effective communication skills",
+    "Excellent communication and teamwork skills",
+    "Written Communication",
+    "Verbal Communication",
+    "Written and Verbal Communication Skills",
+    "executive readouts",
+    "Presentation",
+    "Collaboration with Cross-Functional Teams"
+  ],
+  "React": [
+    "React JS",
+    "React.js",
+    "React/Node JS"
+  ],
+  "AWS": [
+    "AWS services",
+    "Amazon Web Services (AWS)",
+    "Aws",
+    "Amplify",
+"AWS AppSync",
+"AWS CDK",
+"AWS Cognito"
+  ],
+  "REST APIs": [
+    "API based software development",
+    "RESTful APIs",
+    "Web Service Technologies",
+    "RestAPI",
+    "API Development",
+    "REST API development",
+    "API's",
+    "REST-based API design",
+    "APIs and Web Services",
+    "REST",
+    "RESTful API",
+    "API-based web services",
+    "Web API",
+    "Rest Services",
+"REST-based API design and development", 
+"REST, API-based web services"
+  ],
+  "Microservices Architecture": [
+    "Microservices",
+    "Microservice Architecture",
+    "Micro services",
+"Micro services development"
+  ],
+  "Finance Module": [
+    "Finance"
+  ],
+  "Artificial Intelligence (AI)": [
+    "Al",
+    "Artificial Intelligence",
+    "Artificial Intelligence/Machine Learning",
+    "AI/ML"
+  ],
+  "Machine Learning": [
+    "ML",
+    "Machine Learning Algorithms",
+    "Machine learning models",
+    "Machine Learning Process",
+    "ML algorithms",
+    "Decision Trees",
+    "SVM"
+  ],
+  "User Acceptance Testing": [
+    "User acceptance testing"
+  ],
+  "Service-Oriented Architecture (SOA)": [
+    "Service-orientated architecture",
+    "service oriented distributed systems"
+  ],
+  "MLOps & AI Deployment": [
+    "MLDLC",
+    "Machine Learning Deployment",
+    "MLOps",
+    "MLOps Frameworks",
+    "ML Pipeline Development",
+    "Machine Learning Infrastructure",
+    "Deploying production-level machine learning systems",
+    "Real-time Deployment",
+    "MLaaS"
+  ],
+  "API Integration": [
+    "API specific Integration",
+    "API Integrations",
+    "Twilio API"
+  ],
+  "AWS Elastic Beanstalk": [
+    "Elastic Beanstalk"
+  ],
+  "Amazon CloudFront": [
+    "Cloudfront"
+  ],
+  "Amazon EC2": [
+    "EC2"
+  ],
+  "AWS Lambda": [
+    "Lambda",
+    "Lambda functions"
+  ],
+  "Amazon SQS": [
+    "SQS"
+  ],
+  "Amazon Elastic Kubernetes Service - EKS": [
+    "EKS",
+    "Kubernetes (EKS)"
+  ],
+  "HTTP": [
+    "Http"
+  ],
+  "GCP": [
+    "Google Cloud Platform (GCP)",
+    "Google Cloud",
+    "Google Cloud Platform",
+    "GCP Cloud Databases",
+"GCP Professional Data Engineer", "GCP Data Flow", "GCP ETL Tools"
+  ],
+  "Azure": [
+    "Microsoft Azure",
+    "Azure Cloud",
+    "Microsoft Azure Platform",
+    "Azure Web Apps"
+  ],
+  "AWS Cloud Formation": [
+    "AWS CloudFormation",
+    "Cloud Formation Tools",
+    "Cloud Formation",
+    "CloudFormation",
+    "Cloud-formation"
+  ],
+  "Load Balancing": [
+    "load balancing strategies"
+  ],
+  "Web Socket": [
+    "Socket based applications",
+    "Web sockets",
+    "WebRTC"
+  ],
+  "Software Architecture": [
+    "Technical Architecture",
+    "System Architecture",
+    "Web Architecture",
+    "Scalable web architectures",
+    "Architecture",
+    "MVC",
+    "Data Architecture",
+    "Software Design",
+    "UML",
+"Event Driven Architecture",
+"Microservices architecture", 
+"Enterprise System Architecture",
+"Micro-services-based architecture"
+  ],
+  "Time Management": [
+    "Time management"
+  ],
+  "Data Analysis": [
+    "Information Analysis",
+    "Data analysis",
+    "Data Science Tools",
+    "Data Science Techniques",
+    "Data Exploration Tools",
+    "Data science analytics dataset management"
+  ],
+  "Frontend Frameworks": [
+    "Kendo UI",
+    "Web components",
+    "Front-end Frameworks",
+    "Front-end Development",
+    "Frontend Development",
+    "UI Frameworks"
+  ],
+  "Certifications": [
+    "AWS Certification",
+    "Associate Level Public Cloud Certifications",
+    "Terraform Associate Level Certification",
+    "CTFL Certifications",
+    "Software Testing Certifications",
+    "Quality Assurance Certifications",
+    "AWS Certified",
+    "Azure Al 102",
+    "DP 100",
+    "AWS certifications",
+    "GCP certifications",
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Google Certified Professional — Data Engineer",
+    "PCAP - Certified Associate in Python Programming"
+  ],
+  "Testing Techniques": [
+    "Test Design",
+    "Test strategy",
+    "Creating Effective Test cases",
+    "Software Testing",
+    "Software testing methodologies",
+    "Testing Types",
+    "Software QA Methodologies",
+    "Test strategies"
+  ],
+  "JavaScript": [
+    "JSON",
+    "Javascript",
+    "JavaScript Frameworks",
+    "Vanilla JavaScript",
+    "JavaScript/ES6",
+"javascript"
+  ],
+  "Test Driven Development (TDD)": [
+    "Test-driven development",
+    "Test Driven Development",
+    "Browser Extensions"
+  ],
+  "Event-Driven Architecture (EDA)": [
+    "Event-based processing"
+  ],
+  "Infrastructure as Code (IaC)": [
+    "DevOps infrastructure",
+    "Infrastructure Automation",
+    "Packer"
+  ],
+  "Service worker": [
+    "Service Workers",
+    "Service workers"
+  ],
+  "Progressive Web Apps (PWAs)": [
+    "Web Push Notifications"
+  ],
+  "MS-Test": [
+    "MSTest"
+  ],
+  "NUnit": [
+    "xUnit"
+  ],
+  "Tomcat": [
+    "Apache Tomcat"
+  ],
+  "Monitoring & Logging": [
+    "Jennifer",
+    "Zipkin",
+    "Monitoring",
+    "Log Management",
+    "Monitoring and Logging",
+    "Log and Monitoring Tools",
+    "Monitoring Tools",
+    "Sumologic",
+    "Alerting and Notification",
+    "Jaeger",
+    "Kiali",
+    "Fluentd",
+    "Metrics",
+    "Logs",
+    "Traces"
+  ],
+  "ELK Stack": [
+    "ELK stack",
+    "ELK",
+    "Elastic Stack",
+    "ELK (Elasticsearch, Logstash and Kibana)",
+    "EFK"
+  ],
+  "JSON Web Token": [
+    "JSON Web Token (JWT)",
+    "Token",
+"JSON Web Tokens"
+  ],
+  "Bundling": [
+    "Code splitting",
+    "Module Bundlers"
+  ],
+  "Apollo": [
+    "Apollo Client"
+  ],
+  "Material-UI": [
+    "Material UI",
+    "Material"
+  ],
+  "UI/UX Design Tools": [
+    "UI/UX",
+    "Design Tools",
+    "UI Development",
+    "User Interface Development",
+    "Web Design",
+    "Sketch",
+    "Figma",
+    "UI",
+    "Web design",
+    "Usability",
+    "UX"
+  ],
+  "CSS Preprocessors (LESS/SASS/SCSS)": [
+    "Sass",
+    "Stylus",
+    "LESS"
+  ],
+  "Web worker": [
+    "Web workers"
+  ],
+  "Cloud Services": [
+    "Cloud Computing",
+    "IaaS",
+    "Cloud Platforms",
+    "Cloud Technologies",
+    "Cloud Infrastructure",
+    "Cloud-based technologies",
+    "Cloud-managed solutions",
+    "Cloud",
+    "Private Cloud",
+    "Cloud data specialty",
+"Cloud SQL"
+  ],
+  "Release Management": [
+    "Release management"
+  ],
+  "Frontend Performance Monitoring": [
+    "Frontend performance",
+    "Front-end optimization"
+  ],
+  "AngularJS": [
+    "Angular JS",
+    "Angular.JS"
+  ],
+  "GrapesJS": [
+    "Grapess"
+  ],
+  "NodeJS": [
+    "Nodejs",
+    "Node.js",
+    "Node",
+    "node.js",
+    "Node.JS",
+    "Node JS"
+  ],
+  "Chart.js": [
+    "Chartsjs"
+  ],
+  "SDLC": [
+    "Latest software engineering practices",
+    "Software Development Methodologies",
+    "Software Development Lifecycle (SDLC)",
+    "Development Methodologies",
+    "Software Engineering Principles"
+  ],
+  "Multi-Tenant Architecture": [
+    "Multi-tenancy"
+  ],
+  "A/B Prompt Testing": [
+    "Experimentation"
+  ],
+  "Sanity CMS": [
+    "Headless CMS"
+  ],
+  "Vue": [
+    "Vue.js",
+    "Vue.JS",
+    "Vue js"
+  ],
+  "Drupal": [
+    "Content management systems"
+  ],
+  "Web Performance": [
+    "SEO principles",
+    "Video Streaming",
+    "RTMP",
+    "HLS",
+    "Website Optimization"
+  ],
+  "UI Testing": [
+    "UI/UX testing methodologies"
+  ],
+  ".NET": [
+    "Net Core",
+    ".NET Core"
+  ],
+  "Azure SQL DB": [
+    "Azure SQL",
+    "Azure SQL Server",
+    "Azure SQL DW",
+    "Azure SQLDW"
+  ],
+  "Microsoft SQL Server": [
+    "MS SQL Server",
+    "SQL Server"
+  ],
+  "Azure Cosmos DB": [
+    "Cosmos DB"
+  ],
+  "Entity Framework (EF) Core": [
+    "EF Core"
+  ],
+  "Domain-Driven Design (DDD)": [
+    "Domain-driven development"
+  ],
+  "Project Management": [
+    "Project management",
+    "Project Execution",
+    "Project management skills"
+  ],
+  "Problem Solving": [
+    "Problem Solving Portfolio",
+    "Problem-solving skills",
+    "Programming Skills",
+    "Problem-Solving Skills",
+    "Strong analytical and troubleshooting skills",
+    "Critical thinking",
+    "First Principles Thinking",
+    "proactively identifies shortcomings",
+    "Trouble-shooting skills",
+"Critical Thinking Ability",
+"Analytical"
+  ],
+  "Operating System (OS)": [
+    "Operating System",
+    "Operating Systems",
+    "Windows",
+    "Desktop",
+    "JIT"
+  ],
+  "Linux System": [
+    "Linux",
+    "Linux Administration",
+    "Linux system administration",
+    "Linux OSS",
+    "OSS",
+    "Shell Environments",
+    "Unix based production environments"
+  ],
+  "Networking": [
+    "TCP/IP",
+    "Network Routing",
+    "VIPs",
+    "NAT",
+    "OSI Model",
+    "SSH",
+    "Telnet",
+    "FTP"
+  ],
+  "AWS Elastic Load Balancing - ELB": [
+    "Elastic Load Balancers"
+  ],
+  "Scripting & Automation": [
+    "Scripting",
+    "Scripting Technologies",
+    "Groovy",
+    "Shell scripting",
+    "Automation Tools",
+    "Automation",
+    "Shell scripts",
+    "Perl scripting",
+    "Scripting for ETL tasks"
+  ],
+  "Bash": [
+    "Shell",
+    "Bash scripting",
+    "BASH"
+  ],
+  "Gitlab": [
+    "GitLab",
+    "Gitlab CI"
+  ],
+  "System Debugging": [
+    "troubleshooting linux issues",
+    "Troubleshooting"
+  ],
+  "Blockchain Development": [
+    "Blockchain",
+    "Web3"
+  ],
+  "CircleCI": [
+    "Circle CI",
+    "CircleCl"
+  ],
+  "SaaS": [
+    "SaaS Application"
+  ],
+  "Cyber Security": [
+    "Security",
+    "Systems and platforms security"
+  ],
+  "Github Actions": [
+    "GitHub runners",
+    "Github Action"
+  ],
+  "PostgreSQL": [
+    "Postgres"
+  ],
+  "SonarQube": [
+    "Code Analysis"
+  ],
+  "Azure Kubernetes Services - AKS": [
+    "Azure AKS",
+    "Azure Kubernetes"
+  ],
+  "ServiceNow ITSM (IT Service Management)": [
+    "IT Service Management",
+    "Service Mapping",
+    "CMDB"
+  ],
+  "GitLab CI": [
+    "GitLab CI/CD"
+  ],
+  "Powershell": [
+    "PowerShell"
+  ],
+  "Git": [
+    "GIT"
+  ],
+  "Data-Driven Cost Optimization": [
+    "Cost Optimization"
+  ],
+  "Azure Resource Manager - ARM": [
+    "ARM Templates",
+    "Azure Resource Manager"
+  ],
+  "Google Cloud Deployment Manager": [
+    "Deployment Manager",
+    "GCP Deployment Manager"
+  ],
+  "Amazon Elastic Container Service - ECS": [
+    "AWS ECS",
+    "ECS"
+  ],
+  "Google Kubernetes Engine - GKE": [
+    "GKE"
+  ],
+  "Travis CI": [
+    "Travis Cl",
+    "TravisCI"
+  ],
+  "Monitoring & Observability": [
+    "Observability and Monitoring",
+    "Observability",
+    "AI observability tools"
+  ],
+  "AWS CloudTrail": [
+    "CloudTrail"
+  ],
+  "OpenTelemery": [
+    "Open Telemetry"
+  ],
+  "Golang": [
+    "GO",
+    "Go"
+  ],
+  "Salt Stack": [
+    "Salt"
+  ],
+  "Web Servers": [
+    "Application Servers",
+    "LAMP"
+  ],
+  "Perl": [
+    "PERL"
+  ],
+  "PHP": [
+    "PhP"
+  ],
+  "Containerization": [
+    "Container",
+    "Container technologies"
+  ],
+  "Virtual Machines": [
+    "Virtualization"
+  ],
+  "VMware": [
+    "VMWare"
+  ],
+  "Database Design & Development": [
+    "Relational Database Design",
+    "Centralized and distributed database design"
+  ],
+  "Apache Mesos": [
+    "Mesos"
+  ],
+  "Selenium": [
+    "Selenium WebDriver",
+    "Selenium IDE",
+    "Selenium web driver",
+    "Selenium Web Driver"
+  ],
+  "TestNG": [
+    "Test-Ng"
+  ],
+  "Testing Fundamentals": [
+    "Testing",
+    "Manual testing",
+    "Quality assurance",
+    "ISTQB"
+  ],
+  "Integration Testing": [
+    "System Integration Testing",
+    "Integration testing"
+  ],
+  "Functional Testing": [
+    "Functional testing"
+  ],
+  "Performance Testing": [
+    "Performance testing",
+    "Performance Testing Tools"
+  ],
+  "Analytical and Problem-solving": [
+    "Analytical skills"
+  ],
+  "Quality Assurance Standards": [
+    "Quality Assurance",
+    "Quality best practices",
+    "Best practices",
+    "Quality Assurance Strategy",
+    "Quality Assurance Methodologies"
+  ],
+  "LoadRunner": [
+    "Loadrunner"
+  ],
+  "Debugging and Troubleshooting": [
+    "Analytical and Troubleshooting Skills",
+    "Troubleshooting skills",
+    "Debugging"
+  ],
+  "Apache HTTP Server": [
+    "Apache"
+  ],
+  "SoapUI": [
+    "SOAP UI"
+  ],
+  "Test Management": [
+    "Test planning"
+  ],
+  "iOS Concepts": [
+    "iOS"
+  ],
+  "Android Concepts": [
+    "Android"
+  ],
+  "Data Structure & Algorithms": [
+    "DSA",
+    "Basic algorithms",
+    "Data Structures & Algorithms",
+    "Algorithms",
+    "Data Structures",
+    "Algorithmic Optimization"
+  ],
+  "API Testing": [
+    "API Testing (REST Assured)"
+  ],
+  "Design Skills": [
+    "Analytical Skills"
+  ],
+  "Automation Scripting": [
+    "Automation test scripts"
+  ],
+  "Cross Browser Compatibility": [
+    "Cross browsers",
+    "Browser Compatibility Testing",
+    "Cross-browser development"
+  ],
+  "Testing Frameworks": [
+    "Automation Frameworks",
+    "Testing tools"
+  ],
+  "Non-Functional Testing": [
+    "Non-functional Testing"
+  ],
+  "Performance Analysis": [
+    "Performance management"
+  ],
+  "Metrics and Reporting": [
+    "Quality metrics reporting"
+  ],
+  "ML/AI Concepts": [
+    "AI/ML-based applications",
+    "Al/ML-based systems",
+    "AI/ML Engineering",
+    "ML frameworks",
+    "activation function",
+    "AI Tools",
+    "AI/ML custom solutions",
+    "ML Frameworks",
+    "Open-source AI projects"
+  ],
+  "Generative AI (GenAI)": [
+    "AI-enhanced tools",
+    "Gen Al",
+    "Familiarity with additional AI tools and environments relevant to multimedia content generation",
+    "Multilingual TTS",
+    "Expressive Speech Synthesis",
+    "Voice Activity Detection Systems",
+    "Agentic AI systems",
+    "Copilot",
+    "Chatgpt"
+  ],
+  "Cross Browser Testing": [
+    "Cross-Platform Testing",
+    "Cross-Browser Testing"
+  ],
+  "Web Application Testing": [
+    "Web Applications Testing"
+  ],
+  "Database Knowledge": [
+    "Databases",
+    "Relational Databases",
+    "RDBMS",
+    "pyodbc",
+    "Data Storage",
+    "Database Technologies",
+    "Data Management best practices",
+    "Federated data stores",
+    "SQL/NoSQL DB's",
+    "Data Access"
+  ],
+  "SQL": [
+    "DDL",
+    "DML",
+    "Joins",
+    "Group-by",
+    "SQL Queries",
+    "Relational Database",
+    "Relational DB",
+    "SQL Query",
+    "SQL Server Transact-SQL"
+  ],
+  "Application Development": [
+    "Software Development"
+  ],
+  "Version Control": [
+    "Version Control & Bug Tracking",
+    "Version Control & Project Management",
+    "Version Control and Tools",
+    "Version Control & Deployment",
+    "Git version control",
+    "Version control software"
+  ],
+  "How Internet Works": [
+    "Web Concepts"
+  ],
+  "Java": [
+    "Java 8",
+    "Java 11",
+    "JAVA",
+    "Java8+",
+    "JVM ecosystem",
+    "Core Java",
+    "Java 8+",
+"JPA"
+  ],
+  "JUnit": [
+    "JUNIT",
+    "Junit"
+  ],
+  "OOPS": [
+    "OOPs",
+    "Object-oriented and functional design principles",
+    "Object-Oriented Design",
+"Object-Oriented Programming Principles"
+  ],
+  "Natural Language Processing (NLP)": [
+    "Natural Language Processing",
+    "NLP",
+    "NLP Datasets",
+    "Information Extraction",
+    "NLP/NLU",
+    "Text Representation",
+    "Librispeech",
+    "M-AILABS En dataset",
+    "Custom Corpora",
+    "Text Analytics"
+  ],
+  "Model Performance & Optimization": [
+    "Model Evaluation",
+    "LLM Optimization",
+    "Model Benchmarking",
+    "Model Optimization",
+    "PEFT"
+  ],
+  "C/C++": [
+    "C++",
+    "Must-C"
+  ],
+  "Deep Learning": [
+    "Deep Learning Architectures",
+    "Deep Learning Frameworks",
+    "optimizers",
+    "loss functions",
+    "model architectures",
+    "custom layers"
+  ],
+  "Convolutional Neural Networks (CNN)": [
+    "CNNs"
+  ],
+  "Recurrent Neural Networks (RNN)": [
+    "RNNs",
+    "RNN"
+  ],
+  "Transformer Neural Networks": [
+    "Transformers",
+    "Transformer Architecture",
+    "Attention modeling",
+    "transformers"
+  ],
+  "Model Training & Deployment": [
+    "Model Development",
+    "Model integration",
+    "Large-scale Model Integration",
+    "Model Training and Evaluation"
+  ],
+  "Large Language Models (LLMs)": [
+    "Language Models",
+    "LLM Training",
+    "LLM Fine-tuning",
+    "LLMs",
+    "Large Language models",
+    "Large Language Models"
+  ],
+  "Pandas": [
+    "pandas"
+  ],
+  "Hadoop": [
+    "Apache Hadoop",
+    "Hadoop v2",
+    "Map Reduce",
+    "Hadoop Ecosystem",
+    "Map/Reduce"
+  ],
+  "Big Data": [
+    "Large Datasets Handling",
+    "Big Data Technologies",
+    "Big data technologies"
+  ],
+  "Computer Vision": [
+    "Computer Vision Models",
+    "Object Detection",
+    "Research Experience in Modern Computer Vision",
+    "Object detection",
+    "Faster RCNN",
+    "Image similarity",
+    "Image Data Preprocessing"
+  ],
+  "Optical Character Recognition (OCR)": [
+    "OCR"
+  ],
+  "OpenCV": [
+    "Image Processing"
+  ],
+  "Maths": [
+    "Mathematics",
+    "Mathematical Foundations",
+    "Math",
+    "Operations Research",
+    "Algebra",
+    "Mathematics and Statistics", 
+"Mathematical Background", "Statistical Background"
+  ],
+  "AI/ML Research & Development": [
+    "Research Experience",
+    "Research & Development",
+    "Research",
+    "Research and Development",
+    "Publications or contributions to the field of AI, NLP, speech processing, or computer vision",
+    "Publications in Top-Tier ML/Al Conferences or Journals",
+    "Research publications"
+  ],
+  "Cloud Deployment Manager": [
+    "Cloud Deployment"
+  ],
+  "API Documentation & Management": [
+    "API Design",
+    "API management"
+  ],
+  "Vector Database Knowledge": [
+    "Vector Databases",
+    "Vector databases"
+  ],
+  "Statistical Modeling": [
+    "Statistical modeling"
+  ],
+  "Recommendation Systems": [
+    "Recommender systems"
+  ],
+  "Long Short-Term Memory Networks (LSTM)": [
+    "LSTMs",
+    "LSTM"
+  ],
+  "Bidirectional Encoder Representations from Transformers (BERT)": [
+    "BERT"
+  ],
+  "Named Entity Recognition (NER)": [
+    "NER"
+  ],
+  "scikit-learn": [
+    "Scikit-Learn",
+    "Sklearn",
+    "Scikit"
+  ],
+  "TensorFlow": [
+    "Tensorflow"
+  ],
+  "PyTorch": [
+    "Pytorch"
+  ],
+  "Generative AI (ChatGPT/GPT-4/BARD)": [
+    "ChatGPT"
+  ],
+  "NoSQL": [
+    "NoSQL database design",
+    "NoSQL DB",
+    "NoSQL Databases",
+    "NoSQL and MPP Data Platforms",
+    "Unstructured Text Data",
+ "No SQL"
+  ],
+  "Database Design Principles": [
+    "RDBMS design and optimizations"
+  ],
+  "PowerBI": [
+    "Power BI"
+  ],
+  "Leadership": [
+    "Leadership and Governance"
+  ],
+  "Data Security & Privacy": [
+    "Data Privacy",
+    "Data Security",
+    "Data Protection Solutions"
+  ],
+  "C#": [
+    "C#.net"
+  ],
+  "Python": [
+    "python"
+  ],
+  "Sentiment Analysis": [
+    "Emotion and Sentiment Analytics"
+  ],
+  "PaaS": [
+    "Cloud PaaS Components"
+  ],
+  "Azure AI Bot": [
+    "Azure BOT service"
+  ],
+  "Cloud Storage Buckets": [
+    "Cloud Storage"
+  ],
+"GraphQL API" : [
+"Graph QL"
+],
+  "Graph DBs": [
+    "Graph DB"
+  ],
+  "Microsoft Azure Active Directory": [
+    "Active Directory"
+  ],
+  "Authentication (OAuth/SAML/cookies/JWT)": [
+    "Authentication",
+"oAuth2",
+"Key Cloak"
+  ],
+  "AuthZ": [
+    "Authorization"
+  ],
+  "Fine Tune AI Responses": [
+    "Model fine-tuning"
+  ],
+  "Cross-functional Team Collaboration": [
+    "Team Collaboration"
+  ],
+  "Statistical Analysis": [
+    "Statistical Techniques",
+    "Statistics",
+    "Statistical Analysis Libraries",
+    "populations",
+    "sampling",
+    "normal distribution",
+    "mean",
+    "median",
+    "mode",
+    "variance",
+    "standard deviation",
+    "covariance",
+    "correlation value",
+    "expected value",
+    "Statistical Skills"
+  ],
+  "Container Orchestration": [
+    "Containerization & Orchestration",
+    "Orchestration tool", "containerization", "orchestration"
+  ],
+  "Hugging Face Transformers": [
+    "Hugging Face"
+  ],
+  "YOLO (You Only Look Once)": [
+    "Ultralytics Yolo",
+    "YOLO"
+  ],
+  "SpaCy": [
+    "Spacy"
+  ],
+  "FastAPI": [
+    "Flask/FastAPI"
+  ],
+  "Predictive Modeling": [
+    "Predictive modeling",
+    "Predictive Analytics"
+  ],
+  "Data Ingestion": [
+    "Data collection"
+  ],
+  "Data Preprocessing": [
+    "Data preprocessing",
+    "Data Preparation for Machine Learning",
+    "Data Pre-processing"
+  ],
+  "Data Modeling": [
+    "Data Modelling",
+    "Logical data models",
+    "Physical data models"
+  ],
+  "AI/ML Statistical & Probabilistic Modeling": [
+    "Probability",
+    "central limit theorem",
+    "conditional probability",
+    "Bayes' theorem"
+  ],
+  "Dataset Dimension Reduction": [
+    "Dimension Reduction"
+  ],
+  "Random Forests (Bagging/Boosting/Random Fores)": [
+    "Bagging & Boosting",
+    "Random Forest"
+  ],
+  "Data Analytics": [
+    "Healthcare Analytics"
+  ],
+  "Business Analysis": [
+    "Business Requirement Translation",
+    "Business Consulting",
+    "translating ambiguous business requirements",
+"Business Operations",
+"Business Management consulting",
+"Cloudera Data Platform (CDP)",
+"Cloudera distribution"
+  ],
+  "seaborn": [
+    "Seaborn"
+  ],
+  "SQLite": [
+    "sqlite3"
+  ],
+  "Linear regression": [
+    "Linear Regression"
+  ],
+  "K-Nearest Neighbors (K-NN)": [
+    "k-NN"
+  ],
+  "Data Visualization": [
+    "Data Visualization Tools"
+  ],
+  "ExpressJS": [
+    "Express"
+  ],
+  "MongoDB": [
+    "Mongo",
+    "Mongo DB",
+    "MongoDb"
+  ],
+  "RESTful Services": [
+    "RESTful services"
+  ],
+  "Spring Boot": [
+    "Spring Security",
+    "Spring Data",
+    "Spring-boot"
+  ],
+  "React Native Concepts": [
+    "React Native"
+  ],
+  "TypeScript": [
+    "Typescript"
+  ],
+  "Design Patterns": [
+    "Design patterns"
+  ],
+  "Core Spring framework": [
+    "Spring Framework"
+  ],
+  "MySQL": [
+    "MySql",
+    "My SQL"
+  ],
+  "Build Tools": [
+    "Development Tools"
+  ],
+  "Cloud-Native": [
+    "Cloud Native Development",
+    "Cloud-native technologies",
+    "Cloud-native environments"
+  ],
+  "SOAP APIs": [
+    "SOAP"
+  ],
+  "Power Platforms": [
+    "Low Code Development"
+  ],
+  "Schema Design": [
+    "DB Schema Design",
+    "Relational schemas",
+    "Metadata and schema design and management"
+  ],
+  "Mobile Testing": [
+    "Tablet",
+    "Mobile devices"
+  ],
+  "3rd party APIs Integration": [
+    "Third Party Integrations"
+  ],
+  "Amazon DynamoDB": [
+    "DynamoDb"
+  ],
+  "Scalability": [
+    "Scalable Products",
+    "Scalable code",
+    "Scalable Code"
+  ],
+  "System Design": [
+    "Reactive System designs", "Concurrency", "Parallelism"
+  ],
+  "Jasmine": [
+    "Jasmine/Karma"
+  ],
+  "Jest": [
+    "Jest/Enzyme"
+  ],
+  "Low-level Design": [
+    "RTL",
+    "Basic CL knowledge"
+  ],
+  "PySpark": [
+    "Pyspark"
+  ],
+  "ETL Process": [
+    "ETL",
+    "Data Pipelines",
+    "ETL Tools",
+    "ETL processes",
+    "StreamSets",
+    "ETL techniques and frameworks",
+    "Pentaho Data Integration",
+    "Pipeline Building", "ETL tasks automation"
+  ],
+  "Azure Data Factory - ADF": [
+    "Data Factory",
+    "Azure Data Factory (ADF)"
+  ],
+  "Data Cleaning": [
+    "Data Cleansing",
+    "Data Profiling"
+  ],
+  "Jupyter Notebooks": [
+    "Notebook Development",
+    "JupyterNotebook"
+  ],
+  "Azure Data Lake Storage - ADLS": [
+    "Azure Data Lake"
+  ],
+  "Data Mapping and Transformation": [
+    "Data Mapping"
+  ],
+  "Apache Pulsar": [
+    "Pulsar"
+  ],
+  "Spark": [
+    "Spark Streaming",
+    "Spark-Streaming"
+  ],
+  "Apache Airflow": [
+    "Airflow"
+  ],
+  "HBase": [
+    "Hbase"
+  ],
+  "Amazon Redshift": [
+    "AWS Redshift"
+  ],
+  "PL/SQL": [
+    "Stored Procedure development",
+    "Stored Procedures"
+  ],
+  "Google Cloud Dataflow": [
+    "Dataflow",
+    "Data Flow"
+  ],
+  "Google Cloud Dataproc": [
+    "Dataproc"
+  ],
+  "Informatica PowerCenter": [
+    "Informatica BDM",
+    "Informatica"
+  ],
+  "Distributed Computing & System Design": [
+    "Distributed computing principles"
+  ],
+  "Cassandra": [
+    "Cassandra/Scylla"
+  ],
+  "Data Integration": [
+    "Integration of data from multiple data sources"
+  ],
+  "Query Optimization": [
+    "Query Optimisation"
+  ],
+  "Performance Tuning Techniques": [
+    "Performance Tuning",
+    "Model Tuning",
+    "Performance techniques",
+    "Parameter Tuning"
+  ],
+  "Data Warehousing": [
+    "Data warehousing"
+  ],
+  "Database Testing": [
+    "DB Testing"
+  ],
+  "Cloud BigTable": [
+    "BigTable"
+  ],
+  "IBM Db2": [
+    "DB2"
+  ],
+  "R": [
+    "RStudio"
+  ],
+  "Microsoft Office Skills": [
+    "Productivity Software",
+    "PowerPoint",
+    "PowerPoint presentations"
+  ],
+  "Hive": [
+    "HQL"
+  ],
+  "Business Intelligence Tools": [
+    "Business Intelligence"
+  ],
+  "AI System Scalability & Optimization": [
+    "Reliable and Robust AI/Analytics Platform"
+  ],
+  "LoRA (Low-Rank Adaptation)": [
+    "LoRA",
+    "QLoRA"
+  ],
+  "Excel VBA": [
+    "VBA"
+  ],
+  "AWS Simple Notification Service (SNS)": [
+    "SNS"
+  ],
+  "Core SRE": [
+    "SRE principles"
+  ],
+  "Incident Management": [
+    "PagerDuty",
+    "VictorOps",
+    "OpsGenie"
+  ],
+  "Non-Fungible Token (NFT)": [
+    "NFT"
+  ],
+  "Data Mining": [
+    "Mining", "Text Data Processing"
+  ],
+  "Hyperledger Fabric": [
+    "Hyperledger"
+  ],
+  "Static Application Security Testing (SAST)": [
+    "SAST"
+  ],
+  "Dynamic Application Security Testing (DAST)": [
+    "DAST"
+  ],
+  "Amazon CloudWatch": [
+    "CloudWatch"
+  ],
+  "Financial Services Cloud": [
+    "Financial industry",
+    "Banking application",
+    "Loan management systems",
+    "Retail banking environment"
+  ],
+  "Black Duck": [
+    "Blackduck"
+  ],
+  "ITIL (Information Technology Infrastructure Library)": [
+    "ITIL knowledge",
+    "ITIL"
+  ],
+  "Certified Kubernetes Administrator (CKA)": [
+    "Certified Kubernetes Administrator"
+  ],
+  "Project Planning & Scheduling": [
+    "Project planning"
+  ],
+  "AVFoundation": [
+    "FFmpeg"
+  ],
+  "Virtual Private Network (VPNs)": [
+    "VPN"
+  ],
+  "ServiceNow IT Asset Management (ITAM)": [
+    "ITAM"
+  ],
+  "Configuration Management": [
+    "YAML"
+  ],
+  "Chrome Developer Tools": [
+    "Chrome"
+  ],
+  "Frontend Performance Testing": [
+    "Performance Testing Methodologies"
+  ],
+  "Security Testing": [
+    "Security testing"
+  ],
+  "Marketing Cloud": [
+    "Salesforce Marketing Cloud",
+    "Mailchimp",
+    "Campaign Monitor",
+    "Dotdigital"
+  ],
+  "Adobe Creative Cloud": [
+    "Adobe Photoshop"
+  ],
+  "Leadership & Team Management": [
+    "Good management",
+    "Program leadership",
+    "Management Consulting"
+  ],
+  "PageSpeed Insights": [
+    "Google Page Speed Insights"
+  ],
+  "Postman": [
+    "PostMan"
+  ],
+  "SDLC & STLC": [
+    "STLC"
+  ],
+  "Project Management Tools": [
+    "Bug Tracking Tools"
+  ],
+  "Jenkins": [
+    "Jenkins pipeline"
+  ],
+  "GPTs": [
+    "GPT"
+  ],
+  "System Testing": [
+    "Enterprise Software Testing"
+  ],
+  "Graph Database Knowledge": [
+    "Knowledge Graphs"
+  ],
+  "Hardware Development": [
+    "SSD"
+  ],
+  "Low-Level GPU Optimization": [
+    "GPU Acceleration"
+  ],
+  "Performance and Optimization": [
+    "Hardware Optimization"
+  ],
+
+  "AI Governance": [
+    "Governance"
+  ],
+  "Change Management": [
+    "Change enablement"
+  ],
+  "Azure Functions": [
+    "Azure functions"
+  ],
+  "Azure Logic App": [
+    "Logic apps"
+  ],
+  "Amazon Relational Database Service - RDS": [
+    "RDS"
+  ],
+  "Data Version Control (DVC)": [
+    "DVC"
+  ],
+  "Stakeholder Management": [
+    "working with stakeholders"
+  ],
+  "Amazon S3": [
+    "S3"
+  ],
+  "AWS SageMaker": [
+    "SageMaker"
+  ],
+  "Tailwind CSS": [
+    "TailwindCSS"
+  ],
+  "React Testing Library": [
+    "React testing library"
+  ],
+  "SAP ERP (Enterprise Resource Planning)": [
+    "SAP"
+  ],
+  "Salesforce Basics": [
+    "Sales Force"
+  ],
+  "Docker": [
+    "Containerization using docker"
+  ],
+  "Collaboration Tools": [
+    "Markdown"
+  ],
+  "Subversion - SVN": [
+    "SVN"
+  ],
+  "Node Package Manager (npm)": [
+    "npm"
+  ],
+  "Package Managers": [
+    "pnpm"
+  ],
+  "Webpack": [
+    "webpack"
+  ],
+  "Gulp": [
+    "gulp"
+  ],
+  "Frontend Testing Techniques": [
+    "Web Test Runner"
+  ],
+  "D3.js": [
+    "D3"
+  ],
+  "Exploratory Data Analysis (EDA)": [
+    "Data Exploration"
+  ],
+  "Databricks": [
+    "Databricks Notebooks",
+    "Databrick",
+    "Databrick/snowflake or similar lake houses"
+  ],
+  "Apache ActiveMQ": [
+    "ActiveMQ"
+  ],
+  "AWS Glue": [
+    "Glue"
+  ],
+  "Amazon Athena": [
+    "Athena"
+  ],
+  "Amazon Kinesis": [
+    "Kinesis"
+  ],
+  "Azure Virtual Machines - AVM": [
+    "Azure Virtual Desktop",
+    "Windows Virtual Desktop"
+  ],
+  "ServiceNow CSM (Customer Service Management)": [
+    "Freshdesk"
+  ],
+  "CRM Platforms": [
+    "Customer lifecycle"
+  ],
+ "Data Analytics" : [
+"Data Manipulation"
+]
+}
