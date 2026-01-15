@@ -214,43 +214,181 @@ Other Skills & Abilities
 
 JD - 8 :
 
+Key responsibilities in your new role
+- Technical Customer Support: Provide expert pre-sales and post-sales technical support for products involving power electronics and microcontrollers. This includes troubleshooting hardware, firmware, and system-level issues on-site at customer locations
+- Design-In & Integration: Drive "design-in" activities by assisting customer R&D teams with schematic reviews, PCB layout recommendations, and system integration of products like motor drives, AC/DC,DC/DC, and resonant converters.
+- Firmware and Algorithm Development: Assist customers in developing, debugging, and optimizing real-time control algorithms (e.g., Field Oriented Control (FOC),PID tuning) for motor control applications or digital power conversion using embedded C/C++ programming.
+- Product Promotion & Training: Conduct technical seminars, workshops, and hands-on training for customers and internal teams on the features and benefits of power management solutions and associated software development tools (IDE, compilers, debuggers).
+- Collaboration and Feedback: Act as the technical liaison between the customer, sales, marketing, and R&D teams, providing valuable field insights for future product development and improvements.
+- Bench Testing & Analysis: Perform bench testing, analyze competitor products, develop demonstration boards, and create technical documentation, application notes, and engineering reports.
 
+Qualifications And Skills To Help You Succeed
+- Bachelor's or Master's degree in Electrical Engineering, Electronics, or Embedded Systems is essential.
+- Relevant work experience (typically 3-5 years) in a technical customer support, application engineering, or design role within the power electronics or semiconductor industry.
+- Deep understanding of power converter topologies(Buck/Boost, Fly-back, PFC, Resonant).
+- Component Knowledge: Familiarity with power semiconductor devices (MOSFETs, IGBTs, gate drivers, LDOs, switching regulators) and their characteristics.
+- Knowledge of PCB design for minimizing EMI, ensuring proper thermal management, and robust circuit design.
+- Lab Skills: Proficiency with test equipment such as oscilloscopes, power analyzers, electronic loads, and spectrum analyzers.
+- Microcontrollers: Experience with 8-bit, 16-bit, and 32-bit MCU architectures and their peripherals (ADC, PWM, DAC, communication interfaces like I2C, SPI, UART,CAN).
+- Programming: Strong C/C++ programming skills for embedded systems and real-time operating systems (RTOS) is required.
+- Development Tools: Hands-on experience with industry-standard development environments and simulation tools (e.g., MPLAB X IDE, SPICE,MATLAB).
+- Soft Skills: Strong analytical, problem-solving, and troubleshooting skills.
+- Excellent written and verbal communication and presentation skills.
+- Ability to work effectively in a fast-paced, customer-facing environment and manage multiple projects concurrently.
+- Willingness to travel frequently to customer sites
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 9 :
 
+Principal Responsibilities
+- Proactively develops and implements the technical sales account penetration strategy in each market presenting new products and technologies to current and potential customers; develop knowledge to uncover, understand, compare, and contrast the solutions (pre-component selection). Provide valuable participation in supplier/customer design review.
+- Good understanding of customer needs relative to product(s), technology, direction, competition, design process and design cycle.
+- Identify and develop relationships with all key technical decision makers and influencers in each account.
+- Discover design requirements from the system level down to each individual element collaborating with the design, production and/or engineering departments to develop/execute technical strategies that help solve customer design challenges.
+- Market supported lines to sales team by driving adoption of advocated solutions, with supplier partners, that meet customer needs and lead to increased design activity, design wins and sales growth.
+- Proactively provides general application and product level sales training, proactively align with sales team in securing business. Communicate account calls with suppliers, account managers and/or inside sales.
+- Identifies and tracks largest design opportunities from concept to production, utilizing all supplier resources to assure greatest potential for success.
+- Creates presentations and other sales tools to enhance technical value and become a "trusted advisor" to both internal and external customers.
+- Manages the product from beginning to end which involves communication and in-depth consultation with customers, sales and vendors.
+- Research major industry players to be able to communicate to internal and external customers industry trends and directions.
+- A thorough understanding of product lifecycles and the ability to design a full solution based on the customers expectation of product performance, lifecycles and total costs.
+- Attend internal and external technical training to complete and maintain certification as necessary.
+- Other duties as assigned.
 
+Job Level Specifications
+- Developing expertise of business, financials, products/services, the market, or account needs. Expanded knowledge of the industry, markets and sales processes; broadens sales capabilities. Further develops an understanding of the range of products/ services that the organization and its competitors sell and that assigned customers purchase.
+- Works with moderately complex territory/ assigned accounts, products/services, sales or account management processes. May refer to policies, practices and precedents for guidance; determines best course of action to achieve results. Solves sales problems in straightforward situations; analyzes possible solutions using sales experience, judgment and precedent.
+- Works independently within an assigned territory/account base with moderate sized accounts/opportunities. Has flexibility to set and negotiate terms within defined parameters; is beginning to plan own territory or account approach.
+- Collaborates with internal team, managers and support functions. Has direct contact with clients.
+- Impacts own sales quota and that of others; works within a defined territory or account list and to guidelines and policies.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 10 :
 
-
+Key Responsibilities
+- Support Unified Business through prospecting, qualification, and product design-in, design-Win, and Production Win efforts to drive sales growth.
+- Create and manage the accounts for demand creation activity in the region for Industrial/Defense Accounts.
+- Provide technical support to identify new applications, understand ongoing projects, and make product/Solution recommendations.
+- Support the clientele with technical details and product samples for DWIN activities.
+- Should be able to interact, diagnose and troubleshoot with Design (R&D), and Product Engineering and support technical and operational issues or customer-reported complaints in a timely manner.
+- Participate in training and sales meets with OEMs regard to demand creation.
+- Organizing joint visits with OEMs and customers
+- Should organize the training, webinars, and Tech days for customers.
+- Work with the sales team in response to NBO's progress on the project.
+- Should be supportive of the branch office's priorities and requirements.
+- Develop relationships within target companies through cold calls, site visits, and leveraging existing networking relationships.
+- Should strive to be a regional subject matter expert on Unified Products and domains.
+- Prepare and present technical demos and Benchmarking exercises when necessary.
+- Own the technical response to customer RFQs.
+- Update customers on new product information & record response.
+- Call end users, visit Key accounts/customers to understand needs & complaints, provide technical information & support & suggestion solution, and prepare proposals to meet needs and overcome objections.
+- Qualify opportunities and close the sale.
+- Record and maintain updated information in companies CRM system (Zoho).
+- Travel 50% - 70% of your office time.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 11 :
 
 
+What You'll Be Doing
+- Lead the product through its entire lifecycle, from the design-in phase to end-of-life, ensuring flawless execution until system Goes-live..
+- Perform detailed technical analysis, including circuit/board troubleshooting and FAR issue resolution, to ensure products meet customer criteria
+- Offer in-depth technical assistance to OEMs, Tier-1 suppliers, and design houses, ensuring ease of qualification and assisting in issues.
+- Work closely with customers on joint development initiatives, providing technical expertise to create tailored solutions that meet their requirements.
+- Actively work towards achieving the Design Wins with Manufacturers
+- Develop technical solutions including hardware & software demos required for system designs.
+- Provide onsite support to solve hardware and software problems.
+- Be a technical specialist on NVIDIA Datacenter products
+- Establish strong communication channels and collaborative relationships with internal teams to ensure a positive end customer experience.
+
+What We Need To See
+- BS or MS in Engineering, Electrical Engineering or Computer Science (or equivalent experience).
+- 8+ years of work-related experience in the high-tech electronics industry, particularly in system design or FAE support roles.
+- Capable of excelling in a dynamic, constantly evolving environment.
+- Remarkable talent for effectively managing multiple initiatives and priorities.
+- Expert analytical and problem-solving abilities.
+- Strong time-management and organizational skills for coordinating complex projects.
+- Excellent written and oral communication skills in English, with the ability to collaborate effectively with both Business and engineering teams.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 12 :
 
+What You'll Be Doing
+- Lead the product through its entire lifecycle, from the design-in phase to end-of-life, ensuring flawless execution until system Goes-live..
+- Perform detailed technical analysis, including circuit/board troubleshooting and FAR issue resolution, to ensure products meet customer criteria
+- Offer in-depth technical assistance to OEMs, Tier-1 suppliers, and design houses, ensuring ease of qualification and assisting in issues.
+- Work closely with customers on joint development initiatives, providing technical expertise to create tailored solutions that meet their requirements.
+- Actively work towards achieving the Design Wins with Manufacturers
+- Develop technical solutions including hardware & software demos required for system designs.
+- Provide onsite support to solve hardware and software problems.
+- Be a technical specialist on NVIDIA Datacenter products
+- Establish strong communication channels and collaborative relationships with internal teams to ensure a positive end customer experience.
 
+What We Need To See
+- BS or MS in Engineering, Electrical Engineering or Computer Science (or equivalent experience).
+- 8+ years of work-related experience in the high-tech electronics industry, particularly in system design or FAE support roles.
+- Capable of excelling in a dynamic, constantly evolving environment.
+- Remarkable talent for effectively managing multiple initiatives and priorities.
+- Expert analytical and problem-solving abilities.
+- Strong time-management and organizational skills for coordinating complex projects.
+- Excellent written and oral communication skills in English, with the ability to collaborate effectively with both Business and engineering teams.
+
+Ways To Stand Out From The Crowd
+- 8+ years of working experience in System Design / FAE Role.
+- In-depth understanding of CPU, GPU and server Baseboard Designs.
+- Experience with ARM and NVIDIA GPU development.
+- Experience working with Server Manufacturers.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 13 :
 
+What You Will Be Doing
+- Giving technical support and advice to sales
+- Having good relationship with R & D engineers and managers
+- Supporting customers in terms of technical advice, component selection, and troubleshooting
+- Finding out new potential customers in India.
+- Leading sales to right way and giving good advice and support for design IN &WIN
+- Keeping database effective
+- Providing application/component information to divisions in support of new product development.
 
+What You Will Bring Along
+- Bachelor’s degree in electronic and electrical engineering or equivalent qualification.
+- Minimum 5 years pf relevant experience in Field Application Engineering or project design engineering field in hardware, circuit and electronics engineering/component industries.
+- Strong understanding of electronic components, working experience with resistors/capacitors/inductors/diodes/ MOSFETs is preferred.
+- Ability to provide technical advice and troubleshooting component-level issues.
+- Knowledge of component selection and application in analog circuits such as Switching Power Supply, Buck/Boost converter, OBC, BMS, ADAS, DCDC, and Inverter. 
+- Proven experience in technical sales support or application engineering roles is highly recommended.
+- Experience identifying new business opportunities and potential customers.
+- Knowledge of the Indian electronics market, including trends and key players is highly recommended.
+- Willingness to travel extensively (over 50%) for customer meetings, technical support, and industry events.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 14 :
 
+Required Qualifications:
+- Bachelor’s (BTech) or Master’s (MTech) degree in Electronics, Electrical Engineering, Embedded Systems, or related fields.
+- 6+ years of hands-on experience in motor control system design, including practical exposure to BLDC, PMSM, and induction motors.
+- Strong knowledge of control algorithms, including FOC, PID tuning, and real-time implementation.
+- Practical experience in working with 8-bit, 16-bit, and 32-bit MCUs, including peripheral interfaces like ADC, PWM, DAC, EEPROM, and FLASH memory.
+- Familiarity with industry-standard communication protocols such as CAN, LIN, I2C, UART, and SPI.
+- Experience in digital power electronics and topologies such as buck, boost, flyback, and resonant converters (preferred).
+- Deep understanding of embedded C programming, real-time debugging, and performance tuning.
+- Experience with Microchip development environments, firmware libraries, and toolchains.
+- Working knowledge of signal chain processing and feedback systems.
 
+Preferred Skills
+- Proficiency in C programming; familiarity with Python, Assembly, Visual Studio, Visual Basic, etc.
+- Experience with MATLAB/Simulink for system modeling and control simulation.
+- Proficient in using Microsoft Office tools (Excel, Word, PowerPoint) for technical documentation and presentations.
+- Excellent verbal and written communication, with a customer-centric approach and ability to convey complex concepts clearly.
+- Strong presentation skills with experience in delivering public seminars, technical talks, and customer-focused workshops.
+- Self-driven, collaborative, and capable of managing multiple priorities in a fast-paced environment.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
