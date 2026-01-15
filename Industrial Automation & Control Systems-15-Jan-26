@@ -1134,3 +1134,142 @@ Must possess strong communication and interpersonal skills. Previous experience 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+JD - 46 :
+
+Key Responsibilities:
+
+- Design and develop Automation solutions for SPMs using PLC, servo drives, and automation controllers.
+- Programming of PLCs, HMIs, and motion controllers (Siemens / Mitsubishi / Delta / or equivalent).
+- Selection, configuration, and integration of servo motors, stepper motors, and VFDs.
+- Develop control logic, safety interlocks, and system sequences for machine operations.
+- On-site commissioning, troubleshooting, and fine-tuning of machines for smooth motion performance.
+- Collaborate with design engineers, production team, and customers to understand requirements and deliver optimized automation solutions.
+- Prepare technical documentation, wiring diagrams, and user manuals.
+- Provide training and support for operators and maintenance teams.
+
+Skills & Competencies:
+- Strong knowledge of motion control systems, servo drives, and automation hardware.
+- Hands-on experience in PLC, HMI, and SCADA programming.
+- Familiarity with industrial communication protocols (Ethernet/IP, Modbus, ProfiNet, etc.).
+- Ability to analyze mechanical and electrical aspects of SPMs for smooth integration of automation.
+- Problem-solving mindset with strong debugging and troubleshooting skills.
+- Good communication skills and ability to work in cross-functional teams.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 47 :
+
+Roles and Responsibilities
+- Overseeing the overall technical solution that meets customer Requirement based on reference Solution.
+This includes the following actives:
+• Responsible for leading overall requirement, design, implementation, and testing of digital control system of the HVDC Control & Protection system this includes network &Cybersecurity design
+• Lead the configuration of IEC61850 IED’s via vendor specific tools and System Configuration Tools for complete system integration.
+• Lead the generation of Substation Configuration description Language (SCL) files for system integration.
+• Knowledge of Sequencing & interlocking principles used in substation automation systems and their implementation on IEC61850 IED’s.
+• Lead the design, configuration and testing required to deliver on time and within defined budgets the HVDC Control System hardware.
+
+Lead the testing and debugging of complex IEC61850 communication systems using industry standard tools such as IED SCout, Wireshark etc.
+• Good experience with HMI/SCADA technologies, implementation, testing and installation.
+• Coordinate and interface the HVDC Control System with Balance of Plant equipment and SCADA systems.
+• Define the main IO Lists of the control system.
+• Analyze signal interfaces and ensure compatibility with the control system.
+• Lead in collaboration with NPI teams, the configuration of Remote Terminal Units (RTU), Bay Controllers (BCU) and Merging Units for signal acquisition in digital substation environments.
+• Lead the design of LAN networks/Communication Architectures and configuration of industrial ethernet switches/routers and satellite clocks
+• Follow the departments standard design practices, engineering reviews and guidelines.
+• Define Control Panel requirements and produce detailed design documentation for thecontrol system using standard design blocks under the guidance of lead engineers.
+• Panel Electrical Schematics (using Engineering Base tool)
+• Wire/Cable Schedules
+• Routine Test specification
+• General Assembly drawings & BOM
+
+Overseeing FAT
+
+Required Qualifications
+• Degree in Electronics/Electrical engineering or related field.
+• Strong background in configuring Substation Bay Controllers/Merging Units/ IEC61850 IED’s/HMI/SCADA technologies.
+• Minimum of 6 - 10 years' experience in control and protection system design
+• Knowledge of industrial communication networks such as IEC61850 and Ethernet based protocols.
+• Control & Protection Relay logics Design techniques
+• Experienced in developing electrical designs for industrial control systems
+• Knowledge of communication networks Security/Hardening and Cybersecurity best practices
+• Excellent knowledge of commonly used Layer2&3 protocols such as Ipv4, OSPF, LACP, DMZ,VPN/ DMS/ADMS/ DNP, IEC, Modbus
+• Experience relevant to electrical power systems and Substation automation engineering
+• Working knowledge of industrial and utility electrical control and protection systems and Digital Control Systems, Substation Automation and SCADA
+
+Desired Characteristics
+• Strong oral and written communication skills. Strong interpersonal and leadership skills. Demonstrated ability to analyze and resolve problems. Demonstrated ability to lead programs / projects. Ability to document, plan, market, and execute programs. Established project management
+
+skills.
+• Proven technical leadership in a complex system engineering development environment
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 48 :
+
+The primary contents of the work will be:
+• Engineering of control logic and programs for different FACTS solutions.
+• Adequate knowledge of open-loop control systems.
+• Establishing test setups in the factory and configuring hardware/software used for control systems.
+• Adequate knowledge of electrical substation components.
+• Creating documents such as design reports, test reports, and operation & maintenance manuals.
+• Providing after‑sales support for already commissioned systems.
+• Understanding the behavior of different types of FACTS devices and their roles in the power system is an essential part of the work.
+• Ability to read and interpret circuit diagrams.
+• Knowledge of communication protocols such as IEC 61850, IEC‑104, IEC‑101, DNP 3.0, Modbus, etc.
+• Knowledge of cybersecurity measures and IT network systems.
+• Knowledge of MATLAB/SIMULINK, ideally combined with real‑time and embedded software.
+• Knowledge of SICAM Device Manager/Toolbox, WinCC, HMI, and Beckhoff controllers.
+• Knowledge of SICAM A8000 hardware and its configuration.
+• Excellent team player.
+• Willingness to travel to sites, including remote locations in India or abroad.
+• Commissioning of FACTS installations at sites in India and abroad.
+• Willingness to travel at short notice.
+• Typical site deputation duration is 5–6 months continuously. Facilities at the site will be basic in nature, and accommodation and transport will mostly be shared.
+• Having previous experience of working on FACTS projects would be an added advantage.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 49 :
+
+Responsibilities:
+• Matlab/Simulink software development for automotive controllers
+• Under guidance of the Lead Software Engineer, be responsible for documentation, verification and testing of control software
+• Software algorithm development and control systems optimization
+• Contribute to the development of system plant models and simulations using Matlab/Simulink
+• Contribute to the development of software tools required for vehicle production and -field support
+• Support testing of software at module level and on prototype vehicles
+
+Key Skills:
+• Proficient in controller programming & control system design
+• Matlab/Simulink experience will be advantageous
+• Knowledge of J1939 CAN communication and associated test tools/equipment
+• Attention to detail
+• Integrity and honesty
+• Computer literacy (Excel, Word, PowerPoint)
+• Good Written and Verbal Communication (English)
+• Good work ethics
+• Hardworking, willing to go the extra mile
+• Professionalism
+• Work independently
+• Excellent in task management
+• Team Player(Work well in a team)
+• Ability to work under pressure and handle priority changes
+• Have good problem-solving abilities
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 50 :
+
+Major Responsibilities:
+• Preparation of Design Criteria for Controls and Instrumentation.
+• Preparation of Field Instrumentation, Control Valves & Pressure Safety Valves Data Sheet in Smart Plant Instrumentation.
+• Perform Control Valve, Flow Element and Thermowell sizing calculations and preliminary analyses.
+• Development of Spec, MR, Technical Bid Evaluation and Vendor Print Review of Field Instrument Packages, Control Valves, On Off Valves, Instrument Bulks.
+• Assists in developing or reviews discipline material quantity estimates.
+• Preparation of Complex Loop Control Narratives, Cause and Effect Matrix for Process and F&G System, logic narratives.
+• Development of I/O data base for DCS, SIS, F&G and Mechanical Vendor Packages.
+• Preparation of Instrument Index, Data Sheet, Wiring and Loop Diagrams, Loop Folders, Calculation in Smart Plant Instrumentation.
+• Preparation of Level Sketches and Cable Block Diagrams.
+• Preparation of Instrument Installation Details Bulk Material Take off and assist designers in Modelling of instruments and junction boxes.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
