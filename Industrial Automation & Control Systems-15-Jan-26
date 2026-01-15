@@ -512,72 +512,492 @@ JD - 18 :
 
 JD - 19 :
 
+Key Responsibilities:
+• Installation and commissioning of Compression (Press) range of machines at customer sites.
+• Perform troubleshooting and diagnosis of Compression (Press) machines to ensure minimum downtime.
+• Responsible for servicing and maintenance of machines as per standard guidelines.
+• Manage and drive business revenue for spare parts and change parts.
+• Attend IFAT and CFAT of Tablet Press machines and ensure successful completion as per customer requirements.
+• Handle service complaints in person or through online support and maintain a proper complaint register with closure status.
+• Provide timely technical support and maintain high customer satisfaction levels.
+• Frequent travel across India and internationally for service assignments.
 
+Skills & Competencies:
+• Strong technical understanding of mechanical components and machine operations.
+• Hands-on experience with installation, commissioning, and maintenance of industrial machinery (Compression (Press)).
+• Excellent troubleshooting and analytical skills.
+• Customer-focused attitude with good communication and reporting ability.
+• Ability to work independently with frequent travel.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 20 :
 
+• *Key Responsibilities:**
+- Understand project requirements, electrical schematics, and integrate BMS, Charger, and IOTs for electric vehicles at both bench and vehicle levels.
+- Conduct testing, analyze CAN data, verify protocol adherence, prepare test reports, and provide feedback to the R&D team.
+- Perform Root Cause Analysis (RCA), develop and execute test plans, and validate performance.
+- Analyze data to identify areas for improvement and optimize system performance.
+- Offer technical support, troubleshoot issues at customer sites, and train customer technicians/test engineers on using Vecmocon software and tools.
+- Willingness to travel to customer sites for integration and testing as this is a field job.
 
+• *Key Skills:**
+- Strong understanding of Electrical and Electronics fundamentals.
+- Proficiency in documentation tools like Word and Excel.
+- Hands-on experience in CAN communication and testing tools such as multimeter and DSO.
+- Proficient English communication skills.
+- Excellent problem-solving and analytical abilities.
+- Basic experience in soldering (SMT/THC) and ability to understand schematics.
+
+• *Nice To Have Skills:**
+- Knowledge of battery management systems, including cell balancing, voltage/temperature monitoring, and fault protection.
+- Understanding of batteries, battery types, and components.
+• *Preferred Qualifications:**
+- Bachelors/Diploma in Electrical and Electronics.
+- Preferred industries: Automotive electronics, IOT, Inverters, Charger, Solar.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 21 :
 
+Your responsibilities will include:
 
+- Designing, implementing, and verifying FPGA-based architectures for real-time image and video processing in avionics applications.
+- Developing RTL code (VHDL/Verilog/SystemVerilog) for high-speed image pipelines, compression, and filtering algorithms.
+- Integrating FPGA modules with embedded processors (e.g., ARM, MicroBlaze, Nios) and external interfaces such as ARINC818, ARINC429, PCIe, HDMI, DVI, LVDS, DDR4/3/2 & Ethernet, USB, SD, eMMC, I3C/I2C, SPI/QSPI etc.
+- Optimizing FPGA designs for performance, area, and power efficiency under aerospace hardware constraints.
+- Collaborating with system, hardware, and software teams to ensure seamless integration of FPGA solutions into avionics systems.
+- Conducting simulation, synthesis, and timing analysis using industry-standard tools (Vivado, Quartus, ModelSim, etc.).
+- Participating in DO-254 design assurance activities, including documentation, verification traceability, and test case generation.
+- Supporting hardware bring-up, debugging, and in-lab testing of FPGA boards and image acquisition systems.
+- Contributing to the evaluation of new FPGA devices, IP cores, and image processing technologies.
+
+Qualifications required for this role include:
+
+- BE/ME in Electronics from a reputed college. Specialization in VLSI and Embedded Design is a plus.
+- 3 to 8 years of experience in designing and implementing FPGA based solutions in Xilinx or Altera FPGA, preferably FPGA based product development experience.
+- Experience in System Design with Xilinx/Altera FPGA devices with relevant tools.
+- Experience in Verilog and/or VHDL coding.
+- Experience in synthesis and implementation (floor planning and placement and routing) using FPGA tools.
+- Experience in using constraints to achieve timing requirement.
+- Experience in working on high-speed FPGA designs is a major plus.
+- Thorough knowledge of Static Timing Analysis (STA) is an added advantage.
+- Experience in building test benches for verification.
+- Experience in board level testing and system debugging.
+- Knowledge of protocols like USB, Ethernet, PCIe, I2C, SPI, QSPI, UART, JTAG, ARINC818, ARINC429, SD, eMMC, DDR4/3 etc.
+- Hands-on experience with FPGA debugging tools and test measurement instruments such as oscilloscope and Logic Analyzer.
+- Strong problem-solving and debugging skills.,
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 22 :
 
+This includes the following actives:
+• Requirement & Design
+• Overall Control System Architecture & communication networks Architecture
+• IEC 61850 Implementation, system integration and system deployment
+• Overall System Level Cybersecurity
+• Overall Network design of the control & Protection System
+• Customer interface and training
+• Responsible for leading overall requirement, design, implementation, and development of digital control system of the HVDC Control & Protection system this includes network & Cybersecurity design
+• Be the owner of all aspects of HVDC IEC 61850 Implementation and system deployment, system Configuration, and validation, as well as all usual integration challenges of the control & protection system
+• Implement and maintain the control & protection system reference and customer solutions
+• Execute and provide guidance for the analysis / evaluation of assigned projects that meet business standards, practices and procedures and the product / program requirements
+• Responsible for coaching and developing department talent.
+• Uses judgment to make decisions or solve moderately complex tasks or problems in areas of operational/product management, manufacturing, technology or engineering. Takes new perspective on existing solutions. Uses technical experience and expertise for data analysis to support recommendations.
+• Continuously improving the product in terms of delivery speed, stability and reliability
+• Ensure security and compliance standards are taken into consideration into the design decisions
+• Review and approve design documents, implement, and ensures quality deliverables on time and within targeted cost
 
+Required Qualifications
+• Degree in Electronics/Electrical engineering or related field.
+• Strong background in configuring Substation Bay Controllers/Merging Units/ IEC61850 IED’s
+• Minimum of 15 years’ experience in control and protection system design
+• Knowledge of industrial communication networks such as IEC61850 and Ethernet based protocols.
+• Control & Protection Relay logics Design techniques
+• Experienced in developing electrical designs for industrial control systems
+• Knowledge of communication networks Security/Hardening and Cybersecurity best practices
+• Excellent knowledge of commonly used Layer2&3 protocols such as Ipv4, OSPF, LACP, DMZ, VPN/ DMS/ADMS/ DNP, IEC, Modbus
+• Experience relevant to electrical power systems and Substation automation engineering
+• Working knowledge of industrial and utility electrical control and protection systems and Digital Control Systems, Substation Automation and SCADA
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 23 :
 
+Key Responsibilities:-
+• Develop and implement automation strategies for solar cell/module manufacturing processes.
+• Oversee the design, programming, and maintenance of PLC, SCADA, HMI, and other industrial control systems.
+• Ensure seamless integration of automation systems with manufacturing equipment and processes.
+• Collaborate with engineering, production, and quality teams to enhance process efficiency and minimize downtime.
+• Troubleshoot and resolve control system issues, ensuring smooth plant operations.
+• Optimize robotics, sensors, and machine vision systems to enhance precision and productivity.
+• Ensure compliance with industry standards, safety regulations, and best practices in automation.
+• Lead and mentor the team in automation-driven innovation to enhance solar cell/module production efficiency.
+• Work with vendors and suppliers to procure and integrate advanced automation technologies.
+• Monitor key KPIs & performance metrics to drive continuous improvement in automated processes.
 
+Qualifications & Experience:-
+• Bachelor’s/Master’s degree in Electrical, Electronics, Instrumentation, or Automation Engineering.
+• 8-10 years of experience in automation & control, specifically in solar cell/module manufacturing or a related industry.
+• Strong expertise in PLC, SCADA, HMI programming, and industrial communication protocols (Modbus, Profibus, Ethernet/IP, etc.).
+• Experience in robotics, vision systems, and IoT-driven automation solutions is a plus.
+• Proficiency in industrial control software, programming languages (Python, C++, etc.), and database management for automation systems.
+• Knowledge of industry standards and best practices in automation & control systems.
+• Excellent problem-solving, analytical, and leadership skills.
+• Ability to manage multiple automation projects and work in a fast-paced environment.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 24 :
 
+Main Responsibilities:
+• Design and develop control systems for power plants, substations, and industrial automation projects.
+• Craft PLC/DCS architecture, SCADA systems, and control strategies that meet project requirements.
+• Create Process & Instrumentation Diagrams (P&IDs), electrical, mechanical, and hydraulic schematics that ensure seamless system integration.
+• Develop logic for sequential flow diagrams and SCADA programming to optimize system performance.
+• Ensure successful factory acceptance testing (FAT) and documentation compliance by conducting thorough reviews and audits.
+• Perform engineering validation and risk assessment for project deliverables to guarantee their quality and reliability.
+• Provide expert guidance in troubleshooting and debugging control systems to resolve complex issues efficiently.
+• Collaborate with cross-functional teams to ensure smooth project execution and meet project deadlines.
+• Work with various DCS/PLC platforms such as Siemens, Schneider, Emerson, and GE-Fanuc to leverage their capabilities.
+• Optimize communication protocols (Modbus, OPC, IEC61850, ProfiNet, etc.) for seamless integration and data exchange between systems.
+• Manage database management and report generation for control systems to provide real-time insights and analytics.
 
+Requirements:
+
+Skillset:
+
+The ideal candidate should possess:
+• Expertise in control systems, industrial automation, and engineering principles.
+• Proficiency in designing and developing PLC/DCS architecture, SCADA systems, and control strategies.
+• Familiarity with process & instrumentation diagrams (P&IDs), electrical, mechanical, and hydraulic schematics.
+• Experience in logic development for sequential flow diagrams and SCADA programming.
+• Strong understanding of factory acceptance testing (FAT) and documentation compliance procedures.
+• Ability to perform engineering validation and risk assessment for project deliverables.
+• Excellent problem-solving skills with experience in troubleshooting and debugging control systems.
+• Strong collaboration and communication skills with ability to work with cross-functional teams.
+• Proficiency in working with various DCS/PLC platforms such as Siemens, Schneider, Emerson, and GE-Fanuc.
+• Knowledge of communication protocols (Modbus, OPC, IEC61850, ProfiNet, etc.) for seamless integration and data exchange between systems.
+• Ability to manage database management and report generation for control systems.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 25 :
 
-
+Key Responsibilities:
+• Develop and implement control systems for power plants, substations, and industrial automation projects.
+• Design PLC/DCS architecture, SCADA systems, and control strategies.
+• Interpret and develop Process & Instrumentation Diagrams (P&IDs), electrical, mechanical, and hydraulic schematics.
+• Conduct logic development, sequential flow diagrams, and SCADA programming.
+• Ensure successful factory acceptance testing (FAT) and documentation compliance.
+• Perform engineering validation and risk assessment for project deliverables.
+• Provide technical leadership in troubleshooting and debugging control systems.
+• Collaborate with cross-functional teams for smooth project execution.
+• Work with various DCS/PLC platforms like Siemens, Schneider, Emerson, and GE-Fanuc.
+• Optimize communication protocols (Modbus, OPC, IEC61850, ProfiNet, etc.) for seamless integration.
+• Oversee database management and report generation for control systems.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 26 :
 
+Key Application Domains
+- Automotive & EV Systems: Thermal management solutions
+- Automotive Electronics: Bonding adhesives & EMI/EMC shielding
+- Semiconductor Manufacturing & Packaging: Carrier tapes, cover tapes, high-temperature tapes
+- IoT & Home Automation: EMS/OEM customers (VVDN and similar)
+- Battery Packs: Thermal, safety, and EMI/EMC solutions
+- Display Technologies: New portfolio support & customer engagement
 
+Key Responsibilities
+- Provide technical application support and engineering guidance
+- Support design-in, trials, validation, and NPI activities
+- Work closely with sales teams on RFQs, tenders, and customer discussions
+- Conduct customer visits, product demos, and technical presentations
+- Prepare technical documentation and application reports
+
+Required Skills & Keywords : 
+- Field Application Engineer (FAE)
+- Thermal management materials
+- EMI/EMC shielding solutions
+- Bonding & adhesive technologies
+- High-temperature tapes
+- Automotive electronics / EV
+- Semiconductor packaging
+- OEM / EMS electronics manufacturing
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 27 :
 
+Responsibilities:
+- Serve as the primary technical point of contact for key customers, providing guidance and support throughout the product development lifecycle.
+- Assist in the design and implementation of customized solutions to meet customer-specific requirements.
+- Develop and deliver technical presentations, demonstrations, and training sessions to customers, partners, and internal teams.
+- Provide timely resolution to customer inquiries, issues, and concerns, ensuring high levels of customer satisfaction.
+- Stay current with industry trends, technologies, and standard methodologies to effectively advise customers on product development strategies.
 
+Skills and Experience:
+- 5+ years of experience in a field application engineering or customer-facing technical role, with a master’s degree in electrical engineering, Computer Engineering, or related field.
+- Experience in designing or supporting complex SoC, from architecture definition to tape-out, addressing implementation challenges on advanced process nodes.
+- Understanding of RAS and reliability for enterprise and infrastructure markets is a plus.
+- Understanding of functional safety standards and certification.
+- Excellent communication and interpersonal skills, with the ability to effectively engage with customers, colleagues, and partners at all levels.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 28 :
 
+• Develop and implement control systems for power plants, substations, and industrial automation projects.
+• Design PLC/DCS architecture, SCADA systems, and control strategies.
+• Interpret and develop Process & Instrumentation Diagrams (P&IDs), electrical, mechanical, and hydraulic schematics.
+• Conduct logic development, sequential flow diagrams, and SCADA programming.
+• Ensure successful factory acceptance testing (FAT) and documentation compliance.
+• Perform engineering validation and risk assessment for project deliverables.
+• Provide technical leadership in troubleshooting and debugging control systems.
+• Collaborate with cross-functional teams for smooth project execution.
+• Work with various DCS/PLC platforms like Siemens, Schneider, Emerson, and GE-Fanuc.
+• Optimize communication protocols (Modbus, OPC, IEC61850, ProfiNet, etc.) for seamless integration.
+• Oversee database management and report generation for control systems.
 
+Key Responsibilities:
+• We are seeking a highly skilled engineer to join our team as a Project Director. The ideal candidate will have extensive experience in designing and implementing control systems and industrial automation solutions.
+• This is an excellent opportunity to work on challenging projects and contribute to the growth and success of our organization.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 29 :
 
-
+- You will lead projects from conceptualization through to commissioning, ensuring seamless integration of robotics, PLCs, SCADA systems, and other automated technologies. 
+- Responsibilities include developing automation strategies, creating detailed engineering designs, specifying equipment, and overseeing installation and testing. 
+- You will troubleshoot complex automation issues, implement preventative maintenance programs, and drive continuous improvement initiatives to enhance efficiency, safety, and product quality. 
+- Collaboration with cross-functional teams, including mechanical engineers, production managers, and maintenance staff, is essential. 
+- The ideal candidate will possess a deep understanding of industrial control systems, programming languages (e.g., ladder logic, structured text), and hardware components.
+- Proven experience in project management, vendor management, and leading engineering teams is required. Strong analytical, problem-solving, and communication skills are necessary. 
+- A bachelor's or master's degree in Electrical Engineering, Mechanical Engineering, or a related field, coupled with a minimum of 7 years of progressive experience in industrial automation, is essential. 
+- This role requires a hands-on approach and a commitment to operational excellence within a dynamic manufacturing environment.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 30 :
 
+• *Key Responsibilities:**
+- Design, develop, and implement control systems for industrial automation applications
+- Collaborate with cross-functional team members to meet project requirements
+- Test and troubleshoot control systems to ensure proper functionality
+- Provide technical support to customers and users
+- Support field installation of PLC and conduct I/O checkout, testing, and commissioning activities
+- Interact with clients and provide technical leadership for projects, including travel as needed
+• *Qualifications:**
+- Bachelor's degree in engineering or a related field
+- 5+ years of experience in designing, developing, and implementing control systems
+- Proficiency with Rockwell PLC, Siemens PLC, and ABB PLCs
+- Strong communication and problem-solving skills
+- Ability to work independently and collaboratively within a team
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 31 :
+
+Key Responsibilities
+- Install, configure, and troubleshoot SCADA hardware and software.
+- Develop dashboards for real-time monitoring of plant Key Performance Indicators (KPIs).
+- Implement automated alerts for performance deviations.
+- Coordinate with Operations & Maintenance (O&M) teams to analyze performance data and enhance uptime.
+- Maintain cybersecurity protocols and backup systems for critical infrastructure.
+- Document configurations, network diagrams, and system changes.
+
+Required Qualifications
+- Bachelor's degree in Electrical, Electronics, or Instrumentation Engineering.
+- Minimum of 2-4 years of experience in SCADA, preferably within the renewable energy sector.
+- Familiarity with PLC programming and communication protocols such as Modbus and DNP3.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 32 :
+
+Responsibilities:
+
+- Engineering, programming, testing, and commissioning of Level1 Automation systems for Flat and Long rolling mills using PLC, Technological controls, and HMI software.
+- Preparation of IO list, I/O Engineering, and related Automation drawings for basic engineering.
+- Detailing interface for MCCs, Drives, Measuring system, Level2 system, and package units.
+- Commissioning of Rolling mill Level1 automation system based on PLCs/Technological platform for Hot mill, Cold mills, Long rolling mills, and Processing lines in India and abroad.
+- Providing post-commissioning support and service support.
+
+Qualifications required for this role include:
+- University Degree in Electrical or Electronics Engineering (B.E or B. Tech).
+- 4 to 12 Years of work experience.
+- Good knowledge of PLC programming using Ladder logic, Function block diagram, Continuous flow charts (CFC), and Sequence on platforms like Siemens, ABB, TMEIC.
+- Programming knowledge of Technological systems like Siemens PCS7, Siemens TDC, SMS X-pact, Hi-Pac system is desirable.
+- Working knowledge of HMI systems like Siemens WinCC, Wonderware.
+- Good communication and analytical skills.
+- Interpersonal skills and the ability to work in an international work environment.
+- Willingness to travel in India and abroad for site commissioning work.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 33 :
+
+You will be responsible for the following:
+
+- Level1 Automation - PLC / Technological controls / HMI Software Engineering, Programming, Testing and commissioning at site for Flat and Long rolling mill.
+- Basic engineering - Preparation of IO list, I/O Engineering and related Automation drawings.
+- Interface detailing for MCCs, Drives, Measuring system, Level2 system and package units.
+- Commissioning of Rolling mill Level1 automation system based on PLCs / Technological platform for Hot mill, Cold mills, Long rolling mills and Processing lines (in India and abroad).
+- Post commissioning support and service support.
+
+Qualifications required:
+
+- University Degree in Electrical or Electronics Engineering (B.E or B. Tech).
+- 4 to 12 Years work experience.
+- Good knowledge of PLC programming using Ladder logic /Function block diagram / Continuous flow charts (CFC) and Sequence (on Siemens/ ABB/ TMEIC platform).
+- Programming knowledge of Technological system like Siemens PCS7/ Siemens TDC /SMS X-pact / Hi-Pac system is desirable.
+- Working knowledge on HMI systems like Siemens WinCC / Wonderware.
+- Working knowledge of AC/DC drive interface with PLC controller.
+- Good communication and analytical skills.
+- To have good interpersonal skill and ability to work in an international work environment.
+- Ready to travel in India and abroad, for site commissioning work.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 34 :
+
+You will be responsible for programming and commissioning various systems such as PLCs, DCS, HMI, SCADA & Drive Systems. 
+Troubleshooting and providing service support will also be a key aspect of your job. 
+Additionally, you will be involved in panel wiring and AMC work.
+
+• *Key Responsibilities**
+- Designing Industrial Automation and Process Control Systems
+- Programming and Commissioning of PLCs, DCS, HMI, SCADA & Drive Systems
+- Troubleshooting and providing Service Support
+- Panel Wiring and AMC Work
+• *Qualifications Required**
+- B.E. / B.Tech / ITI / Diploma in Electronics, Electrical, or Instrumentation
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 35 :
+
+You will be responsible for:
+- Designing, programming, and maintaining automation systems.
+- Troubleshooting and integrating PLC, HMI, and SCADA applications.
+
+Qualifications required:
+- 1-2 years of experience in PLC Programming, HMI, SCADA.
+- Good communication skills.
+- Education: Any degree.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 36 :
+
+Your responsibilities will include:
+
+- Conducting technical analyses
+- Troubleshooting issues
+- Implementing solutions to optimize system performance
+- Managing timelines, budgets, and resources for high-quality solution delivery
+- Providing technical expertise during project planning, commissioning, and operational phases
+
+To qualify for this position, you should have:
+
+- A Bachelor's degree in electrical engineering or Electronics & Communication Engineering
+- A Master's degree is preferred
+- 4-5 years of experience in solar SCADA and SAS engineering
+- Proficiency in SCADA software, PLC programming, communication protocols such as IEC-61850, Modbus, DNP3, OPC, and cybersecurity for industrial control systems
+- Effective communication, leadership skills, and excellent project management skills
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 37 :
+
+- Exposure to OEM platforms (Siemens, ABB, Honeywell, Rockwell, Yokogawa, etc.).
+
+Knowledge of process automation :
+- Experience in handling Project activities, FAT / SAT and site commissioning activities.
+- Proficiency in PLC, DCS, and SCADA configuration and testing.
+• Strong understanding of field instrumentation and control system interfaces.
+• Familiarity with industrial communication protocols (e.g., Modbus, OPC, Profibus, Ethernet / IP).
+• Ability to read and interpret technical documents (I / O lists, P&IDs, control narratives, logic diagrams, C&E charts).
+
+- Interpret and implement customer inputs such as I / O lists, P&ID diagrams, control narratives, logic diagrams, and Cause & Effect charts from a system configuration perspective.
+• Configure control systems (PLC, DCS, SCADA), including :
+    o Graphics development
+    o I / O database configuration
+    o Control loop setup
+    o Logic development and functional testing
+• Integrate field instrumentation with control systems and validate interfaces.
+• Establish and configure communication protocols for third-party system integration.
+• Participate in system architecture design and support the complete project lifecycle from design to commissioning.
+• Collaborate effectively within a team and maintain strong interpersonal communication.
+• Travel to client sites as required for project execution and commissioning
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 38 :
+
+Key Responsibilities:
+- Assist in designing and engineering automation and control systems.
+- Learn and contribute to PLC/DDC programming and SCADA development.
+- Participate in instrument calibration, system setup, and configuration.
+- Support system testing and commissioning at project sites.
+- Prepare and maintain technical documentation and project reports.
+- Gain exposure to control panel design, wiring diagrams, and system architecture.
+- Provide technical support and interact with clients under supervision.
+
+Qualification Required:
+- Bachelor's degree in Automation, Instrumentation, Electrical, Mechatronics, or Electronics Engineering.
+- Strong interest in industrial automation and control systems.
+- Efficient understanding of PLC/SCADA systems (training/internship experience is a plus).
+- Familiarity with AutoCAD or similar design tools is desirable.
+- Willingness to learn and work on-site during project execution.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 39 :
+
+Key Responsibilities
+• Review and verify Process & Instrumentation Diagrams (P&IDs) for accuracy and compliance with project specifications.
+• Prepare detailed Bills of Materials (BOM) for automation and control systems.
+• Develop Functional Design Specifications (FDS) and System Design Specifications (SDS) documentation.
+• Prepare I/O lists and manage configuration in accordance with project requirements.
+• Perform wiring, verification, and loop checks for PLC control panels to ensure installation integrity.
+• Program PLCs using Step-7 and TIA Portal for process automation and control.
+• Design and develop SCADA systems using Zenon and WinCC, including HMI graphics, alarms, and data acquisition.
+• Configure and develop Distributed Control Systems (DCS) using PCS7 (v9.0 and above).
+• Conduct Factory Acceptance Tests (FAT) and Site Acceptance Tests (SAT) to validate system functionality.
+• Provide on-site installation, testing, commissioning, and technical support as needed.
+
+Qualifications & Skills
+• Bachelor’s Degree in Electronics & Instrumentation Engineering (EIE), Electronics & Communication (ECE), Electrical & Electronics (EEE), Computer Science (CSE), or related field.
+• Minimum 4 years of experience in industrial automation and control systems.
+• Strong proficiency in PLC programming (Siemens Step-7, TIA Portal).
+• Hands-on experience in SCADA development (Zenon, WinCC).
+• Working knowledge of DCS configuration and development (PCS7 v9.0+).
+• Solid understanding of industrial communication protocols, I/O systems, and automation standards.
+• Strong analytical, troubleshooting, and problem-solving skills.
+• Excellent communication and teamwork abilities.
+• Willingness to travel for on-site commissioning and project support.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 40 :
+
+Responsibilities:
+• Design, develop, and implement control systems for industrial automation applications
+• Work with electrical engineers, mechanical engineers, and other team members to ensure that the control systems meet the requirements of the project
+• Test and troubleshoot control systems to ensure that they are functioning properly
+• Provide technical support to customers and users of the control systems
+• Support Field Installation of PLC and Support I/O Checkout, Testing and Commissioning Activities
+• Interact with Client and support the installation Under Clients direction and need of the projects.
+• Willing to travel on Short notices and provide technical leadership and support for the projects.
+
+Qualifications:
+• Bachelor's degree in engineering or a related field
+• 5+ years of experience in the design, development, and implementation of control systems
+• Experience with Rockwell PLC, Siemens PLC, and ABB PLCs
+• Excellent communication and problem-solving skills
+• Ability to work independently and as part of a team
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
