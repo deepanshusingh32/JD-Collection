@@ -1001,3 +1001,136 @@ Qualifications:
 • Ability to work independently and as part of a team
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 41 :
+
+Responsibilities
+• develop machine programs according to customer specifications
+• offering standard and custom training to support Beckhoff products and projects
+• documentation and recording of all project activities
+• maintain a high degree of relevant technical knowledge to fulfil the listed job responsibilities
+• advise customers on proper technology selection, use, maintenance, and training for specific applications
+
+Qualifications
+• bachelor of Engineering or Bachelor of Technology (E&TC, Electronics, Instrumentation, Mechatronics, E&E)
+• 1 to 3 years of work experience
+• experience with IEC 61131-3 programming languages, including (object-oriented extensions)
+• understanding of PLCs, motion controllers, robotics, distributed I/O, fieldbus systems (EtherCAT) and HMI technologies.
+• previous technical training and / or Beckhoff Automation experience
+• visual Studio and/or object-oriented programming (OOP) in automation
+• strong analytical and reasoning skills to collaborate in a fast-paced, action-oriented team
+• excellent written and oral communication skills with the ability to present to customers, companywide, and/or departmental meetings in English
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 42 :
+
+**Product Development & Improvisation:**
+- Collaborate closely with R&D teams to enhance both hardware and software for automation.
+- Provide valuable insights on industrial automation applications to ensure practical and efficient product design.
+- Conduct testing and validation of automation products under real-world industrial conditions.
+- Define product features, optimize control algorithms, and enhance system architectures.
+
+**Project Execution & System Integration:**
+- Design, program, and commission PLC, SCADA, and HMI solutions using platforms like Siemens, Rockwell, or ABB.
+- Develop automation strategies, control logic, and communication protocols.
+- Lead turnkey automation projects to ensure seamless integration with industrial processes.
+- Collaborate with clients and internal teams to translate requirements into functional automation solutions.
+
+**Technology Innovation & Optimization:**
+- Implement cutting-edge IIoT, Edge Computing, and Industry 4.0 solutions into automation products.
+- Optimize automation workflows for higher efficiency, reliability, and scalability.
+- Stay informed about emerging automation trends and propose enhancements for in-house products.
+
+**Documentation & Knowledge Sharing:**
+- Create technical specifications, test procedures, and user manuals.
+- Mentor junior engineers and provide insights into product functionality and best automation practices.
+- Work with cross-functional teams to ensure successful project and product lifecycle management.
+• *Required Skills & Qualifications:**
+• *Technical Skills:**
+- Proficiency in PLC, SCADA, HMI, and DCS systems from Siemens, Rockwell, or ABB.
+- Strong knowledge of OPCs, control system architecture, automation logic, and industrial networks.
+- Experience with industrial protocols such as Modbus, Profibus, Profinet, OPC UA, and Ethernet/IP.
+- Hands-on experience in IIoT, databases, and cloud-based automation.
+- Capability to define and optimize control logic, PID loops, and motion control for automation products.
+- Exposure to hardware design validation, panel integration, and product testing.
+• *Soft Skills:**
+- Innovative and problem-solving mindset for product and system enhancements.
+- Strong analytical skills with attention to detail.
+- Effective communication skills and ability to collaborate across R&D and project teams.
+- Efficient task management in a fast-paced development environment.
+• *Education & Experience:**
+- Bachelor's/Masters degree in Electrical, Electronics, Instrumentation, or Automation Engineering.
+- 4-8 years of experience in industrial automation with practical product development involvement.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 43 :
+
+Responsibilities:
+
+- Engineering, programming, testing, and commissioning of Level1 Automation systems for Flat and Long rolling mills using PLC, Technological controls, and HMI software.
+- Preparation of IO list, I/O Engineering, and related Automation drawings for basic engineering.
+- Detailing interface for MCCs, Drives, Measuring system, Level2 system, and package units.
+- Commissioning of Rolling mill Level1 automation system based on PLCs/Technological platform for Hot mill, Cold mills, Long rolling mills, and Processing lines in India and abroad.
+- Providing post-commissioning support and service support.
+
+Qualifications required for this role include:
+- University Degree in Electrical or Electronics Engineering (B.E or B. Tech).
+- 4 to 12 Years of work experience.
+- Good knowledge of PLC programming using Ladder logic, Function block diagram, Continuous flow charts (CFC), and Sequence on platforms like Siemens, ABB, TMEIC.
+- Programming knowledge of Technological systems like Siemens PCS7, Siemens TDC, SMS X-pact, Hi-Pac system is desirable.
+- Working knowledge of HMI systems like Siemens WinCC, Wonderware.
+- Good communication and analytical skills.
+- Interpersonal skills and the ability to work in an international work environment.
+- Willingness to travel in India and abroad for site commissioning work.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 44 :
+
+Key Responsibilities
+
+- Assume technical leadership for Protium compiler flow and become the go-to expert for the rest of the North America field AE team .
+- Provide in-depth technical assistance in collaboration with R&D to help support advanced Protium based flows to secure design wins .
+- Champion the customer needs and work closely with R&D in India to develop competitive and creative technical solutions.
+- Strong experience in FPGA based emulation or prototyping.
+- Experience in portioning for Xilinx FPGA’s and analyze bottlenecks to performance.
+- Knowledge of interface bring up on FPGA platforms like PCIe and DDR
+- Experience with SystemVerilog, VHDL, Verilog, C/C++/SystemC
+- Strong verbal and written communication skills, with the ability to effectively bridge communication channels between external customers, NA FAE team and internal R&D teams.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 45 :
+
+What You Can Expect
+
+Driving and sustaining best-in-class technical support/engagements, and demonstrated success in helping technically to Win complex design opportunities.
+Must be professional, detailed, customer-oriented, self-driven and able to collaborate with interdisciplinary teams to meet customer needs.
+Should be able to work closely with customers on projects, own programs, troubleshoot, diagnose, and resolve customer reported issues in a timely manner to enable customer product launches.
+Review customer schematics and layout. Hands-on bring-up and help debug of customer boards.
+Support customer lab/field trials. Demonstrate abilityto understand customer application environment and provide insights on how Marvell products are leveraged.
+Should strive to be a regional subject matter expert on Marvell Ethernet Phy portfolio.
+Interface with other regional/WW FAE Team members, R&D teams and product management to escalate and resolve issues.
+Own customer programs and support customer teams integrating Marvell products in their designs and assist them in board/software bring up.
+Replicate issues using customer configurations in a lab environment for issue investigations.
+Prepare and present technical demos and trainings for tradeshows and customers when necessary.
+Author technical knowledge base articles for use by customers, other technical support personnel, and partners.
+Travel to customer onsite locations would be required on need basis.
+
+What We're Looking For
+
+Bachelor’s degree and or/Master’s degree in computer science/Electronics/ Electrical Engineering or related fields and 5 - 10 years of software development background.
+Should be Proficient in C language and possess very good debugging skills. Experience on Python is a plus.
+Understanding Embedded Operating System concepts and prior experience in working on L1 drivers and L1(Phy) - L2(MAC) interoperability issues is desirable. Experience on L2 Switching and/or Ethernet MAC in Processors is a plus.
+Knowledge of complex mixed signal IC, PHY, Optical Transceivers, SerDes, high-speed interface protocols/signaling and standards.
+Strong influence and excellent interpersonal skills, coupled with ability to analyze, summarize, and communicate efficiently (written and verbal) in a multicultural environment.
+Familiarity with high-speed PCB layout, signal integrity, board assembly, and manufacturing is a plus
+Expertise on high-speed Copper and HSC/Opt ethernet interfaces including 10G /40G /100G/ 400G is preferred.
+Having working experience with Macsec and PTP is a plus. Experience in Software development of Networking products like L2 Switches, Routers and other networking equipment is a plus.
+Working knowledge of using lab equipment including high speed oscilloscopes, logic analyzers and traffic generators is desirable.
+Must possess strong communication and interpersonal skills. Previous experience in technical customer engineering role is a plus.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
