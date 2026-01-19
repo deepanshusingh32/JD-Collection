@@ -40,38 +40,217 @@ Qualifications And Aptitudes
 
 JD - 2:
 
+Key Responsibilities:
+- Lead and manage the production of VTOL platforms, ensuring adherence to timelines, cost, and quality standards.
+- Develop and implement production strategies, processes, and best practices for efficient manufacturing.
+- Coordinate with design, engineering, supply chain, and quality teams to ensure seamless integration of components.
+- Drive continuous improvement initiatives to optimize production efficiency and reduce costs.
+- Ensure compliance with aerospace industry standards, certifications, and regulatory requirements.
+- Manage vendor relationships and oversee procurement of critical components.
+- Monitor production KPIs and prepare regular reports for senior management.
+- Mentor and develop a high-performing production team.
 
+Required Qualifications & Skills:
+- Education: B.Tech / M.Tech in Aerospace, Electronics & Communication (ECE), or Mechanical Engineering.
+- Experience: 15+ years in aerospace or defense manufacturing, with at least 5 years in a leadership role.
+- Proven expertise in VTOL or UAV production processes.
+- Strong knowledge of lean manufacturing, Six Sigma, and quality management systems.
+- Excellent leadership, communication, and stakeholder management skills.
+- Familiarity with defense industry compliance and certification standards.
+
+Preferred:
+- Experience in composite materials and advanced manufacturing techniques.
+- Exposure to defense projects and working with government agencies.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 JD - 3:
 
+Key Responsibilities
+Technical Leadership
+• Lead RF and antenna architecture definition for airborne, naval, ground, and space platforms
+• Own antenna and RF subsystem performance budgets (gain, pattern, EIRP, noise figure, linearity, isolation, EMC)
+• Drive design reviews (SRR, PDR, CDR, TRR) and provide technical sign-off
+• Perform system-level RF trade studies considering size, weight, power, cost (SWaP-C)
 
+Antenna Design & Development
+• Design and optimize antennas and arrays:
+o Phased arrays, conformal antennas
+o Radar, EW, Satcom, IFF, GPS, data link antennas
+• Handle wideband, multiband, dual-polarized, low-profile antennas
+• Antenna placement, integration, and coupling analysis on platforms
+• Support antenna radome and RF-transparent structure evaluation
+
+RF & Microwave Design
+• Design and validate RF subsystems including:
+o LNAs, PAs, filters, couplers, switches, duplexers
+o T/R modules, beamformers, Butler matrices
+• Perform RF chain analysis (gain, noise, compression, spurs)
+• Interface with MMIC, module, and system teams
+
+Simulation, Measurement & Validation
+• Lead EM simulation using HFSS, CST, ADS, AWR
+• Own antenna and RF measurements:
+o Anechoic chamber testing
+o VNA, spectrum analyzer, power meter measurements
+• Correlate simulation vs measurement and drive design closure
+• Support EMI/EMC, environmental, and qualification testing
+
+Aerospace & Defense Compliance
+• Ensure compliance with MIL-STD, DO-160, DEF-STAN, IEC standards
+• Support airworthiness, qualification, and certification activities
+• Prepare and review technical documents, test reports, and compliance matrices
+
+Mentoring & Team Development
+• Mentor junior and senior RF/antenna engineers
+• Define technical training plans and design best practices
+• Review and approve designs, simulations, and test results
+
+Program & Cross-Functional Collaboration
+• Work closely with:
+o System engineering
+o Mechanical, thermal, EMI/EMC teams
+o Manufacturing, quality, and supply chain
+• Support proposal development, technical risk assessment, and cost estimation
+• Interface with customers, DRDO/ISRO/PSUs/OEMs and certification agencies
+
+Required Skills & Qualifications
+Technical Skills
+•Strong fundamentals in RF, microwave, and antenna theory
+• Expertise in phased arrays, radar antennas, EW and Satcom systems
+• Hands-on experience with RF test equipment
+• Strong understanding of EMI/EMC and platform integration challenges
+Tools & Software
+• EM tools: HFSS, CST, FEKO
+• RF circuit tools: ADS, AWR
+• CAD & documentation tools
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 4:
 
+Key Responsibilities
+• Operate VTOL drones for testing, validation, and operational missions.
+• Conduct pre-flight checks, mission planning, and post-flight analysis.
+• Execute flight tests under varying conditions to assess performance and reliability.
+• Record and report flight data, anomalies, and provide feedback for system improvements.
+• Ensure compliance with DGCA and internal safety protocols during all operations.
+• Assist in developing SOPs for VTOL drone operations.
+• Support integration and troubleshooting of payloads and avionics systems.
 
+Required Qualifications
+• Minimum 3–5 years of experience in drone piloting, preferably VTOL platforms.
+• DGCA Remote Pilot License (RPL) or equivalent certification.
+• Strong understanding of UAV flight control systems, navigation, and mission planning software.
+• Familiarity with DGCA regulations and defense operational standards.
+• Ability to analyze flight data and provide technical feedback.
+
+Preferred Qualifications
+• Experience in defense/aerospace projects or military UAV operations.
+• Knowledge of advanced VTOL systems and hybrid propulsion technologies.
+• Background in avionics or mechanical engineering is a plus.
+
+Key Competencies
+• Precision and situational awareness during flight operations.
+• Strong problem-solving and troubleshooting skills.
+• Ability to work in high-pressure and dynamic environments.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 5:
 
+Key Responsibilities:
+#Electronics Hardware Design:
+- Analyze product and system-level requirements
+- Finalize hardware architecture
+- Select major components and define design approach
+- Plan power budgeting and distribution
+- Implement EMI/EMC-compliant design
+- Perform circuit analysis and simulations
+- Create detailed schematics and BOM (Bill of Materials)
+- Conduct obsolescence analysis
+- Review and comprehend PCB layouts and Gerber files
+- Perform signal and power integrity analysis
+- Carry out de-rating analysis
+- Prepare card/PCB assembly and cable diagrams
+- Develop card-level and cable-level test procedures
+- Provide input documentation for thermal analysis
+- Coordinate PCB fabrication and module/cable assembly
+- Test electronic modules and cables
+- Integrate and test engineering prototypes
+- Incorporate design improvements based on development testing feedback
 
+Technical Skills & Expertise:
+- High-speed microprocessors: PowerPC, ARM, Intel
+- Video and graphics processing
+- Communication protocols: MIL-STD-1553B, ARINC429, Gigabit Ethernet, USB 2.0/3.0, SATA, CANBus 2.0, PCI/PCIe
+- Video interfaces: STANAG 3350, RS-343A, DVI, ARINC818
+- Analog signal processing
+- DDR2/DDR3 memory interfaces (with ECC)
+
+Key Attributes:
+- Strong analytical and problem-solving skills
+- Ability to work seamlessly in cross-functional teams
+- Curiosity and eagerness to explore new technologies
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 6:
 
+Job Description
+- Promote and manage sales for industrial and electronic process materials and equipment including:
+- Solder Paste, Solder Wire, TAC Flux, and Solder Preforms
+- EMS & Metal Cleaning Solutions for Industrial, Aerospace, and Defense applications
+- Precision Soldering and De-soldering Solutions, SMT Rework Stations, and Convection Rework Systems
+- Fume Extraction Systems
+- Precision Manual and Robotic Dispensing Systems, including Dispensing Valves, Syringe Barrels, Two-component Dispensing, and Jetting (Non-contact Dispensing) solutions
+- Identify, develop, and maintain strong relationships with customers across EMS, Aerospace, and Defense industries.
+- Understand customer requirements and propose suitable solutions from MELSS’s product portfolio.
+- Collaborate with internal technical teams to prepare proposals, quotations, and conduct product demonstrations.
+- Manage existing accounts while identifying new business opportunities to achieve sales targets.
+- Gather market feedback and competitor intelligence to support business planning.
 
+Required Skills & Qualifications:
+- Bachelor’s Degree in Electronics, Electrical, or a related field.
+- 3 – 5 years of experience in industrial sales, preferably in Electronic Manufacturing Materials, Soldering, Dispensing, or Rework Systems.
+- The candidate must either have strong technical knowledge of industrial/electronic process equipment OR possess an established customer base in the relevant technical industry (EMS, Aerospace, or Defense).
+- Excellent communication, presentation, and negotiation skills.
+- Ability to travel for client meetings, product demos, and technical discussions.
+
+Preferred Attributes
+- Experience in selling Soldering, Cleaning, or Dispensing Solutions for industrial applications.
+- Exposure to SMT process lines, rework systems, and automated dispensing setups.
+- Strong customer relationship management and networking abilities.
+- Self-motivated, target-driven, and capable of working independently.
+- Should be ready to travel to Customer Location.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 7:
 
+Roles And Responsibilities
+- Development of embedded software for applications such as data recorders, on-board computers, flight controllers, battery management systems, power electronic control systems etc.
+- Responsible for driving the end-to-end avionics software development activities: from requirements to flight testing.
+- Define software architecture, development plans & process (bare-metal, RTOS, or Model-based), high-level design, coding guidelines & compliance.
+- Review unit, integration, and regression test plans, coordinate test execution & report generation.
+- Conduct software level FMEAs & Code reviews to ensure clean, scalable, high-quality software that meets MISRA-C/DO-178 guidelines.
+- Cross functional interface with systems, electrical power systems, flight controls, hardware teams to ensure smooth integration of software & hardware onto the flight.
+- Guide & mentor the team to execute their deliverables.
+- Establish processes for software certification in the company. Interface with the certification agency.
+- Establish scope and framework for standardization of integration processes and common tools identification. Prepare associated documentation for company records.
 
+Must Have Skills
+- Experienced in all phases of SW development: from architecture definition to user acceptance.
+ Has worked on:
+Languages: Embedded C++, Python/Java/C#
+- RTOS frameworks such as FreeRTOS, VxWorks, Green Hills
+- Setting up of SITL/HITL Simulations & Test-benches
+- Excellent articulation, communication & interpersonal skills.
+- Experienced in developing software for one or more of avionic components such as sensors(IMU, GPS, airspeed, voltage, current and temperature), payloads(EO/IR Camera, RADAR, LIDAR, LRF), servos/solenoids, Flight Controllers, Data Recorders, On-board Computers, Communication Modules, Antennas, BEC, etc
+
+Good To Have Skills
+- Experienced in DO-178/ISO26262 certification and standards.
+- Experienced in Aerospace/Defence/Automotive domains.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
