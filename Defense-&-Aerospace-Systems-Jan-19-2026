@@ -577,98 +577,318 @@ Participate in continuous improvement initiatives to optimize asphalt coating pr
 
 JD - 21:
 
-
+Qualifications
+• Proficiency in Aerodynamics and an understanding of fluid dynamics principles.
+• In-depth knowledge and practical experience in Aerospace Engineering.
+• Expertise in Systems Engineering, including system analysis and design.
+• Experience and understanding of Aircraft and/or Spacecraft design, testing, and operations.
+• Strong analytical and problem-solving skills, with attention to detail.
+• Ability to work collaboratively within a team-oriented environment.
+• Bachelor's or advanced degree in Aerospace Engineering or a related field.
+• Familiarity with computer-aided design (CAD) tools and simulation software is an advantage.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 22:
 
-
+Qualifications
+• Proficiency in Aerodynamics and an understanding of fluid dynamics principles.
+• In-depth knowledge and practical experience in Aerospace Engineering.
+• Expertise in Systems Engineering, including system analysis and design.
+• Experience and understanding of Aircraft and/or Spacecraft design, testing, and operations.
+• Strong analytical and problem-solving skills, with attention to detail.
+• Ability to work collaboratively within a team-oriented environment.
+• Bachelor's or advanced degree in Aerospace Engineering or a related field.
+• Familiarity with computer-aided design (CAD) tools and simulation software is an advantage.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 23:
 
+Primary Responsibilities:
+- Elicitation of System Level Requirements and breakdown from customer requirements to high/low level requirements
+- Technically lead a team of Systems engineers working on the complex systems in the field of Traffic Surveillance products
+- Verify Avionics DAL B products in CNS Domain
+- Develop common supporting tools necessary for the development/Verification. 
+- Develop integration and verification strategies for avionic functions and products, create test plans, test case and procedure, execute system verification and create test reports. 
+- Supporting certification and producing system level artifacts against industry guidelines/recommendations
+- You will get to work with architects and senior developers to create scalable, extensible, and sustainable solutions. 
+- Support Drive strategic roadmap and Drive organizational development initiatives: Talent Management; Performance Management;
 
+Key Skills Required:
+- Solid understanding of the systems development lifecycle (SDLC) and its implementation in complex avionics systems . 
+- Strong proficiency with systems requirements capture from industry and internal product line source requirements using Jama. 
+- Experience with MOPS 
+- Ability to develop and interpret system architectures, block diagrams, interface control documents (ICDs), and system designs. 
+- Working knowledge of avionics protocols (AFDX, ARINC 429, ARINC 615/615A, Ethernet). 
+- Familiarity with aerospace systems and safety guidelines ARP4754A/B and ARP4761. 
+- Certification experience (Interfacing with internal Cert office, customer cert offices, or FAA directly). 
+- Experience with Agile development and Atlassian Suite tools, including JIRA for backlog management and Confluence for documentation. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 24:
 
+What You'll Do
+• Design and implement robust robotics software using ROS2 and modern C++ for autonomous navigation, manipulation, and perception in dynamic greenhouse environments
+• Develop and validate algorithms in NVIDIA Isaac Sim before deploying to our fleet of robots, dramatically reducing development cycles from months to days
+• Create intelligent systems that enable robots to make real-time decisions about crop work, from identifying ripe tomatoes to determining optimal cutting points
+• Build resilient architectures that ensure continuous operation even with connectivity disruptions, supporting our 24/7 autonomous operations
+• Integrate computer vision models with robotic control systems to enable precise manipulation of delicate crops without damage
+• Implement over-the-air update systems that allow us to deploy new capabilities remotely to robots worldwide
+• Collaborate cross-functionally with AI/ML engineers, mechanical engineers, and crop scientists to deliver end-to-end solutions
 
+Qualifications
+
+Core Requirements (All Levels)
+• Bachelor's degree in Robotics, Computer Science, Electrical/Mechanical Engineering, or related field (or graduating by Summer 2025)
+• Proficiency in C++ programming or demonstrated ability to upskill quickly
+• Exposure to ROS/ROS2 through real-world implementations, projects, internships or coursework
+• Understanding of core robotics concepts: kinematics, dynamics, control theory, and path planning
+• Familiarity with Linux environments
+• Passion for solving complex real-world problems with tangible impact
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 25:
 
+Job description
+• Design, prototype, and test robotic systems using CAD tools and simulation software.
+• Develop and implement control algorithms for autonomous and semi-autonomous robotic behavior.
+• Integrate sensors (e.g., LiDAR, cameras, IMUs), actuators, and end-effectors into functional robotic platforms.
+• Collaborate with software engineers to implement real-time navigation, path planning, and perception systems.
+• Conduct system-level testing, troubleshooting, and performance optimization.
+• Document design specifications, test results, and technical procedures.
+• Stay current with emerging trends and technologies in robotics, AI, and automation.
+• Support the deployment and maintenance of robotic systems in field environments.
 
+Requirements
+• Bachelor’s or Master’s degree in Robotics, Mechanical Engineering, Electrical Engineering, Mechatronics, or a related field.
+• 2–5 years of professional experience in robotic system design, development, or integration.
+• Proficiency in programming languages such as Python, C++, and ROS (Robot Operating System).
+• Experience with microcontrollers (e.g., Arduino, STM32) and real-time operating systems.
+• Strong understanding of kinematics, dynamics, control theory, and feedback systems.
+• Hands-on experience with CAD tools (e.g., SolidWorks, AutoCAD) and simulation platforms (e.g., Gazebo, MATLAB/Simulink).
+• Familiarity with sensor fusion, SLAM algorithms, and machine learning applications in robotics.
+• Excellent problem-solving skills and ability to work in fast-paced, collaborative environments.
+• Strong communication and documentation skills.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 26:
 
+• *Key Responsibilities:**
+- Lead the development and deployment of real-time 2D/3D SLAM solutions for indoor and outdoor navigation.
+- Build and optimize multi-sensor fusion using 3D/4D LiDAR, Intel RealSense, IMU, wheel odometry, and RGB-D cameras.
+- Implement VSLAM pipelines and integrate them into the organizations perception framework.
+- Own and maintain navigation, localization, and mapping modules in ROS2.
+- Work closely with motion planning, controls, and AI teams to enable fully autonomous behaviors.
+- Develop clean and maintainable code using C++ & Python following best robotics software practices.
+- Lead a small team of robotics engineers and ensure timely project delivery.
+- Benchmark and improve robustness for complex dynamic environments.
+- Support real-world deployments, field testing, tuning, and performance improvements.
 
+• *Required Skills & Expertise:**
+- Strong hands-on experience with 2D & 3D SLAM algorithms (Cartographer, ORB-SLAM, LOAM, RTAB-Map, etc.)
+- Expertise in LiDAR-based mapping and point cloud processing (PCL, Open3D, etc.)
+- Practical experience working with 3D/4D LiDARs and Intel RealSense camera family
+- High-performance robotics software development using C++ and Python
+- Proficiency with ROS2 (Nav2, TF2, RMW, DDS, middleware)
+- Deep understanding of sensor calibration, extrinsics, odometry, and transforms
+- Experience with real-time embedded Linux systems and GPU-accelerated pipelines
+- Familiarity with Docker, CI/CD pipelines and Git is a plus
+
+• *Preferred Qualifications:**
+- Masters/PhD in Robotics, Computer Science, Mechatronics, or related field
+- Experience working with humanoid robots or mobile manipulators
+- Publications / open-source contributions in perception / SLAM communities
+- Experience with deep learningbased perception frameworks (nice to have)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 27:
 
+You will be responsible for the following key tasks:
 
+- Designing and developing liquid fuel injection systems for aero engine applications
+- Applying systems level modelling approach for engine design
+- Developing combustors from systems level design and requirements
+- Creating HPC based digital twins using multiphase and reactive flow models
+- Coordinating with design, manufacturing team, and vendors for successful component realization
+- Conducting combustion test rig and experimental campaigns
+- Performing hardware testing on test rigs, followed by rapid design iterations
+- Conducting engine ground testing, data analysis, and design revisions
+- Setting up advanced experiments using laser diagnostics
+- Understanding liquid fuel flow systems for Jet A and high-pressure plumbing
+- Implementing best practices related to high pressure plumbing lines, pressure regulation, and formulation of P&IDs
+- Ensuring safety protocols in testing
+- Coordinating with the turbomachinery team for system integration.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 28:
 
-
+Key Responsibilities:
+- Accomplishing and supporting activities related to the propulsion system design of UAVs during both the conceptual and detailed design phases.
+- Evaluating propeller sizing calculations based on operational requirements and aerodynamic characteristics using computational methods.
+- Designing and developing propulsion systems, optimizing at the component level.
+- Providing design suggestions to meet propulsion requirements based on analysis results.
+- Leading the team, independently solving problems, and having hands-on experience in handling propulsion systems.
+- Characterizing propulsion systems using conventional experimental techniques like Static test, Wind tunnel test, and Dynamometer test.
+- Maintaining the vendor database and establishing contacts.
+- Handling the mechanical design and interface of components to meet requirements.
+- Defining propulsion system requirements and planning tasks to meet these requirements.
+- Establishing verification and validation processes to ensure compliance with requirements.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 29:
 
-
+The various activities to be performed are:
+• Consolidate Engine System Requirements with the different internal stakeholders.
+• Contribute to Integration activities with engine manufacturer and Airbus team relative to Engine system: Design reviews, Interfaces definition, architecture optimization.
+• Contribute to innovation of our Products and support TRL (Technical Readiness Level) maturity gates.
+• Develop competences relative to System Engineering and MBSE
+• Define and validate functional requirements and interface requirements for the integration (systems, mechanical, hydro-mechanical, thermal and Multiphysics) of the Powerplant System which encompasses Engine and/or Propeller structure, Nacelle and equipment (pump, heat exchanger, valve, tank, pipe, etc.).
+• Contribute to the certification by supporting the delivery of the Powerplant Certification dossier.
+• Deliver Technical Specification to suppliers of the components.
+• Perform Verification and Validation activities to ensure the compliance with the set of the Powerplant requirements.
+• Support Powerplant industrialization, Entry Into Service and In-Service operation.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 30:
 
-
+Key Roles & Responsibilities
+• Design, develop, and integrate attitude and orbit control system (AOCS) algorithms to maintain satellite stability, pointing accuracy, and maneuverability.
+• Develop control laws for reaction wheels, control moment gyros, magnetorquers, and thrusters.
+• Model satellite dynamics and actuator behavior for control system design and analysis.
+• Integrate control algorithms with onboard avionics and real-time flight software.
+• Perform stability analysis, tuning, fault tolerant control design and performance optimization across mission phases.
+• Conduct simulations, hardware-in-the-loop (HIL), and closed-loop testing to validate control performance.
+• Support in-orbit operations, anomaly analysis, and control system reconfiguration.
+• Ensure compliance with mission requirements, safety, reliability, and space-qualification standards.
+• Model and simulate satellite dynamics using tools like MATLAB/Simulink.
+• Integrate sensors and actuators (gyros, star trackers, reaction wheels, thrusters).
+• Participate in mission planning, orbit maintenance, and station-keeping strategies.
+• Analyze telemetry data to assess in-orbit performance and diagnose anomalies.
+• Collaborate with mission operations teams for end-to-end delivery.
+• Support environmental testing (thermal vacuum, vibration, EMI/EMC) and qualification campaigns of the designed and integrated projects.
+• Develop and maintain schematics, PCB designs, and interface control documents (ICDs).
+• Ensure compliance with space-grade standards, mission requirements, and reliability expectations.
+• Support launch preparation and on-orbit commissioning activities as required.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 JD - 31:
 
+key responsibilities:
 
+- Conducting trade studies to select optimal electronic hardware components for ground and aerial platforms.
+- Developing software for sensor, transducer, and actuator integration, ensuring seamless operation with data acquisition units in SITL/HITL environments and ground test rigs.
+- Creating PCB integration schemes for SMD sensors and power converters (step-down/step-up) and validating functionality at system and subsystem levels.
+- Preparing Interface Control Documents (ICDs) for in-house electronic assemblies and avionics LRUs.
+- Mentoring test engineers in developing Acceptance Test Procedures (ATPs), Acceptance Test Reports (ATRs), and checklists for in-house assemblies and LRUs.
+- Guiding the creation of Qualification Test Procedures (QTPs) and Qualification Test Reports (QTRs) for compliance with operational and environmental standards.
+- Ensuring all electronic assemblies and LRUs meet regulatory, operational, and environmental qualification requirements.
+- Collaborating with cross-functional teams to achieve seamless integration of hardware and software for UAV and ground systems.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 32:
 
+Concept & Product Design
+• Translate functional and performance requirements into feasible engineering concepts
+• Develop system architecture, define load paths, and establish design philosophy
+• Perform trade studies considering performance, weight, cost, and manufacturability
+• Support new product development from concept to detailed design
+• UI / UX design ensuring aesthetics & ease of assembly, operation
 
+CAD & 3D Modeling
+• Create detailed 3D models and assemblies using CAD tools.
+• Generate 2D drawings with GD&T and manufacturing annotations
+• Apply DFM / DFA principles to improve manufacturability and assembly efficiency
+• Manage design revisions and engineering documentation
+
+Mechanism Design
+• Design and validate mechanisms such as linkages, adjustment systems, actuators, sliding / rotating assemblies
+• Perform kinematic studies to ensure smooth motion, repeatability, and determine design loads
+• Address tolerance stack-up, wear, durability, and reliability in moving systems
+
+Engineering Analysis (FEA)
+• Perform structural FEA for static, dynamic, and fatigue load cases
+• Define realistic boundary conditions and loading scenarios
+• Interpret results to drive design optimization and risk mitigation
+
+Cross-Functional Support
+• Collaborate with manufacturing, quality, testing, and supply chain teams
+• Support prototype build, testing, and validation activities
+• Troubleshoot design and production issues using structured problem-solving
+• Contribute to continuous improvement in engineering processes
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 33:
 
-
+Key Responsibilities:
+• Design aerospace structures and payloads considering tolerance stack up cost effectiveness and manufacturability
+• Create manufacturing drawings detail assembly installation and 3D MBD as per ASME standards
+• Perform V4 Mylar Sheet to V5 conversion for both 3D and 2D MBD
+• Work on Relational and Parametric Modeling and interpret engineering drawings in 2D MBD
+• Collaborate with cross functional teams and manage change requests and sustenance projects
+• Utilize PLM tools Enovia and CAD automation for design optimization.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 34:
 
+What You’ll Do
+• Collaborate with the design team to define and iterate aerodynamic surfaces and OML using CAD software.
+• Run low-fidelity Vortex Lattice Method based tools for quick assessments and lifting surfaces sizing.
+• Own the end-to-end CFD pipeline including geometry clean up, meshing, solving and post processing
+• Generate and maintain aerodynamic databases for: Aircraft loads, performance and stability
+• Post-process aerodynamic data from multiple computational and experimental sources to build surrogate models and interpolate data for use in flight dynamics simulations.
+• Contribute to toolchain development, improving internal scripts and workflows.
+• Write clear technical documentation and maintain clean, versioned aero data libraries.
 
+What We're Looking For
+• Solid understanding of aerodynamics, aircraft performance, and stability/control theory.
+• Hands-on experience with 3D CAD modeling of aerodynamic surfaces (e.g. wings, nacelles, ducts, empennage).
+• Proficiency in CFD tools (e.g., ANSYS Fluent, OpenFOAM, SU2) and associated meshing & post-processing workflows.
+• Experience with low-fidelity aero tools (AVL, VSPAero, XFOIL) and CFD automation using Python/MATLAB and shell scripting.
+• Strong data handling skills — able to work with large datasets and convert them into useful engineering models.
+• Exposure to blown wing / high-lift aerodynamics and wind tunnel testing.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 35:
 
-
+Domain skills :
+• Expert in FPGA flows with Xilinx, including compilation, synthesis, debug, performance and implementation of advanced features
+• Good Hands on Linting, Static Timing Analysis, Equivalence Checking & Clock Domain Crossing.
+• Experience in developing verification environment to verify developed items using self-checking test benches, BFMs, checkers/Monitors & Score boards using VHDL/verilog.
+• Prior experience in integrating Nios, MPIS, MicroBlaze, ARM Cortex, etc. GTX / GTH transceivers & 10GE MAC / DMA controller / PCIe Gen3 / CPRI / JESD / FFT IP core
+• Common control interfaces design, like AMBA AXI, UART, SPI, I2C, DDR, Ethernet, USB, etc..
+• Knowledge on programming languages such as Verilog, VHDL and system Verilog
+• Experience with any scripting language for automation (Perl/TCL/Python).
+• Familiar with standard FPGA HW bring-up activities and testing
+• Experience with HW measuring tools like oscilloscopes, Signal analysers, JTAG Emulators
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 36:
 
+- Airframe Design: Design and model complex UAV airframes (fixed-wing, multirotor, or hybrid VTOL) using SolidWorks.
+- You must account for vibration isolation, dampening, thermal management (cooling flow) and environmental sealing (IP-rated for dust/moisture etc).
+• Simulation & Analysis: Perform FEA (Finite Element Analysis) for structural loads and basic CFD (Computational Fluid Dynamics) to validate drag/lift coefficients before prototyping.
+• DFM (Design for Manufacturing): Create designs that are ready for production, including mold design for composites and CNC machining tolerances.
+• Generate detailed technical drawings and BOMs (Bill of Materials) for the manufacturing team.
 
+- Expert proficiency in SolidWorks (Surfacing module expertise is a plus).
+· Deep understanding of material selection (aerospace grade materials, 3D printed polymers etc).
+Bonus Skills (The Differentiators):
+• Basic understanding of avionics/electronics systems for EMI/EMC shielding.
+• Experience designing mechanisms (retractable landing gear, servo linkages, payload release systems, aerodynamic ducts, locking mechanisms etc).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
