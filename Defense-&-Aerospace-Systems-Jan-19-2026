@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Google Sheet Link : 
+Google Sheet Link : https://docs.google.com/spreadsheets/d/1HVGqEEP7UcE75WPMjsbMm_NOvEMoGeD4yzJdK6BxB7c/edit?gid=0#gid=0
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 1:
@@ -257,28 +257,216 @@ Good To Have Skills
 JD - 8:
 
 
+Key Responsibilities 
+Flight Autonomy & Mission Software 
+● Design and implement autonomous flight behaviors (takeoff, navigation, mission execution, recovery)
+● Develop mission logic: waypoint navigation, loitering, dynamic rerouting, fail-safe behaviors 
+● Support both multirotor and fixed-wing flight profiles 
+● Implement autonomy for high-speed, long-range, and time-critical missions 
+
+Sensor Fusion & Navigation
+● Implement and tune sensor fusion pipelines using:
+ ○ IMU 
+ ○ GNSS (GPS / multi-constellation)
+ ○ Barometer 
+ ○ Magnetometer 
+ ○ Airspeed / pitot (where applicable) 
+● Work with EKF / complementary filter–based state estimation 
+● Design navigation logic for GPS-denied or degraded environments (INS-based dead reckoning, degraded modes) 
+
+Swarm & Distributed Autonomy
+● Develop multi-vehicle coordination logic (leader–follower, redundancy, task handover) 
+● Design decentralized behaviors where vehicles can continue missions despite node loss 
+● Implement inter-vehicle communication for shared state and coordination 
+
+Flight Control Stack Integration 
+● Work directly with PX4 and/or ArduPilot at configuration and code level 
+● Integrate autonomy modules with flight control loops 
+● Modify or extend autopilot behavior when required by mission logic 
+
+Simulation, Testing & Validation
+● Develop and validate autonomy using SITL / HITL 
+● Use MATLAB/Simulink, Gazebo, X-Plane, or similar tools for modeling and testing 
+● Analyze real flight logs and iteratively improve performance 
+● Support real-world ground tests and flight tests 
+
+Required Technical Skills 
+Core Flight & Autonomy
+● Strong understanding of UAV flight dynamics
+● Experience with autonomous navigation and control 
+● Familiarity with state estimation and sensor fusion concepts 
+
+Software & Programming 
+● C / C++ for flight-critical and embedded software 
+● Python for tooling, analysis, and mission scripting
+● Experience with Linux-based embedded systems 
+
+Communication & Middleware 
+● MAVLink 
+● CAN / DroneCAN 
+● UART, I2C, SPI
+● ROS / ROS2 (preferred) 
+
+Simulation & Analysis
+● MATLAB / Simulink 
+● SITL / HITL workflows
+● Log analysis and debugging of real flight data 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 9:
 
+• *Responsibilities:**
+- Perform complex stress analysis on aircraft structures and components using FEA software such as Nastran, Abaqus, ANSYS.
+- Validate analytical results through hand calculations and physical testing.
+- Develop and maintain detailed stress analysis reports, including load cases, boundary conditions, and material properties.
+- Collaborate with design engineers, manufacturing teams, and test engineers to ensure designs meet structural requirements.
+- Identify potential structural issues and propose effective design modifications or solutions.
+- Ensure compliance with aerospace certification requirements and industry standards (e.g., FAA, EASA, MIL-STD).
+- Participate in design reviews and provide expert technical input on structural integrity.
+- Analyze failure modes and effects (FMEA) for critical structural components.
+- Support the development of new materials and technologies for aerospace applications.
+- Mentor junior stress engineers and provide technical guidance.
+- Manage multiple analysis tasks simultaneously and meet project deadlines.
+- Contribute to the improvement of analysis processes and methodologies.
+- Develop and execute test plans for structural validation and qualification.
+- Review and approve stress analysis documentation created by team members.
+- Stay updated on the latest advancements in stress analysis techniques and aerospace structural design.
 
+• *Qualifications:**
+- Bachelor's or Master's degree in Mechanical Engineering, Aerospace Engineering, or a closely related field.
+- Minimum of 8 years of professional experience in stress analysis, with a significant focus on aerospace structures.
+- Expert proficiency in FEA software such as Nastran, Patran, Abaqus, or ANSYS.
+- Strong understanding of solid mechanics, elasticity, plasticity, fatigue, and fracture mechanics.
+- Knowledge of aerospace materials (e.g., aluminum alloys, titanium, composites) and their behavior under load.
+- Familiarity with aircraft loading conditions, including flight loads, ground loads, and environmental loads.
+- Experience with certification processes and relevant aerospace regulations.
+- Excellent analytical, problem-solving, and critical thinking skills.
+- Strong communication and interpersonal skills for effective collaboration with cross-functional teams.
+- Ability to work independently and manage complex projects.
+- Proficiency in programming languages (e.g., Python, Fortran) for scripting and automation is a plus.
+- Experience with composite material analysis is highly desirable.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 10:
 
+In this role, you will have the opportunity to:
+• Work as part of a cross functional team, designing and detailing products while ensuring safety and functionality are met in accordance with the customer requirements and current legislation
+• Create and modify Aerospace CAD drawings and models in CATIA.
+• Assist in identifying areas for improvement in processes and products. Learns about continuous improvement and VAVE principles, applying basic concepts under guidance.
 
+The essential requirements of the job include:
+• Understanding of fundamental mechanical design principles relating to aircraft air and fluid systems, with a focus on component-level design tasks within the broader system.
+• General understanding of international engineering drawings (BS8888 / ASME Y14.5 or equivalent global standard).
+• Familiarity with basic mechanical design principles. Ability to create and modify CAD drawings and models under supervision.
+• Fluent written and spoken English.
+• B.E / B.Tech (Mechanical or Aerospace or related)
+• Experience of min 1-3 yrs in the relevant field of Engineering
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 11:
 
+Role Overview:
+• Lead TRL programs, work with MRL/RRL teams to design, plan, and execute industrialization of materials and coatings systems (e.g. Electroforming, REACh) for both new make and repair through drive project planning, troubleshooting, data analysis, documentation and technical reviews.
+• Serve as the subject matter expert in materials engineering (coatings and/or metallic alloys), leading/guiding multiple development programs and material processing initiatives
+• Develop and validate new technologies in collaboration with scientists, engineers, and technicians; apply advanced analytics (spectroscopy, microscopy, etc…) to understand degradation and repair mechanisms
+• Support and coordinate with interfacing organizations such as manufacturing, sourcing, services, global engineering, ATO, and systems engineering
+• Provide technical responses and presentations to internal and external customer
+• Communicate progress, results, and recommendations to stakeholders at all levels; deliver technical presentations to internal/external customers
+• Generate IP through invention disclosures and patent applications; stay current on industry trends
+• Manage, mentor, and develop junior researchers and technicians; promote best practices, safety, and quality in labs
+• Exercise sound judgment to solve complex, cross-functional problems; assess information quality, ask pertinent questions, and propose innovative, data-driven solutions to improve products, processes, and services
 
+Required Qualifications:
+• Master’s/Ph.D Degree accredited college or university in Materials, Mechanical, or Chemical Engineering or related discipline
+• Minimum of 5 years of experience in Materials, Mechanical, or Chemical Engineering or related discipline
+• Experience conducting research and development in aircraft engine technologies in material domain
+• Requires specialized knowledge within material coatings, metallic alloys, and material processing
+• Experience with advanced analytical techniques, including spectroscopy, microscopy etc..
+• Ability to drive projects to completion
+• Strong oral and written communication skills
+• Strong interpersonal and leadership skills
+• Ability to interface effectively with all levels of the organization and external customers
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 12:
+
+What you’ll do
+• Organize and label flight logs, sim logs, design logs, sensor data, and video data into structured datasets.
+• Build pipelines to clean, parse, index, and query large volumes of aerospace telemetry.
+• Train LLM-based models to interpret logs and generate performance metrics, summaries, and fault signatures.
+• Develop internal tools for engineers to search, visualize, and analyze logs quickly.
+• Work with autonomy, GNC, and flight-test teams to define which metrics and behaviors must be extracted.
+
+What we're looking for
+• Strong Python skills and experience with data processing, time-series analysis, or telemetry logs.
+• Experience training or fine-tuning LLMs or ML models.
+• Ability to work with large, messy, multimodal datasets.
+• Clear systems thinking — able to design pipelines that make engineers faster.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 13:
+
+Essential Duties and Responsibilities:
+- Drive design wins by engaging with engineering teams at Defense & Aerospace customers to secure design-ins of TCLAD’s thermally conductive PCB products.
+- Provide application and design guidance related to thermal performance, dielectric materials, and board stack-ups for high-power applications.
+- Create trust and increase TCLAD’s brand value by acting as the primary technical contact for target accounts, from concept through qualification and into production.
+- Collaborate closely with TCLAD’s product engineering, manufacturing, and sales teams to align technical solutions with customer needs.
+- Identify new project opportunities and influence specifications that drive long-term business growth.
+- Deliver product presentations, application notes, and design support materials to engineering and procurement teams.
+
+Minimum Qualifications:
+- B.S. in Electrical, Mechanical, or Materials Engineering, or related field.
+- 7+ years in Field Applications, Design Engineering, or Technical Sales roles.
+- Proven history of design wins leading to measurable business growth.
+- Strong network within Defense & Aerospace OEMs, Start-ups and Tier 1s (Raytheon, Collins Aerospace, Northrop Grumman, Lockheed Martin, etc.).
+- Experience with high-power electronics, power management systems, and PCB application preferred.
+- Understanding of IPC standards, MIL-spec qualifications, and Defense/Aerospace material requirements.
+- Excellent communication and presentation abilities; strong problem-solving and customer advocacy skills.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 14:
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 15:
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 16:
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 17:
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 18:
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 19:
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 20:
 
 
 
