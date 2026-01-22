@@ -748,3 +748,233 @@ Key Responsibilities:
 - Participate in system-level testing and validation of autonomous driving functionalities.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 31 : 
+
+Key Responsibilities
+- Design, simulate, and analyse space payloads, including Ka-band, S-band, and X-band transponders, ensuring optimal performance in Satcom missions. 
+- Perform link budget calculations, payload systems engineering, and end-to-end system modelling using tools like MATLAB or STK. 
+- Collaborate with multidisciplinary teams on satellite subsystem integration, testing, and risk mitigation throughout the development lifecycle. 
+
+Required Qualifications
+- Bachelor's or Master's degree in Aerospace Engineering, Electronics, or related field. 
+- 1-4 years of hands-on experience in satellite communications, RF systems, or payload engineering. 
+- Proficiency in frequency band analysis (Ka, S, X-band), simulation software, and link budget tools. 
+
+Preferred Skills
+- Familiarity with transponder design, orbital analysis, and space mission standards like ECSS. 
+- Experience with Python, MATLAB, or similar for RF modelling and data analysis. 
+- Strong problem-solving skills and ability to work in agile teams at SAMTEL Avionics' space vertical.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 32 : 
+
+Key Responsibilities:
+1. Design, analyze, and optimize propulsion systems for eVTOL aircraft, focusing on electric motor efficiency, thrust-to-weight ratio, and aerodynamic integration.
+2. Design and setup propulsion system including propeller.
+3. Perform computational simulations (CFD, FEA) to evaluate airflow, thermal effects, and propulsion efficiency.
+4. Develop and integrate electric propulsion architectures, including battery packs, inverters, and power distribution systems.
+5. Conduct propulsion system performance assessments, including thrust, efficiency, noise, and vibration analysis.
+6. Collaborate with aerodynamics, avionics, and structures teams to ensure optimal propulsion integration.
+7. Support hardware testing, prototype development, and validation of propulsion components in laboratory and real-world conditions.
+8. Assist in regulatory compliance and certification processes in alignment with DGCA and global aviation standards.
+9. Stay updated with advancements in electric propulsion, battery technology, and sustainable aviation to enhance Nalwa Aero’s competitive edge.
+
+Essential Qualifications:
+Education:
+1. Bachelor’s degree in Aerospace Engineering, Mechanical Engineering, Electrical Engineering, or a related field.
+2. Master’s or Ph.D. preferred, especially in propulsion, electric aviation, or energy systems.
+
+Experience:
+1. 2+ years of experience in aircraft propulsion design, preferably in electric or hybrid propulsion systems.
+2. Strong background in CFD tools (ANSYS Fluent, STAR-CCM+), thermal analysis
+(COMSOL, MATLAB), and electric motor simulation (JMAG, Maxwell, Motor- CAD).
+3. Hands-on experience with propulsion system prototyping, testing, and validation.
+
+Technical Skills:
+1. Expertise in electric propulsion systems, including battery technology, motor design, and thermal management.
+2. Proficiency in propulsion modeling software and CAD tools (CATIA, SolidWorks, Siemens NX) for system integration.
+3. Experience with power electronics, energy storage, and BMS (Battery Management Systems).
+4. Knowledge of aerodynamics, thrust-vectoring, and noise reduction techniques in propulsion design.
+
+Desirable Qualifications:
+1. Experience with eVTOL, UAV, or hybrid-electric aircraft propulsion.
+2. Familiarity with aviation safety standards (FAA, EASA, DGCA) and certification processes.
+3. Understanding of lightweight materials and advanced manufacturing for propulsion components.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 33 : 
+
+What you’ll do
+- Design and develop a high-integrity roll-cage chassis for real-world dynamic loads
+- Perform structural load-path analysis and chassis-level thinking
+- Run and interpret FEA (ANSYS / HyperMesh / SolidWorks Simulation) to guide design decisions
+- Own component design, packaging, and system integration
+- Work with materials and joining methods used in prototype vehicles
+- Collaborate closely with fabrication, assembly, and testing teams
+
+What we’re looking for
+- Strong fundamentals in structures, mechanics, and chassis dynamics
+- Hands-on experience with CAD (SolidWorks, CATIA, or equivalent)
+- Practical exposure to FEA used for real design changes
+- Comfort working on physical hardware: brackets, mounts, weldments, assemblies
+- Bonus: Formula Student / BAJA / motorsport / EV startup experience
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 34 : 
+
+Responsibilities:
+- Design, develop, and optimize control algorithms for autonomous vehicles and robotic systems
+- Apply model-based control techniques to complex electromechanical platforms
+- Conduct simulations and real-world tests to validate and refine control strategies
+- Work closely with embedded software and hardware teams to bring control systems from concept to deployment
+- Collaborate across disciplines to integrate control systems into broader system architectures
+
+
+Qualifications:
+- Degree in Electrical Engineering, Mechanical Engineering, Robotics, Computer Science, or a related technical field
+- Solid experience in control systems design—whether in robotics, automotive, consumer electronics, industrial automation, or similar domains
+- Familiarity with model-based control methods (state-space, PID tuning, model predictive control, etc.)
+- Comfort working at the intersection of software and hardware; embedded systems experience is a plus
+- Strong problem-solving skills and a collaborative, hands-on approach
+- Proficiency in relevant programming languages (C/C++, Python, MATLAB/Simulink, etc.)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 35 : 
+
+Responsibilities
+- PCB & Process Design Review
+- Conduct manufacturability reviews for PCB and mechanical component layouts with R&D teams. 
+- Identify and output board-level DFM issues and drive closure with cross-functional stakeholders. 
+- Supplier / Vendor Management
+- Support ODM/OEM partners in developing SMT process flows. 
+- Lead stencil design reviews, tooling & jigs/fixtures design, and acceptance verification. 
+- Review and optimize SMT-related SOP documents to ensure process compliance and efficiency. 
+Engineering Build Support (DVT/PVT)
+- On-site SMT line support for all product build stages: DVT, and PVT. 
+- Create verification checklists, record validation data, output reports, and drive daily issue closure. 
+- Participate in trial building daily/weekly meetings and ensure issues are tracked to closure. 
+Soldering Process Expertise
+- Lead root-cause analysis and resolution of major soldering issues. 
+- Drive introduction of new soldering technologies, materials, and processes. 
+- Execute cost-reduction and efficiency-improvement initiatives for SMT operations. 
+Reliability & Failure Analysis
+- Work with R&D for solder joint reliability analysis and related failure investigations. 
+- Provide improvement proposals and drive corrective / preventive actions. 
+
+Requirements
+- Work Experience
+- 5+ years of SMT / PCB manufacturing process experience. 
+- Smartphone or consumer electronics experience is strongly preferred. 
+Knowledge
+- Solid understanding of NPI processes, SMT equipment/process technology, PCB manufacturing, and SMT consumables. 
+- Knowledge of soldering principles, stencil design, reflow profiling, and DFM/DFX methodologies. 
+Skills 
+- Proficient in PCB design review tools and mechanical design review (e.g., CR or Creo). 
+- Skilled in CAD tools and strong command of Office applications (Excel, PPT, Word). 
+- Ability to write clear technical documentation and validation reports. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 36 : 
+
+Strategy & Planning
+- Prepare a draft of the annual automation project implementation plan in consultation with the relevant stakeholders.
+- Create a project specific implementation plan in line with the annual automation plan.
+Functional Core
+- Analyse automation opportunities from a business perspective to prioritise initiatives for implementation.
+- Work jointly with key stakeholders to identify pros and cons at an operational level and accordingly arrive at a feasible solution for implementation.
+- Collaborate with SMEs to create the URS for automation project and validating the various solutions.
+- Vendor identification, Vendor co-ordination and Vendor management for automation projects. New Vendor Development in consultation with the procurement team, if required.
+- Provide a digital solution in streamlining processes.
+- Customise the standard offerings of the vendors to meet our requirements.
+- Plan and drive the pilot implementation of automation projects along with the identified core team.
+- Review any new proposed project layout for new sites from automation perspective and suggest changes to CPT/ TTT.
+- Collaborate with Projects team members in execution & site supervision activities for various projects. Help in finalization of various contracts & purchase orders.
+- Interface with TTT/ Operations/ CPT for knowledge transfer upon completion of pilot automation projects for future.
+- Review all the SOPs/ documents that are impacted by automation projects and modify/ create the same for future reference and seamless handover.
+
+Internal Processes
+- Conduct and participate in regular review meetings with various stakeholders
+- Update the Project MIS on a regular basis to track and monitor the implementation of identified project activities
+- Update and release Project dashboards on a regular basis. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 37 : 
+
+Mechanical And Electrical Subsystem Assembly
+- Perform installation of structural frames, brackets, antenna mounts, and internal trays using GD&T-verified drawings and mechanical BOMs.
+- Route harnesses and connectors inside UAV fuselage sections based on wiring schematics and harness drawings; confirm connector mating by ID code and pin alignment.
+- Support integration of Power Distribution Boards (PDBs) by verifying connector orientation, signal path routing, and secure mounting as per schematic references.
+- Apply torque using calibrated tools according to defined torque specs (N·m/in-lb), record values on checklist where required, and ensure visual confirmation (torque seal, color marking).
+
+Component Fit-Up & Compatibility Troubleshooting
+ - Verify part fitment and surface alignment using physical mock-ups, coordinate measuring arms, or laser alignment jigs.
+ - Identify mismatched connector gender, harness length deviations, or mounting hole misalignments, and raise Non-Conformance Report (NCR) for resolution.
+ - Recommend alternate routing paths for non-critical harnesses when original path causes interference, with approval from integration engineer.
+
+Interpretation Of Engineering Drawings And Wiring Schematics
+ - Independently read mechanical drawings with GD&T annotations, identify tolerancing zones, critical mounting hole locations, and symmetry references.
+ - Interpret wiring schematics including signal paths, ground loops, and shielded line routing; understand polarity marking and connector cross-referencing.
+ - Annotate drawings to mark deviations or undocumented design changes encountered during assembly, and route these notes for review.
+
+Kitting Validation And Inventory Feedback
+ - Validate BoM completeness against issued kits and flag shortages, overages, or alternate part substitutions using batch tags and ERP references.
+ - Maintain segregation of kits by serial numbers and project codes to avoid cross-contamination; support traceability by tagging unused items before return to stores.
+ - Report recurring kitting issues (e.g., missing hardware pack, wrong crimp connector variants) and suggest improvements to the kitting workflow.
+
+Tool Calibration Compliance And Handling
+ - Ensure torque tools, calipers, crimpers, and thermal guns are used only if within calibration window; sign daily pre-use checklist.
+ - Log tool usage in traceability sheets and coordinate tool return for recalibration based on expiration tags or usage cycle flags.
+ - Identify damaged tools (bent torque drivers, cracked handles, faulty gauges) and initiate tool quarantine request with metrology/QA.
+
+Technical Documentation And Assembly Traceability
+ - Complete routing checklists, electrical continuity check logs, torque application sheets, and batch build reports based on platform configuration.
+ - Document any observed fitment issues or undocumented wire color variations in the build log and flag these to QA or Design Engineer.
+ - File completed job sheets into project folders with correct part number, drawing revision, and build serial tagging.
+
+PLM System Usage And Revision Tracking
+ - Access Teamcenter/Windchill to retrieve latest drawing revisions, change notes, and related documentation for assigned assemblies.
+ - Cross-check drawing revision number and configuration ID with build instructions; request clarification for ECRs in process or drawings under review.
+ - Support Engineering Change Request (ECR) logging by capturing part-level impact details during deviation or assembly interruptions.
+
+Calibration Log Tracking And Process Support
+ - Maintain daily calibration board in assigned area, highlighting upcoming expirations and tools under recertification hold.
+ - Support audit teams during calibration record reviews by retrieving usage logs, calibration certificates, and tool tag photos.
+ - Identify repetitive calibration misses or booking delays and recommend improved tracking measures (e.g., barcode-based flagging or digital alerts).
+
+Process Compliance, Safety & Quality Coordination: Follow cleanroom-level ESD protocols:
+ - wrist strap validation, conductive mats, safe cable dressing, and connector sealing practices.
+ - Perform Foreign Object Debris (FOD) inspections post-integration and before QA handover using flashlights, air blowers, and magnet wands.
+ - Interface with QA inspectors during in-process quality checks, torque witnessing, or functional test readiness assessments.
+
+Continuous Learning And Integration Optimization
+ - Maintain a structured log of builds executed, tools used, part variants handled, and errors encountered for performance tracking.
+ - Attend knowledge sessions led by Engineers on connector families, torque theory, updated harness trees, or platform-specific quirks.
+ - Propose improvements to assembly fixture layout, part access during integration, or tool routing to improve ergonomics and reduce cycle time.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 38 : 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 39 : 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 40 : 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
