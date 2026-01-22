@@ -458,67 +458,254 @@ Qualifications Required:
 
 JD - 18 : 
 
+Key Responsibilities
+- Project Planning & Execution: Understand project scope and deliverables, plan drone missions, select UAV platforms and sensors, and ensure regulatory compliance.
+- Drone Data Acquisition: Conduct drone surveys including topographic surveys, orthophoto mapping, 3D modeling, construction progress monitoring, and inspections.
+- Data Processing & Analysis: Process data using software such as Pix4D, Agisoft Metashape, or DroneDeploy and generate orthomosaic, DEM/DSM, point clouds, and measurements.
+- Deliverables & Reporting: Prepare final outputs in CAD, GIS, PDF, or cloud formats and coordinate with specialized engineers when required.
+- Technical Coordination: Maintain strong understanding of project inputs, outputs, and accuracy requirements and communicate effectively with surveyors, GIS specialists, and engineers.
 
+Required Skills & Competencies
+- Strong experience in drone surveying and mapping, solid understanding of photogrammetry principles, proficiency in drone data processing software, and working knowledge of CAD/GIS workflows.
+- Ability to work independently and deliver end-to-end or near end-to-end projects.
+
+Experience Requirements
+- Minimum 2–5 years of experience in drone-based surveying, mapping, or integrated UAV projects.
+- Proven experience delivering complete or near-complete drone projects is required.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 19 : 
 
+Job Description
+• UAV/Drone System Specifications: Analysis of Product Requirement Documents in sync with Market Requirements, prepare and maintain Technical Specifications at UAV and Systems level, including Technology Readiness Level (TRL), Work Breakdown Structures (WBS) creations etc.
+• UAV/Drone System Design: Collaborate with product design and development teams to define and design UAV/drone systems that align with project objectives and client requirements. Exposure to Fundamental Aerodynamics, Materials and Process Engineering would be an added advantage.
+• Design Management: Expertise in CAD Tree/Layout preparations, PLM/PDM integrations with 3D CAD, 3D Model sanctity and Integration checks, BOM Configurations and Management, Weight and C.G. Matrix at UAV and system level, GD&T, Tolerance Stack up Analysis, DFMEA etc.
+• Validation & Verification of Design: Skilled at planning of Validations e.g, Numerical Validations, Laboratory Testing, Flight Testing, Certifications etc.
+• Component Selection and Manufacturing/Sourcing: Select appropriate hardware components, Electronic components, and software solutions for UAV/drone systems, taking into consideration factors such as payload capacity, flight time, range, endurance, and environmental conditions. Good knowledge of Manufacturing processes, Design for Manufacturing and Assembly (DFMA) etc.
+• Integration and Testing: Integrate various hardware, electronics and software components into UAV/drone systems, ensuring compatibility, reliability, and optimal performance. Conduct rigorous testing and debugging to resolve issues.
+• Software Configuration: Configure flight control systems, autopilot software, and onboard computers to ensure seamless communication and operation of the drone.
+• Quality and Reliability: Develop and implement quality and reliability control processes starting with Concept Design, Development, Testing & Validations, Industrializations and Series Productions, to verify the functionality and safety of integrated UAV/drone systems.
+• Documentation: Maintain detailed documentation of System Integration processes, configurations, Design and System Engineering Reviews, Validation plan vs actual, and test results to facilitate troubleshooting and future development.
+• Collaboration: Work closely with cross-functional teams, including Product management, Product marketing, Manufacturing, Sourcing, Quality management, software engineers, Electronics Engineers, Hardware engineers, and Project managers, to achieve project goals and deadlines.
+• Stay Informed: Stay up-to-date with industry trends, emerging technologies, and regulatory changes related to drone systems to ensure compliance and competitiveness.
 
+SKILLS & QUALIFICATIONS:
+• Bachelor''s or Master''s degree in Aerospace engineering, Mechanical, Electrical engineering, or a related field. Master''s degree preferred.
+• Proven 10-15 years of Experience preferably in UAV/drone system integration or a related field.
+• Proven experience in UAV/drone system integration or a related field.
+• Proficiency in drone hardware and software, including flight controllers, sensors, and autopilot systems.
+• Good knowledge and experience of CAD and PLM Softwares. PTC Creo and Windchill experience would be preferred.
+• Familiarity with drone regulations and safety standards.
+• Excellent problem-solving and troubleshooting abilities.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 20 : 
 
+Core Responsibilities :
 
+Define automation use cases and requirements
+- Work with the automation and solar O&M teams to understand inspection and monitoring needs, translate them into robotics/drone system requirements and propose technical solutions.
+
+Integrate hardware and software
+- Develop flight control software and integrate GPS, LiDAR, thermal cameras and other sensors. Use ROS/PX4/ArduPilot frameworks to ensure reliable navigation and data capture.
+
+Plan and execute inspections
+- Plan flight paths and robotic missions for thermal imaging and visual inspections of panels, trackers and other infrastructure while complying with DGCA/UAS 2.0 regulations. Conduct preflight checks and ensure operational safety.
+
+Process and analyze data
+- Develop scripts or leverage ML/AI models to process high resolution and thermal imagery for hotspot detection, shading analysis and fault identification. Present results to stakeholders and integrate findings into maintenance workflows.
+
+Testing and quality assurance
+- Conduct laboratory and field tests to verify performance, identify mechanical/software issues and optimize system reliability before deployment.
+
+Maintenance & troubleshooting
+- Perform regular diagnostics, firmware updates and repairs on drones and robots. Establish maintenance schedules and keep detailed logs.
+
+Compliance & documentation
+- Ensure systems meet DGCA/FAA regulations and obtain necessary certifications. Produce documentation, standard operating procedures and training material for end-users.
+
+Innovation & research
+- Stay current with advancements in robotics, UAVs and AI; evaluate new sensors and technologies; and contribute to continuous improvement initiatives and prototypes.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 21 : 
 
-
+Requirements:
+• Should have good understanding on Aero concepts and UAV's.
+• Should have good knowledge on design software's.
+• Should be a good team player.
+• Good understanding on Aircraft primary and secondary structural members.
+• Able to coordinate between design and manufacturing team.
+• Good understanding on part drawings and material selection.
+• Good communication skill.
+• Should be ready to work under pressure and with startup environment.
+• Should know different types of avionics used in UAV's.
+• Able to work independently.
+• Able to design and handle multiple projects simultaneously.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 22 : 
 
+Responsibilities:
+• Design, develop, and test next-generation drone hardware, software, and integrated systems.
+• Integrate advanced flight control systems, navigation modules, and specialized payloads.
+• Perform detailed assembly, calibration, and performance optimization of drone platforms.
+• Diagnose and resolve complex technical issues related to drone electronics, propulsion, and control systems.
+• Research and evaluate new technologies and components to enhance drone capabilities and reliability.
+• Collaborate with cross-functional teams (e.g., software, manufacturing, operations) to ensure seamless product development.
+• Create comprehensive technical documentation, including design specifications, test reports, and engineering manuals.
+• Provide expert-level technical support and advanced troubleshooting for complex client requirements.
+• Participate in field testing and critical deployments, occasionally requiring travel across India.
 
+Qualifications:
+• Proven experience in the design, development, or system integration of unmanned aerial vehicles.
+• Strong background in relevant engineering disciplines (e.g., Aerospace, Electronics, Mechanical, Robotics).
+• Proficiency in drone assembly, testing methodologies, and advanced troubleshooting techniques.
+• Familiarity with flight control principles, sensor integration, and communication protocols.
+• Ability to analyze complex data and implement robust engineering solutions.
+• Excellent problem-solving skills and attention to detail.
+• A valid drone pilot license is a plus, particularly for flight testing and validation.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 23 : 
 
+Key Responsibilities
+• Perform end-to-end integration of UAV systems including flight controllers, ESCs, motors, power modules, telemetry, GPS, and payloads.
+• Calibrate IMUs, compasses, GPS modules, cameras, gimbals, and other flight-critical sensors.
+• Integrate advanced payloads such as EO/IR cameras, thermal sensors, LiDAR, rangefinders, and custom defence-grade modules.
+• Ensure compliance with Indian Defence standards, UAV guidelines, and platform-specific performance requirements.
+• Conduct bench testing, ground testing, and flight-readiness assessments.
+• Coordinate with embedded, mechanical, and avionics teams for seamless system-level integration.
+• Troubleshoot hardware, firmware, and signal-level issues during system bring-up.
+• Set up, monitor, and analyze logs (ArduPilot/PX4) to fine-tune and validate system performance.
+• Prepare integration documentation, calibration logs, and technical reports.
+• Assist in field trials, customer demos, and defence acceptance testing.
 
+Required Skills & Qualifications
+• Bachelor’s degree in Electronics, Electrical, Mechatronics, Aerospace Engineering, or related fields.
+• Minimum 3–5 years of hands-on experience in UAV integration, testing, or field engineering.
+• Strong understanding of UAV components including:
+• Flight controllers (PX4, ArduPilot, Cube, Pixhawk variants)
+• ESCs, BLDC motors, and propulsion systems
+• GPS, magnetometer, IMU, barometer, and other sensors
+• Telemetry radios, RF modules, and ground-control systems
+• Camera payloads, gimbals, and imaging systems
+• Expertise in calibration of:
+• IMU, compass, accelerometer, and gyroscope
+• Camera and gimbal systems
+• Radio channels, fail-safe, and power calibration
+• Strong experience in interpreting logs from Mission Planner, QGroundControl, and analyzing flight stability.
+• Knowledge of Indian Defence UAV requirements including:
+• EMI/EMC considerations
+• Redundancy and fail-safe standards
+• Secure communication & encryption modules
+• Deployment and field-testing procedures
+• Proficiency in using lab tools:
+• Multimeter, DSO, power analyzers
+• Signal testers and servo testers
+• Ability to identify, troubleshoot, and resolve system-level issues independently.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 24 : 
 
+Key Responsibilities
+
+· Own the end-to-end product lifecycle, from concept and prototyping through validation, certification, and production readiness.
+· Design and implement modular, scalable system architectures applicable across multiple drone platforms and use cases.
+· Lead the transition from R&D to manufacturing, ensuring readiness through DFM/DFA principles, calibration strategies, test flows, and production validation.
+· Establish and maintain robust documentation standards, including SOPs, design guidelines, checklists, and release documentation to support scale and compliance.
+· Drive cross-functional debugging and root-cause analysis across firmware, electronics, and mechanical systems to ensure system-level reliability.
+· Collaborate closely with manufacturing, supply chain, quality, and operations teams to enable smooth production ramp-up.
+· Introduce engineering best practices, continuously improve processes, and challenge outdated assumptions to raise overall technical excellence.
+· Act as a technical authority and mentor, setting high engineering standards and enabling knowledge sharing across teams.
+
+Required Skills & Qualifications
+· Bachelor's/Master's in Electronics, Aerospace, Mechatronics, Robotics, or related field
+· 5+ years in UAVs, robotics, embedded systems, or system integration roles
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 25 : 
 
-
+Requirements:
+• Drone Raw Data/ LiDAR Raw Data Analysis and Quality Checks for Processing
+• Need to work on photogrammetric processing of UAV/LiDAR data set, and convert it to meaningful data for interpretation as per the business requirements.
+• Have knowledge to extract data's from aerial imagery/Aerial LiDAR Data captured by drones.
+• Check and Rectify the Data Collected, using GIS Software such as QGIS, Global Mapper, DJI Terra, LiDAR 360 etc.
+• Merging, Splitting and Plotting of data.
+• Data conversion from GIS operations to CAD platform as per the requirements of the customer.
+• Provide technical assistance to projects as needed including support to acquisition of field data, aerial surveys, LiDAR Data Acquisition and other imagery
+• Good Knowledge on Computers, Troubleshooting, OS's etc.
+• Basic Knowledge on Photogrammetry softwares like Agisoft, Pix4D, Context Capture Etc
+• Basic Knowledge on LiDAR Technology and software's like DJI Terra, LiDAR 360 etc.
+• Willing to Work on Shifts as per Project Requirements.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 26 : 
 
+Roles and Responsibilities:
+• Perform comprehensive vulnerability assessments and penetration testing on drone hardware, firmware, software, and ground control systems.
+• Identify Vulnerabilities by usingethical hacking techniques to discover weaknesses, including those related to physical tampering, unauthorized access, communication interception (RF analysis), and data exfiltration.
+• Assess the security of wireless communication links (e.g., proprietary RF, Wi-Fi, Cellular) between UAV to UAV, UAV to GCS and UAV to RC to prevent jamming, interception, or unauthorized control.
+• Evaluate the physical components of drones for vulnerabilities, focusing on tamper-proofing, secure boot mechanisms, and data storage security on onboard systems.
+• Collaborate with the drone team to design and implement robust security architectures and recommend hardware enhancements to address identified flaws.
+• Ensure Compliance by verifying that drone operations and systems adhere to relevant industry standards, government regulations, and safety protocols. Also, stay current with the latest hacking methodologies related to UAVs.
+• Any other work assigned as required.
 
+Qualifications and Key Skills Required:
+• PhD with relevant experience, OR
+• M.Tech / M.E. or equivalent degree with relevant experience, OR
+• B.Tech / B.E. or equivalent degree with relevant experience.
+• Experience in cybersecurity, penetration testing, or a similar role, with specific experience in hardware security or IoT security with relevant certifications.
+• Strong understanding of cybersecurity principles, networking protocols, operating systems (Linux fundamentals), and web application security.
+• Hands-on experience using development boards and testing instruments.
+• Strong programming skills in C, C++, Python and Bash for scripting exploits and automation.
+• Familiarity with UAV communication protocols (e.g., MAVLink, MSP), autopilot frameworks (PX4, ArduPilot), sensors, cameras and electrical systems.
+• Knowledge of drones and aerial robotics.
+• Good communication skills and ability to collaborate with a multidisciplinary team.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 27 : 
 
-
+Qualifications
+Proficiency in Aerodynamics and an understanding of fluid dynamics principles.
+In-depth knowledge and practical experience in Aerospace Engineering.
+Expertise in Systems Engineering, including system analysis and design.
+Experience and understanding of Aircraft and/or Spacecraft design, testing, and operations.
+Strong analytical and problem-solving skills, with attention to detail.
+Ability to work collaboratively within a team-oriented environment.
+Bachelor's or advanced degree in Aerospace Engineering or a related field.
+Familiarity with computer-aided design (CAD) tools and simulation software is an advantage.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 28 : 
 
+Key Responsibilities:
+- Designing, testing, and implementing unmanned aerial vehicle systems
+- Developing flight control algorithms
+- Conducting system integration tests
+- Ensuring compliance with industry standards and regulations
 
+Qualifications Required:
+- Degree in Mechanical / Electrical / Electronics / Aeronautical / Aircraft Maintenance/Aerospace Engineering
+- 2+ years working experience as a Maintenance Technician for Aircrafts, Power Turbines, Mining Equipment, or other Complex Technical Equipment
+- Hands-on experience with CNC machine tools, 3d printers, etc. desired
+- Ability to travel to support field testing and training
+- Ability to multitask, prioritize, and manage time effectively
+- Excellent people skills, preferably experience working on a small, fast-paced team
+- An aggressive personality, driven by performance would be a good fit for this role
+- Excellent verbal and written communication skills
+- Strong listening and presentation skills
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
