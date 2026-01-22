@@ -1028,60 +1028,336 @@ Qualifications Required:
 
 JD - 41 : 
 
+What You’ll Do
 
+1. User Interface Development
+a. Build and maintain our website, web application and mobile app that allow end users to monitor and control robots.
+b. Design intuitive User interface
+c. Implement multiple features according to the requirements.
+
+2. Backend & APIs
+a. Develop backend services using Python (Flask/FastAPI) to connect frontend with ROS2 middleware.
+b. Design APIs to expose ROS2 topics/services for telemetry, commands, and feedback.
+
+3. Real-Time Communication
+a. Enable low-latency data streaming using WebSockets, MQTT, or gRPC.
+b. Integrate real-time video streaming (WebRTC/RTSP) from robot cameras to the application.
+c. Ensure commands are dispatched and acknowledged without delay.
+
+4. Systems Reliability & Networking
+a. Design for resilience: manage network traffic, handle overloading, and ensure fault tolerance.
+b. Build mechanisms for monitoring application performance and load balancing.
+c. Optimize data flows between robots, cloud, and user applications.
+
+5. Deployment & Scaling
+a. Deploy applications on cloud or hybrid environments (AWS/GCP/Azure).
+b. Containerise services with Docker; explore Kubernetes for scaling.
+c. Maintain databases for task tracking and fleet state.
+
+What We’re Looking For
+
+1. 2+ years of experience in full-stack or systems engineering.
+2. Strong in Python (Flask/FastAPI) for backend development.
+3. Comfortable with frontend frameworks (React or similar).
+4. Experience in real-time streaming (WebSockets, WebRTC, or RTSP).
+5. Knowledge of networking concepts (traffic management, load balancing, fault tolerance).
+6. Familiarity with ROS2 and integrating robotics data into web apps.
+7. Strong grounding in databases (Postgres, Redis, or similar).
+8. Experience with cloud deployment (AWS/GCP/Azure).
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 42 : 
 
+Responsibilities:
+• Design and develop flight dynamics models and control architectures for VTOL UAVs.
+• Implement, simulate, and optimize control laws for stability, guidance, and navigation.
+• Create and maintain mathematical models and simulations for accurate performance predictions.
+• Develop and test flight control algorithms in SIL and HIL simulations in various autopilot systems.
+• Integrate autopilot systems with onboard avionics, navigation, and mission management software.
+• Perform simulation modelling using MATLAB/Simulink and validate with real-world flight test data.
+• Analyse performance data from flight tests and iterate control logic to improve response and robustness.
+• Collaborate with avionics, mechanical, and software teams for integrated system development.
+• Ensure redundancy, safety, and fail-safe mechanisms are incorporated into flight control systems.
+• Document control algorithms, system architecture, and validation reports.
+• Stay updated on regulatory requirements and industry best practices.
+• Drive innovation in autonomous flight systems, including sensor fusion, adaptive control, and fault-tolerant control techniques.
 
+Experience / Skills:
+• Hands-on experience with UAV flight testing and post-flight data analysis.
+• Proficient in Ardupilot, Embention Veronte, and other autopilot ecosystems.
+• Strong theoretical knowledge in Flight Mechanics, Control Theory, and Stability Analysis.
+• Experience in control system development, tuning, and optimization for autonomous flight.
+• Proficiency with MATLAB, Simulink, and flight simulation tools.
+• Familiarity with communication protocols (CAN,UART,SPI,I2C, MAVLink) and embedded systems.
+• Experience in trajectory optimization and non-linear, multi-objective optimization techniques.
+• Understanding of sensor integration, including GPS, IMUs, air data sensors, and magnetometers.
+• Capability to conduct independent feasibility assessments and system architecture reviews.
+• Strong analytical and problem-solving skills with attention to system-level integration.
+• High level of self-motivation and ownership in an agile R&D environment.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 43 : 
 
+Job Description
 
+Agentic AI & Autonomous Platform Systems Engineer
+• Design and develop agentic AI systems that observe platform state, reason over signals, and take controlled actions
+• Build AI-driven agents for:
+• GPU resource optimization and scheduling
+• Database performance analysis and anomaly detection
+• Platform health monitoring and automated remediation
+• Integrate LLM-based agents with platform APIs, orchestration systems, and observability data
+• Define safety guardrails, approval workflows, and rollback mechanisms for agent actions
+• Continuously improve agent behavior using feedback loops and real-world signals
+
+This role focuses on agentic AI operating on real infrastructure and data platforms, not chatbot or prompt-only applications.
+
+Required Skills & Experience
+• 8+ years of experience in infrastructure, platform, or systems engineering
+• Experience with Kubernetes and containerized workloads
+• Proficiency in automation and scripting (Python, Bash, Go, or similar)
+• Experience building automation or autonomous systems that interact with real infrastructure
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 44 : 
 
+What You’ll Do
+1. User Interface Development
+a. Build and maintain our website, web application and mobile app that allow end users to monitor and control robots.
+b. Design intuitive User interface
+c. Implement multiple features according to the requirements.
 
+2. Backend & APIs
+a. Develop backend services using Python (Flask/FastAPI) to connect frontend with ROS2 middleware.
+b. Design APIs to expose ROS2 topics/services for telemetry, commands, and feedback.
+
+3. Real-Time Communication
+a. Enable low-latency data streaming using WebSockets, MQTT, or gRPC.
+b. Integrate real-time video streaming (WebRTC/RTSP) from robot cameras to the application.
+c. Ensure commands are dispatched and acknowledged without delay.
+
+4. Systems Reliability & Networking
+a. Design for resilience: manage network traffic, handle overloading, and ensure fault tolerance.
+b. Build mechanisms for monitoring application performance and load balancing.
+c. Optimize data flows between robots, cloud, and user applications.
+
+5. Deployment & Scaling
+a. Deploy applications on cloud or hybrid environments (AWS/GCP/Azure).
+b. Containerise services with Docker; explore Kubernetes for scaling.
+c. Maintain databases for task tracking and fleet state.
+
+What We’re Looking For
+
+1. 2+ years of experience in full-stack or systems engineering.
+2. Strong in Python (Flask/FastAPI) for backend development.
+3. Comfortable with frontend frameworks (React or similar).
+4. Experience in real-time streaming (WebSockets, WebRTC, or RTSP).
+5. Knowledge of networking concepts (traffic management, load balancing, fault tolerance).
+6. Familiarity with ROS2 and integrating robotics data into web apps.
+7. Strong grounding in databases (Postgres, Redis, or similar).
+8. Experience with cloud deployment (AWS/GCP/Azure).
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 45 : 
 
+Agentic AI & Autonomous Platform Systems Engineer
+- Design and develop agentic AI systems that observe platform state, reason over signals, and take controlled actions
+- Build AI-driven agents for:
+- GPU resource optimization and scheduling
+- Database performance analysis and anomaly detection
+- Platform health monitoring and automated remediation
+- Integrate LLM-based agents with platform APIs, orchestration systems, and observability data
+- Define safety guardrails, approval workflows, and rollback mechanisms for agent actions
+- Continuously improve agent behavior using feedback loops and real-world signals
 
+This role focuses on agentic AI operating on real infrastructure and data platforms, not chatbot or prompt-only applications.
+
+Required Skills & Experience
+- 8+ years of experience in infrastructure, platform, or systems engineering
+- Experience with Kubernetes and containerized workloads
+- Proficiency in automation and scripting (Python, Bash, Go, or similar)
+- Experience building automation or autonomous systems that interact with real infrastructure
+
+Preferred Skills
+- Experience in Go or Python and building Microservices for Multitenant systems
+- Understanding of AI safety, guardrails, and human-in-the-loop designs
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 46 : 
 
+Key Responsibilities:
+- Lead the on-site installation and deployment of autonomous forklifts, ensuring proper setup and configuration.
+- Integrate AMRs with existing warehouse management systems (WMS) and facility infrastructure.
+- Calibrate and tune the forklifts" navigation and control systems using ROS for specific operational environments.
+- Conduct comprehensive testing to ensure optimal performance, reliability, and safety of the deployed AMRs.
+- Provide hands-on training to customers on the operation, maintenance, and troubleshooting of autonomous forklifts.
+- Serve as the primary point of contact for customer support during and after the deployment phase.
+- Diagnose and resolve technical issues related to hardware, software, and network connectivity of the autonomous forklifts using ROS tools for debugging and analysis.
+- Maintain detailed deployment documentation, including site assessment reports, configuration settings, and troubleshooting logs.
+- Develop and improve standard operating procedures (SOPs) for deployment and support activities.
 
+Qualifications Required:
+- Experience in deploying and supporting autonomous systems, robotics, or automated industrial equipment.
+- Hands-on experience with autonomous forklifts, AMRs, AGVs, or similar robotic systems.
+- Proficiency in Robot Operating System (ROS) for robot control, navigation, and diagnostics.
+- Strong understanding of robotics, navigation systems (e.g., SLAM), and sensor integration.
+- Basic programming skills (e.g., Python, C++) for configuring and debugging autonomous systems.
+- Knowledge of safety standards and regulations related to autonomous industrial vehicles.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 47 : 
 
+Here are the key skills categorized by domain:
+1. Programming and Software Engineering 
+Robotics, particularly drones and autonomous systems, relies heavily on software to control movement and interpret sensor data. 
+Languages: Python (for AI, machine learning, and rapid prototyping) and C/C++ (for performance-critical, real-time control, and hardware interfacing).
+Middleware & Frameworks: Proficiency in ROS 2 (Robot Operating System) is critical, as it is the industry standard for component communication.
+Simulation Tools: Experience with simulation software to test algorithms, such as Gazebo, Isaac Sim, or PyBullet, to reduce hardware risks (Simulation-First/Digital Twin approach).
+Real-Time Systems: Knowledge of RTOS (Real-Time Operating Systems) for low-latency responsiveness. 
 
+2. Robotics & Autonomous Systems Fundamentals
+AI and Machine Learning: Knowledge of neural networks, computer vision (OpenCV, PyTorch/TensorFlow), and reinforcement learning for decision-making.
+Control Systems: Understanding PID controllers, feedback loops, and path-planning algorithms (e.g., A*, RRT) for stable navigation.
+Sensor Fusion & Perception: Ability to integrate data from LIDAR, cameras, IMUs, and GPS using techniques like Kalman filters.
+SLAM (Simultaneous Localization and Mapping): Essential for autonomous navigation in unknown environments. 
 
+3. Hardware and Electronics
+Embedded Systems: Knowledge of microcontrollers and single-board computers like Arduino, Raspberry Pi, and NVIDIA Jetson (for edge AI).
+Electronics & PCB Design: Understanding circuit design, actuators, motors, and power management (lithium-ion batteries, BMS).
+Actuators and Mechanisms: Knowledge of BLDC motors, servos, gears, and linkages. 
+
+4. Drone-Specific Skills (UAVs)
+Aerodynamics & Flight Mechanics: Understanding lift, drag, and stability for fixed-wing and multirotor vehicles.
+Flight Controllers & Payload Integration: Programming flight controllers (Pixhawk, ArduPilot) and integrating sensors (cameras, LiDAR).
+Avionics & Communication: Working with telemetry, radio frequency (RF) systems, and GPS.
+Regulations: Knowledge of local aviation laws (e.g., FAA Part 107 in the US, DGCA in India) and safety protocols. 
+
+5. Mechanical Engineering (Design)
+CAD Software: Proficiency in 3D modeling tools like SolidWorks, Autodesk Fusion 360, or CATIA for designing chassis, structures, and components.
+Material Science: Understanding materials for durability and weight optimization. 
+
+6. Soft Skills and Professional Skills
+Systems Thinking: Ability to understand how software, hardware, and algorithms interact in a complete system.
+Problem-Solving & Debugging: Ability to diagnose complex issues across different domains.
+Collaboration: Working in cross-functional teams with mechanical, electrical, and software engineers.
+Safety & Standards: Understanding ISO standards (e.g., ISO 10218, TS 15066 for robots) and cybersecurity for connected devices. 
+Summary Checklist for 2026
+Core Languages: Python, C++
+Core Middleware: ROS 2
+Core Skills: AI/ML, Control Systems, Sensor Fusion
+Key Tools: CAD (SolidWorks), Simulation (Gazebo), Embedded (Jetson/Arduino) 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 48 : 
 
+In 2026, the field of Robotics, Drones, and Autonomous Systems is defined by "Physical AI"—the convergence of hardware with intelligent software that can think and adapt. Success in this multidisciplinary domain requires a hybrid skill set spanning mechanical, electrical, and computer engineering. 
 
+1. Core Technical Foundations
+Mathematics & Physics: Essential for motion planning and control.
+Linear Algebra: For coordinate transformations and state estimation.
+Calculus & Probability: For managing sensor noise, kinematics, and dynamics.
+Physics: Understanding torque, forces, and magnetism is vital for hardware behavior.
+Programming Stack:
+C++: The industry standard for low-latency, real-time control loops and safety-critical systems.
+Python: Used for high-level AI integration, rapid prototyping, and scripting.
+Rust: Rapidly emerging in 2026 for safety-critical components due to its superior memory management. 
+
+2. Domain-Specific Robotics Skills
+Middleware (ROS 2): Mastery of ROS 2 (Robot Operating System) is now the non-negotiable industry standard, replacing ROS 1 entirely for 2026 roles.
+Perception & Sensor Fusion: The ability to give machines "eyes" using LiDAR, depth cameras, and IMUs. Skills in Computer Vision (OpenCV, YOLO) and processing 3D data like Point Clouds (PCL) are critical for autonomous navigation.
+Control Systems: Expertise in PID controllers, feedback loops, and state estimation to ensure stability and precision.
+Mechanical & Circuit Design: Proficiency in CAD software (SolidWorks, Fusion 360) for hardware design and an understanding of embedded systems (microcontrollers like ESP32 or STM32) for physical assembly. 
+
+3. Advanced Autonomous Technologies
+Artificial Intelligence (Physical AI): Developing robots that sense, learn, and adapt using Reinforcement Learning and Edge AI (deploying models on hardware like NVIDIA Jetson).
+Simulation & Digital Twins: Using next-gen tools like NVIDIA Isaac Sim or Gazebo to test algorithms in photorealistic virtual environments before physical deployment.
+Autopilot Stacks: For drones specifically, familiarity with PX4 or ArduPilot and protocols like MAVLink is essential. 
+
+4. Critical "Human" & Systems Skills
+Systems Thinking: The ability to understand how a single code change ripples through the hardware, battery life, and mechanical wear.
+Debugging Resilience: Robotics is often described as "90% debugging"; the patience to troubleshoot a loose wire that appears to be a software bug is highly valued.
+Interdisciplinary Collaboration: Communicating effectively across diverse teams involving mechanical, electrical, and AI specialists. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 49 : 
 
+Key Responsibilities
+• Sensor Integration : Design and implement sensor integration solutions for drones and aerostat platforms, ensuring optimal performance and reliability
+• Firmware Development : Develop and maintain firmware for flight controllers and onboard systems using embedded C / C++
+• Driver Development : Create custom drivers for various sensors and peripheral devices
+• Electronic Design Support : Collaborate on electronic hardware design, circuit analysis, and system architecture
+• Mission Planning : Configure and optimize missions using QGroundControl (QGCS) and Mission Planner software
+• System Testing : Conduct thorough testing and validation of integrated systems in real-world conditions
 
+Required Qualifications
+
+Technical Skills :
+• Strong proficiency in embedded C and C++ programming
+• Hands-on experience with ArduPilot firmware and ecosystem
+• Practical knowledge of QGroundControl (QGCS) and Mission Planner
+• Understanding of electronic circuit design and hardware interfaces
+• Experience with sensor integration (IMU, GPS, EO / IR cameras, etc
+• Familiarity with communication protocols (I2C, SPI, UART, CAN)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 50 : 
 
+Core Responsibilities :
+- Define automation use cases and requirements
+- Work with the automation and solar O&M teams to understand inspection and monitoring needs, translate them into robotics/drone system requirements and propose technical solutions.
 
+Integrate hardware and software :
+- Develop flight control software and integrate GPS, LiDAR, thermal cameras and other sensors. Use ROS/PX4/ArduPilot frameworks to ensure reliable navigation and data capture.
+
+Plan and execute inspections :
+- Plan flight paths and robotic missions for thermal imaging and visual inspections of panels, trackers and other infrastructure while complying with DGCA/UAS 2.0 regulations. Conduct preflight checks and ensure operational safety.
+
+Process and analyze data :
+- Develop scripts or leverage ML/AI models to process high resolution and thermal imagery for hotspot detection, shading analysis and fault identification. Present results to stakeholders and integrate findings into maintenance workflows.
+
+Testing and quality assurance :
+- Conduct laboratory and field tests to verify performance, identify mechanical/software issues and optimize system reliability before deployment.
+
+Maintenance & troubleshooting :
+- Perform regular diagnostics, firmware updates and repairs on drones and robots. Establish maintenance schedules and keep detailed logs.
+
+Compliance & documentation :
+- Ensure systems meet DGCA/FAA regulations and obtain necessary certifications. Produce documentation, standard operating procedures and training material for end-users.
+
+Innovation & research :
+- Stay current with advancements in robotics, UAVs and AI; evaluate new sensors and technologies; and contribute to continuous improvement initiatives and prototypes.
+
+Collaboration and training :
+- Collaborate with software developers, GIS analysts and solar engineers; provide training to field technicians on robotic and drone operation; and communicate technical information clearly to nontechnical team members.
+
+Education Requirements :
+• Bachelor’s degree in Robotics, Mechatronics, Mechanical/Aerospace Engineering, Electrical Engineering, Computer Science or similar.
+
+Technical Skills and Experience
+
+Software Proficiency:
+• Proficiency in ROS/PX4/ArduPilot and programming languages such as Python and C++; familiarity with embedded systems and sensor integration (GPS, IMUs, LiDAR, thermal cameras).
+• Knowledge of AI/ML techniques for image and thermal data analysis.
+• Understanding of UAS regulations and safety protocols (DGCA regulations in India, FAA Part 107 elsewhere).
+
+Experience:
+• 3–5 years’ experience designing, building and testing drones or robots—preferably for infrastructure inspection, renewable energy assets or industrial automation.
+• Experience developing flight control or autonomous navigation software and working with SLAM/obstacle avoidance algorithms.
+• Handson experience with CAD tools for mechanical design and 3D modelling.
+
+Psychosocial Skills /Human Skills/Behavioural Skills
+• Strong analytical, organizational, and problem-solving skills.
+• Entrepreneurial mindset with the ability to take ideas and run with them from concept to conclusion.
+• Technical understanding of clean energy business processes
+• Exceptional verbal and writing communication skills with superiors, peers, partners, and other stakeholders.
+• Excellent interpersonal skills while managing multiple priorities in a fast-paced and ever-changing environment.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
