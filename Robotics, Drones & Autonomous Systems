@@ -4,103 +4,455 @@ Google Sheet Link : https://docs.google.com/spreadsheets/d/1oWU6WmfwgXvuuGXWvHX4
 
 JD - 1 : 
 
+Key Responsibilities:
+- Develop and optimize robotic systems for package handling and logistics automation.
+- Implement navigation systems for autonomous vehicles in structured and unstructured environments.
+- Work on robotic arms for automated picking, sorting, and placement of packages.
+- Implement AI-driven object recognition and package tracking.
+- Ensure smooth communication between hardware, software, and logistics control systems.
+- Build and refine prototypes to improve performance and reliability.
+- Ensure adherence to industry standards and safety regulations for autonomous robotic systems.
 
+Qualifications Required:
+- Bachelor/Master degree in Robotics, Mechatronics, Mechanical Engineering, Electrical Engineering, Computer Science, or a related field.
+- Minimum 5+ years of experience in designing and implementing autonomous robotic systems for logistics or industrial automation.
+- Proficiency in robotic frameworks such as ROS (Robot Operating System).
+- Experience with motion planning, SLAM, and real-time navigation.
+- Hands-on experience in designing robotic arms with precision pick-and-place capabilities.
+- Knowledge of LiDAR, depth cameras, and sensor fusion for navigation and object detection.
+- Programming proficiency in Python, C++, and embedded systems programming.
+- Familiarity with AI/ML frameworks (TensorFlow, OpenCV, PyTorch) for robotic vision applications.
+- Experience with edge computing and IoT-enabled robotics.
+- Worked on AGVs or AMRs.
+- Experience in warehouse automation, sorting systems, or industrial robotics.
+- Familiarity with mechanical design for robotics and real-world deployment challenges.
+- Understanding of robotic kinematics, control algorithms, and automation protocols.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 2 : 
 
+Key Responsibilities:
+• Design and develop robotic systems and components including mechanical structure, sensors, actuators, and controllers
+• Program, simulate, and test robots using platforms like ROS, MATLAB, or C++/Python
+• Develop and implement control algorithms for path planning, object recognition, and obstacle avoidance
+• Collaborate with cross-functional teams including mechanical, electrical, and software engineers
+• Troubleshoot and optimize system performance, including diagnostics and field testing
+• Prepare technical documentation, user manuals, and reports for both internal teams and stakeholders
+• Stay updated with latest trends and advancements in robotics, AI, and automation
 
+Required Qualifications:
+• Bachelor’s or Master’s degree in Robotics, Mechatronics, Electrical Engineering, Computer Science, or related field
+• Proficiency in at least one programming language: C++, Python, or Java
+• Hands-on experience with robotics platforms (e.g., ROS, Arduino, Raspberry Pi)
+• Strong understanding of kinematics, dynamics, and control theory
+• Familiarity with sensor integration (LiDAR, camera, IMU) and embedded systems
+• Excellent problem-solving and analytical skills
+• Strong communication and team collaboration abilities
+
+Preferred Qualifications:
+• Experience in machine learning or computer vision applied to robotics
+• Familiarity with simulation tools (Gazebo, V-REP, Webots)
+• Knowledge of industrial automation protocols (CAN, Modbus, etc.)
+• Previous experience working on autonomous or mobile robots
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 3 : 
 
+Key Responsibilities
+- Evaluate and implement algorithms for autonomous navigation, planning, control, and perception.
+- Develop modular, efficient, and well-tested code following best practices.
+- Debug issues, fix bugs, and write test cases to improve code quality.
+- Contribute to internal tools for visualization, performance testing, and utility scripts.
+- Document processes, test results, and contribute to reports and presentations.
+- Enhance the capabilities of the simulator to achieve a more realistic representation of the vessel and its surroundings.
 
+Required Skills & Experience
+- Bachelor's or dual degree in Mechatronics, Computer Science and Engineering, Electrical and Electronics Engineering, Electronics and Communication Engineering, Electronics and Instrumentation Engineering
+- Proficient in C++ and Python with strong debugging skills.
+- Familiarity with object-oriented design methodologies and common design patterns, along with foundational knowledge in software engineering.
+- Experience using Git for version control.
+- Experienced in the Linux development environment and build tools like CMake.
+- Experience working with robotics frameworks, including Robot Operating System (ROS) and Gazebo.
+- Understanding of the operation and integration of common robotics sensors, such as LIDAR, ultrasonic, and IMU sensors.
+- Understanding of robotics subsystems, including planning, control systems, localization, perception, and drivers.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 4 : 
 
+🛠 Key Responsibilities
+• Production C++: Refactor and optimize research code into high-performance, real-time C++ production modules.
+• DevOps for Robotics: Build and own the CI/CD pipelines (GitHub Actions/Jenkins). Automate testing, Docker containerization, and release packaging.
+• Embedded Systems: Interface with hardware abstraction layers, microcontrollers, and sensors. Optimize code for low-latency and resource-constrained embedded targets (NVIDIA Jetson, etc.).
+• Architecture & Middleware: Design scalable communication frameworks using Cyclone-DDS and Cap’n Proto. Maintain the core SDKs used by the algorithms team.
+• Tooling & Quality: Implement static analysis, automated unit/integration testing, and build internal developer tools to streamline workflows.
 
+✅ Must-Have Qualifications
+• Education: B.Tech (2+ years exp) OR M.S./M.Tech (1+ years exp) in CS, ECE, or related fields.
+• Core Language: Expert-level C++ (Memory management, concurrency, real-time constraints).
+• DevOps DNA: Strong experience with Docker, CMake/Bazel, Git workflows, and CI/CD pipelines.
+• Middleware: Experience with ROS2, DDS, and serialization libraries (Protobuf/Cap’n Proto).
+• System Knowledge: Deep understanding of Linux internals and embedded systems constraints.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 5 : 
 
+KEY RESPONSIBILITIES:
+• Robotics Development Engineer to build hardware-accelerated, AI-enabled robotics software stack for autonomous mobile robots (AMRs) and intelligent robotic systems.
+• In this role, you will design and implement robotics software that leverages heterogeneous compute (CPU + GPU + NPU ) to deliver high-performance perception, localization, planning, and control.
+• You will work across ROS 2, AI pipelines, simulation, and hardware acceleration, helping bring next-generation autonomous systems from concept to production.
 
+PREFERRED EXPERIENCE:
+• Engineer with 8 to 15yrs of experience in embedded Linux/Linux application. development.
+• More than 5 year of Robotics Development experience
+• Expertise in ROS 2
+• Understanding of robotics fundamentals: SLAM, navigation, motion planning, control
+• Hands-on experience with robotics simulation tools (Gazebo/Ignition, Isaac Sim)
+• Strong C/C++ development skills with a good understanding of object-oriented design.
+• Experience dealing with Linux community and Open Source contribution a plus
+• Experience with ROS2, Robotics Sensors, Simulations
+• Experience with any one of the Robotics (perception, Navigation, Sensors, AI acceleration)
+• Strong background in embedded systems development
+• System knowledge, System Debugging
+• Experience with kernel mode driver programming in Linux
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 6 : 
 
+Key Responsibilities:
 
+· Setting up the machine at the client's site, including any specialized equipment.
+· Assembling mechanical, electrical, hydraulic, and pneumatic components of the machine.
+· Ensuring the machine is properly installed and connected to the required utilities (power, compressed air, etc.)
+· Conducting initial functional tests, assisting in machine trials and debugging.
+· Putting the machine into operation and ensuring it functions according to specifications.
+· Providing training to client personnel on machine operation and maintenance.
+· Ensuring all installation and commissioning activities are conducted safely, adhering to relevant regulations and standards.
+· Maintaining accurate records of the installation process, including any modifications or adjustments made to the machine.
+
+Essential Skills and Qualifications:
+
+· Strong understanding of mechanical, electrical, hydraulic, and pneumatic systems.
+· Ability to diagnose and resolve issues that may arise during installation and commissioning.
+· Ability to communicate effectively with client personnel and team members.
+· Ability to lift and move heavy equipment
+· Knowledge of relevant safety regulations and procedures.
+· Preferably a degree or diploma in a relevant engineering discipline.
+· Experience with special purpose machine installation and commissioning is highly desirable.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 7 : 
 
+🛠️ Key Responsibilities
 
+✅ Programming, commissioning & troubleshooting of industrial robots (ABB / Fanuc / KUKA / Yaskawa / Mitsubishi or similar)
+✅ Robot programming using teach pendant & offline programming tools
+✅ Integration of robots with SPM machines, fixtures, EOAT, vision & safety systems
+✅ Development of robotic applications – welding, pick & place, assembly, machine loading/unloading, palletizing
+✅ Integration with PLC systems (Siemens / Allen Bradley preferred)
+✅ Debugging, testing & cycle time optimization
+✅ Shop-floor trials, FAT, SAT & customer support
+✅ Site installation & commissioning (India & Abroad 🌍)
+✅ Technical documentation, backups & SOP preparation
+✅ Coordination with mechanical & electrical design teams
+✅ Ensuring compliance with safety standards & project specifications
+
+🎓 Required Skills & Qualifications
+🔹 BE / BTech / Diploma in Robotics, Automation, Mechatronics, Electrical or related field
+🔹 5–10 years of hands-on experience in industrial robotics & automation
+🔹 Strong knowledge of robot controllers & programming logic
+🔹 Experience in SPM machine-based automation projects
+🔹 Working knowledge of PLC, HMI, sensors, actuators & servo systems
+🔹 Strong troubleshooting & problem-solving skills
+🔹 Ability to work independently on shop floor & at customer sites
+🔹 Willingness to travel for commissioning & service (Local & International ✈️)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 8 : 
 
+Major Responsibilities:
 
+Supervision Received:
+• Receives technical and administrative supervision from the Robotics Lead and project leads.
+
+Supervision Exercised:
+• None. May provide technical direction to drafters, technicians, or interns performing design support assignments.
+
+Contacts:
+• Maintains regular contact with the immediate project team and interfaces with other disciplines such as mechanical, electrical, and quality engineering. Additionally, engages with leading system houses and robotics suppliers to support integration efforts.
+• Collaborates with academic institutions and leading universities to explore research partnerships and innovation opportunities in robotics.
+• Programs and configures industrial robots for construction applications
+• Supports system integration includes mechanical, electrical, and software subsystems
+• Assists in design and implementation of control systems and electrical panels
+• Apply principles of machine learning to improve process efficiency
+• Troubleshoot robotic applications and provide process optimization support
+• Reviews technical documentation and ensures compliance with safety standards
+• Coordinates assigned work with other technical personnel as directed
+• Prepares technical reports, manuals, and training documentation
+• Participates in and fosters a work environment built on teamwork, innovation, and continuous improvement
+• Travel to system integrators during the concept checking period and then travel to the Bechtel job sites after the maturity of the use case is attained for its deployment and commissioning
+
+Education and Experience Requirements:
+• Requires 4-year bachelor’s degree in Engineering in Robotics, Mechatronics, Electrical, Electronics, or Automation or a related field, or M. Tech with specialization in Robotics or Artificial Intelligence from a reputed institute with 3-8 years of experience in robotics engineering, industrial automation, or related fields.
+
+Required Knowledge and Skills:
+• Proficiency in robot programming languages like C++, Python, JAVA, MATLAB for algorithm development and simulation
+• Expertise in Robot Operating System (ROS) such as control, perception, planning, localization, Simultaneous Localization and Mapping (SLAM), reinforcement learning and SWARM Intelligence
+• Familiarity with automation applications, PLCs, and control systems.
+• Strong problem-solving and analytical skills.
+• Ability to work in teams and good communication skills.
+• Ability to think laterally, that is having a mindset to develop new applications and solutions to increase efficiency of work at site
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 9 : 
 
+Roles and responsibilities
+• Lead the design, development, and deployment of cutting-edge robotic and automation solutions for manufacturing lines, ensuring efficiency, reliability, and scalability.
+• Collaborate closely with manufacturing teams to analyze existing workflows, identify automation opportunities, and implement innovative solutions that improve safety, quality, delivery, and cost.
+• Develop and program industrial robots, including their kinematics, motion planning, and application-specific tasks.
+• Integrate robotic systems with supervisory control systems and other manufacturing equipment, ensuring seamless interoperability.
+• Apply machine vision technologies, including camera systems and image processing algorithms, for part recognition, inspection, and alignment.
+• Travel to manufacturing sites as needed to collaborate with plant teams, understand operational processes, and evaluate implementation success.
+• Conduct feasibility studies, proof-of-concepts, and prototyping for new robotic and automation technologies tailored to specific manufacturing challenges.
+• Develop quick proof-of-concepts and demonstrate their value in a lab environment prior to full-scale deployment.
+• Troubleshoot and resolve issues in deployed systems, ensuring maximum equipment uptime and performance.
+• Maintain detailed technical documentation, including designs, programming approaches, system architecture, and lessons learned.
+• Stay abreast of advances in robotics, automation, and manufacturing technologies by attending conferences, reviewing literature, and fostering collaboration with academic and industry partners.
+• Mentor and guide junior engineers in robotics and automation concepts, fostering knowledge sharing across the team.
+• Drive innovation by contributing to intellectual property development and filing patents related to robotics and automation solutions.
 
+Required Qualifications:
+• PhD in Robotics, Controls, Mechatronics, or a related field from a top-ranked university (India or abroad), OR a master’s degree with demonstrated industry excellence and practical experience.
+• 8–13 years of hands-on experience implementing robotics and automation solutions in manufacturing environments.
+• Strong foundational knowledge in robotic systems, including kinematics, dynamics, and control systems.
+• Proficient in robot programming (e.g., ABB, Fanuc, KUKA, Mitsubishi, or Universal Robots), including offline programming tools and simulation environments.
+• Experience with machine vision systems (e.g., OpenCV, Cognex, or Halcon) and their integration to enhance automation workflows.
+• Solid understanding of manufacturing concepts and a track record of deploying automation solutions in real-world scenarios.
+• Proficiency in relevant programming languages (e.g., Python, C++, MATLAB), industrial automation tools, and control system design software.
+• Willingness to travel to manufacturing sites and work closely with plant teams to evaluate processes and implement automation solutions.
+• Demonstrated ability to critically assess manufacturing challenges and design innovative solutions that address operational inefficiencies.
+• Ability to develop quick proof-of-concepts and demonstrate the value in a lab environment prior to full-scale industrial deployment.
+• Strong leadership skills, with proven capability to guide teams through technical challenges and project execution.
+• Exceptional interpersonal skills to collaborate across diverse teams of engineers, product managers, and manufacturing teams.
+
+Desired Qualifications:
+• Proficiency in integrating AIML with robotics to enhance automation capabilities and decision-making.
+• Expertise in lean manufacturing principles, process optimization, and waste reduction within production lines.
+• Proficiency in integrating robots into industrial automation environments, including PLCs, SCADA systems, and IoT-enabled devices.
+• Familiarity with digital twin technologies and their use in optimizing robotics and automation deployments.
+• Publication and patenting experience demonstrating thought leadership in robotics and automation.
+• Familiarity with cybersecurity and data integrity concerns related to automation and robotics systems in manufacturing environments.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 10 : 
 
+Responsibilities :
+• Develop and maintain ROS / ROS2 software stacks for robotic arms, mobile bases, and tele-operation systems.
+• Integrate and program actuators, sensors, and communication protocols (CAN, EtherCAT, Modbus, etc.).
+• Work with AI / ML and hardware teams to enable advanced perception, control, and autonomy.
+• Troubleshoot and optimise motion control, safety, and system reliability.
+• Customise and modularise robot software for rapid adaptation to customer requirements.
 
+Requirements :
+• 2+ years of experience in robotics engineering with hands-on ROS and / or ROS2 experience.
+• Proficiency in C++ (and Python); strong experience with actuator integration and low-level communication protocols.
+• Experience with industrial and collaborative robotic arms, mobile robots, or UGVs.
+• Knowledge of kinematics, motion planning, and real-time control.
+• Hardware bring-up, sensor integration, and field deployment experience are a strong plus.
+• Experience with tele-operation, vision systems, and multi-robot setups is desirable.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 11 : 
 
+Key Responsibilities:
+- Design, develop, and implement robotic automation systems and workflows
+- Program and configure industrial robots such as ABB, KUKA, FANUC, Yaskawa, UR
+- Integrate robots with PLCs, sensors, vision systems, and control systems
+- Develop and maintain automation logic using PLCs, HMI, and SCADA systems
+- Perform robot simulation, testing, debugging, and optimization
+- Ensure system safety compliance with ISO, ANSI, OSHA standards
+- Troubleshoot robotic systems and resolve hardware/software issues
+- Support commissioning, installation, and on-site automation deployment
+- Document system designs, technical specifications, and SOPs
+- Collaborate with mechanical, electrical, and software engineering teams
 
+Qualifications Required:
+- Bachelors degree in Robotics, Mechatronics, Electrical, Mechanical Engineering, or related field
+- 2+ years of experience in robotics automation or industrial automation
+- Strong knowledge of industrial robots and automation systems
+- Experience with PLC programming (Siemens, Allen-Bradley, Mitsubishi, etc.)
+- Familiarity with robotic programming languages and tools
+- Understanding of sensors, actuators, servo motors, and control systems
+- Experience with industrial communication protocols (EtherNet/IP, PROFINET, Modbus)
+- Basic knowledge of CAD tools and robotic simulation software
+- Strong problem-solving and analytical skills.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 12 : 
 
+Key Responsibilities :
 
+1) Project Conceptualization & Use-Case Creation
+- Identify strong project ideas based on product capabilities and real user needs. Define the complete project flow — what to build, how it works, and what the final demo / output should look like. Evaluate feasibility, required parts, and overall integration effort across hardware, firmware, and software.
+
+2) Build, Test & Validate
+- Build prototypes end-to-end using our kits, tools, and platforms. Validate every project for usability, reliability, repeatability, clear build steps, and safe operation with expected performance. Collaborate with engineering teams to improve hardware / software integration based on real build outcomes.
+
+3) Documentation + Tutorials (Video + Written)
+- Create clear technical documentation including wiring / setup guides, build steps, code and logic explanation, and troubleshooting notes. Script, record, and edit tutorials that demonstrate the complete build process, validation / testing, and the final working demo output.
+
+4) Curriculum / Structured Modules (Optional but Valuable)
+- Convert projects into structured learning modules with defined learning objectives, prerequisites, and outcomes. Where needed, create supporting materials such as activity sheets and assessment rubrics to make the project classroom-ready.
+
+Skills & Qualifications Required
+• Bachelor’s / Master’s in Engineering (Electronics / Mechanical / Mechatronics / Robotics or related) - Robotics Prefered.
+• Strong fundamentals in electronics, mechanics, and programming basics.
+• Strong prototyping mindset and ability to debug independently.
+• Ability to write clear technical documentation and explain builds simply.
+
+Preferred
+• Experience in STEM education / curriculum creation.
+• Familiarity with both block-based coding and scripting (Python / C).
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 13 : 
 
-
+Skills Needed:
+• B. Tech. / B.E. in Mechanical Engineering or equivalent, from a Tier 1 or Tier 2 university in India.
+• 1-4 years of experience in the field of product designing and development. electronics /Robotics Industry will be preferred.
+• Extensive experience with 3D mechanical design and CAD software (preferably SolidWorks).
+• Extensive knowledge and experience with mechanism design, design analysis, and design calculations.
+• Knowledge and experience in creating CAD drawings & documents for aiding the manufacturing & assembly process.
+• Experience with fits & tolerance analysis, should have knowledge of the Application of GD&T and Tolerance Stack-up.
+• Understanding of component measurement methods and familiarity with the measurement tools.
+• Experience with Electro-Mechanical system design
+• Demonstrated strong “Value Engineering”, critical thinking, and problem-solving skills.
+• Proven track record of taking ownership and driving results.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 14 : 
 
+Responsibilities:
+• Collaborate with Embedded and Mechanical teams to validate robotic systems and sub-systems.
+• Conduct hardware and software debugging of embedded and robotic systems.
+• Design and execute comprehensive test cases for controllers, sensors, actuators, and overall system flow.
+• Analyze system behavior and assist in identifying bottlenecks or failures.
+• Document results and create detailed test reports and feedback loops for design improvement.
+• Develop automation scripts and tools for testing using Python and C++.
+• Be ready to travel to new locations for system deployments, field testing, and on-site validation.
 
+Key Skills:
+• Strong proficiency in ROS 1 & 2
+• Advanced programming skills in C++, Python, and Embedded C.
+• Good understanding of controllers (PID, feedforward, etc.) and low-level firmware.
+• Familiarity with robot system architecture including sensors, actuators, and control loops.
+• Expertise in hardware debugging and using tools like oscilloscopes, logic analyzers, etc.
+
+Preferred Experience & Qualifications:
+• Hands-on experience with Arduino or other microcontroller-based platforms.
+• Strong understanding of embedded system flow and real-time constraints.
+• Knowledge of sensor integration, actuator control, and data communication protocols (I2C, SPI, UART).
+• Exposure to Robot development workflows using ROS.
+• Ability to read circuit schematics and debug embedded hardware issues.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 15 : 
 
+Key Responsibilities:
+• Design, develop, and implement control algorithms for multi-copters and fixed-wing aircraft in the PX4/ ArduPilot architecture.
+• Conduct gazebo simulations and analyses to validate control system performance.
+• Collaborate with hardware and software teams to integrate control systems into flight control system.
+• Develop and maintain flight control software, ensuring robustness and reliability.
+• Perform system identification and tuning of control systems for optimal performance.
+• Conduct flight tests and analyze data to refine and improve control algorithms.
+• Troubleshoot and resolve issues related to control systems and flight performance.
+• Stay updated with current industry trends and advancements in control systems and UAV technology.
+• Document design processes, control algorithms, and testing procedures.
 
+Qualifications:
+• Bachelor's or Master's degree in Control Systems Engineering, Aerospace Engineering, Robotics, Electrical Engineering, or a related field.
+• Strong understanding of control theory, system dynamics, and flight mechanics.
+• Proficiency in programming languages such as C/C++, Python, or MATLAB.
+• Experience with UAV flight control systems and autopilots.
+• Knowledge of sensor fusion techniques and Kalman filtering.
+• Familiarity with embedded systems and real-time operating systems.
+• Strong analytical and problem-solving skills.
+• Excellent communication and teamwork abilities.
+
+Preferred Skills:
+• Must be familiar with PX4 and ArduPilot.
+• Experience with ROS (Robot Operating System) and Gazebo simulation.
+• Knowledge of basic control algorithm (PID).
+• Familiarity with safety-critical systems and regulatory requirements for UAVs.
+• Hands-on experience with hardware-in-the-loop (HIL) testing.
+• Experience with agile development methodologies.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 16 : 
 
+2. Key Responsibilities
+- Programming, commissioning, and troubleshooting of KUKA industrial robots (KRC4 controllers, SmartPAD).
+- Develop and modify robot programs using KUKA Robot Language (KRL).
+- Perform robot integration with PLC systems (Siemens preferred).
+- Setup and fine-tuning of robot parameters for welding / material handling / assembly applications.
+- Carry out robot calibration, mastering, TCP setup, and tool/base frame configuration.
+- Diagnose and rectify robot alarms, faults, and communication issues.
+- Ensure robot operation as per safety standards (E-Stop, interlocks, fencing, light curtains).
+- Improve cycle time, accuracy, and overall robot performance.
+- Maintain robot backups, documentation, and revision control.
+- Train operators and maintenance personnel on robot operation and safety.
+- Provide on-call / breakdown support during production.
 
+3. Technical Skills Required:
+- Hands-on experience with KUKA robots (KR series).
+- Strong knowledge of KUKA KRL programming.
+- Experience with KUKA WorkVisual.
+- Knowledge of Integration with Siemens PLC (S7-1200 / 1500) or equivalent.
+- Knowledge of fieldbus communication (Profinet / Profibus / Ethernet/IP).
+- Understanding of robot safety standards (ISO 10218, PL-d / PL-e concepts).
+- Experience in end-of-arm tooling (EOAT), sensors, and vision systems (preferred).
+- Basic knowledge of electrical schematics and robot I/O mapping.
+
+4. Qualification
+- Diploma / B.E. / B.Tech in Electrical / Electronics / Instrumentation / Automation Engineering.
+
+5. Preferred Experience
+- Experience in process industries, manufacturing plants, utilities, or machine automation.
+- Exposure to VFDs (Siemens / Innovance, Servo Drives, and sensor technology.
+- Experience in implementing automation upgrades and improvement projects.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 17 : 
 
+Key Responsibilities:
+- Develop and deploy robotic applications for industrial automation and social impact
+- Design end-effector tools, robotic motion sequences, and control interfaces
+- Collaborate with cross-functional teams in mechanical design, software, and electronics
+- Contribute to algorithm development for robotic path planning, vision, or sensor fusion
+- Test, troubleshoot, and optimize robotic solutions in real-world settings
+- Stay updated with the latest robotics technologies and recommend adoption strategies
 
+Qualifications Required:
+- Bachelors or Masters Degree in Mechatronics Engineering, Robotics Engineering, Mechanical Engineering (with Automation specialization), Electronics/Electrical Engineering, Computer Science/AI/Embedded Systems
+- Strong academic record from a reputed institution (IITs, NITs, IIITs, or Tier-1/Tier-2 colleges preferred)
+- Project work or internships in robotics, AI, control systems, automation, or similar areas
+- Working knowledge of robot programming (e.g., ROS, Python, C++), control systems, or CAD/CAE tools
+- Familiarity with PLC, sensors, machine vision, or industrial robots is a plus
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
