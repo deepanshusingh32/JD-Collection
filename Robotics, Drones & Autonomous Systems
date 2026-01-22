@@ -963,17 +963,124 @@ Continuous Learning And Integration Optimization
 
 JD - 38 : 
 
+Key Responsibilities
+● Evaluate and implement algorithms for autonomous navigation, planning, control, and perception.
+● Develop modular, efficient, and well-tested code following best practices.
+● Debug issues, fix bugs, and write test cases to improve code quality.
+● Contribute to internal tools for visualization, performance testing, and utility scripts.
+● Document processes, test results, and contribute to reports and presentations.
+● Enhance the capabilities of the simulator to achieve a more realistic representation of the vessel and its surroundings.
 
+Required Skills & Experience
+
+● Bachelor's or dual degree in Mechatronics, Computer Science and Engineering, Electrical and Electronics Engineering, Electronics and Communication Engineering, Electronics and Instrumentation Engineering
+● Proficient in C++ and Python with strong debugging skills.
+● Familiarity with object-oriented design methodologies and common design patterns, along with foundational knowledge in software engineering.
+● Experience using Git for version control.
+● Experienced in the Linux development environment and build tools like CMake.
+● Experience working with robotics frameworks, including Robot Operating System (ROS) and Gazebo.
+● Understanding of the operation and integration of common robotics sensors, such as LIDAR, ultrasonic, and IMU sensors.
+● Understanding of robotics subsystems, including planning, control systems, localization, perception, and drivers.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 39 : 
 
+Key Responsibilities:
+- Develop computer vision algorithms for stereo cameras, lane/row detection, and obstacle recognition.
+- Design and implement control algorithms (PID/LQR) for path tracking, steering, throttle, and autopilot loops.
+- Implement sensor fusion and localization algorithms combining GPS/INS, LiDAR, and vision data.
+- Develop motion planning and trajectory generation for autonomous navigation, including headland turns and boundary-based path planning.
+- Integrate autonomy software using ROS2 / middleware frameworks and ensure real-time performance on embedded systems.
+- Collect, process, and manage large-scale field data for testing, validation, and ML training.
+- Collaborate closely with vehicle systems, electronics, and test teams to deploy autonomous features on prototype tractors.
 
+Qualifications & Skills:
+- B.Tech / M.Tech / PhD in Robotics, Computer Science, Electrical/Electronics, Mechanical, or related field.
+- Strong experience in computer vision (OpenCV, Pytorch/TensorFlow) and perception algorithms.
+- Hands-on with control theory and trajectory tracking algorithms (PID, LQR, MPC is a plus).
+- Experience with sensor fusion (Kalman filters, GPS/INS integration, LiDAR/vision fusion).
+- Knowledge of motion planning algorithms and path optimization for autonomous vehicles.
+- Proficiency with ROS2 or other middleware for robotics/autonomous systems.
+- Strong programming skills in C++ and Python, experience with real-time systems a plus.
+- Familiarity with data pipelines, logging, and processing large datasets.
+- Ability to work in a fast-paced startup environment, multitasking across perception, control, and planning.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 40 : 
+
+Key Responsibilities:
+- Drive the development of high-performing and resource-efficient RL methods for robotics, physical AI, and autonomous systems.
+- Collaborate with researchers and ML engineers to design RL-driven solutions for complex industrial environments.
+- Mentor and lead a team for publications, patents, and open research collaborations.
+
+Qualifications Required:
+- Master's degree in Computer Science, Artificial Intelligence, Robotics, Engineering, Operations Research, or a closely related field, with a strong emphasis on RL.
+- (PhD + 2) / (MTech + 5) years of research experience in RL with a strong publication record in top venues.
+- Strong programming skills in Python, with proven expertise in PyTorch or JAX, and a track record of writing clean, modular, and deployable code.
+- Solid foundation in machine learning with specialization in RL and imitation learning.
+- Familiarity with advanced ML architectures such as graphs and transformers.
+- Excellent problem-solving skills and adaptability to shifting research directions.
+- Strong collaboration skills, with experience working in interdisciplinary and fast-paced teams. Familiarity with LLMs, agentic AI, and vision models is a plus.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 41 : 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 42 : 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 43 : 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 44 : 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 45 : 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 46 : 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 47 : 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 48 : 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 49 : 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 50 : 
 
 
 
