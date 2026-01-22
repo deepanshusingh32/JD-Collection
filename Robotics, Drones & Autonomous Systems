@@ -711,12 +711,40 @@ Qualifications Required:
 
 JD - 29 : 
 
+Key Responsibilities:
+- Develop computer vision algorithms for stereo cameras, lane/row detection, and obstacle recognition.
+- Design and implement control algorithms (PID/LQR) for path tracking, steering, throttle, and autopilot loops.
+- Implement sensor fusion and localization algorithms combining GPS/INS, LiDAR, and vision data.
+- Develop motion planning and trajectory generation for autonomous navigation, including headland turns and boundary-based path planning.
+- Integrate autonomy software using ROS2 / middleware frameworks and ensure real-time performance on embedded systems.
+- Collect, process, and manage large-scale field data for testing, validation, and ML training.
+- Collaborate closely with vehicle systems, electronics, and test teams to deploy autonomous features on prototype tractors.
 
+Qualifications & Skills:
+- B.Tech / M.Tech / PhD in Robotics, Computer Science, Electrical/Electronics, Mechanical, or related field.
+- Strong experience in computer vision (OpenCV, Pytorch/TensorFlow) and perception algorithms.
+- Hands-on with control theory and trajectory tracking algorithms (PID, LQR, MPC is a plus).
+- Experience with sensor fusion (Kalman filters, GPS/INS integration, LiDAR/vision fusion).
+- Knowledge of motion planning algorithms and path optimization for autonomous vehicles.
+- Proficiency with ROS2 or other middleware for robotics/autonomous systems.
+- Strong programming skills in C++ and Python, experience with real-time systems a plus.
+- Familiarity with data pipelines, logging, and processing large datasets.
+- Ability to work in a fast-paced startup environment, multitasking across perception, control, and planning.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 30 : 
 
-
+Key Responsibilities:
+- Lead the design, development, and integration of software modules for autonomous driving systems, including perception, path planning, and control.
+- Develop robust, efficient, and real-time software solutions using C++ and other relevant programming languages.
+- Architect and implement software frameworks that are scalable, maintainable, and testable.
+- Collaborate closely with hardware engineers, AI/ML specialists, and systems engineers to define software requirements and integrate software components.
+- Conduct code reviews, implement unit tests, and ensure high code quality and system reliability.
+- Develop and maintain software documentation, including design specifications and user guides.
+- Troubleshoot and debug complex software issues in simulated and real-world environments.
+- Stay abreast of the latest advancements in autonomous driving technology, software engineering practices, and automotive standards.
+- Mentor junior software engineers and contribute to technical leadership within the team.
+- Participate in system-level testing and validation of autonomous driving functionalities.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
