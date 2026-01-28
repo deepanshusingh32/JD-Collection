@@ -511,89 +511,482 @@ Nice to have:
 
 JD - 21 :
 
+You will:
+• Develop a deep understanding of the OEM’s roadmap, vehicle and backend architecture, requirements, and constraints
+• Master Qualcomm’s automotive and ADAS product portfolio from a systems and platform perspective
+• Lead and coordinate all technical aspects of business acquisition, delivery execution, and post-SOP maintenance
+• Represent the “voice of the customer” in internal forums, escalating needs and driving alignment across Qualcomm engineering, product management, program management, and sales
 
+This is a hands-on, senior technical leadership role requiring strong ADAS domain expertise, system thinking, and excellent communication skills.
+Key Responsibilities
+
+Customer Technical Leadership
+• Act as the chief technical counterpart to the OEM’s engineering leadership for all ADAS and related programs.
+• Serve as the main technical point of contact covering SoC, platform software, algorithms, tools, and system integration topics.
+• Build and maintain strong, trusted relationships with the customer’s engineering executives, architects, and program leads.
+
+Customer Roadmap & System Architecture
+• Develop and maintain a detailed understanding of the customer’s:
+• ADAS/AD roadmap and feature roadmap
+• E/E and compute architecture (in-vehicle and backend/cloud)
+• Safety, security, cybersecurity, and regulatory requirements
+• Anticipate customer needs and translate them into Qualcomm platform requirements, features, and solutions.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 22 :
 
+Key Responsibilities
+· Own C++ software modules for on device video capture, preprocessing, inference, and post processing on Linux.
+· Implement classical image processing pipelines (denoise, resize, color space, undistortion) and CV algorithms (keypoints, homography, optical flow, tracking).
+· Build and optimize distance/spacing estimation from monocular/stereo camera(s) using calibration, geometry, and/or depth‑estimation networks.
+· Integrate ML models (PyTorch/TensorFlow → ONNX/TensorRT/NNAPI/NPU runtimes) for DMS/ADAS events: drowsiness, distraction/gaze, phone‑usage, smoking, seat belt, etc.
+· Hit real time targets (FPS/latency/memory) on CPU/GPU/NPU using SIMD/NEON, multithreading, zero copy buffers.
+· Write clean, testable C++, CMake builds, and Git based workflows (branching, PRs, code reviews, CI).
+· Instrument logging/telemetry; debug with gdb/addr2line, sanitize and profile with perf/valgrind.
+· Collaborate with data/ML teams on dataset curation, labeling specs, training/evaluation, and model handoff.
+· Work with product & compliance to meet on road reliability, privacy, and regulatory expectations.
 
+Qualifications
+· B.Tech/B.E. in CS/EE/ECE (or equivalent practical experience).
+· 2–3 years in CV/ML or video‑centric software roles. Hands on in modern C++ on Linux, with strong Git and CMake.
+· Solid image processing and computer‑vision foundations (camera models, intrinsics/extrinsics, distortion, PnP, epipolar geometry).
+· Practical experience integrating CV/ML models on device (OpenCV + ONNX Runtime/TensorRT/NCNN/MediaPipe/NNAPI).
+· Experience building real time pipelines for live video (GStreamer/FFmpeg, RTSP/RTMP, ring buffers), optimizing for latency & memory.
+· Competence in multithreading/concurrency, lock free queues, and producer–consumer designs.
+· Comfort with debugging & profiling on Linux targets.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 23 :
 
+Your responsibilities will include:
 
+- Aligning for testing & performance acceptable range with regulatory authorities and internal simulation team
+- Conducting Risk Assessment and Hazard Analysis in Automotive Systems
+- Performing ADAS System Safety Analysis
+- Ensuring Automotive Cybersecurity for ADAS
+- Monitoring Safety Metrics and Performance
+
+You will have the authority to:
+- Define Safety - Active and Passive requirements
+- Define and implement testing standards
+- Handle Certification and Vehicle level testing reporting
+- Perform Risk Analysis
+
+To excel in this role, you should possess the following skills:
+- Knowledge of Vehicle Electrical and Electronics sub systems
+- Understanding of ADAS system and levels of Automation
+- Familiarity with regulatory requirements for various markets
+- Proficiency in Active and Passive safety requirements for ADAS
+- Strong Project Management skills
+- Good administrative skills with the ability to plan and develop a structure
+
+Your key responsibilities and tasks will include:
+- Supporting the relevant team based on PEP guidelines to ensure timely completion of milestones with desired results
+- Evaluating the safety of interaction between different levels of automation
+- Identifying and addressing cybersecurity risks within ADAS systems
+- Knowledge of security standards like ISO/SAE 21434 and UNECE WP.29 for automotive cybersecurity
+- Coordinating new Indian technologies / development opportunities based on market trends and customer requirements
+- Facilitating discussions with development consultants, suppliers, and other stakeholders to arrive at the best solutions
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 24 :
 
-
+Roles and responsibility :
+• C /C++/ embedded C/Python SW design, development/ testing
+• Operating System - Linux/ QNX/ SYSBIOS/ Vxworks/ Integrity/ ROS, any other POSIX RTOS
+• Hands on experience on hardware platforms - TI/ NVIDIA/ Renesas/ NXP/ Intel/Qualcomm equivalent
+• Sensors - camera/ RADAR/ LiDAR/ GPS/ IMU and other associated sensors desirable
+• Experience in MATLAB Simulink, TargetLink, Stateflow based development
+• Experience in deriving test cases and testing such as unit testing, integration testing and qualification testing (SWE.4, SWE.5 and SWE.6)
+• Experience in testing tools and simulators such as LDRA/ Vectorcast/ GTest/ CarMaker/CARLA/ VTD or equivalent.
+• Experience in tools – DOORS/Reqtify, Rhapsody, EA…
+• Hands on experience on System Engineering (Sys1, Sys2) - (Requirement Engineering/Design)
+• Experience in AI/ML/Deep Learning/Algorithm Development
+• Basic understanding in AutoSAR (Classic/Adaptive)
+• Experience in Computer Vision/ Image Processing
+• Experience in SIL/MIL/HIL for ADAS Function/system Development/Testing
+• Experience in ADAS, Autonomous Driving (AD) domain- Algorithms
+• Experience in CI/CD for SDLC
+• Experience in OpenCV, OpenGL, CUDA, DSP optimization
+• Basic understanding of Reverse Engineering, ASPICE, FuSA
+• Good understanding of CAN,CANFD/PCI-ETH/I2C/LIN/UART/SPI protocols
+• Hands on experience in CANOE, CAPL scripting
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 25 :
 
+Responsibility:
+• System Layouting of hardware components ADAS camera and Radar.
+• Specification setting, sourcing & Development.
+• Vehicle Integration and communication with other stakeholders.
+• Ensuring Compliance to various regulations (EMC, Cybersecurity, etc.)
+• Interface with supplier partners to specify product specification.
+• Should be able to evaluate supplier proposals and provide technical recommendations.
 
+Technical Competencies:
+• Hands On Experience on Design & development in any project from the ADAS domain & its subsystems (Auto High beam, Adaptive driving beam, Traffic sign recognition, Blind spot monitoring, Door Open Alert)
+• Working knowledge of overall automotive functional aspects, design, interface, application, testing and integration.
+• Knowledge of automotive radars and ADAS camera systems and its interface systems.
+• Knowledge of automotive communications & Diagnostic protocols (CAN, CAN FD, LIN etc)
+• Knowledge of DFMEA and Functional safety standard ISO26262.
+• Understanding of Vehicle surrounding environment & Architecture to meet ADAS functions.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 26 :
 
+• *Key Responsibilities:**
+- Must have 5-7 years of experience in Automotive Embedded Systems, with a strong focus on ADAS
+- Proficiency in Automotive Engine, Powertrain, Mechatronics, and relevant vehicle knowledge
+- In-depth understanding of ADAS Sensor characteristics and limitations
+- Good knowledge of ADAS regulations and internal/external functional interactions
+- Ability to define context diagrams, activity sequences, state charts, dysfunctional requirements, and use case diagrams
+- Proficient in comprehending system schematics and ECUs in terms of Electrical Engineering Architecture
+- Define and plan prototypes and test supports, propose inter-system requests, and translate requirements into simulation scenarios
+- Evaluate ADAS feature level scene behaviors
+- Skills in using tools like Doors, Magic Draw, Rhapsody, and other Model-based System Architecture definitions
+- Experience in data monitoring using Vector tools like CANape and CANoe
 
+• *Qualifications Required:**
+- Engineering graduate in Electrical or Electronics with relevant work experience
+- Good teamwork, coordination, and communication skills
+- Strong interpersonal skills to collaborate with diverse teams and make decisions
+- Excellent analysis and problem-solving skills
+- Effective oral and written communication skills
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 27 :
 
-
+Responsibilities:
+• Design, develop, and optimize ADASISv2/v3 Map Processing Software for ADAS applications.
+• Implement and test algorithms for map processing.
+• Ensure compliance with ISO26262 functional safety standards in software development.
+• Collaborate with cross-functional teams to integrate map processing software with other ADAS components.
+• Conduct code reviews, debugging, and performance analysis to ensure high-quality software delivery.
+• Participate in system architecture design and ensure high-quality SW as per the ASPICE standard.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 28 :
 
+Your responsibilities will include:
+- Analyzing data from simulation and real-world testing to determine root causes of failures and collaborating with internal and external teams to drive bug resolution
+- Supporting cross-component KPI development and monitoring to evaluate performance and safety
+- Developing visualizations and HMIs for autonomous driving
+- Expanding analysis tools and automated data processing pipelines
+- Supporting vehicle integration and release bring-up activities
+- Working closely and building relationships with experts in robotics, AI, and machine learning
 
+Qualifications for this role include:
+- Bachelor's degree in Engineering (Electrical Engineering, Computer Science, or related field) with 2+ years of Systems Test Engineering or related work experience
+- Strong knowledge of System Testing, functional ADAS testing, and test plan development
+- Excellent Python/C++ programming skills
+- Excellent analytical skills, written and verbal communication skills
+
+Preferred qualifications:
+- Master's degree in Computer Science, Robotics, or related field
+- 4+ years of Systems Test Engineering or related work experience
+- Experience working with autonomous driving systems
+- Experience in analyzing performance of complex systems using automated software-driven techniques
+- Experience with Software-In-the-Loop/Hardware-In-the-Loop development
+- Experience with cloud computing and big data analytics As a senior software engineer at Qualcomm India Private Limited, you will be joining the autonomous driving systems integration and test team. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 29 :
 
+Job Responsibilities:
+• Develop, code, test and maintain state of the art ADAS algorithms
+• Develop technical specifications and DFMEAs
+• Develop and execute functional test plans
+• Conduct detailed performance analysis
+• Work with colleagues and customers to develop and implement enhancements to address realworld performance issues
+• Complete assigned individual and team tasks
+• Support advanced development process activities (analysis, design, reviews, verification testing)
 
+Your Background: ( 5 to 9 years )
+• Bachelor’s degree in Engineering – Electrical, Electronics, Telecommunication, Aerospace, Computer Science, Robotics or related technical field / Master’s degree in Engineering - Electrical, Electronics, Telecommunication, Aerospace, Computer Science, Robotics or related technical field
+• 3+ years of programming experience in: C++.
+• 3+ years of development and testing of algorithms and code experience (can include industry, academic or internship)
+• Strong in control theory & systems design
+• Excellent data extraction & analysis skills (MATLAB, Excel)
+• Strong analytical and problem-solving skills
+• 3+ years of development and testing of ADAS algorithms in C/C++.
+• Superior communication & presentation skills
+• Background in automotive radar, vision, lidar, sensor fusion
+• Background in optimization, path planning and advanced filtering methods
+• Background in object detection and tracking algorithm design
+• ISO 26262 / Functional Safety functional expertise.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 30 :
 
+Key Responsibilities
+• Own ADAS program lifecycle: RFQ analysis, technical proposal, architecture definition, development, validation, SOP, and post-deployment support
+• Act as technical interface with IPG car makers and IPG truck makers, Tier-1s, and silicon vendors
+• Define system, software, and hardware architectures for L2/L2+ ADAS features
+• Lead multi-sensor fusion development using camera, radar, and other perception sensors
+• Drive functional safety, performance, and regulatory compliance for production programs
+• Mentor and technically guide cross-functional teams (systems, software, test, UX)
 
+Technical Skills & Expertise
+ADAS Features & Functions
+• ACC, AEB, FCW, LDW/LKA, TJA, TSR, BSD, LCA, Parking Assist, Driver Monitoring
+• Experience across passenger vehicles and commercial vehicles (trucks, buses)
+
+Sensors & Perception
+• ADAS Cameras: mono, stereo, surround, DMS, OMS (ISP, HDR, GMSL, MIPI)
+• ADAS Radars: 77GHz short/mid/long-range radar, corner radars
+• Sensor fusion (camera + radar), object detection, tracking, and free-space estimation
+
+Silicon & Platforms
+• Experience with ADAS SoCs and MCUs (e.g., NVIDIA, Qualcomm, TI, NXP, Renesas, Mobileye)
+• Understanding of ASIL-compliant hardware, accelerators, ISP-less camera pipelines
+• BSP, middleware, and hardware abstraction layers
+
+Simulation & Toolchains
+• ADAS simulation using IPG CarMaker & IPG TruckMaker
+• MIL, SIL, HIL, VIL testing strategies
+• Scenario generation, sensor modeling, and KPI-based validation
+• Experience with tools like CANoe, CANalyzer, dSPACE, Vector, MATLAB/Simulink
+
+Software & Coding
+• Strong hands-on coding experience in C, C++, Python
+• Model-based design (MATLAB/Simulink, auto-code generation)
+• Embedded Linux / QNX fundamentals
+• Middleware, ROS/ROS2 exposure is a plus
+
+Systems Engineering & Safety
+• Requirements engineering (SysML, DOORS)
+• ISO 26262, SOTIF (ISO 21448), ASPICE
+• End-to-end traceability from requirements to test cases
+
+UI / UX for ADAS
+• ADAS HMI concepts: alerts, warnings, driver feedback, explainable ADAS
+• Collaboration with UX teams for human-machine interaction and usability
+
+Testing & Validation
+• Functional, integration, regression, and vehicle testing
+• Track testing, road testing, and data-driven validation
+• Debugging field issues and supporting homologation
+• *
+
+Leadership & Business Skills
+• RFQ ownership: effort estimation, risk assessment, solution differentiation
+• Customer-facing technical leadership and stakeholder management
+• Experience working in global delivery models
+• Strong communication and mentoring capabilities
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 31 :
 
+Responsibilities
+Â· Design and development of state-of-the-art embedded software for next generation ADAS systems
+Â· Support sophisticated research and developmental efforts
+Â· Performance optimization depending on the active platform
+Â· Development and optimization of C/C++ code
+Â· In vehicle testing. Almost all code will need to be tested in test vehicles. This would include testing code in real traffic
+Â· Inter device programming including coding for socket connections and SPI connections
+Â· Development of diagnostic and debug tools used for visualization and storage of sophisticated real-time data (which could include display of 3-d data)
+Â· DevOps, including maintenance and support of utilities used for code version control, quality control, verification, and testing
 
+Basic Qualifications
+Â· Bachelorâ€™s Degree in Electrical Engineering, Computer Engineering, Software Engineering or Computer Science
+Â· 5+ years of experience in software/firmware development using C/C++
+Â· 5+ years of experience designing and testing embedded systems for high performance, high reliability computing applications
+Â· 2+ years of experience with Unix-based embedded applications
+
+Preferred Qualifications
+
+Â· Masterâ€™s Degree in Electrical Engineering, Computer Engineering, Software Engineering or Computer Science
+Â· 7+ years of experience with embedded software design and development for automotive, industrial, or aerospace/military applications with proven success in a fast-paced, multi-functional engineering team environment
+Â· Experience developing software which meets functional safety requirements
+Â· Knowledge of Agile software development methodologies
+Â· Experience with embedded RTOS(s)
+Â· Experience with code optimization
+Â· Proficient in scripting languages, such as bash and Python
+Â· Knowledge of SPI, Ethernet and CAN communication
+Â· Familiarity with sensor modalities used in robotics and autonomous driving applications (Camera/Vision, RADAR, LIDAR, INS/IMU)
+Â· Experience with Jenkins, CMake, GitHub, Gtest, QNX, Docker
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 32 :
 
+Responsibilities:
+• You will work at the forefront of technology to design and develop cutting-edge software solutions in the Autonomous Driving domain.
+• You define and co-ordinate new features and changes to the system architecture.
+• Additionally, you implement features, test them in simulation, hardware and support activities to test the car itself.
+• You are responsible for cross-cutting requirements like the overall performance, quality, security and safety aspects of the software component.
+• You will work with a modern development environment with tools such as Rust, C++ 14/17, Clang, Bazel, Git/GitHub EE, Zuul CI, GoogleTest, Lua, Python.
+• You will have the freedom & autonomy to develop tools and frameworks to support all aspects of software development, design and testing.
+• You will learn from others and in turn you will inspire and help your team to learn and grow through your expertise and proactive approach to excel in all aspects of software engineering.
 
+Must have Experience:
+• A joy for everything software, a passion for working with like-minded colleagues to develop cutting-edge software solutions.
+• Strong expertise in embedded software engineering with C++ (C++11/14/17), with knowledge of modern software design patterns and principles.
+• Expertise in Python / Rust is a plus.
+• ADAS experience is preferred.
+• Experience in CI and test automatization as well as state-of-the-art software quality practices.
+• Proficiency in using version control systems (e.g., Git), build tools (e.g., Bazel, CMake), debugging utilities (e.g., GDB), and performance analysis tools.
+• Familiarity with automotive communication protocols like Ethernet/SomeIP.
+• Readiness to work according to an agile development methodology like Scrum.
+• Fluent English for professional use, German is a plus.
+• University degree in Computer Science / Electronics or a similar field of study (B.E./ B.Tech/ M.Tech/ Ph.D.).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 33 :
 
+Key Skills :
+- ADAS feature validation (Lane Assist, Adaptive Cruise Control, Collision Avoidance, etc.)
+- HIL/SIL testing environments
+- Automotive communication protocols (CAN, LIN, Ethernet)
+- Tools: CANoe, MATLAB/Simulink, Vector tools, Python scripting
+- Knowledge of ISO 26262 and automotive safety standards
+- Strong debugging, defect analysis, and reporting skills
 
+Responsibilities :
+- Plan, design, and execute validation test cases for ADAS features.
+- Perform system level validation in HIL/SIL environments.
+- Analyze test results, identify issues, and collaborate with development teams for resolution.
+- Ensure compliance with client requirements and automotive safety standards.
+- Document validation processes, test cases, and results with precision.
+- Work closely with cross functional teams (software, hardware, systems engineering).
+- Provide technical feedback and recommendations to improve ADAS validation processes.
+
+Candidate Profile :
+- 5 8 years of experience in automotive validation/testing.
+- Hands on expertise with ADAS systems and automotive communication protocols.
+- Robust problem solving and analytical skills.
+- Ability to work independently and in team environments.
+- Excellent communication and documentation skills.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 34 :
 
+Job Responsibilities
 
+· Providing precise technical solution for complex vehicle issues from headquarters to global field technical support managers
+· Based on vehicle data & field data (W&G), identify potential issues from product for improving the reliability of the products
+· Discuss with the stakeholders (Quality/Development/Purchase) to find a solution for the potential issues from the product
+· Documenting vehicle issues & it’s potential impact for participating in technical meeting(s) from different departments (Legal/Certification/Quality/Development)
+· Technically responsible in the after-sales for global field service measure preparation
+· Creating & releasing the global information for workshops for known issues & remedy
+
+Skills Required
+
+· Strong technical know-how of the modern vehicle systems & it’s complex vehicle diagnosis
+· Understanding radar, camera, ultrasonic sensors, and LiDAR fundamental etc. Familiarity with ADAS features: ACC, AEB, LDW, LKA, BSD, Traffic Sign Recognition, Parking Assist, etc
+· Awareness of ECU vehicle architecture and vehicle networks. Knowledge of power supply systems, gateway modules, signal flow
+· Understanding of ADAS calibration, tolerances and workshop prerequisites
+· Must have vehicle data analysis skill
+· Must be a good team player & good in stakeholder management
+· Basic awareness of After-sales business operations
+· Written and communication skills in English
+· German language proficiency is an added advantage
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 35 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 36 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 37 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 38 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 39 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 40 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 41 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 42 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 43 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 44 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 45 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 46 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 47 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 48 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 49 :
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 50 :
 
 
 
