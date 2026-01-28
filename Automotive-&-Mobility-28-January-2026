@@ -354,43 +354,158 @@ Key Requirements:
 
 JD - 14 :
 
+Roles & Responsibilities: 
+- Expected to perform independently and become an SME. 
+- Required active participation/contribution in team discussions. 
+- Contribute in providing solutions to work related problems. 
+- Assist in the evaluation and selection of appropriate technologies to enhance project outcomes. 
+- Collaborate with team members to ensure alignment on project goals and deliverables. 
 
+Professional & Technical Skills: 
+- Must To Have Skills: Proficiency in Multiplatform Front End Development React. 
+- Good To Have Skills: Experience with responsive design principles and frameworks. 
+- Strong understanding of JavaScript, HTML, and CSS. 
+- Familiarity with version control systems such as Git. 
+- Experience in integrating APIs and third-party services. 
+
+Additional Information: 
+- The candidate should have minimum 2 years of experience in Multiplatform Front End Development React. 
+- This position is based at our Jaipur office. 
+- A 15 years full time education is required.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 15 :
 
+Key Responsibilities:
+- Design and develop embedded software & firmware applications
+- Define and implement system-level software architecture
+- Embedded Linux application & UI development using Qt / C++ / Java / LabVIEW
+- Firmware and hardware integration including ADC, DAC, displays, peripherals
+- Work with ARM Cortex / SoC-based platforms
+- Low-level application debugging and testing
+- Participate in prototype development, system testing & pilot batches
+- Own projects end-to-end and manage 12 junior engineers
+- Ensure compliance with ISO & design processes
+- Prepare technical documentation & production release reports
+- Meet NPD/NPI targets and project deadlines
 
+Required Skills:
+- Embedded Software Development (46 years)
+- C++, Embedded Qt, Java, Python (LabVIEW added advantage)
+- Embedded Linux (Yocto knowledge preferred)
+- ARM Cortex / SoC programming
+- Communication protocols: I2C, SPI, RS232, RS485, Ethernet
+- Firmwarehardware integration (ADC/DAC)
+- Strong debugging & problem-solving skills
+- Version control tools: GIT / SVN / Azure
+
+Desired Skills:
+- Understanding of hardware design & instrumentation systems
+- Analog & digital circuitry knowledge
+- Experience handling complete product lifecycle
+- System-level testing of prototypes & pilot batches
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 16 :
 
+Responsibilities:
+• Directs and manages a technical team of hardware, software engineers and architects responsible for the development and/or validation of embedded systems across segments or technology.
+• Covers multiple areas of the system development lifecycle, including requirement gathering, design, development, validation, debug, optimization, customer engagement, and/or product support.
+• Oversees the development of embedded systems across multiple layers of the stack including board design, PCB, firmware/drivers, operating systems, software applications and tools, infrastructure, and platforms.
+• Provides direction and goals to the group to ensure efficient operation and sound engineering practices are followed and interacts with stakeholders internal/external.
+• Provides technical leadership and collaborates with internal partners, domain experts, planners, and business unit stakeholders.
+• Sets priorities for the team, achieves results across boundaries, ensures an inclusive work environment, develops employees, and manages performance.
 
+Required Skills/Abilities:
+• Strong verbal and written communication skills with the ability to communicate and interact with a variety of internal/external customers and/or co-workers.
+• Results-oriented and demonstrated record of developing initiatives that impact productivity.
+• Proactive and solutions-oriented with experience working in ambiguity.
+• Fosters an environment where employees feel empowered to experiment, innovate, and make decisions
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 17 :
 
+Key Responsibilities:
+- Product Definition: Lead the definition of new high-voltage GaN products, ensuring alignment with customer needs and industry trends.
+- Reference Design & Evaluation Board Development: Design and develop innovative reference designs and evaluation boards using high-voltage GaN technology to demonstrate product capabilities and help customers integrate the products effectively.
+- Customer Support: Provide expert customer support, including on-site troubleshooting, and conducting customer visits to offer technical guidance and resolve issues.
+- Technical Documentation: Write and develop various technical collaterals, including application notes, white papers, and marketing materials that communicate product benefits, use cases, and best practices to customers.
+- Customer Feedback Integration: Collect and relay customer feedback to the product team, ensuring that insights are utilized in shaping future product definitions and improvements.
 
+Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering or a related field.
+- Relevant 2 years of experience working with high-voltage GaN technology and power electronics.
+- Hands-on experience in AC-DC, DC-DC, and DC-AC power electronics development for one or more of the following applications: industrial, datacenter, solar, energy storage, or automotive.
+- Nice to have: Experience in power electronics firmware development.
+- Excellent skills in testing high-speed WBG (Wide Bandgap) device switching.
+- Solid fundamentals in power electronics and high-voltage GaN technology.
+- Strong technical writing skills with experience creating application notes, white papers, or similar documentation.
+- Excellent communication and interpersonal skills, with a demonstrated ability to work directly with customers and support their needs.
+- Strong problem-solving skills and the ability to troubleshoot complex technical issues.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 18 :
 
-
+• Evaluate and resolve technical support requests submitted via email, phone, or other channels.
+• Be the first line of defense in solving customer support requests and coordinating and prioritizing timely resolution independently and with the engagement of DevOps teams.
+• Develop a comprehensive understanding of typical business challenges faced by customers and common objectives to appropriately map features and associated business benefits to address their needs.
+• Serve as a customer advocate in shaping and driving the Drive Train & Mechanics product roadmap, enhancements, and improvements; Conduct independent research aimed at designing and defining new software features and functionality.
+• Facilitate customer trainings to ensure customer satisfaction and retention as well as maximum usage of our product.
+• Identify trends and inefficiencies to enhance support processes and improve the user experience.
+• Mentor, coach, and train new team members.
+• Support of evaluation projects for potential new customers.
+• Support of internal software development and validation of new models and features.
+• Develop customer-tailored simulation workflows and methodologies using GT-SUITE.
+• Participation in specialist conferences and working groups.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 19 :
 
+Responsibilities: Will include the following, other duties may be assigned:
+• Coordinate and manage all customer project related activities in the factory, including establishing and executing plans and key milestones for the customer projects and delivering the objectives on time.
+• Manage and resolve customer issues through closely collaborating with Tata Electronics’ factories, RnD, NPI, and sales teams.
+• Coordinate customer visits to the factory
+• Establish technical credibility, building trust and strong relationships with the customers to ensure quick problem solving above and beyond customer expectations.
 
+Qualifications
+• Bachelor’s degree in engineering or related fields.
+• Minimum of 10+ years of semiconductor manufacturing experience in assembly and test with in-depth understanding of the IC assembly and test processes, including wire bond and flip chip technologies products. Excellent flip chip assembly experience is a plus.
+• Experience in working with customers and stakeholders of the program to resolve technical issues to support the business success of the program.
+• Strong verbal and written communication skills in English are essential along with interpersonal communications skills. Must be a team player with good organizational, computer and project management skills.
+• Be a quick learner, a good listener, like a fast pace and matrix organization, able to follow instructions and work independently
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 20 :
 
+What you will be doing:
+• Provide technical applications support to the company's sales staff, Field Applications Engineers as well as Mass Market customer support and direct support to customers. In addition, work closely with 3rd parties to integrate their solution into mmWave Radar Ecosystem.
+• Create reference designs, requiring system design expertise, hardware, software integration and verification knowledge.
+• Implement fully functional demonstration systems in the form of C/C++ code for customers, in order to solve their technical issues.
+• Work with cross-functional teams from concept to production of SoC
+• Develop technical documentation including TRM, application notes, data sheets, user guides, design notes and white papers.
+• Conduct internal as well as customer training, thru training events like FAE summits, TI Tech Days or written materials.
 
+QUALIFICATIONS
+
+Minimum requirements:
+• 2+ years of relevant embedded software experience
+• Bachelor's degree in Electrical Engineering, ECE, or related field
+• Basic understanding of Digital Signal processing
+• Experience developing and debugging embedded software (RTOS or bare metal) on ARM MCUs or DSPs
+• Experience with peripherals such as UART, SPI or I2C
+
+Nice to have:
+• Hands-on experience with Radar Signal Processing
+• Basic knowledge of Matlab
+• Basic knowledge of Python
+• Experience with secondary bootloaders
+• Experience with LIN, CAN, Ethernet.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
