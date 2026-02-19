@@ -392,43 +392,210 @@ JD - 16 :
 
 JD - 17 :
 
+Responsibilities
+• Contribute to system, DSP, and board-level architecture for satellite sub-systems
+• Partition algorithms across FPGA hardware and embedded software
+• Design and develop RTL using VHDL / Verilog for datapaths, control logic, and interfaces
+• Create micro-architecture specifications, block diagrams, and design documentation
+• Perform functional simulation, timing analysis, and timing closure
+• Synthesize and implement designs using Xilinx Vivado and integrate Xilinx IP cores
+• Support board-level bring-up, debugging, and lab validation using JTAG, logic analyzers, and oscilloscopes
+• Collaborate with PCB, systems, and embedded teams on interfaces, pinout, and constraints
+• Support subsystem integration and troubleshooting at test facilities
+• Prepare and maintain SRS, test plans, ATPs, validation and compliance documentation
+• Participate in design reviews and readiness reviews following aerospace-quality processes
 
+Education & Experience
+• B.E. / B.Tech in Electronics & Communication / Electrical / VLSI (or equivalent)
+• 3 to 6 years of hands-on experience in RTL and FPGA design
+• Technical Skills (Must-Have)
+• Strong experience in VHDL RTL design (working knowledge of Verilog)
+• Hands-on with Xilinx FPGA toolchain (Vivado) – synthesis, P&R, constraints, timing closure
+• Functional and timing simulation; testbench development
+• Board-level debugging and lab validation experience
+• Interfaces : PCIe, Ethernet, UART, SPI, I²C
+• Familiarity with DDR / LPDDR memory interfaces and AXI protocols
+• Version control using Git / SVN
+
+Tools & Technologies
+• HDLs : VHDL, Verilog (SystemVerilog / SystemC – plus)
+• FPGA Tools : Xilinx Vivado; timing and simulation tools
+• Lab Tools : JTAG, logic analyzer, oscilloscope
+• Modeling : MATLAB / Octave
+• Version Control : Git (SVN acceptable)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 18 :
 
+Roles and Responsibilities:
+• Work with key stakeholders in understanding the requirements of the project/product. Provide technical inputs and work towards freezing the project requirements.
+• Create architecture and documentation for the project
+• RTL implementation including coding/ design entry in VHDL/Verilog/System Verilog. Choosing and configuring IPs.
+• Design Simulation, Design Synthesis, Functional Verification, Timing analysis and timing closure.
+• Participate in PDR’s and CDR’s and interact with cross functional teams to ensure all stakeholders sign off before release of project.
+• Co-ordinate with team members and other stakeholders to update on the timely status of the project
 
+Must have skills:
+• Experience in implementing complex designs in Xilinx/AMD FPGAs/ MPSoCs
+• Experience in designing using Xilinx/AMD RFSoC family devices
+• Highly skilled in one or more of Design Entry languages like Verilog/ VHDL/ System Verilog etc.
+• Working experience with Xilinx FPGA tools like Vivado, iSIM, Chipscope, Vitis etc
+• Experience with testing and debugging on the hardware by using suitable lab tools
+• Strong background in digital signal processing and its implementation on FPGAs
+• Experience of working on RF projects in the areas of 5G, Communications, radar, radios etc.
+• Good Communication skills (verbal and written)
+• Excellent Problem Solving and analytical skills
+• Ability to work in challenging environment to deliver high quality results
+
+Good to have skills:
+• Knowledge of Xilinx SoC SDK, Petalinux etc on Xilinx MPSoC
+• Experience with real-time operating systems (RTOS) and embedded software development
+• Experience with Altera/Intel FPGA/SoC platforms and workflow
+• Familiarity with DO-254 compliance for airborne electronic hardware
+• Experience working on aerospace or UAV (Unmanned Aerial Vehicle) projects
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 19 :
 
+##Area of Expertise
+- RTL / Logic Development in VHDL/Verilog
+- Full FPGA development flow from logic design, place route, timing analysis closure
+- Experience with advanced Xilinx/Intel FPGA families and the Xilinx/Intel development tools including Vivado/Quartus
+- Making testbenches for functional simulation of IP/FPGA design
+- Troubleshooting and debugging FPGA implementations on boards
+- Knowledge of any scripting language such as bash/Perl/python
 
+##Responsibilities
+- RTL / Logic Development in VHDL/Verilog
+- Full FPGA development flow from logic design, place route, timing analysis closure
+- Make testbenches for functional simulation of IP/FPGA design
+- Troubleshoot and debug FPGA implementations on boards
+
+##Qualifications
+- Experience with advanced Xilinx/Intel FPGA families and the Xilinx/Intel development tools including Vivado/Quartus
+- Knowledge of any scripting language such as bash/Perl/python
+- Highly motivated, self-starter with good interpersonal skills and a strong team player
+- Excellent communication, critical thinking, and problem-solving skills
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 20 :
 
+Roles and Responsibilities:
+• Work with key stakeholders in understanding the requirements of the project/product. Provide technical inputs and work towards freezing the project requirements.
+• Create architecture and documentation for the project
+• RTL implementation including coding/ design entry in VHDL/Verilog/System Verilog. Choosing and configuring IPs.
+• Design Simulation, Design Synthesis, Functional Verification, Timing analysis and timing closure.
+• Participate in PDR’s and CDR’s and interact with cross functional teams to ensure all stakeholders sign off before release of project.
+• Co-ordinate with team members and other stakeholders to update on the timely status of the project
 
+Must have skills:
+• Experience in implementing complex designs in Xilinx/AMD FPGAs/ MPSoCs
+• Experience in designing using Xilinx/AMD RFSoC family devices
+• Highly skilled in one or more of Design Entry languages like Verilog/ VHDL/ System Verilog etc.
+• Working experience with Xilinx FPGA tools like Vivado, iSIM, Chipscope, Vitis etc
+• Experience with testing and debugging on the hardware by using suitable lab tools
+• Strong background in digital signal processing and its implementation on FPGAs
+• Experience of working on RF projects in the areas of 5G, Communications, radar, radios etc.
+• Good Communication skills (verbal and written)
+• Excellent Problem Solving and analytical skills
+• Ability to work in challenging environment to deliver high quality results
+
+Good to have skills:
+• Knowledge of Xilinx SoC SDK, Petalinux etc on Xilinx MPSoC
+• Experience with real-time operating systems (RTOS) and embedded software development
+• Experience with Altera/Intel FPGA/SoC platforms and workflow
+• Familiarity with DO-254 compliance for airborne electronic hardware
+• Experience working on aerospace or UAV (Unmanned Aerial Vehicle) projects.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 21 :
 
+##Required Skills & Experience
+- Strong experience into FPGA Design
+- Strong in SV & Verilog, etc.
+- Hands on experience in RTL coding, Spyglass, Lint, design knowledge, STA, etc....
+- Added advantages if they worked telecommunication domain (5G, Radio Subsystems, AMS etc.), any Scripting Knowledge
+- Added advantages if they know APB, AHB, AXI, Ethernet, PCIe etc...
+- Knowledge in debugging using inbuilt logic analyzers
+- Expertise in setting up and using tools like Intel, Xilinx/AMD FPGA tools
+- Added Advantages if they know Agile way of working
+- Good Communication Skills
 
+##Technical Knowledge Areas
+- Good Knowledge in RTL FPGA design using Verilog/System Verilog
+- Good Knowledge in FPGA device architecture
+- Good knowledge in FPGA clock structure
+- Good Knowledge in RTL quality checks (Lint, CDC,RDC)
+- Good Knowledge of synthesis , Place and Route and STA
+- Good understanding of bus protocols (AXI, AvMM, AHB)
+- Good Knowledge of slow speed protocols : I2C, SPI, UART MDIO etc..
+- Good Knowledge in PCIe IP usage
+- Good knowledge in error detection and correction
+- Knowledge in constraints
+- Knowledge in debugging using inbuilt logic analyzers
+- Knowledge in FPGA tools like : Lattice Radiant (Must). Intel, Xilinx/AMD FPGA tools
+- Basic Understanding of scripting languages like Make flow, Perl, shell, python etc
+- Able to review design documents for FPGA validation team
+- Knowledge in Agile Methodology, GIT
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 22 :
 
+Roles & Responsibilities
+• RTL programming (Verilog/System Verilog or VHDL).
+• Knowledge of complete FPGA Design Development flow.
+• Hands-on with FPGA Development Tools (Quartus, Modelsim, Vivado, Xilinx ISE, Libero, etc.).
+• Functional verification using Verilog/System Verilog or VHDL.
+• RTL Code Optimization to meet timings and fit on-chip resources.
+• Support all phases of FPGA based product development activities.
+• System Architecture Design.
+• Testing and troubleshooting of hardware.
 
+Skills Requirements
+• BE/B.Tech in Electronics/Electronics & Communication from a recognized university with a good academic record.
+• ME/M.Tech in Electronics/VLSI Design from a recognized university with a good academic record.
+• Experience with Verilog/SystemVerilog or VHDL for design and verification.
+• In-depth understanding of FPGA design flow/methodology, IP integration, and design collateral.
+• Should be able to develop the small blocks of IP from scratch and do basic functional verification.
+• Should be familiar with protocols like SPI, I2C, UART and AXI.
+• Understanding of standard/specification/application for IP design or system design.
+• Knowledge of Altera Quartus II Tool, Questasim, Modelsim.
+• Knowledge of Xilinx tools like ISE, and Vivado.
+• Knowledge of Microsemi tools like libero.
+• Knowledge of USB, Ethernet, and external memories such as DDR, QDR RAM and QSPI-NOR based Flash.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 23 :
 
+What You will do:
+• Design and implement FPGA-based Radio and RAN Compute solutions
+• Develop and optimize FPGA designs for performance, power, and cost-efficiency
+• Collaborate with hardware and software engineers to integrate FPGA solutions into larger systems
+• Apply industry-standard tools and methodologies for FPGA development and implementation
+• Research and stay updated on the latest advancements in FPGA technology, including academia and industry trends in AI and Machine Learning
+• Document design specifications, test procedures, and results
+• Participate in design reviews and contribute innovative ideas to improve FPGA solutions
 
+The skills you bring:
+• 5+ years of experience in FPGA development
+• Comprehensive knowledge of:
+• FPGA technology, design environments, and design methodologies
+• FPGA design tools (e.g., Vivado, Quartus, or similar)
+• Hardware description languages (HDL), such as Verilog or VHDL
+• Experience with various communication protocols—DDRX, AXI4, PCIE, SPI, I2C, embedded processing
+• Experience with scripting languages such as Python, Tcl, shell scripting, etc.
+• Familiarity with hardware architecture and digital signal processing
+• Excellent problem-solving and analytical skills
+• Excellent English verbal and written communication skills
+• High self-motivation and the ability to work independently while being a great teammate
+• A track record of successful cross-team and cross-site cooperation
+• A Master's degree in Electrical or Computer Engineering or equivalent
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
