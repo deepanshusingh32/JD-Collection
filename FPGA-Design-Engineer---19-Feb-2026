@@ -787,55 +787,403 @@ Roles & Responsibilities:
 
 JD - 31 :
 
+##Key Responsibilities
+- Lead RTL architecture definition, specification, and design for complex communication systems
+- Mentor and guide engineers in RTL design, verification, and FPGA implementation using SystemVerilog
+- Perform synthesis, FPGA implementation, and timing closure
+- Collaborate with hardware/software teams to troubleshoot and optimize system performance
+- Ensure compliance with design methodologies and best practices
 
+##Required Skills
+- 8+ years of experience in RTL design, verification, and FPGA development
+- Expertise in digital design principles and FPGA workflows
+- Proficiency in SystemVerilog/Verilog and AXI4 (AXI4, AXI4-Lite, AXI4-Stream) protocols
+- Strong hands-on experience with Xilinx FPGAs and Vivado tools
+- Knowledge of DSP concepts (FFT, linear/complex algebra)
+- Experience in baseband processing for wireless systems (OFDM)
+- Proven leadership, innovation, and cross-functional collaboration skills
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 32 :
 
+##Key Responsibilities
+As an engineer in this role, you will be responsible for applying your knowledge and skills in the following technologies:
+- Electronic logic programs such as FPGA and ASICs
+- Design layout and verification of integrated circuits (ICs), printed circuit boards (PCBs), and electronic systems
+- Developing and designing methods of using electrical power and electronic equipment
 
+##Qualifications Required
+- Focus on Electrical, Electronics, and Semiconductor
+- Developing competency in your own area of expertise
+- Sharing expertise and providing guidance and support to others
+- Interpreting clients' needs
+- Completing your own role independently or with minimum supervision
+- Identifying problems and relevant issues in straightforward situations and generating solutions
+- Contributing to teamwork and interacting with customers
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 33 :
 
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-JD - 17 :
-
-
+##Job Description
+- **Functional Area:** RTL design, Lower Power Synthesis, Low Power Design, UPF Flow
+- 3-8 years of experience in RTL design in Verilog, VHDL
+- ASIC/FPGA experience
+  - If ASIC experience, then Lint/CDC tool experience
+  - If FPGA experience, then Xilinx or Altera/Intel FPGA parts and tools
+- RTL debug experience
+- Knowledge of at least one industry standard protocols like I2C/SPI/UART, PCIe, MIPI, AXI, Ethernet
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 34 :
 
+##Essential Responsibilities
+- Select the FPGA, CPLD family and chip suitable for the application
+- Develop FPGA design requirements based on system requirements document
+- Define FPGA interfaces with other circuitry along with hardware design engineer
+- Do FPGA programming, synthesis and simulation, timing analysis and optimization
+- Validate system along with the hardware and firmware design engineers to confirm about functionality, reliability, efficiency, compatibility and responsiveness
+- Work on FPGA-based solutions for interfacing real-time microprocessor systems to high speed Networks and I / O
+- Actively drive design rigor and participate in relevant formal design reviews
+- Contribute to board level reliability analysis and system FMEA
+- Identify opportunities to modify/author DPs
+- Identify cost-out opportunities and make technical proposals
+- Lead/ Participate on teams assigned to address organizational initiatives
 
+##Qualifications/Requirements
+- Bachelor / Masters in Electronics Engineering, Electronics & communication, Computer Engineering or equivalent
+- 8-10 years of experience in FPGA design, digital circuit design, system level analysis, Product Development life cycle including system and Sub-system Design
+- Proven analytical and organizational ability
+- Strong interpersonal and leadership skills
+- Strong oral and written communication skills
+- Effective problem identification and solution skills
+
+##Desired Characteristics
+- Hands on experience in Verilog, VHDL, FPGA development tools, including design, synthesis, simulation, timing analysis, optimization, packaging and debug
+- Expertise in Signal Integrity and simulations
+- Knowledge about different communication techniques
+- Hands on experience in developing the interfaces between FPGA and other devices like microprocessors, ADCs, transceivers and so on
+- Strong experience of High-speed digital designs, Proficiency in ECAD suite of tools either from Mentor Graphics or Cadence would be an added advantage
+- Should have a good understanding of EMI/EMC concepts related to high speed designs and debug issues
+- Experience working with Industry protocols like MODBUS, FF, CAN, Ethernet
+- Ability to coordinate several projects simultaneously
+- Experience in Agile methodology
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 35 :
 
+##Key Responsibilities
+- Implement architecture specification into a microarchitecture specification, and then into RTL - leading to first-silicon-success. Drive all adjacent functions
+- Build, Lead and mentor a high-performing engineering team
+- Drive microarchitecture and design reviews, ensuring high-quality deliverables
+- Collaborate cross-functionally with global teams on FPGA and SOC development
+- Champion best practices in RTL implementation, verification, and prototyping
+- Support hiring, onboarding, and team building efforts
+- Own performance management and development planning for team members
+- Deliver technical presentations tailored to both abstract and detailed audiences
+- Drive continuous improvements for industry-leading methodologies and outcomes
 
+##Required Qualifications
+- 15+ years of experience in digital design and verification; 20+ years preferred
+- Proven leadership in technical teams with a collaborative working style
+- Deep expertise in RTL implementation, verification, FPGA prototyping and design closure
+- Strong proficiency in SystemVerilog, related programming, Static Timing Analysis, CDC/RDC, Lint, UPF techniques, RTL and gate-level simulations, mixed-mode simulations and debug techniques
+- Experience in mentoring, hiring, and performance management
+- Skilled in presenting technical content at varying levels of abstraction depending on the audience
+- Excellent communication and stakeholder management skills
+- Bachelors or Master's degree in electrical engineering, Computer Engineering, or a related field with extensive experience (15+ years) in digital ASIC/SoC design
+- 6+ years in a management or leadership role, with a track record of successfully delivering ASIC products
+
+##Preferred Qualifications
+- Strong understanding of FPGA development
+- Experience leading cross-site teams and succession planning
+- Familiarity with tools such as Synopsys, Cadence, or Mentor Graphics
+- Exposure to project planning and organizational development
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 36 :
 
+• *Key Responsibilities:**
+- Design, develop, troubleshoot, debug, and maintain large and efficient software systems for technology mapping, logic, and timing optimization steps of the FPGA logic synthesis software.
+- Gather requirements and functional specifications, and design and implement efficient data structures and algorithms in C/C++.
+- Collaborate with the CAE team in test planning, execution, and customer support.
+- Maintain and support existing products and features.
+- Ensure that the software meets performance, scalability, and reliability requirements.
+- Stay current with the latest advancements in FPGA design tools and methodologies.
 
+• *Qualifications Required:**
+- B.Tech/M. Tech in Computer Science or Electrical Engineering from a reputed institute.
+- 1 year of experience in designing, developing, and maintaining large EDA software.
+- Strong knowledge of data structures, graph algorithms, and C/C++ programming on Windows/Unix platforms.
+- Familiarity with digital logic design, Verilog/VHDL RTL level designs, timing constraints, and static timing analysis.
+- Working knowledge of FPGA design tools and flows is a plus.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 37 :
 
+Responsibilities
+• Pure #RTLDevelopment (4 positions) (No Only RTL integration-only FPGA experience not accepted)
+• Real #RTLDevelopment experience
+• Strong hands-on #ASICRTLCoding (Verilog / SystemVerilog)
+• Experience in coding RTL blocks and / or algorithms for ASICs in Verilog / System Verilog is mandatory
+• Experience in converting #Microarchitecture to #synthesizableRTLCode keeping in mind area, latency and power constraints is needed
+• Solid exposure to CDC, Lint, X-prop and RTL clean-up
+• Experience in running QC checks (CDC, Lint, X-prop) on the design and cleaning up design issues is mandatory
+• Synthesis and constraint writing experience is good to have, but not mandatory
+• Only FPGA experience not accepted
+• Mixed RTL Development (Coding) + Integration (1 position) – Min 2 ASIC RTL coding projects required
+• Experience in coding RTL blocks and / or algorithms for ASICs in Verilog / SystemVerilog in at least 2 projects is mandatory. This candidate could also have worked on a few RTL integration projects, but mandatory experience in at least 2 ASIC RTL development (coding) projects are needed.
+• 1–2 FPGA RTL projects are acceptable, but majority must be ASIC RTL
+• Experience in running QC checks (CDC, Lint, X-prop) on the design and cleaning up design issues is mandatory
+• Synthesis and constraint writing experience is good to have, not mandatory
+• Only FPGA experience not accepted
 
+Qualifications
+
+5–10 years ONLY (strict range – 4.x profiles will not be considered).
+
+Required Skills
+• Real # RTLDevelopment experience
+• Strong hands-on #ASICRTLCoding (Verilog / SystemVerilog)
+• Experience in coding RTL blocks and / or algorithms for ASICs in Verilog / System Verilog is mandatory
+• Experience in converting #Microarchitecture to #synthesizableRTLCode keeping in mind area, latency and power constraints is needed
+• Solid exposure to CDC, Lint, X-prop and RTL clean-up
+• Experience in running QC checks (CDC, Lint, X-prop) on the design and cleaning up design issues is mandatory
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 38 :
 
+##Key Responsibilities
+- Lead the definition and implementation of RTL architectures and participate in the specification and design of complex communication systems
+- Oversee and mentor a team of engineers in the design, verification, and implementation of RTL designs using System Verilog
+- Conduct synthesis, implement designs on FPGAs, and resolve timing violations
+- Collaborate with Software and Hardware teams to troubleshoot and optimize system performance issues
+- Ensure adherence to design methodologies and best practices throughout the development process
 
+##Requirements
+
+###Required Skills
+- 8+ years of experience in RTL design and verification, with a proven track record in leading design teams
+- In-depth expertise in digital design principles, RTL design, and FPGA development flows
+- Advanced proficiency in HDLs, particularly SystemVerilog/Verilog for RTL Design
+- Strong experience in designing IPs using AXI4, AXI4 Lite, and AXI4 Stream Protocols
+- Comprehensive understanding of Xilinx FPGA architectures and proficiency in using tools like Vivado
+- Solid knowledge of digital signal processing techniques, including Fast Fourier Transform, linear algebra, and complex algebra
+- Experience in the realization of baseband processing for wireless systems, such as OFDM
+- Proven ability to innovate and research unfamiliar technologies applicable to product development
+- Strong organizational skills with the ability to manage projects, timelines, and cross-functional communication effectively
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+JD - 39 :
+
+##Key Responsibilities
+- Design, implement, and optimize FPGA-based digital logic using Verilog / SystemVerilog / VHDL
+- Lead FPGA development activities including architecture definition, RTL implementation, and timing closure
+- Perform functional verification, simulation, and on-board validation of FPGA designs
+- Work on system-level integration and debug of FPGA-based solutions
+- Develop embedded firmware in C/C++ for FPGA-based systems and embedded processors
+- Integrate and validate high-speed interfaces and industry-standard protocols
+- Support FPGA synthesis, place & route, and constraint development
+- Drive hardware bring-up and root-cause analysis using lab debug tools
+- Develop automation and build scripts using TCL / Perl
+- Collaborate with board, firmware, and system teams during integration and validation phases
+
+##Required Skills & Experience
+- 6–9 years of hands-on experience in FPGA design, verification, and hardware validation
+- Strong background in digital logic design and RTL development
+- Proficiency in Verilog / SystemVerilog / VHDL
+- Experience with embedded firmware development using C/C++
+- Hands-on experience with ARM-based embedded processors
+- Working knowledge of high-speed and complex protocols, including:
+  - PCIe Gen4 / Gen5
+  - DDR
+  - 10G Ethernet
+  - USB 3.2
+  - JESD204C
+  - IEEE 1588 PTP
+  - MIPI, MACSEC
+- Strong system-level design and debug experience
+- Hands-on experience with high-speed memory interfaces such as QDR II+ and QDR IV
+- Proficiency in hardware debug using logic analyzers, ChipScope, and oscilloscopes
+- Experience with scripting and automation using TCL / Perl.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 40 :
+
+Key Responsibilities
+- Design, simulate, and verify FPGA-based digital hardware, firmware, and DSP algorithms for satellite transponders in Ka-band, S-band, and X-band applications. 
+- Develop Software Defined Radio (SDR) systems and high-end digital designs, including VHDL/Verilog coding, synthesis, and timing closure for space-grade reliability. 
+- Collaborate with systems engineering and RF design teams to optimize digital hardware, firmware, and software integration, supporting link budgets and payload performance. 
+
+Required Qualifications
+- Bachelor's or Master's degree in Electronics, Electrical Engineering, or related field with focus on digital systems or embedded hardware. 
+- 1-4 years of experience in FPGA design, digital hardware development, simulation, and testing for aerospace or communications systems. 
+- Proficiency in tools like Xilinx Vivado, Intel Quartus, ModelSim, and languages including VHDL, Verilog, and MATLAB for DSP. 
+
+Preferred Skills
+- Experience with satellite-specific digital designs, radiation-hardened FPGAs, and full lifecycle from fabrication to environmental testing. 
+- Knowledge of SDR architectures, real-time firmware, and interfaces like JESD204, Aurora for high-speed data in Satcom payloads. 
+- Strong teamwork skills for multidisciplinary optimization and agile development in SAMTEL Avionics' space initiatives.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 41 :
+
+Roles & Responsibilities
+
+ RTL programming (Verilog/System Verilog or VHDL).
+ Knowledge of complete FPGA Design Development flow.
+ Hands-on with FPGA Development Tools (Quartus, Modelsim, Vivado, Xilinx ISE, Libero, etc.).
+ Functional verification using Verilog/System Verilog or VHDL.
+ RTL Code Optimization to meet timings and fit on-chip resources.
+ Support all phases of FPGA based product development activities.
+ System Architecture Design.
+ Testing and troubleshooting of hardware.
+
+Skills Requirements
+
+ BE/B.Tech in Electronics/Electronics & Communication from a recognized university with a good academic record.
+ ME/M.Tech in Electronics/VLSI Design from a recognized university with a good academic record.
+ Experience with Verilog/SystemVerilog or VHDL for design and verification.
+ In-depth understanding of FPGA design flow/methodology, IP integration, and design collateral.
+ Should be able to develop the small blocks of IP from scratch and do basic functional verification.
+ Should be familiar with protocols like SPI, I2C, UART and AXI.
+ Understanding of standard/specification/application for IP design or system design.
+ Knowledge of Altera Quartus II Tool, Questasim, Modelsim.
+ Knowledge of Xilinx tools like ISE, and Vivado.
+ Knowledge of Microsemi tools like libero.
+ Knowledge of USB, Ethernet, and external memories such as DDR, QDR RAM and QSPI-NOR based Flash.
+
+Personal Competency
+
+ Self-motivated to learn and contribute.
+ Ability to work effectively with global teams.
+ Able and willing to work in a team-oriented, collaborative environment.
+ A demonstrated ability to prioritize and execute tasks so as to achieve goals in an innovative, fast-paced, and often high-pressure environment.
+ Proven analytical and creative problem-solving abilities.
+ Passionate about writing clean and neat code that adheres to coding guidelines.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 42 :
+
+What you will do:
+
+ Assist in defining low level design specification and implementation strategies for FPGA products.
+ Design, implement IP/RTL modules for FPGA SOC by perform synthesis, simulation, and timing analysis.
+ Analyse simulation results, debug issues, and collaborate with verification team for resolution.
+ Contribute to the continuous improvement of products, tools, and processes.
+ Follow and contribute to the team’s best practices, processes, and documentation standard.
+
+The skills you bring:
+
+ 3 to 5 years of experience in FPGA/Digital design.
+ Knowledge of FPGA architecture, digital design fundamentals and timing.
+ Working experience in FPGA tools (Vivado or Quartus or Radiant)
+ Proficiency in SystemVerilog/Verilog/VHDL.
+ Ability to understand, reuse existing code effectively and/or write reusable, module level and well documented code.
+ Experience with scripting languages such as Python, Tcl, shell scripting, etc.
+ Familiarity in version control GIT.
+ A problem-solving attitude, self-motivation, and eagerness to learn and contribute.
+ Excellent English verbal and written communication skills
+ Bachelor/Master degree in Electronics or Computer Engineering or equivalent.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 43 :
+
+##Responsibilities
+- Design and develop FPGA-based solutions for radio systems
+- Have a general understanding of ORAN 4G and 5G radio access networks, E-CPRI protocols, and related specifications
+- Develop based on IP modules of signal chain processing
+- Have experience in antenna array steering, beamforming, and TDD waveforms
+- Familiarity with AMD Xilinx SoC (MPSoC/RFSoC) and Intel FPGA families
+- Participate in system-level design and optimization
+- Debug and troubleshoot FPGA designs
+- Expertise in FPGA timing constraints and timing closure, clock domain crossing, and design implementation for Intel FPGA/AMD Xilinx FPGA
+- Work closely with cross-functional engineers to integrate FPGA designs into the larger ORAN system
+- Develop and implement testing procedures to ensure quality control and reliability of FPGA-based solutions
+
+##Mandatory Skills
+- Experience with ORAN/4G/5G Radio Related technologies and standards
+- Familiarity with RF and communication systems is a plus
+- Strong analytical and problem-solving skills
+- Excellent communication and teamwork skills
+- 4+ years of experience in FPGA design and implementation. Strong development experience with Verilog
+- Knowledge of Digital Signal processing
+
+##Desired Skills
+- Experience in RF communication systems, Software-defined radio, and related technologies
+- Experience with high-speed protocol such as 10/25/100 Gbit/s (SFP+, QSFP+) Ethernet, PCIe etc.
+- Knowledge of LTE/5G stack and standards
+- C, C++, Python, MATLAB, Linux, Bash
+- Embedded system design
+- CI/CD and GIT
+- ARM bare-metal firmware design.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 44 :
+
+##Responsibilities & Duties
+- Participate in next-generation system architecture – a full system effort spanning mission planning, software, hardware, and other sub-systems
+- Develop custom IP for new features of the Pixxel camera payload and satellite bus
+- Understand the design requirements, establish the design infrastructure, support verification engineers, and test the correctness of the design
+- Realize high-reliability digital design targeting state-of-the-art Xilinx FPGAs
+- Participate in conceptual design studies of new spacecraft
+
+##Desirable Skills & Certifications
+- Comfortable working with Xilinx Vivado Design Suite
+- Experience with external memories (SSD, FLASH, etc.); high-speed transceivers for protocols such as PCIe, SATA; and memory-mapped interfaces such as AXI, Wishbone, Avalon
+- Using advanced design methodologies like Hierarchical Design
+- Experience using lab equipment: high-speed oscilloscopes, logic and protocol analyzers, spectrum analyzers, etc
+- Experience with schematic design and board bring-up is a plus point
+
+##Would be great if you have
+- A Bachelor's Degree in EE, CS or CE (or a related field) with at least 2+ years of relevant experience or an Advanced Degree (Masters or PhD)
+- Excellent knowledge of hardware description languages (Verilog/System Verilog/VHDL)
+- Strong understanding of computer architecture and logic design, and serial interfaces – SPI, I2C, LVDS, etc
+- Solid understanding of timing principles, including clock domain crossing and timing closure
+- Experience with FPGA tools (e.g Vivado) and HDL Simulation Tools (ModelSim)
+- Strong debugging and analytical skills
+- Strong communication skills and the ability to work in a small team are a huge plus
+- Solid programming skills (C / C++, Python, Matlab).
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 45 :
+
+##Responsibilities
+- Actively collaborate with satellite electrical systems and embedded hardware engineers to carry out trade-off studies and derive the FPGA functional requirements
+- Develop the FPGA Design architecture of the Payload electronics to accomplish on-board image capture and processing
+- Lead a team of FPGA Design engineers to develop micro-architecture, RTL design, verification and validation plans
+- Mentor the design engineers to develop concise, resource efficient RTL code for satellite payloads
+- Review the RTL code, verification and validation, board level test results throughout the development lifecycle
+- Plan and execute the tests on the evaluation boards/prototype hardware to validate the RTL design
+- Contribute to evolve the best coding practices, verification and validation methods
+
+##Required Qualifications
+- B.Tech/B.E in Electronics Engineering or M.Tech/M.E or PhD degree in Microelectronics/VLSI/Embedded systems/Electronics systems
+- 8+ years of demonstrated experience in design to hardware implementation life cycle of high-speed FPGA based digital systems, with experience of leading a design team
+- Strong proficiency in VHDL/Verilog with expertise in FPGA design flow using Vivado/Libero EDA tools and familiarity with scripting (TCL/Python/Shell)
+- Deep understanding of FPGA architecture and techniques for reliable, resource optimal, reusable RTL implementation
+- Expertise in troubleshooting RTL observations during hardware development lifecycle
+- Proven expertise in handling High-speed memory interfaces (DDR 3/4/5), High-speed I/O interfaces (LVDS) and protocols such as Camera link, Ethernet, SpaceWire
+- Proficiency in working with FPGA/SoC development kits and electronic test equipment at Lab
+
+##Preferred Skills
+- Knowledge of algorithm implementation in MATLAB/Python
+- Familiarity with digital image processing techniques
+- Understanding the satellite payload development lifecycle is a significant plus
+- Familiarity with the standards for satellite hardware development is an advantage
+- Knowledge of the latest advancements in FPGA/SoC-based satellite payload electronics development.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
