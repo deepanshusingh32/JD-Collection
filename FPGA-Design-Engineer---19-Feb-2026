@@ -4,25 +4,90 @@ Sheet Link : https://docs.google.com/spreadsheets/d/1YgbTMga6HxjOOvE4Tyv-vdnRqqC
 
 JD - 1 :
 
+##Key Responsibilities
+- **RTL Design:** Design and implement high-quality RTL code for FPGA-based systems, primarily using VHDL or SystemVerilog.
+- **System Design:** Work on complex digital system designs, including signal processing, interface design, and integration of components such as memory controllers, processors, or peripheral devices.
+- **Verification:** Develop and execute verification plans, including testbenches, to validate your designs in simulation and on real hardware.
+- **Debugging:** Use hardware debugging tools (e.g., oscilloscopes, logic analyzers) to troubleshoot and validate designs during both simulation and hardware implementation phases.
+- **Optimization:** Ensure that designs are optimized for FPGA performance, resource usage (LUTs, flip-flops, etc.), and power consumption.
+- **Collaboration:** Work closely with cross-functional teams including hardware engineers, firmware developers, and systems engineers to integrate and test complete FPGA solutions.
+- **Documentation:** Create and maintain detailed design documentation, including specifications, schematics, test cases, and verification reports.
+- **Support:** Assist with bringing up and debugging prototypes on FPGA hardware, as well as providing support for post-silicon validation and production systems.
 
+##Required Qualifications
+- Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or a related field.
+- 4+ years of hands-on experience in FPGA design and RTL development.
+- Expertise in HDL design using VHDL or SystemVerilog.
+- Strong understanding of digital logic design and FPGA architecture.
+- Familiarity with FPGA toolchains like Xilinx Vivado, Intel Quartus, or Lattice Diamond.
+- Experience with FPGA verification using simulation tools such as ModelSim, VCS, or Questa.
+- Knowledge of scripting languages (e.g., TCL, Python) for automation and tool integration.
+- Experience with hardware debugging tools, including oscilloscopes, logic analyzers, and in-circuit emulators.
+- Solid understanding of timing analysis, clock domain crossing, and resource optimization techniques in FPGA design.
+- Experience with interfaces such as PCIe, Ethernet, USB, or DDR is a plus.
+- Strong problem-solving skills and attention to detail.
+- Ability to work independently and as part of a collaborative team.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 2 :
 
+Key Responsibilities:
+- Assist with the bring-up of the ZCU104 board
+- Focus on camera interface development
+- Develop a comprehensive testbench for the FPGA
+- Verify and debug FPGA designs
 
+Qualifications Required:
+- Hands-on experience with FPGA design, verification, and debugging
+- Knowledge of embedded systems
+- Familiarity with relevant development tools
+- Mandatory skills in Embedded Systems, Electronics, Microcontroller Programming, Circuit Design, and PCB Design
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 3 :
 
-
+- Strong RTL(verilog / system verilog) skills with experience in IP development.
+• Ability to verify designs by writing simple testbenches.
+• Strong foundation in logic synthesis and timing closure concepts.
+• Good knowledge of SoC architecture, AXI bus protocols, hardware debug.
+• Experience of working with Xilinx FPGAs, Vivado tool flows and micro architecture development is a plus.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 4 :
 
+##Key Responsibilities
+- Design, implement, and optimize FPGA-based digital logic using Verilog / SystemVerilog / VHDL
+- Lead FPGA development activities including architecture definition, RTL implementation, and timing closure
+- Perform functional verification, simulation, and on-board validation of FPGA designs
+- Work on system-level integration and debug of FPGA-based solutions
+- Develop embedded firmware in C/C++ for FPGA-based systems and embedded processors
+- Integrate and validate high-speed interfaces and industry-standard protocols
+- Support FPGA synthesis, place & route, and constraint development
+- Drive hardware bring-up and root-cause analysis using lab debug tools
+- Develop automation and build scripts using TCL / Perl
+- Collaborate with board, firmware, and system teams during integration and validation phases
 
+##Required Skills & Experience
+- 6–9 years of hands-on experience in FPGA design, verification, and hardware validation
+- Strong background in digital logic design and RTL development
+- Proficiency in Verilog / SystemVerilog / VHDL
+- Experience with embedded firmware development using C/C++
+- Hands-on experience with ARM-based embedded processors
+- Working knowledge of high-speed and complex protocols, including:
+  - PCIe Gen4 / Gen5
+  - DDR
+  - 10G Ethernet
+  - USB 3.2
+  - JESD204C
+  - IEEE 1588 PTP
+  - MIPI, MACSEC
+- Strong system-level design and debug experience
+- Hands-on experience with high-speed memory interfaces such as QDR II+ and QDR IV
+- Proficiency in hardware debug using logic analyzers, ChipScope, and oscilloscopes
+- Experience with scripting and automation using TCL / Perl
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
