@@ -93,77 +93,436 @@ JD - 4 :
 
 JD - 5 :
 
+##Key Responsibilities
+- Good understanding of Verilog or VHDL
+- Experience with Xilinx/Altera tool flow
+- Knowledgeable about FPGA architecture
+- Familiarity with interfaces such as PCIe, USB, Ethernet, SerDES, and memories like DDR will be an added advantage
+- Strong logic ability and grasp of Digital Fundamentals
+- Ability to interface between engineering teams of different customers and our design team
+- Solid grasp of Analog Fundamentals
+- Sound understanding of general engineering fundamentals
 
+##Qualifications
+- 1-4 years of experience in a similar role
+- Join us in Pune for a Full-Time opportunity to showcase your skills and contribute to our innovative projects at Bit Mapper Integration
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 6 :
 
+##Key Responsibilities
+- All aspects of FPGA design activity: Coding, Synthesizing, mapping and timing closure, verification support and LAB bring up
+- Participate in FPGA architecture and design for current and next generation products
+- Collaborate with other teams: SW, DV, QA, System etc
 
+##Requirements
+- B.E/B Tech degree in Electronic & Communication or Equivalent
+- 5+ years' experience as an FPGA designer
+- 5+ years' experience with networking
+- Practical knowledge of RTL design, synthesis, timing closure, simulation and verification test benches
+- Hardware bring up and debug experience
+- Familiarity with high level programming languages like C/C++, System Verilog, Scripts (TCL, Python) – advantage
+- Excellent system understanding & strong analytical and problem solver abilities
+- Experience with UVM verification flow – advantage
+- High motivation to excel in career
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 7 :
 
-
+##Key Responsibilities
+- Design and implementation of FPGAs
+- Participate in architecture definition, implementation, and verification phases
+- Develop detailed design specifications
+- Implement block-level RTL, perform synthesis, and achieve timing closure
+- Collaborate with multi-functional teams
+- Assist in complex subsystem level lab bring-up, integration, and unit test validation
+- Experienced in crafting with Xilinx, Altera, and Microsemi FPGAs
+- Proficiency in HDL languages (Verilog, VHDL, and System Verilog)
+- Hands-on experience with FPGA vendor tools like Vivado, Quartus, and Libero
+- Hands-on experience with Ethernet-based protocols, PCIe, AXI, memory controllers, OTN, I2C, SPI, UART, etc.
+- Familiarity with simulation flow like UVM and VMM will be an added advantage
+- Basic knowledge of Unix system and script tools
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 8 :
 
+Essential Responsibilities
+• Select the FPGA, CPLD family and chip suitable for the application.
+• Develop FPGA design requirements based on system requirements document.
+• Define FPGA interfaces with other circuitry along with hardware design engineer.
+• Do FPGA programming, synthesis and simulation, timing analysis and optimization.
+• Validate system along with the hardware and firmware design engineers to confirm about functionality, reliability, efficiency, compatibility and responsiveness.
+• Work on FPGA-based solutions for interfacing real-time microprocessor systems to high speed Networks and I / O
+• Actively drive design rigor and participate in relevant formal design reviews
+• Contribute to board level reliability analysis and system FMEA
+• Identify opportunities to modify/author DPs
+• Identify cost-out opportunities and make technical proposals
+• Lead/ Participate on teams assigned to address organizational initiatives.
 
+Qualifications/Requirements
+• Bachelor / Masters in Electronics Engineering, Electronics & communication, Computer Engineering or equivalent.
+• 8-10 years of experience in FPGA design, digital circuit design, system level analysis, Product Development life cycle including system and Sub-system Design
+• Proven analytical and organizational ability
+• Strong interpersonal and leadership skills
+• Strong oral and written communication skills
+• Effective problem identification and solution skills
+
+Desired Characteristics
+• Hands on experience in Verilog, VHDL, FPGA development tools, including design, synthesis, simulation, timing analysis, optimization, packaging and debug
+• Expertise in Signal Integrity and simulations
+• Knowledge about different communication techniques
+• Hands on experience in developing the interfaces between FPGA and other devices like microprocessors, ADCs, transceivers and so on.
+• Strong experience of High-speed digital designs, Proficiency in ECAD suite of tools either from Mentor Graphics or Cadence would be an added advantage.
+• Should have a good understanding of EMI/EMC concepts related to high speed designs and debug issues.
+• Experience working with Industry protocols like MODBUS, FF, CAN, Ethernet
+• Ability to coordinate several projects simultaneously.
+• Experience in Agile methodology.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 9 :
 
+Key Responsibilities:
+- Design and implement FPGAs
+- Participate in architecture definition, implementation, and verification phases
+- Develop detailed design specifications and test plans
+- Implement block level RTL, perform synthesis, and achieve timing closure
+- Work with multi-functional teams including hardware, software, diagnostics, and signal integrity groups
+- Assist in complex subsystem level lab bring-up, integration, and unit test validation
+- Contribute to the design process adoption within the team
 
-
+Qualification Required:
+- Educational Background: 5+ years of experience in FPGA designs with MTech/BTech in EE/EC domain
+- Experience with Xilinx, Altera, and Microsemi FPGAs or proficiency in HDL languages (Verilog, VHDL, System Verilog)
+- Hands-on experience with FPGA vendor tools like Vivado, Quartus, and Libero
+- Familiarity with Ethernet-based protocols, PCIe, AXI, memory controllers, OTN, I2C, SPI, UART, etc. Knowledge of simulation flows like UVM and VMM is advantageous
+- Basic knowledge of Unix system and script tools
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 10 :
 
+Key Responsibilities
+• Implement FPGA code on target hardware and test with system components / software.
+• RTL Design, Implementation, Testing, Integration, and delivery of FPGA-based systems.
+• Participate in R&D for aerospace-related design techniques.
 
+Domain Expertise
+• Proficient in FPGA design flows using Xilinx tools (compilation, simulation, synthesis, debugging, optimization).
+• Strong knowledge of Verilog, VHDL, SystemVerilog .
+• Experience integrating Soft IP / Hard IP (GTX / GTH transceivers, MAC, DMA, PCIe Gen3, CPRI, JESD, FFT IP cores).
+• Skilled in verification environments with self-checking testbenches, BFMs, checkers, monitors, scoreboards .
+• Familiar with control interfaces : AMBA AXI, UART, SPI, I²C, DDR, Ethernet, USB .
+• Hands-on with hardware debugging tools : oscilloscopes, signal analyzers, JTAG emulators .
+• Experience with Vivado / Vitis and evaluation kits.
+
+Good to Have
+• Scripting skills : Perl, TCL, Python for automation.
+• Exposure to FPGA bring-up procedures and testing methodologies.
+• Knowledge of linting, STA, equivalence checking, CDC verification .
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 11 :
 
+Key Responsibilities :
+• RTL Design : Design and implement high-quality RTL code for FPGA-based systems, primarily using VHDL or SystemVerilog .
+• System Design : Work on complex digital system designs, including signal processing , interface design , and integration of components such as memory controllers , processors , or peripheral devices .
+• Verification : Develop and execute verification plans, including testbenches, to validate your designs in simulation and on real hardware.
+• Debugging : Use hardware debugging tools (e.g., oscilloscopes , logic analyzers ) to troubleshoot and validate designs during both simulation and hardware implementation phases.
+• Optimization : Ensure that designs are optimized for FPGA performance, resource usage (LUTs, flip-flops, etc.), and power consumption.
+• Collaboration : Work closely with cross-functional teams including hardware engineers, firmware developers, and systems engineers to integrate and test complete FPGA solutions.
+• Documentation : Create and maintain detailed design documentation, including specifications, schematics, test cases, and verification reports.
+• Support : Assist with bringing up and debugging prototypes on FPGA hardware, as well as providing support for post-silicon validation and production systems.
 
+Required Qualifications :
+• Bachelor’s or Master’s degree in Electrical Engineering , Computer Engineering , or a related field.
+• 4+ years of hands-on experience in FPGA design and RTL development.
+• Expertise in HDL design using VHDL or SystemVerilog .
+• Strong understanding of digital logic design and FPGA architecture .
+• Familiarity with FPGA toolchains like Xilinx Vivado , Intel Quartus , or Lattice Diamond .
+• Experience with FPGA verification using simulation tools such as ModelSim , VCS , or Questa .
+• Knowledge of scripting languages (e.g., TCL , Python ) for automation and tool integration.
+• Experience with hardware debugging tools, including oscilloscopes, logic analyzers, and in-circuit emulators.
+• Solid understanding of timing analysis , clock domain crossing , and resource optimization techniques in FPGA design.
+• Experience with interfaces such as PCIe , Ethernet , USB , or DDR is a plus.
+• Strong problem-solving skills and attention to detail.
+• Ability to work independently and as part of a collaborative team.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 12 :
 
-
+##Key Responsibilities
+- Good at Verilog or VHDL
+- Experience with Xilinx/Altera tool flow
+- Knowledgeable about FPGA architecture
+- Knowledge of interfaces like, PCIe, USB, Ethernet, SerDES Memories like DDR .etc will be an added advantage
+- Good Logic ability and Digital Fundamentals
+- Interfacing between engineering team of different customers and our design Team
+- Good Analog Fundamentals
+- Good general engineering fundamental
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 13 :
 
+Key Responsibilities:
+- Design and implement FPGAs
+- Participate in architecture definition, implementation, and verification phases
+- Develop detailed design specifications and test plans
+- Implement block-level RTL, perform synthesis, and achieve timing closure
+- Work with multi-functional teams
+- Assist in complex subsystem level lab bring-up, integration, and unit test validation
+- Contribute to the design process adoption within the team
 
+Qualifications Required:
+- Educational Background: 8-10 years of experience in FPGA designs with MTech/BTech in EE/EC domain.
+- Experienced in crafting with Xilinx, Altera, and Microsemi FPGAs or Proficiency in HDL languages (Verilog, VHDL, and System Verilog)
+- Hands-on experience with FPGA vendor tools like Vivado, Quartus, and Libero
+- Hands-on experience with Ethernet-based protocols, PCIe, AXI, memory controllers, OTN, I2C, SPI, UART, etc. Familiarity with simulation flow like UVM and VMM will be an added advantage
+- Basic knowledge of Unix systems and script tools
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 14 :
 
+Qualification:
+• Bachelor’s or Master’s degree in Electrical/Electronics or related engineering field.
+• 5-10years of Hands-on experience in implementing DSP algorithms in FPGA environments.
+• Prior experience with radar and electronic warfare systems.
 
+Professional Skills:
+• Strong analytical and problem-solving abilities.
+• Excellent communication and presentation skills.
+• Ability to work collaboratively in a team environment.
+• Detail-oriented with a strong focus on documentation and analysis.
+
+Technical Skills:
+• Proficiency in FPGA architecture and design methodologies.
+• Experience with ZYBO XC7Z020/ XC7Z045/Z ZynqUltra scale.
+• Strong RTL coding skills in VHDL, Verilog, and Vivado HLS.
+• Expertise in Xilinx tools for synthesis, implementation, and debugging.
+• Knowledge of Xilinx IP cores and DSP algorithm implementation in FPGA environments.
+• Experience with TF Transceivers AD9361/9371/AD9009 and Performance analysis..
+• Ability to model algorithms in Octave/MATLAB, generate test vectors, and visualize data.
+• Working knowledge of functional simulation, FPGA synthesis.
+• Proficiency in configuration/version control tools like SVN.
+
+Key Responsibilities:
+
+1. Design and Development:
+• Partition algorithms for implementation in FPGA and/or software.
+• Identify building blocks and signal processing functions.
+• Provide estimates on FPGA resources, computation bandwidth, and memory requirements.
+• Define the architecture of RTL functions and create module-level details from architecture to coding and simulation.
+
+2. Project Ownership:
+• Manage projects from concept to delivery, including risk identification, dependency management, mitigation planning, and tracking project schedules.
+• Conduct design reviews and hold discussions with customers to ensure alignment.
+
+3. Verification and Validation:
+• Apply methodologies for design, verification, and validation.
+• Conduct peer reviews of designs and simulations.
+
+4. Documentation:
+• Define, create, and maintain project-related documentation, including design
+
+documents and detailed analysis reports.
+
+5. Customer Interaction:
+• Understand customer requirements, specifications, and tender inquiries.
+
+Define system, and board architectures based on requirements.
+
+6. Support:
+• Provide customer support during integration phases at test sites.
+• Assist production teams as needed.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 15 :
 
+Key Responsibilities:
+- Design and implement FPGAs
+- Participate in architecture definition, implementation, and verification phases
+- Develop detailed design specifications and test plans
+- Implement block level RTL, perform synthesis, and achieve timing closure
+- Work with multi-functional teams including hardware, software, diagnostics, and signal integrity groups
+- Assist in complex subsystem level lab bring-up, integration, and unit test validation
+- Contribute to the design process adoption within the team
 
+Qualification Required:
+- Educational Background: 5+ years of experience in FPGA designs with MTech/BTech in EE/EC domain
+- Experience with Xilinx, Altera, and Microsemi FPGAs or proficiency in HDL languages (Verilog, VHDL, System Verilog)
+- Hands-on experience with FPGA vendor tools like Vivado, Quartus, and Libero
+- Familiarity with Ethernet-based protocols, PCIe, AXI, memory controllers, OTN, I2C, SPI, UART, etc. Knowledge of simulation flows like UVM and VMM is advantageous
+- Basic knowledge of Unix system and script tools
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 16 :
+
+##Responsibilities
+- Architect and develop Reference Designs and Solutions using FPGA products
+- Develop RTL and IP to implement the proposed designs
+- Define and implement use models for next-generation FPGA architecture exploration
+- Perform FPGA I/O interface (PCIe, Ethernet, DDR, XCVR, etc.) bring-up on FPGA hardware platforms
+- Execute the FPGA design flow, set timing constraints, and fix timing issues
+- Design debugging using tools and test equipment
+- Train Field Application Engineers on new product capabilities
+- Review and contribute to customer-facing product documentation and collateral
+- Adhere to defined development processes, quality standards, and coding guidelines
+
+##Requirements/Qualifications
+- Bachelors or Masters in Electronics or Electrical Engineering with 10+ years of relevant experience
+
+##Required Skills
+- Strong proficiency in Verilog RTL design
+- Solid experience in digital logic design using FPGAs
+- Strong understanding of FPGA Design Flow, timing analysis and timing closure
+- Experience with one or more high-speed interfaces such as PCIe, Gigabit Ethernet, JESD204B/C, or DDR is desirable
+- Excellent debugging and problem-solving skills at both RTL and hardware levels
+- Hands-on experience using lab equipment such as protocol analyzers, clock generators, oscilloscopes, etc
+- Strong verbal and written communication skills
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 17 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 18 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 19 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 20 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 21 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 22 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 23 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 24 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 25 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 26 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 27 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 28 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 29 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 30 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 31 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 32 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 33 :
 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 17 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 34 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 35 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 36 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 37 :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 38 :
 
 
 
