@@ -855,85 +855,332 @@ JD - 32 :
 
 JD - 33 :
 
+##Key Responsibilities
+- Design, implement, and optimize FPGA-based digital logic using Verilog / SystemVerilog / VHDL
+- Lead FPGA development activities including architecture definition, RTL implementation, and timing closure
+- Perform functional verification, simulation, and on-board validation of FPGA designs
+- Work on system-level integration and debug of FPGA-based solutions
+- Develop embedded firmware in C/C++ for FPGA-based systems and embedded processors
+- Integrate and validate high-speed interfaces and industry-standard protocols
+- Support FPGA synthesis, place & route, and constraint development
+- Drive hardware bring-up and root-cause analysis using lab debug tools
+- Develop automation and build scripts using TCL / Perl
+- Collaborate with board, firmware, and system teams during integration and validation phases
 
+##Required Skills & Experience
+- 6–9 years of hands-on experience in FPGA design, verification, and hardware validation
+- Strong background in digital logic design and RTL development
+- Proficiency in Verilog / SystemVerilog / VHDL
+- Experience with embedded firmware development using C/C++
+- Hands-on experience with ARM-based embedded processors
+- Working knowledge of high-speed and complex protocols, including:
+  - PCIe Gen4 / Gen5
+  - DDR
+  - 10G Ethernet
+  - USB 3.2
+  - JESD204C
+  - IEEE 1588 PTP
+  - MIPI, MACSEC
+- Strong system-level design and debug experience
+- Hands-on experience with high-speed memory interfaces such as QDR II+ and QDR IV
+- Proficiency in hardware debug using logic analyzers, ChipScope, and oscilloscopes
+- Experience with scripting and automation using TCL / Perl
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 34 :
+##Key Responsibilities
+- Be part of the emulation verification execution team and be responsible for planning, development, and execution of test content in varied domains including system stress, cache coherency and concurrency
+- Work in collaboration with design and architecture teams to root-cause failures using advanced debugging techniques
+- Develop high quality emulation test plans comprising of BareMetal content and OS based content for flushing even the most corner-case bugs
+- Create emulation models from RTL to run test content, using industry standard emulation platform technology
+- Develop or integrate high performance transactors and emulation test bench in System Verilog, SystemC/C++ and Python
+- Review architecture and microarchitecture specs and influence design/microarchitecture decisions
+- Be a mentor to some of the junior members of the team and help to grow them technically
+- Partner with emulation vendor to debug and quickly resolve blocking issues in the emulation technology as required
 
-
+##About You
+- M.Tech in Electronics Engineering or Computer Engineering with 6+ years of semiconductor experience or B.Tech in Electronics Engineering or Computer Engineering with 8+ years of semiconductor experience
+- Knowledge about Cache coherency models, memory consistency models in AArch64 and/or x86
+- Knowledge about coherent interconnect protocols such as AMBA CHI, AXI4, ACE, etc. Knowledge of PCIE, Ethernet, DDR/LPDDR technology is a plus
+- Experience developing bare-metal content using C/C++ and assembly language for verification. ARM assembly expertise preferred
+- Experience with performance verification of coherent fabrics and cores is a plus
+- Experience debugging failures using innovative debug practices and familiarity with tools such as Verdi to debug RTL issues
+- Working experience with emulation technology of Zebu, Palladium or Mentor Veloce is strongly recommended
+- Experience in AI verification and FPGA/Hybrid Emulation Technology is preferred
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 35 :
 
-
+##Requirements
+- FPGA/Digital Logic Design, RTL design and verification using VHDL, Verilog or SystemVerilog
+- Experienced in FPGA Devices like Agilex, Virtex and Tools like Altera Quartus, Xilinx Vivado, Synplify, etc
+- Good experience in FPGA Partial Reconfiguration (PR) flow, and HW debugging skills using SignalTap or ChipScope
+- Good experience with Simulation/Verification of digital designs using VCS, Questa, XCelium, STA and Hardware validation of FPGA Designs
+- Knowledge of Shell, Perl/TCL or Python Scripting is required
+- Knowledge of AHB, AXI, PCIe, Ethernet, Avalon bus protocols, and High-Speed interfaces is essential
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 36 :
+##Principal Accountabilities
+- Execute complete verification project in the role senior engineer with hands on experience, mentoring, client communication / interactions, in-depth technical reviews and close tracking of technical as well as management aspect
+- Provide guidance to team on developing UVM-based SV test-benches, defining block, sub-system and SOC top level test plans, PCIe, NVMe, NAND, DDR and CPU sub-systems and verification methodologies, flows and quality metrics
 
+##Job Complexity
+- Minimum 6 years experience required in ASIC/FPGA verification
+- Requires in-depth knowledge and experience
+- Solves complex problems; takes a new perspective using existing solutions
+- Works independently; receives minimal guidance
+- Acts as a resource for colleagues with less experience
+- Represents the level at which career may stabilize for many years or even until retirement
+- Contributes to process improvements
+- Typically resolves problems using existing solutions
+- Provides informal guidance to junior staff
+- Works with minimal guidance
 
+##Experience / Education
+- Typically requires 6–7 years of related experience with a 4 year degree; or 3 years and an advanced degree; or equivalent work experience
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 37 :
 
+##Responsibilities
+- Design, implement, and verify HDL designs using Verilog, VHDL, and SystemVerilog, including simulation environments and comprehensive verification testbenches, ensuring full compliance with DO-254 guidelines
+- Provide support for DO-254 certification of an FPGA-based camera systems
+- Mentor team members, providing guidance on best practices, communication, and project discipline
+- Assist in defining project-level scope, objectives, Develop and maintain detailed project plans
+- Good understanding of the following concepts: Multi Clock domain designs, Asynchronous interface, CDC
+- Interconnect interface protocol knowledge - AXI, AXI-Stream, Avalon
+- External Memory controller - SDRAM, DDR Memory, Flash memory
+- Video interface - Cameralink/ MIPI-CSI / MIPI-DSI / SDI / UVC / Analog video (NTSC/PAL)
+- Strong understanding of interrupt types and communication protocols, including SPI, I2C, and UART
+- Tools: Quartus Prime / Xilinx ISE / Xilinx Vivado / Lattice Diamond / Lattice Radiant
 
+##Qualifications
+- Bachelor's or Master's degree in Electronics, Electrical or Computer Engineering, or a related Science, Engineering
+- 3+ years of experience in FPGA design and development with DO-254 compliance
+- Experience with FPGA tools and embedded systems
+- Strong analytical, problem-solving, and attention-to-detail skills
+- Strong communication and interpersonal skills; ability to build trust with internal teams
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 38 :
 
+##Responsibilities
+- Model SIM Simulations Definition using VHDL for RTL Simulations for functional correctness using Assertion-based verification methodology
+- Activity Overview, Responsible for writing
+- Execution Environment: Modelsim Tool
+- Competency: Expertise in Do254 Verification Objectives, VHDL Language, ModelSim Tool
 
+##Qualifications
+- Bachelor's Degree in Computer Science, Information Systems, or other related field, or equivalent work experience
+- Additional course or certification in Business Analysis
+
+##Essential Skills
+- Model SIM Simulations Definition using VHDL for RTL Simulations for functional correctness using Assertion-based verification methodology
+- Activity Overview, Responsible for writing
+- Execution Workplace: Modelsim Tool
+- Competency: Expertise in Do254 Verification Objectives, VHDL Language, ModelSim Tool
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 39 :
 
+##Key Responsibilities
+- Demonstrating a strong understanding of ARM architecture, including AArch32/AArch64, caches, MMU, coherence, and interrupt models
+- Conducting validation of Cortex A/R/M or Neoverse cores with a hands-on approach
+- Utilizing exceptional debug skills to identify and resolve CPU/system bugs related to interrupts, exceptions, faults, and coherency errors
+- Proficiency in using waveforms, traces, JTAG, and CoreSight for effective debugging
+- Leveraging strong assembly and C programming skills to generate tests
+- Writing and debugging bare metal test cases while automating validation procedures
+- Applying familiarity with GIT usage and version control practices
+- Preferred experience with emulation/FPGA bring-up, specifically with Palladium/Veloce
 
+##Qualifications Required
+- Bachelor's degree in Electrical Engineering, Computer Engineering, or related field
+- 10+ years of hands-on experience in SoC / ASIC verification
+- In-depth knowledge of ARM architecture and its components
+- Proficiency in assembly and C programming languages
+- Strong debugging skills and experience in validation procedures
+- Familiarity with GIT usage and version control practices
+- Experience with emulation/FPGA bring-up is a plus
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 40 :
 
+##Responsibility
+- Will be a key member of a small FPGA team that will own prototyping architectures in FPGA
+- Will need to work independently with low day-to-day supervision and own FPGA projects
+- Will work with our architecture and system software teams on FPGA prototyping and participate in the entire lifecycle of project including support
+- Will participate in technical discussions with IP providers and be responsible for driving some of them
 
+##Skills
+- Demonstrated RTL development skills of 5+ years, only 1 can be academic
+- Proficiency in Verilog and C programming is expected. Proficiency in using Linux for lab testing is expected
+- Working exposure for SystemC and scripting (Python) is desired
+- Clear understanding and usage of AXI and related AMBA protocols to connect multiple logical blocks in an FPGA
+- Demonstrated computer architecture understanding in at least one of processors, PCIe, ethernet or storage protocols
+
+##Preferred Experience
+- Must have shipping FPGA design in at least one of the following: compute accelerators, networking, storage, processor prototyping
+- Must have micro-architected, designed & shipped at least two key logic functions of high or medium complexity in an FPGA design
+- Must have participated in lab bring up & validation of shipping FPGAs in the lab and in deployed use
+- Must be familiar with Xilinx development tool chain and Versal, Virtex FPGAs
+- Preferred: Deep exposure to PCIe devices – protocol design & lab work
+- Preferred: Deep exposure to data path blocks (PCIe, Networking or storage) that involved embedded processors in the FPGA
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 41 :
 
+##Key Responsibilities
+- Develop and maintain SystemVerilog/UVM-based verification environments for IP/SoC-level designs
+- Perform protocol-level verification for PCIe Gen 5+ and UCIe
+- Define verification plans, coverage models, and test scenarios
+- Develop reusable testbenches, sequences, drivers, monitors, and scoreboards
+- Analyze functional coverage, debug failures, and close coverage
+- Work closely with design, architecture, and validation teams to ensure protocol compliance
+- Support regression execution and issue triage
+- Ensure verification quality, completeness, and on-time delivery
 
+##Experience Required
+- 5+ years of hands-on experience in Design Verification
+- Strong proficiency in SystemVerilog and UVM
+- Protocol verification experience is mandatory
+- Hands-on experience with PCIe Gen 5 or above
+- Experience with UCIe protocol
+- Excellent debugging and problem-solving skills
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 42 :
 
+##About the job DV Engineer (ASIC Verification Specialist)
+- Able to provide test bench architecture/microarchitecture of ASIC / FPGA device at the top level and functional blocks
+- Build test benches and perform functional verification of RTL blocks/modules / top level and provide bug-free code
+- Debug RTL code, root cause functional failures in RTL code
 
+##Qualifications
+- Bachelors / Masters degree in Engineering in the following disciplines:
+  - Electrical Engineering
+  - Computer Science Engineering
+  - Or equivalent
+
+##Skills
+- Architecture, Microarchitecture of test benches for functional blocks & top level
+- Expert in the usage of VHDL
+- Code & Functional coverage methodologies
+- Expert in scripting like PERL, Unix-shell scripting, etc.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 43 :
 
+##Your key responsibilities include
+- Architecting and making strategic decisions on test bench design for IP Core verification
+- Developing comprehensive verification plans and specifications based on functional requirements
+- Implementing robust test bench infrastructure and authoring advanced test cases using UVM/VMM/OVM
+- Driving a coverage-driven verification methodology to ensure thorough validation of IP functionality
+- Leading technical aspects of the verification team, mentoring junior engineers, and collaborating internationally
+- Providing innovative verification solutions to enhance productivity, performance, and throughput
+- Engaging in assertion-based verification and coverage closure to guarantee high-quality deliverables
+- Collaborating with cross-functional teams on functional safety and compliance standards, such as ISO26262 and FMEDA
 
+##Your qualifications should include
+- Extensive hands-on experience (15+ years) in ASIC/RTL verification for complex IP Cores
+- Deep knowledge of protocols such as DDR, PCIe, AMBA (AXI, CHI), SD/eMMC, Ethernet, USB, and MIPI
+- Proficiency in verification methodologies: UVM, VMM, OVM; and SystemVerilog-based, object-oriented coding
+- Strong skills in scripting/programming languages: C/C++, TCL, Perl, Python
+- Experience in developing test environments, planning, coverage closure, and assertion-based verification
+- Exposure to functional safety standards (ISO26262, FMEDA) is highly advantageous
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 44 :
 
+##Job Description
+- Collaborate with R&D to develop and deliver end-to-end Silicon Lifecycle Management (SLM) solutions
+- Work directly with customers to capture requirements and enable robust product development
+- Validate solutions internally and at customer sites for successful deployment
+- Drive the integration and execution of SLM solutions in customer SoC programs
+- Enable and support silicon health monitoring from bring-up to in-field operations
+- Bridge technical suggestions from customers to R&D and product teams for improvements
 
+##The Impact You Will Have
+- Advance Synopsys' SLM IP offerings and integrated solutions
+- Boost adoption and successful implementation of SLM across top-tier semiconductor customers
+- Contribute to the evolution of next-generation SoC verification and silicon lifecycle strategies
+- Influence product directions based on real-world customer feedback
+- Ensure quality deployments that add measurable value in silicon monitoring and diagnostics
+
+##What You'll Need
+- BSEE/MSEE with 4–8 years of SoC-level verification or DFT experience
+- Strong understanding of AXI/APB protocols and DMA subsystems
+- Hands-on verification of subsystems involving PCIe, USB, and memory
+- Solid debugging skills for functional and post-silicon environments
+- Familiarity with Memory BIST, ATE, SLT, and test flows
+- Customer-facing experience in deployment/support roles is highly preferred
+- Exposure to silicon debug, writing C drivers, and working with FPGA setups is a plus
+- Architectural understanding and experience with micro-architecture specification is desirable
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 45 :
 
+##The opportunity
+- Develop and execute comprehensive verification plans for FPGA designs
+- Create and maintain test benches using industry-standard verification methodologies (e.g., UVM, SystemVerilog)
+- Write and debug test cases to verify functionality, performance, and corner cases
+- Perform code coverage and functional coverage analysis
+- Identify and debug issues, working closely with design engineers to resolve them
+- Document verification results and provide clear and concise reports
+- Participate in design reviews and contribute to the overall verification strategy
+- Stay up-to-date with the latest verification methodologies and tools
 
+##What you need
+- Strong understanding of FPGA design principles and architectures
+- Proficiency in SystemVerilog and UVM verification methodology
+- Experience with industry-standard verification tools (e.g., QuestaSim, Synopsys VCS)
+- Knowledge of code coverage and functional coverage analysis
+- Excellent debugging and problem-solving skills
+- Strong communication and collaboration skills
+
+##Requirements
+- Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field
+- 3+ years of experience in FPGA verification
+- Experience with scripting languages (e.g., Python, Perl)
+- Familiarity with hardware description languages (e.g., VHDL, Verilog)
+
+##Skills
+- FPGA, RTL, UVM, SystemVerilog, VHDL, Verilog
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 46 :
 
+##Description
+- Collaborate closely with Architecture, Design, DV, Silicon Validation, Power and SW teams to bring up large SoCs on emulation platform
+- Develop/apply synthesizable monitors/checkers, stimulus on emulation platform
+- Prepare and complete the test plan and perform reviews with the multi-functional teams
+- Perform low power testing on emulation platform
+- Develop code for Design and verification that aids with emulation activities, using Verilog/System Verilog/UVM
+- Develop random stimulus infrastructure by reusing existing UVM simulation constraints
 
+##Preferred Qualifications
+- Understanding of the tool flow from RTL to Emulation is a huge plus
+- Good understanding of any Standard Emulator (Palladium, Veloce, Zebu) OR FPGA (Xilinx, Altera) flow
+- Proven design verification skills
+- Experience in writing Synthesize-able SystemVerilog/Verilog code and SystemVerilog assertions
+- Experience with System Verilog verification environments including C/C++ DPI, UVM
+- Experience with writing and debugging test FW
+- Experience on any Scripting (Perl/Python/TCL)
+- Excellent analytical and debug skills
+- Experience in UVM Acceleration is plus
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
