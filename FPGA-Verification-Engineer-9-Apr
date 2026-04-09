@@ -483,13 +483,52 @@ JD - 18 :
 
 JD - 19 :
 
+##Key Responsibilities
+- 2-4 years of hands-on experience in implementing designs on FPGA
+- Strong expertise in RTL coding of complex designs using Verilog/SV
+- Expertise in all aspects of FPGA design; constraint definition, synthesis, floor planning, P&R, Timing closure
+- Early architectural/performance exploration through micro-architectural definition and design
+- Optimize the design to meet power, performance, area and timing requirements
+- Run unit level testing to deliver quality code to the Design Verification Team
+- Create well written block level design documentation
+- Write testbench and sequences in SystemVerilog
+- Familiarity with lab equipment
+- Familiarity with interface protocols (PCIE, Ethernet)
+- Knowledge of latest FPGA architectures and partitioning designs across multiple FPGAs
+- Exposure to scripting languages
 
+##Preferred Experience
+- Hands on experience with FPGA design suite Libero
+- Tcl/perl/python scripting languages
+- Good hardware and software debugging skills
+- Experience running quality checks such as CDC
+- Experience in synthesis, static timing analysis
+- Experience with verification and UVM is added advantage
+- Experience with FPGA Hardware design is added advantage
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 20 :
 
+##Detailed Job functions
+- Understand the FPGA design functionality, create detailed verification cases and test procedures
+- Experience in designing Analog circuit, Digital circuits and Power circuits
+- Hands-on Schematic design, Simulation and design verification
+- Hands-on troubleshooting Hardware issues of Analog and Digital circuits and Software issues
+- Well versed with FPGA design flow
+- Should have hands on experience and ability to work individually and be a team player
 
+##Must Skills
+- Hands-on experience in EDA and Simulation Tools – Xilinx Vivado, Altera Quartus, Mentor graphics, and Synopsys
+- Familiarity with communication and serial protocols – ARINC, RS 232/422/485, SPI, and I2C
+- RTL development using – VHDL, Verilog, and System Verilog
+- Experience of working in a Windows and Linux based environment
+- Strong in oral and written communication skills
+
+##Nice To Have
+- Experience in working with defense and aerospace industries
+- Experience in working on DOORS
+- Experience in peer reviews
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
