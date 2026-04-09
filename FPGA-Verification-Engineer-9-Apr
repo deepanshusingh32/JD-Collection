@@ -534,31 +534,120 @@ JD - 20 :
 
 JD - 21 :
 
+##Key Responsibilities
+- Develop and execute verification plans for FPGA designs
+- Create testbenches using SystemVerilog/UVM methodology
+- Perform functional verification of FPGA RTL designs
+- Develop reusable verification IPs (VIPs) and frameworks
+- Perform coverage analysis (code & functional) and closure
+- Debug and root-cause design and verification issues
+- Work closely with design teams to understand architecture and specifications
+- Support FPGA prototyping and emulation environments (e.g., Siemens proFPGA platforms)
+- Automate verification flows using scripting (Python/Perl/Shell)
 
+##Required Skills
+- Strong experience in FPGA/ASIC verification
+- Hands-on expertise in:
+  - SystemVerilog
+  - UVM (Universal Verification Methodology)
+- Experience with simulation tools like:
+  - QuestaSim (Siemens EDA)
+  - VCS / Xcelium (added advantage)
+- Knowledge of FPGA architectures (Xilinx/Intel)
+- Experience with protocol verification (PCIe, Ethernet, AXI, etc.)
+- Strong debugging and problem-solving skills
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 22 :
 
+##Responsibilities
+- Test bench design and implementation
+- Test coverage plan definition
+- Constrained random test development
+- Coverage specification analysis
+- Automation of the regression test suite
 
+##Desired technical skills
+- Proficiency in OOPs, Verilog, System Verilog
+- Solid verification skills: planning, problem solving, debug, adversarial testing and random testing
+- Project based work experience with UVM/VMM methodologies
+- Candidate must have experience with architecting the testplan test bench
+- Hands on experience with Ethernet based protocols, PCIe, AXI, memory controllers, OTN, I2C, SPI, UART etc.
+- Familiarity with VCS simulation flow, knowledge of coverage assertions is desirable
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 23 :
 
+##Primary Responsibilities
+- Develop an effective suite of tests and test environments using System Verilog UVM, based tests to achieve predefined requirement verification goals
+- Develop test-plan, self-checking test-benches to meet the verification criteria and code coverage
+- Participate in requirement validation and requirement review
+- Protocols – PCIe, SPI, ARINC 429, Mil 1553, Image processing
+- Actively participate in a team environment, working with verification, architecture, applications, and design teams to develop comprehensive verification plans and address issues
+- Verification environment development/update for block level and system level
+- Work closely with design team on design de-bugging, coverage gap analysis etc
+- Verify structural and functional coverage of module and system level test suite
+- Advanced skills in various programming languages such as System Verilog/UVM, PERL or any scripting language
+- Techniques and skills required to identify a root cause of a given issue and very good debugging skills
+- Technical guidance to the junior engineers on verification tasks
 
+##Job Requirements
+
+###Qualifications
+- Bachelor's/Master's degree in Engineering (ECE, VLSI)
+- 4-8 years of Industry experience with experience in development, integration & verification of ASIC/FPGA
+- Hands on experience in developing SV UVM verification environment from scratch
+- Hands on experience with Questa or Modelsim or similar advanced simulation tools
+- Hands on experience in DO-254 verification process
+- Hands on experience in developing UVM verification environment from scratch with stimulus to achieve the code coverage, robust testing of the designs independently
+- Exposure to test plan generation, test bench writing, simulation of designs
+- Experience in RTL Design using VHDL, Complete FPGA development flow and FPGA verification using VHDL will be a plus
+- Experience in DOORS/Jama will be a plus
+- Excellent oral and written communication skills
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 24 :
 
+##Responsibilities
+- Model SIM Simulations Definition using VHDL for RTL Simulations for functional correctness using Assertion-based verification methodology
+- Activity Overview, Responsible for writing
+- Execution Environment: Modelsim Tool
+- Competency: Expertise in Do254 Verification Objectives, VHDL Language, ModelSim Tool
 
+##Qualifications
+- Bachelor's Degree in Computer Science, Information Systems, or other related field, or equivalent work experience
+- Additional course or certification in Business Analysis
+
+##Essential Skills
+- Model SIM Simulations Definition using VHDL for RTL Simulations for functional correctness using Assertion-based verification methodology
+- Activity Overview, Responsible for writing
+- Execution Workplace: Modelsim Tool
+- Competency: Expertise in Do254 Verification Objectives, VHDL Language, ModelSim Tool
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 25 :
 
+##Key Responsibilities
+- Lead and own the RTL verification of FPGA-based designs
+- Define and drive FPGA verification plans and develop testbenches using SystemVerilog/UVM
+- Collaborate with design engineers to understand architecture and micro-architecture specifications
+- Perform functional coverage analysis, regression testing, and debug failures
+- Mentor and guide junior verification engineers
 
+##Qualifications Required
+- Bachelors or Masters degree in Engineering (BE/B.Tech/M.E/M.Tech or equivalent)
+- 6+ years of experience in FPGA verification
+- Expertise in FPGA platforms such as Xilinx and Intel (Altera), including AXI-based design integration
+- Strong experience in verifying high-speed interfaces like PCIe, DDR, and Ethernet
+- Skilled in developing verification IPs and performing validation on FPGA platforms
+- Proficient in SystemVerilog, UVM, and simulation tools like QuestaSim and VCS
+- Solid understanding of HDL languages including Verilog, VHDL, and SystemVerilog
+- Strong scripting skills in Perl, Tcl, or Python
+- Experience in building self-checking verification environments with BFMs, checkers, monitors, and scoreboards
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
