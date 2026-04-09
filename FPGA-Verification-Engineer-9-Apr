@@ -653,43 +653,203 @@ JD - 25 :
 
 JD - 26 :
 
+##Primary Responsibilities
+- Use high-level architectural documentation along with algorithm description and implement functions for test bench architecture and test plan using UVM for IP, Subsystem and System level verification
+- Develop reusable testbench components like scoreboards, checkers, reference models along with UVC using SV and UVM
+- Own quality of deliverables for verification across multiple milestones for FPGA/ASIC life cycle
+- Architect Reusable Verification components, which can be used across FPGA/ASIC life cycle
+- Lead, drive and collaborate technical reviews with Validation, Design and System Architecture cross functional teams
+- Support Architecture exploration at system level using System C or TLM models using SV-UVM
+- Verification Domain expert for PCIe and Ethernet protocols
+- Identifies, tracks and status technical performance measures to measure progress and ensure compliance with verification requirements
+- Develop Junior engineers, solve simple to complex technical problems in verification
+- Support in Technical strategy in collaboration with Engineering management for the FPGA/ASIC V&V
+- Should lead AI initiatives for Verification Automation and Verification Reviews
 
+##Basic Qualifications (Required Skills/Experience)
+- Bachelor degree in Engineering, Engineering Technology (including Manufacturing Technology, Micro Electronics, VLSI/CAD/Embedded systems), Computer Science, Data Science, Mathematics, Physics, Chemistry, or non-US equivalent qualifications directly related to the work statement
+- 13 to 17 years of experience in Digital Functional verification for both ASIC and FPGA at IP, Subsystem and System level as a Lead or Verification Architect
+- 8+ years of experience in leading and owning verification Activities for Multiple ASIC and FPGA product Tape outs
+- 7+ years of experience in Developing and mentoring Verification engineers
+- 5+ years of Hands-on domain experience on PCIe (Transaction layer) and Ethernet (Mac Layer)
+- Multiple Verification tape out experience in ASIC and FPGA products
+- 5+ years of experience in doing UVM based Testbench Architecture for PCIe and Ethernet across IP/Subsystem and system level for multiple projects in ASIC and FPGA
+
+##Preferred Qualifications (Desired Skills/Experience)
+- Experience in leading Verification team for complex Ip, Subsystem and system along with Verification Architecture for ASIC and FPGA Products
+- Experience identifying, tracking, and providing status of technical performance metrics to measure progress and ensure compliance with requirements
+- Experience directing a team of engineers for technical excellence
+- Expert in using object-oriented programing in System Verilog along with UVM methodology
+- Expert in using Universal Verification Methodology (UVM): Experience crafting drivers, monitors, predictors, coverage model and scoreboards and UVCs
+- Expertise in verification working with internal/external VIPs, its development and evaluation with multiple vendors
+- Expert in crafting SVA -Assertions for dynamic simulation and formal verification
+- Expert in coverage (code and functional) signoff, by reviewing complex ASIC and FPGA RTL code
+- Work experience using Linux or Unix terminal commands
+- Experience using scripting languages: Make, Perl, Python, shell scripts, etc.
+- Experience using Revision Control Systems: Subversion (SVN), CVS, Git
+- Experience in deriving digital ASIC and FPGA verification requirements specification from higher-level (system or board-level) requirements specifications
+- Experience in Power aware simulation debug along with Gate level simulation debug
+- Experience in Avionics protocols is a plus
+- Experience in DO-254 for ASIC/FPGA is a plus
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 27 :
 
+##Key Responsibilities
+- Develop and maintain FPGA-based prototypes and emulation environments for SoC/IP verification
+- Integrate and validate high-speed and low-speed interfaces on emulation/FPGA platforms
+- Collaborate with design and verification teams to ensure functional correctness and performance
+- Debug hardware/software issues and provide timely solutions
+- Optimize emulation flows for faster turnaround and improved coverage
 
+##Required Skills & Experience
+- 5+ years of experience in Emulation and FPGA Prototyping
+- Familiarity with high-speed protocols such as:
+  - PCIe, UFS, USB, EMAC
+- Familiarity with DDR interfaces and memory subsystem integration
+- Familiarity with low-speed protocols such as:
+  - I2C, SPI, UART, SPMI, RFFE
+- Proficiency in RTL design and integration (Verilog/SystemVerilog)
+- Hands-on experience with emulation platforms (e.g., Cadence Palladium, Synopsys ZeBu, Mentor Veloce) and FPGA boards
+- Good understanding of SoC architecture and verification methodologies
+- Strong debugging and problem-solving skills
+
+##Preferred Qualifications
+- Experience with scripting languages (Python, Perl, TCL) for automation
+- Exposure to software bring-up on FPGA/emulation platforms
+- Knowledge of hardware/software co-verification
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 28 :
 
+##Key Responsibilities (FPGA Design & Development Engineer)
+- Design, develop, and implement FPGA-based solutions for high-performance and real-time systems
+- Develop RTL code using Verilog and/or VHDL following industry best practices
+- Perform FPGA synthesis, place & route, timing analysis, and optimization
+- Work on FPGA bring-up, debugging, and validation on hardware boards
+- Execute functional verification using simulation tools and testbenches
+- Collaborate with system architects and software teams for hardware-software integration
+- Debug complex issues at RTL, gate-level, and board level
+- Optimize designs for performance, power, and resource utilization
+- Maintain technical documentation, design specifications, and verification reports
+- Participate in design reviews, code reviews, and continuous improvement initiatives
 
+##Required Technical Skills
+- Strong hands-on experience in FPGA design, implementation, and verification
+- Proficiency in Verilog and/or VHDL
+- Experience with Xilinx FPGA tools such as Vivado and Vitis
+- Solid understanding of digital design concepts, clocking, resets, and timing constraints
+- Exposure to high-speed interfaces (Ethernet, PCIe, DDR, AXI preferred)
+- Familiarity with FPGA debugging tools (ILA, logic analyzers, simulation tools)
+- Good understanding of hardware-software co-design environments
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 29 :
 
+##Key Responsibilities (FPGA Design & Development Engineer)
+- Design, develop, and implement FPGA-based solutions for high-performance and real-time systems
+- Develop RTL code using Verilog and/or VHDL following industry best practices
+- Perform FPGA synthesis, place & route, timing analysis, and optimization
+- Work on FPGA bring-up, debugging, and validation on hardware boards
+- Execute functional verification using simulation tools and testbenches
+- Collaborate with system architects and software teams for hardware-software integration
+- Debug complex issues at RTL, gate-level, and board level
+- Optimize designs for performance, power, and resource utilization
+- Maintain technical documentation, design specifications, and verification reports
+- Participate in design reviews, code reviews, and continuous improvement initiatives
 
+##Required Technical Skills
+- Strong hands-on experience in FPGA design, implementation, and verification
+- Proficiency in Verilog and/or VHDL
+- Experience with Xilinx FPGA tools such as Vivado and Vitis
+- Solid understanding of digital design concepts, clocking, resets, and timing constraints
+- Exposure to high-speed interfaces (Ethernet, PCIe, DDR, AXI preferred)
+- Familiarity with FPGA debugging tools (ILA, logic analyzers, simulation tools)
+- Good understanding of hardware-software co-design environments
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 30 :
 
+##Key Responsibilities
 
+###1. Strategic Coaching & Mentorship
+- **Technical Guidance:** Provide daily coaching to the engineering team on SV-UVM best practices and advanced debugging techniques
+- **Skill Uplift:** Conduct code reviews and architecture workshops to transition the team from directed testing to coverage-driven verification
+- **Best Practices:** Establish and maintain high-quality coding standards for SV-UVM and documentation for DO-254
+
+###2. Operational Execution
+- **Environment Development:** Directly architect and code critical UVM components (BFMs, Scoreboards) and complex test scenarios
+- **Complex Interface Validation:** Personally lead the verification of high-speed/critical protocols (PCIe, AXI4, ARINC 818/664, A664, …)
+- **Problem Solving:** Take the lead on the most challenging technical bottlenecks, from simulation mismatches to physical hardware-software integration issues
+
+###3. Certification & Delivery (DO-254)
+- **End-to-End Ownership:** Be accountable for the full verification cycle (DAL A/B), ensuring 100% traceability between requirements and test results
+- **Artifact Production:** Hands-on drafting and review of critical certification documents
+- **Schedule & Risk:** Lead technical estimation, planning, and risk mitigation for the IVV scope
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 31 :
 
+##Key Responsibilities
 
+###1. Strategic Coaching & Mentorship
+- **Technical Guidance:** Provide daily coaching to the engineering team on SV-UVM best practices and advanced debugging techniques
+- **Skill Uplift:** Conduct code reviews and architecture workshops to transition the team from directed testing to coverage-driven verification
+- **Best Practices:** Establish and maintain high-quality coding standards for SV-UVM and documentation for DO-254
+
+###2. Operational Execution
+- **Environment Development:** Directly architect and code critical UVM components (BFMs, Scoreboards) and complex test scenarios
+- **Complex Interface Validation:** Personally lead the verification of high-speed/critical protocols (PCIe, AXI4, ARINC 818/664, A664, …)
+- **Problem Solving:** Take the lead on the most challenging technical bottlenecks, from simulation mismatches to physical hardware-software integration issues
+
+###3. Certification & Delivery (DO-254)
+- **End-to-End Ownership:** Be accountable for the full verification cycle (DAL A/B), ensuring 100% traceability between requirements and test results
+- **Artifact Production:** Hands-on drafting and review of critical certification documents
+- **Schedule & Risk:** Lead technical estimation, planning, and risk mitigation for the IVV scope
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 32 :
 
+##Key Responsibilities and Verification Deliverables
 
+###Verification Planning and Strategy
+- Develop and formulate comprehensive verification plans based on detailed design specifications and complex protocol-level requirements
+- Work primarily in functional verification of complex digital designs, focusing on IP, module, and subsystem levels
+
+###UVM Environment Development
+- Design, develop, and maintain robust UVM-based test environments, testbenches, and testcases using SystemVerilog and the UVM standard
+- Perform IP-level, module-level, and system-level RTL functional verification using industry-standard methodologies, including constrained-random verification
+
+###Debugging and Protocol Analysis
+- Conduct debugging and analysis of DUT (Design Under Test) failures, performing meticulous waveform checks and resolving environment issues
+- Collaborate with RTL design engineers to efficiently identify root causes, resolve functional bugs, and improve design quality
+- Work with tools such as Verdi, SimVision, or similar for waveform analysis and debugging
+- Perform protocol-level analysis for interfaces such as AXI, APB, or other relevant bus architectures (e.g., AHB, PCIe)
+
+###Verification Closure and Reporting
+- Execute regression suites efficiently across different platforms and configurations
+- Monitor coverage metrics (code, functional, assertion) and drive activities to ensure verification completeness and sign-off
+- Document verification results, update test plans, and actively participate in design/verification reviews
+
+##Mandatory Skills & Qualifications
+- **Experience:** 4 - 8 years in RTL functional verification
+- **Methodology:** Strong experience with UVM-based test environments, testbenches, and testcases
+- **Language:** Proficiency in System Verilog and Verilog/VHDL for design interaction
+- **Bus Protocols:** Experience performing protocol-level analysis for interfaces such as AXI, APB, or similar industry-standard bus architectures
+- **Tools:** Working experience with waveform analysis and debugging tools such as Verdi, SimVision, or similar
+- **Process:** Proven ability to develop and formulate verification plans and execute regression suites
+
+##Preferred Skills
+- Experience with Formal Verification techniques or Assertion-Based Verification (SVA)
+- Knowledge of scripting languages (Python/Perl) for automation and flow management
+- Experience with performance verification and power-aware verification (UPF)
+- Familiarity with FPGA or emulation platforms for accelerated verification
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
