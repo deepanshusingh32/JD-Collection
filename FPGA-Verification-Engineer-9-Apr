@@ -2,31 +2,118 @@
 
 JD - 1 :
 
-
+##Key Skills And Experience
+- Must have 12 – 16 years of experience in developing System Verilog UVM based test environments, developing and implementing test plans – at block, sub-chip and chip levels
+- Must have strong HVL coding skills for Verification and be hands-on with one or more Industry standard simulators such as VCS, NC, MTI used in Verification and waveform-based debugging tools
+- Exposure to UVM (or similar) verification methodologies is required
+- Familiarity with HDLs such as Verilog and scripting languages such as perl is highly desired. Working knowledge of RTL design is preferred
+- Should be conversant with technologies like the Ethernet, PCIe, I2C, SPI etc. Knowledge of telecom protocol is preferred
+- Structured and thorough with analytical and troubleshooting skills
+- Good written and oral communication skills are required
+- Flexible, innovative, self-driven and willing to take initiatives
+- Highly motivated team player with exceptional leadership capability
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 2 :
 
+##Responsibilities
+- Model SIM Simulations Definition using VHDL for RTL Simulations for functional correctness using Assertion-based verification methodology
+- Activity Overview, Responsible for writing
+- Execution Environment: Modelsim Tool
+- Competency: Expertise in Do254 Verification Objectives, VHDL Language, ModelSim Tool
 
+##Qualifications
+- Bachelor’s Degree in Computer Science, Information Systems, or other related field, or equivalent work experience
+- Additional course or certification in Business Analysis
+
+##Essential Skills
+- Model SIM Simulations Definition using VHDL for RTL Simulations for functional correctness using Assertion-based verification methodology
+- Activity Overview, Responsible for writing
+- Execution Environment: Modelsim Tool
+- Competency: Expertise in Do254 Verification Objectives, VHDL Language, ModelSim Tool.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 3 :
 
+##Minimum Qualifications
+- Bachelor's Degree in Electrical Engineer, Computer Engineering, or related field
 
+##Minimum Of 5Y Of Experience In The Following
+- Experience with SystemVerilog
+- Experience with UVM or OVM methodology
+- Experience with scripting perl/Python
+
+##Preferred Qualifications
+- Master's Degree in Electrical Engineer, Computer Engineering, or related field
+- Experience with using C/C++ models as golden models to compare with RTL
+- Experience with code coverage
+- Experience with functional coverage
+- Experience with X-propagation
+- Experience with multiple RTL simulators
+- Experience with regression testing
+- Experience creating components that are reusable from block to top
+- Experience in Ethernet/PCIE/AXI/DDR protocols is an added advantage
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 4 :
 
+##Primary Responsibilities
+- Use high-level architectural documentation along with algorithm description and implement functions for test bench architecture and test plan using UVM for IP, Subsystem and System level verification
+- Develop reusable testbench components like scoreboards, checkers, reference models along with UVC using SV and UVM
+- Own quality of deliverables for verification across multiple milestones for FPGA/ASIC life cycle
+- Architect Reusable Verification components, which can be used across FPGA/ASIC life cycle
+- Lead, drive and collaborate technical reviews with Validation, Design and System Architecture cross functional teams
+- Support Architecture exploration at system level using System C or TLM models using SV-UVM
+- Verification Domain expert for PCIe and Ethernet protocols
+- Identifies, tracks and status technical performance measures to measure progress and ensure compliance with verification requirements
+- Develop Junior engineers, solve simple to complex technical problems in verification
+- Support in Technical strategy in collaboration with Engineering management for the FPGA/ASIC V&V
+- Should lead AI initiatives for Verification Automation and Verification Reviews
 
+##Basic Qualifications (Required Skills/Experience)
+- Bachelor degree in Engineering, Engineering Technology (including Manufacturing Technology, Micro Electronics, VLSI/CAD/Embedded systems), Computer Science, Data Science, Mathematics, Physics, Chemistry, or non-US equivalent qualifications directly related to the work statement
+- 13 to 17 years of experience in Digital Functional verification for both ASIC and FPGA at IP, Subsystem and System level as a Lead or Verification Architect
+- 8+ years of experience in leading and owning verification Activities for Multiple ASIC and FPGA product Tape outs
+- 7+ years of experience in Developing and mentoring Verification engineers
+- 5+ years of Hands-on domain experience on PCIe (Transaction layer) and Ethernet (Mac Layer)
+- Multiple Verification tape out experience in ASIC and FPGA products
+- 5+ years of experience in doing UVM based Testbench Architecture for PCIe and Ethernet across IP/Subsystem and system level for multiple projects in ASIC and FPGA
+
+##Preferred Qualifications (Desired Skills/Experience)
+- Experience in leading Verification team for complex Ip, Subsystem and system along with Verification Architecture for ASIC and FPGA Products
+- Experience identifying, tracking, and providing status of technical performance metrics to measure progress and ensure compliance with requirements
+- Experience directing a team of engineers for technical excellence
+- Expert in using object-oriented programing in System Verilog along with UVM methodology
+- Expert in using Universal Verification Methodology (UVM): Experience crafting drivers, monitors, predictors, coverage model and scoreboards and UVCs
+- Expertise in verification working with internal/external VIPs, its development and evaluation with multiple vendors
+- Expert in crafting SVA -Assertions for dynamic simulation and formal verification
+- Expert in coverage (code and functional) signoff, by reviewing complex ASIC and FPGA RTL code
+- Work experience using Linux or Unix terminal commands
+- Experience using scripting languages: Make, Perl, Python, shell scripts, etc
+- Experience using Revision Control Systems: Subversion (SVN), CVS, Git
+- Experience in deriving digital ASIC and FPGA verification requirements specification from higher-level (system or board-level) requirements specifications
+- Experience in Power aware simulation debug with along Gate level simulation debug
+- Experience in Avionics protocols is a plus
+- Experience in DO-254 for ASIC/FPGA is a plus
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 5 :
 
-
+##Qualifications
+- Bachelor's/Master's degree in Engineering (ECE, VLSI)
+- 4-8 years of Industry experience with experience in development, integration & verification of ASIC/FPGA
+- Hands on experience in developing SV UVM verification environment from scratch
+- Hands on experience with Questa or Modelsim or similar advanced simulation tools
+- Hands on experience in DO-254 verification process
+- Hands on experience in developing UVM verification environment from scratch with stimulus to achieve the code coverage, robust testing of the designs independently
+- Exposure to test plan generation, test bench writing, simulation of designs
+- Experience in RTL Design using VHDL, Complete FPGA development flow and FPGA verification using VHDL will be a plus
+- Experience in DOORS/Jama will be a plus
+- Excellent oral and written communication skills
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
