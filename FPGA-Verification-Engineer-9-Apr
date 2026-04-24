@@ -1186,24 +1186,239 @@ JD - 46 :
 
 JD - 47 :
 
+What You’ll Be Doing:
+• Developing emulation solutions for large scale designs, ensuring scalability and efficiency.
+• Engaging in software development using C/C++ and synthesizable RTL development with Verilog.
+• Verifying solutions to ensure high performance and reliability throughout the product lifecycle.
+• Interacting with customers during deployment and debug phases to guarantee smooth implementation and address technical challenges.
+• Collaborating with cross-functional teams to integrate emulation solutions into broader chip design and verification workflows.
+• Maintaining and enhancing existing emulation solutions to meet evolving industry standards and customer requirements.
 
+The Impact You Will Have:
+• Drive the development of advanced emulation solutions that meet and exceed industry standards.
+• Enhance the performance and reliability of semiconductor products through innovative technical solutions.
+• Ensure customer satisfaction by providing robust and efficient deployment support, fostering lasting relationships.
+• Contribute to the continuous improvement of Synopsys' emulation technologies, keeping us at the forefront of innovation.
+• Strengthen Synopsys' position as a leader in chip design and verification solutions, impacting global technology trends.
+• Promote excellence and best practices within the engineering team, elevating overall product quality and performance.
+
+What You’ll Need:
+• 5+ years of relevant experience in engineering, digital design, or software development.
+• Proficiency in C/C++ programming and strong understanding of object-oriented programming concepts.
+• Expertise in digital design principles and HDL languages such as System Verilog and Verilog.
+• Experience with scripting languages like Python, Perl, or TCL for automation and workflow optimization.
+• Familiarity with handling large scale designs in emulation is a plus and will be highly valued.
+
+Who You Are:
+• A collaborative team player with excellent communication skills.
+• A problem-solver with a keen eye for detail and a passion for innovation.
+• Adaptable and able to work effectively in a fast-paced, dynamic environment.
+• Committed to continuous learning and staying updated with industry advancements.
+• Driven by integrity, inclusivity, and a desire to make meaningful contributions.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 48 :
 
+Role:
 
+Looking for an FPGA RTL Design & Emulation Engineer with 5 years of experience in RTL development, FPGA prototyping, and pre-silicon validation.
+
+Key Skills:
+• Verilog / SystemVerilog (RTL Design)
+• FPGA design flow (Synthesis, STA, CDC, Timing Closure)
+• Emulation platforms (ZEBU or similar)
+• FPGA bring-up & hardware debugging
+• Python / TCL / Shell scripting
+• Protocols: I2C, SPI, UART, PCIe
+
+Responsibilities:
+• Develop RTL and build FPGA/emulation models
+• Perform synthesis, timing analysis, and IP integration
+• Work on emulation, validation, and debugging
+• Collaborate with verification teams for simulation & regression
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 49 :
 
+The team is dedicated to ensuring on-time delivery with the right quality.
 
+- Develop SystemVerilog UVM-based test environments and implement comprehensive test plans at block, sub-chip, and chip levels.
+- Proficiency in Hardware Verification Languages (HVL) with practical coding experience for verification tasks.
+- Experience with industry-standard simulators like VCS, NC-Sim, or ModelSim (MTI) and strong skills in waveform-based debugging.
+- Understanding and application of UVM or similar modern verification methodologies.
+- Knowledge of scripting languages such as Perl is highly valued.
+
+It would be nice if you also had:
+- Working knowledge of RTL design and familiarity with technologies like Ethernet, PCIe, and preferably telecom protocols.
+- Strong analytical, troubleshooting, and problem-solving skills with a structured approach to work.
+- Good written and oral communication skills.
+- Flexibility, innovation, and self-driven attitude with a strong willingness to take initiative.
+- Design and develop comprehensive FPGA verification plans.
+- Create and implement verification environments and testbenches.
+- Develop and execute test scenarios for running simulations.
+- Perform coverage analysis to ensure thorough verification.
+- Provide lab support during FPGA and board bring-up phases.
+- Collaborate closely with design and system teams to drive verification solutions.
+- Independently manage verification tasks and projects.
+
+What We Offer:
+- Opportunity to work in short product development cycles, observing the real impact of your contributions on products and business success.
+- International career development opportunities with internal mobility programs promoting professional growth within the company.
+- Access to various social, wellness, and hobby clubs for a balanced lifestyle and sense of community.
+- A friendly, inclusive, and supportive atmosphere where collaboration and mutual respect are core values.
+- Collaboration with highly skilled, motivated, and innovative colleagues passionate about technology and excellence. As a FPGA Verification Engineer at Nokia, you will be working on high complexity DWDM equipment for LH/ULH applications. You will collaborate closely with multi-location cross-functional R & D teams, contributing to the entire development cycle from product concept to finished product. The team is dedicated to ensuring on-time delivery with the right quality.
+
+- Develop SystemVerilog UVM-based test environments and implement comprehensive test plans at block, sub-chip, and chip levels.
+- Proficiency in Hardware Verification Languages (HVL) with practical coding experience for verification tasks.
+- Experience with industry-standard simulators like VCS, NC-Sim, or ModelSim (MTI) and strong skills in waveform-based debugging.
+- Understanding and application of UVM or similar modern verification methodologies.
+- Knowledge of scripting languages such as Perl is highly valued.
+
+It would be nice if you also had:
+- Working knowledge of RTL design and familiarity with technologies like Ethernet, PCIe, and preferably telecom protocols.
+- Strong analytical, troubleshooting, and problem-solving skills with a structured approach to work.
+- Good written and oral communication skills.
+- Flexibility, innovation, and self-driven attitude with a strong willingness to take initiative.
+- Design and develop comprehensive FPGA verification plans.
+- Create and implement verification environments and testbenches.
+- Develop and execute test scenarios for running simulations.
+- Perform coverage analysis to ensure thorough verification.
+- Provide lab support during FPGA and board bring-up phases.
+- Collaborate closely with design and system teams to drive verification solutions.
+- Independently manage verification tasks and projects.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 JD - 50 :
 
+Key Responsibilities
+• Test Case Development: Study specifications and review RTL design to define comprehensive test cases for coverage.
+• Test Bench Architecture: Develop test benches for Module, DUT, and System-level verification.
+• Technical Ownership: Own critical features and lead debug efforts to ensure high-quality silicon.
+• FPGA Emulation & Prototyping: Lead synthesizable modeling efforts for Analog and Channel models to evaluate design performance.
+• Analysis & Insights: Analyze simulation/emulation results to provide actionable insights for design improvement.
+• Cross-Functional Collaboration: Work with systems, applications, and marketing teams to meet customer requirements and roadmap goals.
 
+Required Qualifications
+• Experience: 2–5 years of relevant experience in Design Verification and System Modeling.
+• Technical Skills: Strong understanding of digital design concepts and proficiency in Verilog, Matlab, and Python .
+• DSP Knowledge: Solid fundamentals in DSP concepts (filters, sampling, modulation, adaptive filters) is highly preferred.
+• Emulation: Prior exposure to FPGA-based emulation is preferred.
+• Education: Bachelor’s or Master’s degree in Electrical Engineering or a related field.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 51 : 
+
+##Key Responsibilities
+- Design, architect, and develop FPGA RTL (VHDL/Verilog) logic and subsystems for high-speed serial protocols
+- Address FPGA design challenges such as CDC, multi-clock domains, timing closure, and SerDes-related issues
+- Drive timing closure and optimization using FPGA synthesis and implementation tools (Xilinx Vivado)
+- Debug and validate FPGA and board-level issues, ensuring robust high-speed interface performance
+- Collaborate with global R&D teams to deliver production-ready FPGA solutions
+- Leverage AI-assisted tools to accelerate RTL development and productivity
+
+##Qualifications / Requirements
+- 6+ years of FPGA design and development experience
+- Strong expertise in high-speed serial protocols (PCIe, NVMe, CXL preferred; others such as Ethernet, USB 3.x/USB4, SATA, SAS, InfiniBand, DisplayPort, HDMI, or MIPI M-PHY also acceptable)
+- Proven skills in high-speed FPGA design, including CDC handling, timing closure, and interface validation
+- Hands-on experience with FPGA synthesis/implementation tools (Xilinx Vivado)
+- Experience with FPGA simulation tools (ModelSim, Questa, VCS, or Vivado Simulator) for design validation
+
+##Preferred Skills / Attributes
+- Degree in Electrical or Electronics Engineering
+- Proactive problem-solver with enthusiasm, energy, and a hands-on approach
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 52 : 
+
+##Responsibilities
+
+- Work with functional leads to define prototyping requirements for a given project
+- Map the IC's RTL to FPGA resources, and bridge to any required real-world interfaces, using off-the-shelf interface cards, or by defining custom solutions to be built
+- Simulate the functionality/connectivity of the prototype system, with appropriate level of modelling
+- Build infrastructure to validate the end system using a combination of scripting languages and embedded software
+- Work closely with relevant design, DV and software engineers to debug anomalies seen in testing
+- Enable/participate in customer demos of prototypes
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 53 : 
+
+##Your key responsibilities will include
+- Owning end-to-end DV tasks, which involve coding test benches and test cases, writing assertions, debugging simulations, and ensuring all coverage goals are met
+- Developing a test plan to verify sequences and design components for Clock and power management modules
+- Exploring innovative DV methodologies, such as formal and simulation techniques, to enhance the quality and efficiency of test benches
+- Collaborating with worldwide design, silicon, and architecture teams to achieve project goals, emphasizing the need for strong communication skills
+
+##Qualifications required for this role
+- Bachelor's degree in Computer Science, Electrical/Electronics Engineering, Engineering, or a related field with a minimum of 2 years of Hardware Engineering or related work experience. Alternatively, a Master's degree with 1+ year of experience, or a PhD in a relevant field
+- Minimum of 3-13 years of design verification experience, with senior positions available for candidates demonstrating expertise in the field
+
+##Preferred qualifications include
+- 3+ years of industry experience with skills in System Verilog/UVM based verification, assertion & coverage-based verification methodology, formal/static verification methodologies, low power design techniques, design components understanding, and experience with tools like Synopsys NLP and scripting languages like Perl and Python
+
+##Education requirements
+- BE/BTech/ME/MTech/MS in Electrical Engineering and/or Electronics, VLSI from a reputed university, preferably with distinction
+
+##As an experienced Hardware Engineer, you will be responsible for various tasks related to GPU power and clock domains, with a focus on power-up/down sequences
+- Owning end-to-end DV tasks, which involve coding test benches and test cases, writing assertions, debugging simulations, and ensuring all coverage goals are met
+- Developing a test plan to verify sequences and design components for Clock and power management modules
+- Exploring innovative DV methodologies, such as formal and simulation techniques, to enhance the quality and efficiency of test benches
+- Collaborating with worldwide design, silicon, and architecture teams to achieve project goals, emphasizing the need for strong communication skills
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 54 : 
+
+##Key Requirements
+- Hands-on experience in FPGA Design & Validation
+- Strong experience with XCVR (Transceivers) and Ethernet
+- Experience validating FPGA designs on boards
+- Proficiency in using Oscilloscopes, Logic Analyzer, and Wireshark
+- Familiarity with Verilog/VHDL and C programming
+- Experience with video/imaging pipelines and related tools
+
+##Preferred Candidates
+- Candidates with experience in Video/Imaging IP Design Validation, HDMI, CoaXPress, and MIPI will be highly preferred
+
+##Good to Have
+- Experience with Spirent or other traffic generator tools
+- Knowledge of AMBA protocol converters
+- Experience with serial protocols and IPs such as:
+  - Ethernet MAC & PHY
+  - I2C / I3C, QSPI
+  - DDR3 / DDR4
+  - HDMI, MIPI, CoaXPress
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+JD - 55 : 
+
+##Roles & Responsibilities
+- RTL programming (Verilog/System Verilog or VHDL)
+- Knowledge of complete FPGA Design Development flow
+- Hands-on with FPGA Development Tools (Quartus, Modelsim, Vivado, Xilinx ISE, Libero, etc.)
+- Functional verification using Verilog/System Verilog or VHDL
+- RTL Code Optimization to meet timings and fit on-chip resources
+- Support all phases of FPGA based product development activities
+- System Architecture Design
+- Testing and troubleshooting of hardware
+
+##Skills Requirements
+- BE/B.Tech in Electronics/Electronics & Communication from a recognized university with a good academic record
+- ME/M.Tech in Electronics/VLSI Design from a recognized university with a good academic record
+- Experience with Verilog/SystemVerilog or VHDL for design and verification
+- In-depth understanding of FPGA design flow/methodology, IP integration, and design collateral
+- Should be able to develop the small blocks of IP from scratch and do basic functional verification
+- Should be familiar with protocols like SPI, I2C, UART and AXI
+- Understanding of standard/specification/application for IP design or system design
+- Knowledge of Altera Quartus II Tool, Questasim, Modelsim
+- Knowledge of Xilinx tools like ISE, and Vivado
+- Knowledge of Microsemi tools like libero
+- Knowledge of USB, Ethernet, and external memories such as DDR, QDR RAM and QSPI-NOR based Flash
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
